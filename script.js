@@ -74,10 +74,10 @@ function getArrayIndex(arr) {
   return arr.map((i, v) => i ? v : i).filter(Boolean);
 }
 
-
+let splitChar = '-';
 function updateState() {
   let para = new URLSearchParams({
-    dex: getArrayIndex(shinyDex).join(),
+    dex: getArrayIndex(shinyDex).join(splitChar),
     nickname: elm.nickname.value || '',
   });
   history.pushState(null, null, `?${para.toString()}`);
@@ -91,7 +91,7 @@ function renderState() {
   let _nickname = para.get('nickname');
   elm.nickname.value = _nickname;
 
-  let checkedDex = (para.get('dex') || '').split(',').map(d => +d);
+  let checkedDex = (para.get('dex') || '').split(splitChar).map(d => +d);
   checkboxArr.forEach((box, dex) => {
     let isChecked = (checkedDex.indexOf(dex) !== -1);
     box.checked = isChecked;
