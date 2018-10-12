@@ -95,14 +95,11 @@ $space-y: 8px;
 .counter {
   padding-top: 1em;
 
-  &::after {
-    content: '已收集到 ' attr(data-counter) ' 種色違';
-  }
-}
-
-.hr {
   &::before {
-    content: '官方已釋出 ' attr(data-total) ' 種色違';
+    content: '(已收集) ' attr(data-counter);
+  }
+  &::after {
+    content: ' / ' attr(data-total) ' (已釋出)';
   }
 }
 
@@ -138,7 +135,6 @@ $space-y: 8px;
 
 .reset {
   padding: 5px 10px;
-  margin-top: 2em;
   margin-bottom: 3em;
 }
 

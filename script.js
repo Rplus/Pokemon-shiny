@@ -37,9 +37,6 @@ let html = Object.values(pmsByFamily)
   }).join('');
 
 
-document.querySelector('.hr').dataset.total = totalShiny;
-
-
 let shinyDex = [];
 elm.checkList = document.querySelector('.pm-checklist');
 elm.checkList.innerHTML = html;
@@ -65,6 +62,7 @@ elm.nickname.addEventListener('input', updateState);
 
 
 elm.counter = document.querySelector('.counter');
+elm.counter.dataset.total = totalShiny;
 function updateShinyCounter() {
   elm.counter.dataset.counter = getArrayIndex(shinyDex).length;
 }
@@ -105,6 +103,13 @@ function getImgUrl(dex) {
   return `//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_${(dex + '').padStart(3, '0')}_00_shiny.png`;
 }
 
+
+elm.reset = document.querySelector('.reset');
+elm.reset.addEventListener('click', () => {
+  if (window.confirm('是否清空所選狀態？')) {
+    location.search = '';
+  }
+});
 
 window.addEventListener('popstate', renderState);
 renderState();

@@ -72,11 +72,10 @@
 
 .counter {
   padding-top: 1em; }
+  .counter::before {
+    content: "(已收集) " attr(data-counter); }
   .counter::after {
-    content: "已收集到 " attr(data-counter) " 種色違"; }
-
-.hr::before {
-  content: "官方已釋出 " attr(data-total) " 種色違"; }
+    content: " / " attr(data-total) " (已釋出)"; }
 
 .header {
   position: relative;
@@ -105,7 +104,6 @@
 
 .reset {
   padding: 5px 10px;
-  margin-top: 2em;
   margin-bottom: 3em; }
 
 .pm[data-dex="1"] {
