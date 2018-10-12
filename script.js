@@ -22,14 +22,16 @@ let html = Object.values(pmsByFamily)
     let pmDom = family.pms.map(pm => {
       totalShiny += 1;
       return (
-        `<label class="pm"
+        `<label
+          class="pm"
           title="#${pm.dex} ${pm.name_en}"
           data-dex="${pm.dex}"
           data-name="${pm.name}"
-          style="background-image: url(${getImgUrl(pm.dex)});">
-            <input class="sr-only pm-checkbox" type="checkbox" data-dex="${pm.dex}" />
-            <div class="pm-checkbox--fake"></div>
-          </label>`
+          style="background-image: url(${getImgUrl(pm.dex)});"
+        >
+          <input class="sr-only pm-checkbox" type="checkbox" data-dex="${pm.dex}" />
+          <div class="pm-checkbox--fake"></div>
+        </label>`
       );
     }).join('');
 
