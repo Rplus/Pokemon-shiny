@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Pokemon Shiny Checklist</title>
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="./pms.js"></script>
+  <script defer src="./script.js"></script>
+</head>
+<body>
+
+  <header class="header">
+    <h1>Shiny Checklist</h1>
+    <label for="nickname">
+      Nickname:
+      <input class="nickname" type="text" placeholder="enter your id">
+    </label>
+    <div class="counter" data-counter="0"></div>
+    <div class="update">update: 2018-10-10</div>
+  </header>
+
+  <main class="pm-checklist"></main>
+
+  <hr class="hr" data-total="0">
+
+  <button class="reset" onclick="location.search = ''">⚠️ All Reset ⚠️</button>
+
+  <footer class="info">
+    <ul>
+      <li>
+        image from: <a href="https://github.com/ZeChrales/PogoAssets">PogoAssets</a> repo.
+      </li>
+      <li>
+        design style from: <a href="https://leekduck.com/shiny/">Leek Duck</a>
+      </li>
+    </ul>
+
+  </footer>
+</body>
+</html>
