@@ -190,6 +190,14 @@
   --bgz: 130% 130%;
   --bgp: right -30px bottom -20px; }
 
+.pm[data-dex="90"] {
+  --bgz: 160% 160%;
+  --bgp: right -45px bottom -20px; }
+
+.pm[data-dex="91"] {
+  --bgz: 140% 140%;
+  --bgp: right -35px bottom -25px; }
+
 .pm[data-dex="96"] {
   --bgz: 120% 120%;
   --bgp: right -25px bottom -15px; }

@@ -626,14 +626,14 @@ let pms = [
     "dex": 90,
     "name": "大舌貝",
     "name_en": "Shellder",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Shellder"
   },
   {
     "dex": 91,
     "name": "刺甲貝",
     "name_en": "Cloyster",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Shellder"
   },
   {
