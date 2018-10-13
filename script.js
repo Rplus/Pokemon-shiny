@@ -130,18 +130,19 @@ function getShortedUrl() {
 }
 
 function shareLink(url) {
+  url = url || location.href;
   let title = 'Pokemon Shiny Checklist';
   if (elm.nickname.value) {
     title = `${elm.nickname.value}'s ` + title;
   }
   if (!navigator.share) {
-    window.alert('請直接分享網址 ：）');
+    window.prompt('請直接分享網址 ：）', url);
     return;
   }
 
   navigator.share({
     title: title,
-    url: url || location.href,
+    url: url,
   });
 }
 
