@@ -113,6 +113,7 @@ elm.share.addEventListener('click', () => {
     title = `${elm.nickname.value}'s ` + title;
   }
   if (!navigator.share) {
+    window.alert('請直接分享網址 ：）');
     return;
   }
   navigator.share({
