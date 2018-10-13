@@ -45,7 +45,7 @@ $space-y: 8px;
     position: relative;
     display: block;
     padding: 5px $space-y 3px;
-    background-image: linear-gradient(rgba($bgc, .6) 75%, transparent);
+    background-image: linear-gradient(rgba($bgc, .6) 75%, rgba($bgc, 0));
   }
 }
 

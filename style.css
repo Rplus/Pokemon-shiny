@@ -41,7 +41,7 @@
     position: relative;
     display: block;
     padding: 5px 8px 3px;
-    background-image: linear-gradient(rgba(255, 244, 250, 0.6) 75%, transparent); }
+    background-image: linear-gradient(rgba(255, 244, 250, 0.6) 75%, rgba(255, 244, 250, 0)); }
 
 .pm-checkbox--fake {
   position: absolute;
