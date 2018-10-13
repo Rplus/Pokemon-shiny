@@ -106,6 +106,22 @@ function getImgUrl(dex) {
 }
 
 
+elm.share = document.querySelector('.share');
+elm.share.addEventListener('click', () => {
+  let title = 'Pokemon Shiny Checklist';
+  if (elm.nickname.value) {
+    title = `${elm.nickname.value}'s ` + title;
+  }
+  if (!navigator.share) {
+    return;
+  }
+  navigator.share({
+    title: title,
+    url: location.href,
+  });
+});
+
+
 elm.reset = document.querySelector('.reset');
 elm.reset.addEventListener('click', () => {
   if (window.confirm('是否清空所選狀態？')) {
