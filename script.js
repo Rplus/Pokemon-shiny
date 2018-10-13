@@ -81,6 +81,7 @@ function updateState() {
     nickname: elm.nickname.value || '',
   });
   history.pushState(null, null, `?${para.toString()}`);
+  elm.getShortUrl.dataset.shorturl = '';
   updateShinyCounter();
 }
 
