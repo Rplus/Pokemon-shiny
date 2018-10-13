@@ -56,8 +56,7 @@ $space-y: 8px;
   right: 0;
   bottom: 0;
   border-radius: inherit;
-  box-shadow: inset -5px -5px 10px #{'rgba(230, 230, 0, calc(var(--act, 0) * .75))'};
-  box-shadow: inset 0px 0px 0px 2px #{'rgba(190, 50, 190, calc(var(--bd-act, 0) * .75))'};
+  box-shadow: inset 0 0 0 2px rgba(190, 50, 190, 0);
   font-size: 1rem;
 
   &::before {
@@ -67,28 +66,30 @@ $space-y: 8px;
     width: 18px;
     height: 18px;
     margin-left: $space-y;
+    color: hsla(300, 50%, 98%, .75);
     box-shadow:
       inset 0 0 0 1px darken($bdc, 15%),
       inset 0 0 1px 3.5px $bgc,
-      inset 0 0 0 1em #{'hsla(300, 50%, calc(98% - 50% * var(--act, 0)), .75)'},
-      // inset 0 0 0 1em $bgc,
+      inset 0 0 0 1em currentColor,
       0 0 10px 1px $bgc;
     border-radius: 2px;
     background-color: rgba($bgc, .65);
-    // background-image: linear-gradient(#{'rgba(190, 50, 190, var(--act, 0))'}, #{'rgba(190, 50, 190, var(--act, 0))'});
-    // background-size: 70% 70%;
-    // background-position: 50% 50%;
-    // background-repeat: no-repeat;
   }
 
   .pm:hover &,
   .sr-only:focus + & {
     --bd-act: .3;
+    box-shadow: inset 0px 0px 0px 2px rgba(190, 50, 190, .3);
   }
 
   .sr-only:checked + & {
     --bd-act: 1;
     --act: 1;
+    box-shadow: inset 0px 0px 0px 2px rgba(190, 50, 190, 1);
+
+    &::before {
+      color: hsla(300, 50%, 48%, .75);
+    }
   }
 }
 
