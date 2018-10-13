@@ -136,7 +136,21 @@ $space-y: 8px;
 
 .click-btn {
   padding: 5px 10px;
+  margin-left: .5em;
+  margin-right: .5em;
   margin-bottom: 3em;
+}
+
+.get-shorturl {
+  &::before {
+    content: '取得短網址';
+  }
+
+  &[data-shorturl^="http"] {
+    &::before {
+      content: '以短網址分享: ' attr(data-shorturl);
+    }
+  }
 }
 
 .pm {

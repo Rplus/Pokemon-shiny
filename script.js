@@ -107,7 +107,28 @@ function getImgUrl(dex) {
 
 
 elm.share = document.querySelector('.share');
-elm.share.addEventListener('click', () => {
+elm.share.addEventListener('click', shareLink);
+
+
+elm.getShortUrl = document.querySelector('.get-shorturl');
+elm.getShortUrl.addEventListener('click', () => {
+  let url = elm.getShortUrl.dataset.shorturl;
+  if (url) {
+    shareLink(url);
+    return;
+  }
+
+  getShortedUrl()
+  .then(d => {
+    elm.getShortUrl.dataset.shorturl = d;
+  });
+});
+
+function getShortedUrl() {
+  return fetch(`https://script.google.com/macros/s/AKfycbzpbnnYoIv28lkcezbaj170ot7nNkHZMUvI7FI5UBUaQrdD3Kw/exec?url=${location.href}`).then(d => d.text());
+}
+
+function shareLink(url) {
   let title = 'Pokemon Shiny Checklist';
   if (elm.nickname.value) {
     title = `${elm.nickname.value}'s ` + title;
@@ -116,11 +137,12 @@ elm.share.addEventListener('click', () => {
     window.alert('請直接分享網址 ：）');
     return;
   }
+
   navigator.share({
     title: title,
-    url: location.href,
+    url: url || location.href,
   });
-});
+}
 
 
 elm.reset = document.querySelector('.reset');
