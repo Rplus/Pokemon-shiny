@@ -111,7 +111,7 @@ function getImgUrl(dex) {
 
 
 elm.share = document.querySelector('.share');
-elm.share.addEventListener('click', shareLink);
+elm.share.addEventListener('click', () => shareLink());
 
 
 elm.getShortUrl = document.querySelector('.get-shorturl');
@@ -136,7 +136,7 @@ function shareLink(url) {
   url = url || location.href;
   let title = 'Pokemon Shiny Checklist';
   if (elm.nickname.value) {
-    title = `${elm.nickname.value}'s ` + title;
+    title = `${elm.nickname.value}'s ${title}`;
   }
   if (!navigator.share) {
     window.prompt('請直接分享網址 ：）', url);
