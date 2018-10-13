@@ -20,75 +20,78 @@ $space-y: 8px;
 
 .pm {
   position: relative;
-  font-size: 80px;
-  font-size: 100px;
-  font-size: calc(5vmin + 70px);
-  width: 1em;
-  height: 1em;
   margin-left: 3px;
   margin-right: 3px;
   margin-bottom: 5px;
   border-radius: 10%;
-  overflow: hidden;
   box-shadow: 0 0 0 1px $bdc;
+  cursor: pointer;
+}
+
+.pm-info {
+  width: calc(5vmin + 70px);
+  height: calc(5vmin + 70px);
+  border-radius: inherit;
   background-size: var(--bgz, contain);
   background-position: var(--bgp, 100% 100%);
   background-repeat: no-repeat;
-  background-color: $bgc;
   text-align: left;
-  color: #172f33;
-  cursor: pointer;
 
-  &::before {
-    content: attr(data-name);
-    font-size: 1rem;
-    position: relative;
-    display: block;
-    padding: 5px $space-y 3px;
-    background-image: linear-gradient(rgba($bgc, .6) 75%, rgba($bgc, 0));
-  }
-}
-
-.pm-checkbox--fake {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  border-radius: inherit;
-  box-shadow: inset 0 0 0 2px rgba(190, 50, 190, 0);
-  font-size: 1rem;
-
+  // storke box
   &::before {
     content: '';
     position: absolute;
-    top: 2em;
-    width: 18px;
-    height: 18px;
-    margin-left: $space-y;
-    color: hsla(300, 50%, 98%, .75);
-    box-shadow:
-      inset 0 0 0 1px darken($bdc, 15%),
-      inset 0 0 1px 3.5px $bgc,
-      inset 0 0 0 1em currentColor,
-      0 0 10px 1px $bgc;
-    border-radius: 2px;
-    background-color: rgba($bgc, .65);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+    border-radius: inherit;
+    box-shadow: inset 0px 0px 0px 3px hsl(60, 90%, 45%);
+    opacity: 0;
+  }
+
+  // pm name
+  &::after {
+    content: attr(data-name);
+    position: relative;
+    z-index: 1;
+    display: block;
+    padding: 5px $space-y 10px;
+    font-size: 1rem;
+    font-size: 14px;
+    color: #444;
+    text-shadow: 1px 1px 0px #eef;
+    background-image:
+      linear-gradient(
+        rgba($bgc, .7) 55%,
+        rgba($bgc, .4) 75%,
+        rgba($bgc, 0)
+      );
   }
 
   .pm:hover &,
   .sr-only:focus + & {
-    --bd-act: .3;
-    box-shadow: inset 0px 0px 0px 2px rgba(190, 50, 190, .3);
+    &::before {
+      opacity: 0.3;
+    }
   }
 
   .sr-only:checked + & {
-    --bd-act: 1;
-    --act: 1;
-    box-shadow: inset 0px 0px 0px 2px rgba(190, 50, 190, 1);
+    $bgc: hsl(33, 100%, 97%);
+    background-color: $bgc;
+
+    &::after {
+      background-image:
+        linear-gradient(
+          rgba($bgc, .75) 40%,
+          rgba($bgc, .4) 75%,
+          rgba($bgc, 0)
+        );
+    }
 
     &::before {
-      color: hsla(300, 50%, 48%, .75);
+      opacity: 1;
     }
   }
 }
@@ -96,12 +99,8 @@ $space-y: 8px;
 .counter {
   padding-top: 1em;
 
-  &::before {
-    content: '(已收集) ' attr(data-counter);
-  }
-  &::after {
-    content: ' / ' attr(data-total) ' (已釋出)';
-  }
+  [data-counter]::after { content: attr(data-counter); }
+  [data-total]::before { content: attr(data-total); }
 }
 
 .header {
@@ -109,7 +108,7 @@ $space-y: 8px;
   margin-bottom: 3em;
   padding-top: 2em;
   padding-bottom: 2em;
-  background-image: linear-gradient(130deg, #d35fa0, #985066);
+  background-image: linear-gradient(-230deg, #9e9e9e, #ff5722);
   background-color: #d35fa0;
   color: #fff;
   font-family: sans-serif;
@@ -131,7 +130,7 @@ $space-y: 8px;
   padding: .25em;
   color: rgba(#fff, .5);
   font-size: smaller;
-  text-transform: uppercase;
+  font-family: monospace;
 }
 
 .click-btn {
@@ -141,19 +140,23 @@ $space-y: 8px;
   margin-bottom: 3em;
 }
 
+.share {
+  margin-bottom: 1em;
+}
+
 .get-shorturl {
   &::before {
-    content: '取得短網址';
+    content: '取得短網址 💋';
   }
 
   &[data-shorturl^="http"] {
     &::before {
-      content: '以短網址分享: ' attr(data-shorturl);
+      content: '以短網址分享: ' attr(data-shorturl) ' 🔗';
     }
   }
 }
 
-.pm {
+.pm-info {
   &[data-dex="1"] {
     --bgz: 170% 170%;
     --bgp: right -50px bottom -21px;
@@ -175,8 +178,8 @@ $space-y: 8px;
     --bgp: right -35px bottom -15px;
   }
   &[data-dex="6"] {
-    --bgz: 130% 130%;
-    --bgp: right -37px bottom -10px;
+    --bgz: 160% 160%;
+    --bgp: right -62px bottom -22px;
   }
   &[data-dex="7"] {
     --bgz: 170% 170%;

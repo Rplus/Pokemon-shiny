@@ -27,10 +27,13 @@ let html = Object.values(pmsByFamily)
           title="#${pm.dex} ${pm.name_en}"
           data-dex="${pm.dex}"
           data-name="${pm.name}"
-          style="background-image: url(${getImgUrl(pm.dex)});"
         >
           <input class="sr-only pm-checkbox" type="checkbox" data-dex="${pm.dex}" />
-          <div class="pm-checkbox--fake"></div>
+          <div class="pm-info"
+            data-dex="${pm.dex}"
+            data-name="${pm.name}"
+            style="background-image: url(${getImgUrl(pm.dex)});"
+          ></div>
         </label>`
       );
     }).join('');
@@ -63,8 +66,8 @@ elm.nickname = document.querySelector('.nickname');
 elm.nickname.addEventListener('input', updateState);
 
 
-elm.counter = document.querySelector('.counter');
-elm.counter.dataset.total = totalShiny;
+document.querySelector('.counter [data-total]').dataset.total = totalShiny;
+elm.counter = document.querySelector('.counter [data-counter]');
 function updateShinyCounter() {
   elm.counter.dataset.counter = getArrayIndex(shinyDex).length;
 }
