@@ -83,7 +83,7 @@ function updateState() {
     nickname: elm.nickname.value || '',
   });
   history.pushState(null, null, `?${para.toString()}`);
-  elm.getShortUrl.dataset.shorturl = '';
+  elm.getShortUrl.removeAttribute('href');
   updateShinyCounter();
 }
 
@@ -110,18 +110,22 @@ function getImgUrl(dex) {
 
 
 elm.share = document.querySelector('.share');
-elm.share.addEventListener('click', () => shareLink());
+elm.share.addEventListener('click', (e) => {
+  e.preventDefault();
+  shareLink();
+});
 
 function toggleFectingClass() {
   elm.getShortUrl.classList.toggle('is-fetching');
 }
 
 elm.getShortUrl = document.querySelector('.get-shorturl');
-elm.getShortUrl.addEventListener('click', () => {
+elm.getShortUrl.addEventListener('click', (e) => {
+  e.preventDefault();
   if (elm.getShortUrl.classList.contains('is-fetching')) {
     return;
   }
-  let url = elm.getShortUrl.dataset.shorturl;
+  let url = elm.getShortUrl.href;
   if (url) {
     shareLink(url);
     return;
@@ -131,7 +135,7 @@ elm.getShortUrl.addEventListener('click', () => {
   getShortedUrl()
   .then(d => {
     toggleFectingClass();
-    elm.getShortUrl.dataset.shorturl = d;
+    elm.getShortUrl.href = d;
   })
   .catch(() => {
     toggleFectingClass();
@@ -161,9 +165,10 @@ function shareLink(url) {
 
 
 elm.reset = document.querySelector('.reset');
-elm.reset.addEventListener('click', () => {
+elm.reset.addEventListener('click', (e) => {
+  e.preventDefault();
   if (window.confirm('是否清空所選狀態？')) {
-    location.search = '';
+    location.href = './';
   }
 });
 

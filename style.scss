@@ -138,25 +138,53 @@ $space-y: 8px;
   font-family: monospace;
 }
 
-.click-btn {
-  padding: 5px 10px;
+.click-link {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 5px 10px 2px;
   margin-left: .5em;
   margin-right: .5em;
+  margin-bottom: 1em;
+  text-decoration: none;
+  color: #9c27b0;
+  border-bottom: 1px dashed;
+  cursor: pointer;
+}
+
+.reset {
   margin-bottom: 3em;
 }
 
 .share {
-  margin-bottom: 1em;
+  &::after {
+    font-family: monospace;
+    content: ' 🔗';
+  }
 }
 
 .get-shorturl {
+  white-space: pre;
+
   &::before {
-    content: '取得短網址 💋';
+    content: '取得短網址';
   }
 
-  &[data-shorturl^="http"] {
+  &::after {
+    font-family: monospace;
+    content: ' 💋';
+  }
+
+  &[href^="http"] {
+    display: inline-flex;
+    flex-direction: column;
+
     &::before {
-      content: '以短網址分享: ' attr(data-shorturl) ' 🔗';
+      content: '以短網址分享: ';
+    }
+
+    &::after {
+      display: inline-flex;
+      content: attr(href) ' 🔗';
     }
   }
 
@@ -164,8 +192,6 @@ $space-y: 8px;
     content: '...';
     padding-left: .5em;
     padding-right: .5em;
-    font-family: monospace;
-    white-space: pre;
     animation: waiting 1s infinite;
 
     @keyframes waiting {

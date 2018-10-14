@@ -94,28 +94,48 @@
   font-size: smaller;
   font-family: monospace; }
 
-.click-btn {
-  padding: 5px 10px;
+.click-link {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 5px 10px 2px;
   margin-left: .5em;
   margin-right: .5em;
+  margin-bottom: 1em;
+  text-decoration: none;
+  color: #9c27b0;
+  border-bottom: 1px dashed;
+  cursor: pointer; }
+
+.reset {
   margin-bottom: 3em; }
 
-.share {
-  margin-bottom: 1em; }
-
-.get-shorturl::before {
-  content: '取得短網址 💋'; }
-
-.get-shorturl[data-shorturl^="http"]::before {
-  content: "以短網址分享: " attr(data-shorturl) " 🔗"; }
-
-.get-shorturl.is-fetching::after {
-  content: '...';
-  padding-left: .5em;
-  padding-right: .5em;
+.share::after {
   font-family: monospace;
-  white-space: pre;
-  animation: waiting 1s infinite; }
+  content: ' 🔗'; }
+
+.get-shorturl {
+  white-space: pre; }
+  .get-shorturl::before {
+    content: '取得短網址'; }
+  .get-shorturl::after {
+    font-family: monospace;
+    content: ' 💋'; }
+  .get-shorturl[href^="http"] {
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-direction: column;
+    flex-direction: column; }
+    .get-shorturl[href^="http"]::before {
+      content: '以短網址分享: '; }
+    .get-shorturl[href^="http"]::after {
+      display: -ms-inline-flexbox;
+      display: inline-flex;
+      content: attr(href) " 🔗"; }
+  .get-shorturl.is-fetching::after {
+    content: '...';
+    padding-left: .5em;
+    padding-right: .5em;
+    animation: waiting 1s infinite; }
 
 @keyframes waiting {
   0%, 100% {
