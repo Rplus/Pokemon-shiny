@@ -19,6 +19,18 @@ let lang = /^zh/.test(navigator.language) ? 'zh' : 'en';
 let _name = (lang === 'en') ? 'name_en' : 'name';
 document.documentElement.lang = (lang === 'zh') ? 'zh-TW' : 'en-US';
 
+// l10n
+function getL10n(l10nID) {
+  return (l10n[l10nID] && l10n[l10nID][lang]) || l10nID;
+}
+
+document.querySelectorAll('[data-l10n]').forEach(element => {
+  let l10nID = element.dataset.l10n;
+  element.dataset.l10nDone = '1';
+  element.innerText = getL10n(l10nID);
+});
+
+
 let html = Object.values(pmsByFamily)
   .filter(family => family.pms[0].shiny_released)
   .map(family => {
@@ -177,14 +189,3 @@ elm.reset.addEventListener('click', (e) => {
 
 window.addEventListener('popstate', renderState);
 renderState();
-
-function getL10n(l10nID) {
-  return l10n[l10nID] && l10n[l10nID][lang] || l10nID;
-}
-
-// l10n
-document.querySelectorAll('[data-l10n]').forEach(element => {
-  let l10nID = element.dataset.l10n;
-  element.dataset.l10nDone = '1';
-  element.innerText = getL10n(l10nID);
-});
