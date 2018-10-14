@@ -140,7 +140,7 @@ elm.getShortUrl.addEventListener('click', () => {
 });
 
 function getShortedUrl() {
-  return fetch(`https://script.google.com/macros/s/AKfycbzpbnnYoIv28lkcezbaj170ot7nNkHZMUvI7FI5UBUaQrdD3Kw/exec?url=${location.href}`).then(d => d.text());
+  return fetch(`https://script.google.com/macros/s/AKfycbzpbnnYoIv28lkcezbaj170ot7nNkHZMUvI7FI5UBUaQrdD3Kw/exec?url=${encodeURIComponent(location.href)}`).then(d => d.text());
 }
 
 function shareLink(url) {
