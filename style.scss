@@ -26,6 +26,7 @@ $space-y: 8px;
   border-radius: 10%;
   box-shadow: 0 0 0 1px $bdc;
   cursor: pointer;
+  overflow: hidden;
 }
 
 .pm-info {
@@ -57,16 +58,30 @@ $space-y: 8px;
     position: relative;
     z-index: 1;
     display: block;
-    padding: 5px $space-y 10px;
-    font-size: 1rem;
+    padding: 5px $space-y 15px;
     font-size: 14px;
     color: #444;
     text-shadow: 1px 1px 0px #eef;
     background-image:
+      // gradients tool: https://larsenwork.com/easing-gradients/
       linear-gradient(
-        rgba($bgc, .7) 55%,
-        rgba($bgc, .4) 75%,
-        rgba($bgc, 0)
+        to bottom,
+        hsla(0, 0%, 100%, 0.9) 0%,
+        hsla(0, 0%, 100%, 0.889) 11.2%,
+        hsla(0, 0%, 100%, 0.856) 21%,
+        hsla(0, 0%, 100%, 0.806) 29.6%,
+        hsla(0, 0%, 100%, 0.742) 37.1%,
+        hsla(0, 0%, 100%, 0.667) 43.7%,
+        hsla(0, 0%, 100%, 0.583) 49.6%,
+        hsla(0, 0%, 100%, 0.495) 55%,
+        hsla(0, 0%, 100%, 0.405) 60%,
+        hsla(0, 0%, 100%, 0.317) 64.8%,
+        hsla(0, 0%, 100%, 0.233) 69.6%,
+        hsla(0, 0%, 100%, 0.158) 74.6%,
+        hsla(0, 0%, 100%, 0.094) 80%,
+        hsla(0, 0%, 100%, 0.044) 85.9%,
+        hsla(0, 0%, 100%, 0.011) 92.5%,
+        hsla(0, 0%, 100%, 0) 100%
       );
   }
 
@@ -78,17 +93,7 @@ $space-y: 8px;
   }
 
   .sr-only:checked + & {
-    $bgc: hsl(33, 100%, 97%);
-    background-color: $bgc;
-
-    &::after {
-      background-image:
-        linear-gradient(
-          rgba($bgc, .75) 40%,
-          rgba($bgc, .4) 75%,
-          rgba($bgc, 0)
-        );
-    }
+    background-color: hsl(33, 100%, 97%);
 
     &::before {
       opacity: 1;

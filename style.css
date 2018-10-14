@@ -22,7 +22,8 @@
   margin-bottom: 5px;
   border-radius: 10%;
   box-shadow: 0 0 0 1px #ddd;
-  cursor: pointer; }
+  cursor: pointer;
+  overflow: hidden; }
 
 .pm-info {
   width: calc(5vmin + 70px);
@@ -48,19 +49,16 @@
     position: relative;
     z-index: 1;
     display: block;
-    padding: 5px 8px 10px;
-    font-size: 1rem;
+    padding: 5px 8px 15px;
     font-size: 14px;
     color: #444;
     text-shadow: 1px 1px 0px #eef;
-    background-image: linear-gradient(rgba(255, 244, 250, 0.7) 55%, rgba(255, 244, 250, 0.4) 75%, rgba(255, 244, 250, 0)); }
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.889) 11.2%, rgba(255, 255, 255, 0.856) 21%, rgba(255, 255, 255, 0.806) 29.6%, rgba(255, 255, 255, 0.742) 37.1%, rgba(255, 255, 255, 0.667) 43.7%, rgba(255, 255, 255, 0.583) 49.6%, rgba(255, 255, 255, 0.495) 55%, rgba(255, 255, 255, 0.405) 60%, rgba(255, 255, 255, 0.317) 64.8%, rgba(255, 255, 255, 0.233) 69.6%, rgba(255, 255, 255, 0.158) 74.6%, rgba(255, 255, 255, 0.094) 80%, rgba(255, 255, 255, 0.044) 85.9%, rgba(255, 255, 255, 0.011) 92.5%, rgba(255, 255, 255, 0) 100%); }
   .pm:hover .pm-info::before,
   .sr-only:focus + .pm-info::before {
     opacity: 0.3; }
   .sr-only:checked + .pm-info {
     background-color: #fff8f0; }
-    .sr-only:checked + .pm-info::after {
-      background-image: linear-gradient(rgba(255, 248, 240, 0.75) 40%, rgba(255, 248, 240, 0.4) 75%, rgba(255, 248, 240, 0)); }
     .sr-only:checked + .pm-info::before {
       opacity: 1; }
 
