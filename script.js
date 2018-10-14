@@ -25,8 +25,7 @@ let html = Object.values(pmsByFamily)
         `<label
           class="pm"
           title="#${pm.dex} ${pm.name_en}"
-          data-dex="${pm.dex}"
-          data-name="${pm.name}"
+          style="${pm.order ? 'order: ' + pm.order : ''}"
         >
           <input class="sr-only pm-checkbox" type="checkbox" data-dex="${pm.dex}" />
           <div class="pm-info"

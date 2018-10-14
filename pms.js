@@ -1201,6 +1201,7 @@ let pms = [
     "name": "皮丘",
     "name_en": "Pichu",
     "shiny_released": true,
+    "order": -1,
     "family": "Pikachu"
   },
   {
@@ -1208,6 +1209,7 @@ let pms = [
     "name": "皮寶寶",
     "name_en": "Cleffa",
     "shiny_released": false,
+    "order": -1,
     "family": "Clefairy"
   },
   {
@@ -1215,6 +1217,7 @@ let pms = [
     "name": "寶寶丁",
     "name_en": "Igglybuff",
     "shiny_released": false,
+    "order": -1,
     "family": "Jigglypuff"
   },
   {
@@ -1663,6 +1666,7 @@ let pms = [
     "name": "迷唇娃",
     "name_en": "Smoochum",
     "shiny_released": false,
+    "order": -1,
     "family": "Jynx"
   },
   {
@@ -1670,6 +1674,7 @@ let pms = [
     "name": "電擊怪",
     "name_en": "Elekid",
     "shiny_released": false,
+    "order": -1,
     "family": "Electabuzz"
   },
   {
@@ -1677,6 +1682,7 @@ let pms = [
     "name": "鴨嘴寶寶",
     "name_en": "Magby",
     "shiny_released": true,
+    "order": -1,
     "family": "Magmar"
   },
   {
@@ -2517,6 +2523,7 @@ let pms = [
     "name": "小果然",
     "name_en": "Wynaut",
     "shiny_released": true,
+    "order": -1,
     "family": "Wobbuffet"
   },
   {
