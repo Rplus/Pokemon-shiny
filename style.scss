@@ -626,10 +626,28 @@ body {
   border: 0;
 }
 
+footer {
+  position: relative;
+
+  .ib {
+    display: inline-block;
+  }
+
+  mark {
+    display: block;
+    clear: both;
+    background-color: #ccc;
+    color: #333;
+    padding: .5em 1em;
+    font-family: monospace;
+  }
+}
+
 .info {
-  position: absolute;
+  float: right;
   right: 0;
   text-align: left;
+  margin-bottom: 1em;
   padding: 2em 1em 1em;
   font-size: .85em;
   font-style: italic;
@@ -638,9 +656,5 @@ body {
 
   a {
     color: inherit;
-  }
-
-  .left {
-    padding-top: 1em;
   }
 }
