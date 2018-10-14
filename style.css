@@ -109,6 +109,28 @@
 .get-shorturl[data-shorturl^="http"]::before {
   content: "以短網址分享: " attr(data-shorturl) " 🔗"; }
 
+.get-shorturl.is-fetching::after {
+  content: '...';
+  padding-left: .5em;
+  padding-right: .5em;
+  font-family: monospace;
+  white-space: pre;
+  animation: waiting 1s infinite; }
+
+@keyframes waiting {
+  0%, 100% {
+    content: '.  '; }
+  16% {
+    content: '.. '; }
+  32% {
+    content: '...'; }
+  48% {
+    content: ' ..'; }
+  64% {
+    content: '  .'; }
+  80% {
+    content: '   '; } }
+
 .pm-info[data-dex="1"] {
   --bgz: 170% 170%;
   --bgp: right -50px bottom -21px; }

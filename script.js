@@ -113,18 +113,29 @@ function getImgUrl(dex) {
 elm.share = document.querySelector('.share');
 elm.share.addEventListener('click', () => shareLink());
 
+function toggleFectingClass() {
+  elm.getShortUrl.classList.toggle('is-fetching');
+}
 
 elm.getShortUrl = document.querySelector('.get-shorturl');
 elm.getShortUrl.addEventListener('click', () => {
+  if (elm.getShortUrl.classList.contains('is-fetching')) {
+    return;
+  }
   let url = elm.getShortUrl.dataset.shorturl;
   if (url) {
     shareLink(url);
     return;
   }
 
+  toggleFectingClass();
   getShortedUrl()
   .then(d => {
+    toggleFectingClass();
     elm.getShortUrl.dataset.shorturl = d;
+  })
+  .catch(() => {
+    toggleFectingClass();
   });
 });
 
