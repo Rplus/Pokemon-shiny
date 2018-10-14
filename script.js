@@ -15,6 +15,9 @@ let pmsByFamily = pms.reduce((all, pm) => {
 
 let totalShiny = 0;
 
+let lang = /^zh/.test(navigator.language) ? 'zh' : 'en';
+let _name = (lang === 'en') ? 'name_en' : 'name';
+document.documentElement.lang = (lang === 'zh') ? 'zh-TW' : 'en-US';
 
 let html = Object.values(pmsByFamily)
   .filter(family => family.pms[0].shiny_released)
@@ -30,7 +33,7 @@ let html = Object.values(pmsByFamily)
           <input class="sr-only pm-checkbox" type="checkbox" data-dex="${pm.dex}" />
           <div class="pm-info"
             data-dex="${pm.dex}"
-            data-name="${pm.name}"
+            data-name="${pm[_name]}"
             style="background-image: url(${getImgUrl(pm.dex)});"
           ></div>
         </label>`
@@ -153,7 +156,7 @@ function shareLink(url) {
     title = `${elm.nickname.value}'s ${title}`;
   }
   if (!navigator.share) {
-    window.prompt('請直接分享網址 ：）', url);
+    window.prompt(getL10n('share-url-directly'), url);
     return;
   }
 
@@ -167,10 +170,21 @@ function shareLink(url) {
 elm.reset = document.querySelector('.reset');
 elm.reset.addEventListener('click', (e) => {
   e.preventDefault();
-  if (window.confirm('是否清空所選狀態？')) {
+  if (window.confirm(getL10n('confirm-to-reset'))) {
     location.href = './';
   }
 });
 
 window.addEventListener('popstate', renderState);
 renderState();
+
+function getL10n(l10nID) {
+  return l10n[l10nID] && l10n[l10nID][lang] || l10nID;
+}
+
+// l10n
+document.querySelectorAll('[data-l10n]').forEach(element => {
+  let l10nID = element.dataset.l10n;
+  element.dataset.l10nDone = '1';
+  element.innerText = getL10n(l10nID);
+});

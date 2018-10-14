@@ -102,10 +102,21 @@ $space-y: 8px;
 }
 
 .counter {
+  color: rgba(#fff, .6);
   padding-top: 1em;
 
-  [data-counter]::after { content: attr(data-counter); }
-  [data-total]::before { content: attr(data-total); }
+  [data-total]::before {
+    content: attr(data-total);
+    font-size: 1.3em;
+    color: rgba(#fff, 1);
+  }
+
+  [data-counter]::after {
+    content: attr(data-counter);
+    font-size: 1.3em;
+    font-weight: bolder;
+    color: rgba(#fff, 1);
+  }
 }
 
 .header {
@@ -163,44 +174,57 @@ $space-y: 8px;
 }
 
 .get-shorturl {
-  white-space: pre;
 
-  &::before {
-    content: '取得短網址';
+  [data-l10n="get-short-url"] {
+    &::after {
+      font-family: monospace;
+      content: ' 💋';
+    }
+  }
+
+  [data-l10n="share-with-short-url"] {
+    display: none;
   }
 
   &::after {
-    font-family: monospace;
-    content: ' 💋';
+    white-space: pre;
   }
 
   &[href^="http"] {
     display: inline-flex;
     flex-direction: column;
 
-    &::before {
-      content: '以短網址分享: ';
+    [data-l10n="get-short-url"] { display: none; }
+    [data-l10n="share-with-short-url"] {
+      display: block;
+
     }
 
     &::after {
       display: inline-flex;
+      font-family: monospace;
       content: attr(href) ' 🔗';
     }
   }
 
-  &.is-fetching::after {
-    content: '...';
-    padding-left: .5em;
-    padding-right: .5em;
-    animation: waiting 1s infinite;
+  &.is-fetching {
+    display: inline-flex;
+    flex-direction: column;
 
-    @keyframes waiting {
-      0%, 100%  { content: '.  '; }
-      16% { content: '.. '; }
-      32% { content: '...'; }
-      48% { content: ' ..'; }
-      64% { content: '  .'; }
-      80% { content: '   '; }
+    &::after {
+      content: '...';
+      padding-left: .5em;
+      padding-right: .5em;
+      animation: waiting 1s infinite;
+
+      @keyframes waiting {
+        0%, 100%  { content: '.  '; }
+        16% { content: '.. '; }
+        32% { content: '...'; }
+        48% { content: ' ..'; }
+        64% { content: '  .'; }
+        80% { content: '   '; }
+      }
     }
   }
 }
@@ -622,6 +646,10 @@ $space-y: 8px;
     --bgz: 150% 150%;
     --bgp: right -25px bottom -35px;
   }
+}
+
+[data-l10n]:not([data-l10n-done="1"]) {
+  color: transparent;
 }
 
 //

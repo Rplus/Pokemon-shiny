@@ -63,11 +63,17 @@
       opacity: 1; }
 
 .counter {
+  color: rgba(255, 255, 255, 0.6);
   padding-top: 1em; }
-  .counter [data-counter]::after {
-    content: attr(data-counter); }
   .counter [data-total]::before {
-    content: attr(data-total); }
+    content: attr(data-total);
+    font-size: 1.3em;
+    color: white; }
+  .counter [data-counter]::after {
+    content: attr(data-counter);
+    font-size: 1.3em;
+    font-weight: bolder;
+    color: white; }
 
 .header {
   position: relative;
@@ -113,24 +119,36 @@
   font-family: monospace;
   content: ' 🔗'; }
 
-.get-shorturl {
+.get-shorturl [data-l10n="get-short-url"]::after {
+  font-family: monospace;
+  content: ' 💋'; }
+
+.get-shorturl [data-l10n="share-with-short-url"] {
+  display: none; }
+
+.get-shorturl::after {
   white-space: pre; }
-  .get-shorturl::before {
-    content: '取得短網址'; }
-  .get-shorturl::after {
-    font-family: monospace;
-    content: ' 💋'; }
-  .get-shorturl[href^="http"] {
+
+.get-shorturl[href^="http"] {
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-direction: column;
+  flex-direction: column; }
+  .get-shorturl[href^="http"] [data-l10n="get-short-url"] {
+    display: none; }
+  .get-shorturl[href^="http"] [data-l10n="share-with-short-url"] {
+    display: block; }
+  .get-shorturl[href^="http"]::after {
     display: -ms-inline-flexbox;
     display: inline-flex;
-    -ms-flex-direction: column;
-    flex-direction: column; }
-    .get-shorturl[href^="http"]::before {
-      content: '以短網址分享: '; }
-    .get-shorturl[href^="http"]::after {
-      display: -ms-inline-flexbox;
-      display: inline-flex;
-      content: attr(href) " 🔗"; }
+    font-family: monospace;
+    content: attr(href) " 🔗"; }
+
+.get-shorturl.is-fetching {
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-direction: column;
+  flex-direction: column; }
   .get-shorturl.is-fetching::after {
     content: '...';
     padding-left: .5em;
@@ -566,6 +584,9 @@
 .pm-info[data-dex="382"] {
   --bgz: 150% 150%;
   --bgp: right -25px bottom -35px; }
+
+[data-l10n]:not([data-l10n-done="1"]) {
+  color: transparent; }
 
 *,
 *::before,
