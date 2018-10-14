@@ -637,6 +637,7 @@ $space-y: 8px;
 body {
   text-align: center;
   background-color: $bgc;
+  overflow-y: scroll;
 }
 
 .sr-only {

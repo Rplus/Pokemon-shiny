@@ -576,7 +576,8 @@
 
 body {
   text-align: center;
-  background-color: #fff4fa; }
+  background-color: #fff4fa;
+  overflow-y: scroll; }
 
 .sr-only {
   position: fixed;
