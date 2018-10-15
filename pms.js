@@ -2717,7 +2717,7 @@ let l10n = {
     "zh": "暱稱",
   },
   "reset": {
-    "en": "Reset ✨",
+    "en": "RESET ✨",
     "zh": "重置 ✨",
   },
   "share-shiny-list": {
@@ -2729,8 +2729,8 @@ let l10n = {
     "zh": "取得短網址",
   },
   "share-with-short-url": {
-    "en": "Share with short url",
-    "zh": "以短網址分享",
+    "en": "Share with short url:",
+    "zh": "以短網址分享:",
   },
   "collected": {
     "en": "(collected) ",
