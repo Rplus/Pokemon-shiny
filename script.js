@@ -164,7 +164,9 @@ function getShortedUrl() {
 function shareLink(url) {
   url = url || location.href;
   let title = 'Pokemon Shiny Checklist';
+  let who = 'my';
   if (elm.nickname.value) {
+    who = `${elm.nickname.value}'s`;
     title = `${elm.nickname.value}'s ${title}`;
   }
   if (!navigator.share) {
@@ -172,8 +174,10 @@ function shareLink(url) {
     return;
   }
 
+
   navigator.share({
     title: title,
+    text: `Here are ${who} shiny pokemon.`,
     url: url,
   });
 }
