@@ -1,4 +1,5 @@
 let elm = {};
+elm.body = document.querySelector('body');
 let pmsByFamily = pms.reduce((all, pm) => {
   if (!all[pm.family]) {
     all[pm.family] = {
@@ -222,3 +223,36 @@ elm.reset.addEventListener('click', (e) => {
 
 window.addEventListener('popstate', renderState);
 renderState();
+
+
+function upadtePageWidth(w) {
+  if (!w) {
+    elm.pageWidth.value = document.documentElement.clientWidth;
+  }
+  elm.body.style.width = `${elm.pageWidth.value}px`;
+}
+elm.pageWidth = document.querySelector('#page-width');
+elm.pageWidth.addEventListener('input', upadtePageWidth);
+upadtePageWidth();
+
+window.addEventListener('resize', () => {
+  upadtePageWidth(null);
+});
+
+
+let link = document.createElement('a');
+document.body.appendChild(link);
+elm.saveAsImg = document.querySelector('#save-as-img');
+elm.saveAsImg.addEventListener('click', () => {
+  elm.body.classList.add('print');
+  window.scrollTo(0, 0);
+  html2canvas(
+    elm.body, { useCORS: true, }
+  )
+  .then(canvas => {
+    link.href = canvas.toDataURL('image/png');
+    link.download = `${elm.nickname.value || 'my'}-shiny.png`;
+    link.click();
+    elm.body.classList.remove('print');
+  });
+});

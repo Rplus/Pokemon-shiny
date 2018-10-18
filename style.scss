@@ -24,7 +24,7 @@ $space-y: 8px;
   margin-right: 3px;
   margin-bottom: 5px;
   border-radius: 10%;
-  box-shadow: 0 0 0 1px $bdc;
+  border: 1px solid $bdc;
   cursor: pointer;
   overflow: hidden;
 }
@@ -48,7 +48,7 @@ $space-y: 8px;
     bottom: 0;
     z-index: 2;
     border-radius: inherit;
-    box-shadow: inset 0px 0px 0px 3px hsl(60, 90%, 45%);
+    border: 3px solid hsl(60, 90%, 45%);
     opacity: 0;
   }
 
@@ -160,6 +160,14 @@ $space-y: 8px;
   color: #9c27b0;
   border-bottom: 1px dashed;
   cursor: pointer;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+.ta-r {
+  text-align: right;
 }
 
 .reset {
@@ -651,6 +659,16 @@ $space-y: 8px;
 [data-l10n]:not([data-l10n-done="1"]) {
   color: transparent;
 }
+
+
+body.print {
+  width: 1200px;
+  aside,
+  footer {
+    visibility: hidden;
+  }
+}
+
 
 //
 

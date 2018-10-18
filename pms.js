@@ -3570,4 +3570,12 @@ let l10n = {
     "en": "Please use Chrome / Firefox to ensure working properly.",
     "zh": "請盡量使用 Chrome / Firefox 瀏覽，以確保功能 & 樣式正常運作",
   },
+  "save-as-image": {
+    "en": "Save as IMAGE",
+    "zh": "儲存成圖片",
+  },
+  "width": {
+    "en": "Width: ",
+    "zh": "寬度: ",
+  },
 };

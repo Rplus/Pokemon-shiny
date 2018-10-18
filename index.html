@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="./style.css">
   <script defer src="./pms.js"></script>
   <script defer src="./script.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js" integrity="sha256-w6/1B0uwkpR3uX0YUw3k2zzHnq6xDNdVZHLIdz8xV6I=" crossorigin="anonymous"></script>
 </head>
 <body>
 
@@ -32,16 +33,27 @@
     <div class="github-corner"><a tabindex="-1" href="https://github.com/Rplus/Pokemon-shiny" title="Fork me on GitHub"><svg viewbox="0 0 100 100" fill="currentColor"><title>Fork me on GitHub</title><path d="M0 0v100h100V0H0zm60 70.2h.2c1 2.7.3 4.7 0 5.2 1.4 1.4 2 3 2 5.2 0 7.4-4.4 9-8.7 9.5.7.7 1.3 2 1.3 3.7V99c0 .5 1.4 1 1.4 1H44s1.2-.5 1.2-1v-3.8c-3.5 1.4-5.2-.8-5.2-.8-1.5-2-3-2-3-2-2-.5-.2-1-.2-1 2-.7 3.5.8 3.5.8 2 1.7 4 1 5 .3.2-1.2.7-2 1.2-2.4-4.3-.4-8.8-2-8.8-9.4 0-2 .7-4 2-5.2-.2-.5-1-2.5.2-5 0 0 1.5-.6 5.2 1.8 1.5-.4 3.2-.6 4.8-.6 1.6 0 3.3.2 4.8.7 2.8-2 4.4-2 5-2z"></path></svg></a></div><style> .github-corner{position:absolute;right:0;top:0;width:80px;height:80px;overflow:hidden;}.github-corner a{position:absolute;right:0;top:0;left:0;bottom:0;transform:translate(50%, -50%) rotate(45deg);color:#ffffff;}</style>
   </header>
 
-  <a href="./" class="reset click-link" data-l10n="reset">Reset</a>
+  <aside>
+    <a href="./" class="reset click-link" data-l10n="reset">Reset</a>
+  </aside>
 
   <main class="pm-checklist"></main>
 
-  <a href="" class="share click-link" data-l10n="share-shiny-list">Share shiny list</a>
-  <br>
-  <a class="get-shorturl click-link" data-shorturl="">
-    <span data-l10n="get-short-url">Get short url</span>
-    <span data-l10n="share-with-short-url">Share with short url</span>
-  </a>
+  <aside>
+    <a href="" class="share click-link" data-l10n="share-shiny-list">Share shiny list</a>
+    <br>
+    <a class="get-shorturl click-link" data-shorturl="">
+      <span data-l10n="get-short-url">Get short url</span>
+      <span data-l10n="share-with-short-url">Share with short url</span>
+    </a>
+
+    <div class="btn-group">
+      <button data-l10n="save-as-image" id="save-as-img">Save as image</button>
+      <br>
+      <span data-l10n="width">Width: </span>
+      <input class="ta-r" id="page-width" type="number" min="200" max="2400" pattern="d+"> px
+    </div>
+  </aside>
 
   <footer>
     <ul class="info">
