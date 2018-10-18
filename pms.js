@@ -2707,7 +2707,760 @@ let pms = [
     "name_en": "Deoxys",
     "shiny_released": false,
     "family": "Deoxys"
-  }
+  },
+  {
+    "dex": 387,
+    "name": "草苗龜",
+    "name_en": "Turtwig",
+    "shiny_released": false,
+    "family": "Turtwig"
+  },
+  {
+    "dex": 388,
+    "name": "樹林龜",
+    "name_en": "Grotle",
+    "shiny_released": false,
+    "family": "Turtwig"
+  },
+  {
+    "dex": 389,
+    "name": "土台龜",
+    "name_en": "Torterra",
+    "shiny_released": false,
+    "family": "Turtwig"
+  },
+  {
+    "dex": 390,
+    "name": "小火焰猴",
+    "name_en": "Chimchar",
+    "shiny_released": false,
+    "family": "Chimchar"
+  },
+  {
+    "dex": 391,
+    "name": "猛火猴",
+    "name_en": "Monferno",
+    "shiny_released": false,
+    "family": "Chimchar"
+  },
+  {
+    "dex": 392,
+    "name": "烈焰猴",
+    "name_en": "Infernape",
+    "shiny_released": false,
+    "family": "Chimchar"
+  },
+  {
+    "dex": 393,
+    "name": "波加曼",
+    "name_en": "Piplup",
+    "shiny_released": false,
+    "family": "Piplup"
+  },
+  {
+    "dex": 394,
+    "name": "波皇子",
+    "name_en": "Prinplup",
+    "shiny_released": false,
+    "family": "Piplup"
+  },
+  {
+    "dex": 395,
+    "name": "帝王拿波",
+    "name_en": "Empoleon",
+    "shiny_released": false,
+    "family": "Piplup"
+  },
+  {
+    "dex": 396,
+    "name": "姆克兒",
+    "name_en": "Starly",
+    "shiny_released": false,
+    "family": "Starly"
+  },
+  {
+    "dex": 397,
+    "name": "姆克鳥",
+    "name_en": "Staravia",
+    "shiny_released": false,
+    "family": "Starly"
+  },
+  {
+    "dex": 398,
+    "name": "姆克鷹",
+    "name_en": "Staraptor",
+    "shiny_released": false,
+    "family": "Starly"
+  },
+  {
+    "dex": 399,
+    "name": "大牙狸",
+    "name_en": "Bidoof",
+    "shiny_released": false,
+    "family": "Bidoof"
+  },
+  {
+    "dex": 400,
+    "name": "大尾狸",
+    "name_en": "Bibarel",
+    "shiny_released": false,
+    "family": "Bidoof"
+  },
+  {
+    "dex": 401,
+    "name": "圓法師",
+    "name_en": "Kricketot",
+    "shiny_released": false,
+    "family": "Kricketot"
+  },
+  {
+    "dex": 402,
+    "name": "音箱蟀",
+    "name_en": "Kricketune",
+    "shiny_released": false,
+    "family": "Kricketot"
+  },
+  {
+    "dex": 403,
+    "name": "小貓怪",
+    "name_en": "Shinx",
+    "shiny_released": true,
+    "family": "Shinx"
+  },
+  {
+    "dex": 404,
+    "name": "勒克貓",
+    "name_en": "Luxio",
+    "shiny_released": true,
+    "family": "Shinx"
+  },
+  {
+    "dex": 405,
+    "name": "倫琴貓",
+    "name_en": "Luxray",
+    "shiny_released": true,
+    "family": "Shinx"
+  },
+  {
+    "dex": 406,
+    "name": "含羞苞",
+    "name_en": "Budew",
+    "shiny_released": false,
+    "family": "Roselia",
+    "order": -1
+  },
+  {
+    "dex": 407,
+    "name": "羅絲雷朵",
+    "name_en": "Roserade",
+    "shiny_released": false,
+    "family": "Roselia"
+  },
+  {
+    "dex": 408,
+    "name": "頭蓋龍",
+    "name_en": "Cranidos",
+    "shiny_released": false,
+    "family": "Cranidos"
+  },
+  {
+    "dex": 409,
+    "name": "戰槌龍",
+    "name_en": "Rampardos",
+    "shiny_released": false,
+    "family": "Cranidos"
+  },
+  {
+    "dex": 410,
+    "name": "盾甲龍",
+    "name_en": "Shieldon",
+    "shiny_released": false,
+    "family": "Shieldon"
+  },
+  {
+    "dex": 411,
+    "name": "護城龍",
+    "name_en": "Bastiodon",
+    "shiny_released": false,
+    "family": "Shieldon"
+  },
+  {
+    "dex": 412,
+    "name": "結草兒",
+    "name_en": "Burmy",
+    "shiny_released": false,
+    "family": "Burmy"
+  },
+  {
+    "dex": 413,
+    "name": "結草貴婦",
+    "name_en": "Wormadam",
+    "shiny_released": false,
+    "family": "Burmy"
+  },
+  {
+    "dex": 414,
+    "name": "紳士蛾",
+    "name_en": "Mothim",
+    "shiny_released": false,
+    "family": "Burmy"
+  },
+  {
+    "dex": 415,
+    "name": "三蜜蜂",
+    "name_en": "Combee",
+    "shiny_released": false,
+    "family": "Combee"
+  },
+  {
+    "dex": 416,
+    "name": "蜂后",
+    "name_en": "Vespiquen",
+    "shiny_released": false,
+    "family": "Combee"
+  },
+  {
+    "dex": 417,
+    "name": "帕奇利茲",
+    "name_en": "Pachirisu",
+    "shiny_released": false,
+    "family": "Pachirisu"
+  },
+  {
+    "dex": 418,
+    "name": "泳氣鼬",
+    "name_en": "Buizel",
+    "shiny_released": false,
+    "family": "Floatzel"
+  },
+  {
+    "dex": 419,
+    "name": "浮潛鼬",
+    "name_en": "Floatzel",
+    "shiny_released": false,
+    "family": "Floatzel"
+  },
+  {
+    "dex": 420,
+    "name": "櫻花寶",
+    "name_en": "Cherubi",
+    "shiny_released": false,
+    "family": "Cherubi"
+  },
+  {
+    "dex": 421,
+    "name": "櫻花兒",
+    "name_en": "Cherrim",
+    "shiny_released": false,
+    "family": "Cherubi"
+  },
+  {
+    "dex": 422,
+    "name": "無殼海牛",
+    "name_en": "Shellos",
+    "shiny_released": false,
+    "family": "Shellos"
+  },
+  {
+    "dex": 423,
+    "name": "海牛獸",
+    "name_en": "Gastrodon",
+    "shiny_released": false,
+    "family": "Shellos"
+  },
+  {
+    "dex": 424,
+    "name": "雙尾怪手",
+    "name_en": "Ambipom",
+    "shiny_released": false,
+    "family": "Aipom"
+  },
+  {
+    "dex": 425,
+    "name": "飄飄球",
+    "name_en": "Drifloon",
+    "shiny_released": false,
+    "family": "Drifloon"
+  },
+  {
+    "dex": 426,
+    "name": "附和氣球",
+    "name_en": "Drifblim",
+    "shiny_released": false,
+    "family": "Drifloon"
+  },
+  {
+    "dex": 427,
+    "name": "捲捲耳",
+    "name_en": "Buneary",
+    "shiny_released": false,
+    "family": "Buneary"
+  },
+  {
+    "dex": 428,
+    "name": "長耳兔",
+    "name_en": "Lopunny",
+    "shiny_released": false,
+    "family": "Buneary"
+  },
+  {
+    "dex": 429,
+    "name": "夢妖魔",
+    "name_en": "Mismagius",
+    "shiny_released": false,
+    "family": "Misdreavus"
+  },
+  {
+    "dex": 430,
+    "name": "烏鴉頭頭",
+    "name_en": "Honchkrow",
+    "shiny_released": false,
+    "family": "Murkrow"
+  },
+  {
+    "dex": 431,
+    "name": "魅力喵",
+    "name_en": "Glameow",
+    "shiny_released": false,
+    "family": "Glameow"
+  },
+  {
+    "dex": 432,
+    "name": "東施喵",
+    "name_en": "Purugly",
+    "shiny_released": false,
+    "family": "Glameow"
+  },
+  {
+    "dex": 433,
+    "name": "鈴噹響",
+    "name_en": "Chingling",
+    "shiny_released": false,
+    "family": "Chimecho",
+    "order": -1
+  },
+  {
+    "dex": 434,
+    "name": "臭鼬噗",
+    "name_en": "Stunky",
+    "shiny_released": false,
+    "family": "Stunky"
+  },
+  {
+    "dex": 435,
+    "name": "坦克臭鼬",
+    "name_en": "Skuntank",
+    "shiny_released": false,
+    "family": "Stunky"
+  },
+  {
+    "dex": 436,
+    "name": "銅鏡怪",
+    "name_en": "Bronzor",
+    "shiny_released": false,
+    "family": "Bronzor"
+  },
+  {
+    "dex": 437,
+    "name": "青銅鐘",
+    "name_en": "Bronzong",
+    "shiny_released": false,
+    "family": "Bronzor"
+  },
+  {
+    "dex": 438,
+    "name": "愛哭樹",
+    "name_en": "Bonsly",
+    "shiny_released": false,
+    "family": "Sudowoodo"
+  },
+  {
+    "dex": 439,
+    "name": "魔尼尼",
+    "name_en": "Mime Jr.",
+    "shiny_released": false,
+    "family": "Mr Mime"
+  },
+  {
+    "dex": 440,
+    "name": "好運蛋",
+    "name_en": "Happiny",
+    "shiny_released": false,
+    "family": "Chansey",
+    "order": -1
+  },
+  {
+    "dex": 441,
+    "name": "聒噪鳥",
+    "name_en": "Chatot",
+    "shiny_released": false,
+    "family": "Chatot"
+  },
+  {
+    "dex": 442,
+    "name": "花岩怪",
+    "name_en": "Spiritomb",
+    "shiny_released": false,
+    "family": "Spiritomb"
+  },
+  {
+    "dex": 443,
+    "name": "圓陸鯊",
+    "name_en": "Gible",
+    "shiny_released": false,
+    "family": "Gible"
+  },
+  {
+    "dex": 444,
+    "name": "尖牙陸鯊",
+    "name_en": "Gabite",
+    "shiny_released": false,
+    "family": "Gible"
+  },
+  {
+    "dex": 445,
+    "name": "烈咬陸鯊",
+    "name_en": "Garchomp",
+    "shiny_released": false,
+    "family": "Gible"
+  },
+  {
+    "dex": 446,
+    "name": "小卡比獸",
+    "name_en": "Munchlax",
+    "shiny_released": false,
+    "family": "Snorlax",
+    "order": -1
+  },
+  {
+    "dex": 447,
+    "name": "利歐路",
+    "name_en": "Riolu",
+    "shiny_released": false,
+    "family": "Riolu"
+  },
+  {
+    "dex": 448,
+    "name": "路卡利歐",
+    "name_en": "Lucario",
+    "shiny_released": false,
+    "family": "Riolu"
+  },
+  {
+    "dex": 449,
+    "name": "怪河馬",
+    "name_en": "Hippopotas",
+    "shiny_released": false,
+    "family": "Hippowdon"
+  },
+  {
+    "dex": 450,
+    "name": "河馬獸",
+    "name_en": "Hippowdon",
+    "shiny_released": false,
+    "family": "Hippowdon"
+  },
+  {
+    "dex": 451,
+    "name": "紫天蠍",
+    "name_en": "Skorupi",
+    "shiny_released": false,
+    "family": "Skorupi"
+  },
+  {
+    "dex": 452,
+    "name": "龍王蠍",
+    "name_en": "Drapion",
+    "shiny_released": false,
+    "family": "Skorupi"
+  },
+  {
+    "dex": 453,
+    "name": "不良蛙",
+    "name_en": "Croagunk",
+    "shiny_released": false,
+    "family": "Croagunk"
+  },
+  {
+    "dex": 454,
+    "name": "毒骷蛙",
+    "name_en": "Toxicroak",
+    "shiny_released": false,
+    "family": "Croagunk"
+  },
+  {
+    "dex": 455,
+    "name": "尖牙籠",
+    "name_en": "Carnivine",
+    "shiny_released": false,
+    "family": "Carnivine"
+  },
+  {
+    "dex": 456,
+    "name": "螢光魚",
+    "name_en": "Finneon",
+    "shiny_released": false,
+    "family": "Finneon"
+  },
+  {
+    "dex": 457,
+    "name": "霓虹魚",
+    "name_en": "Lumineon",
+    "shiny_released": false,
+    "family": "Finneon"
+  },
+  {
+    "dex": 458,
+    "name": "小球飛魚",
+    "name_en": "Mantyke",
+    "shiny_released": false,
+    "family": "Mantine"
+  },
+  {
+    "dex": 459,
+    "name": "雪笠怪",
+    "name_en": "Snover",
+    "shiny_released": false,
+    "family": "xxxSnover"
+  },
+  {
+    "dex": 460,
+    "name": "暴雪王",
+    "name_en": "Abomasnow",
+    "shiny_released": false,
+    "family": "Snover"
+  },
+  {
+    "dex": 461,
+    "name": "瑪狃拉",
+    "name_en": "Weavile",
+    "shiny_released": false,
+    "family": "Sneasel"
+  },
+  {
+    "dex": 462,
+    "name": "自爆磁怪",
+    "name_en": "Magnezone",
+    "shiny_released": false,
+    "family": "Magnemite"
+  },
+  {
+    "dex": 463,
+    "name": "大舌舔",
+    "name_en": "Lickilicky",
+    "shiny_released": false,
+    "family": "Lickitung"
+  },
+  {
+    "dex": 464,
+    "name": "超鐵暴龍",
+    "name_en": "Rhyperior",
+    "shiny_released": false,
+    "family": "Rhyhorn"
+  },
+  {
+    "dex": 465,
+    "name": "巨蔓藤",
+    "name_en": "Tangrowth",
+    "shiny_released": false,
+    "family": "Tangela"
+  },
+  {
+    "dex": 466,
+    "name": "電擊魔獸",
+    "name_en": "Electivire",
+    "shiny_released": false,
+    "family": "Electabuzz"
+  },
+  {
+    "dex": 467,
+    "name": "鴨嘴焰龍",
+    "name_en": "Magmortar",
+    "shiny_released": false,
+    "family": "Magmar"
+  },
+  {
+    "dex": 468,
+    "name": "波克基斯",
+    "name_en": "Togekiss",
+    "shiny_released": false,
+    "family": "Togepi"
+  },
+  {
+    "dex": 469,
+    "name": "梅卡陽瑪",
+    "name_en": "Yanmega",
+    "shiny_released": false,
+    "family": "Yanmega"
+  },
+  {
+    "dex": 470,
+    "name": "葉精靈",
+    "name_en": "Leafeon",
+    "shiny_released": false,
+    "family": "Eevee"
+  },
+  {
+    "dex": 471,
+    "name": "冰精靈",
+    "name_en": "Glaceon",
+    "shiny_released": false,
+    "family": "Eevee"
+  },
+  {
+    "dex": 472,
+    "name": "天蠍王",
+    "name_en": "Gliscor",
+    "shiny_released": false,
+    "family": "Gligar"
+  },
+  {
+    "dex": 473,
+    "name": "象牙豬",
+    "name_en": "Mamoswine",
+    "shiny_released": false,
+    "family": "Swinub"
+  },
+  {
+    "dex": 474,
+    "name": "3D龍Z",
+    "name_en": "Porygon-Z",
+    "shiny_released": false,
+    "family": "Porygon"
+  },
+  {
+    "dex": 475,
+    "name": "艾路雷朵",
+    "name_en": "Gallade",
+    "shiny_released": false,
+    "family": "xxx"
+  },
+  {
+    "dex": 476,
+    "name": "大朝北鼻",
+    "name_en": "Probopass",
+    "shiny_released": false,
+    "family": "Nosepass"
+  },
+  {
+    "dex": 477,
+    "name": "夜黑魔人",
+    "name_en": "Dusknoir",
+    "shiny_released": false,
+    "family": "Dusknoir"
+  },
+  {
+    "dex": 478,
+    "name": "雪妖女",
+    "name_en": "Froslass",
+    "shiny_released": false,
+    "family": "Snorunt"
+  },
+  {
+    "dex": 479,
+    "name": "洛托姆",
+    "name_en": "Rotom",
+    "shiny_released": false,
+    "family": "Rotom"
+  },
+  {
+    "dex": 480,
+    "name": "由克希",
+    "name_en": "Uxie",
+    "shiny_released": false,
+    "family": "Uxie"
+  },
+  {
+    "dex": 481,
+    "name": "艾姆利多",
+    "name_en": "Mesprit",
+    "shiny_released": false,
+    "family": "Mesprit"
+  },
+  {
+    "dex": 482,
+    "name": "亞克諾姆",
+    "name_en": "Azelf",
+    "shiny_released": false,
+    "family": "Azelf"
+  },
+  {
+    "dex": 483,
+    "name": "帝牙盧卡",
+    "name_en": "Dialga",
+    "shiny_released": false,
+    "family": "Dialga"
+  },
+  {
+    "dex": 484,
+    "name": "帕路奇犽",
+    "name_en": "Palkia",
+    "shiny_released": false,
+    "family": "Palkia"
+  },
+  {
+    "dex": 485,
+    "name": "席多藍恩",
+    "name_en": "Heatran",
+    "shiny_released": false,
+    "family": "Heatran"
+  },
+  {
+    "dex": 486,
+    "name": "雷吉奇卡斯",
+    "name_en": "Regigigas",
+    "shiny_released": false,
+    "family": "Regigigas"
+  },
+  {
+    "dex": 487,
+    "name": "騎拉帝納",
+    "name_en": "Giratina",
+    "shiny_released": false,
+    "family": "Giratina"
+  },
+  {
+    "dex": 488,
+    "name": "克雷色利亞",
+    "name_en": "Cresselia",
+    "shiny_released": false,
+    "family": "Cresselia"
+  },
+  {
+    "dex": 489,
+    "name": "霏歐納",
+    "name_en": "Phione",
+    "shiny_released": false,
+    "family": "Phione"
+  },
+  {
+    "dex": 490,
+    "name": "瑪納霏",
+    "name_en": "Manaphy",
+    "shiny_released": false,
+    "family": "Manaphy"
+  },
+  {
+    "dex": 491,
+    "name": "達克萊伊",
+    "name_en": "Darkrai",
+    "shiny_released": false,
+    "family": "Darkrai"
+  },
+  {
+    "dex": 492,
+    "name": "謝米",
+    "name_en": "Shaymin (Sky Forme)",
+    "shiny_released": false,
+    "family": "Shaymin"
+  },
+  {
+    "dex": 493,
+    "name": "阿爾宙斯",
+    "name_en": "Arceus",
+    "shiny_released": false,
+    "family": "Arceus"
+  },
 ];
 
 
