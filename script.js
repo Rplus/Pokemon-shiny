@@ -35,6 +35,7 @@ let html = Object.values(pmsByFamily)
   .filter(family => family.pms[0].shiny_released)
   .map(family => {
     let pmDom = family.pms.map(pm => {
+      if (!pm.shiny_released) { return; }
       totalShiny += 1;
       return (
         `<label
