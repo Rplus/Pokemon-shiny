@@ -2,6 +2,8 @@
 .pm-checklist {
   max-width: 1200px;
   margin: 0 auto; }
+  body[style] .pm-checklist {
+    max-width: unset; }
 
 .pm-group {
   display: -ms-inline-flexbox;
@@ -611,7 +613,30 @@ body.print {
   width: 1200px; }
   body.print aside,
   body.print footer {
-    visibility: hidden; }
+    display: none; }
+  body.print .source {
+    display: block; }
+
+.source {
+  display: none;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 3.5vw;
+  text-align: right;
+  margin-top: 2em;
+  padding-bottom: 2em;
+  padding-right: 1em;
+  text-shadow: 0.1em 0.1em rgba(153, 153, 153, 0.1); }
+  .source::before {
+    content: 'SOURCE';
+    display: block;
+    font-size: 5vw;
+    color: #eedeef; }
+  .source::after {
+    content: attr(href);
+    color: #dcc7e3; }
 
 *,
 *::before,
