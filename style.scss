@@ -6,6 +6,10 @@ $space-y: 8px;
 .pm-checklist {
   max-width: 1200px;
   margin: 0 auto;
+
+  body[style] & {
+    max-width: unset;
+  }
 }
 
 .pm-group {
