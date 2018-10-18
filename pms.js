@@ -63,6 +63,30 @@ let pms = [
     "family": "Squirtle"
   },
   {
+    "dex": "7",
+    "isotope": "_05",
+    "name": "傑尼龜",
+    "name_en": "Squirtle",
+    "shiny_released": true,
+    "family": "Squirtle_05"
+  },
+  {
+    "dex": 8,
+    "name": "卡咪龜",
+    "isotope": "_05",
+    "name_en": "Wartortle",
+    "shiny_released": true,
+    "family": "Squirtle_05"
+  },
+  {
+    "dex": 9,
+    "name": "水箭龜",
+    "isotope": "_05",
+    "name_en": "Blastoise",
+    "shiny_released": true,
+    "family": "Squirtle_05"
+  },
+  {
     "dex": 10,
     "name": "綠毛蟲",
     "name_en": "Caterpie",
@@ -180,6 +204,38 @@ let pms = [
     "name_en": "Raichu",
     "shiny_released": true,
     "family": "Pikachu"
+  },
+  {
+    "dex": 25,
+    "isotope": "_02",
+    "name": "皮卡丘",
+    "name_en": "Pikachu",
+    "shiny_released": true,
+    "family": "Pikachu_02"
+  },
+  {
+    "dex": 26,
+    "name": "雷丘",
+    "isotope": "_02",
+    "name_en": "Raichu",
+    "shiny_released": true,
+    "family": "Pikachu_02"
+  },
+  {
+    "dex": 25,
+    "isotope": "_06",
+    "name": "皮卡丘",
+    "name_en": "Pikachu",
+    "shiny_released": true,
+    "family": "Pikachu_06"
+  },
+  {
+    "dex": 26,
+    "name": "雷丘",
+    "isotope": "_06",
+    "name_en": "Raichu",
+    "shiny_released": true,
+    "family": "Pikachu_06"
   },
   {
     "dex": 27,
@@ -1203,6 +1259,15 @@ let pms = [
     "shiny_released": true,
     "order": -1,
     "family": "Pikachu"
+  },
+  {
+    "dex": 172,
+    "name": "皮丘",
+    "isotope": "_02",
+    "name_en": "Pichu",
+    "shiny_released": true,
+    "order": -1,
+    "family": "Pikachu_02"
   },
   {
     "dex": 173,

@@ -47,7 +47,7 @@ let html = Object.values(pmsByFamily)
           <div class="pm-info"
             data-dex="${pm.dex}"
             data-name="${pm[_name]}"
-            style="background-image: url(${getImgUrl(pm.dex)});"
+            style="background-image: url(${getImgUrl(pm.dex, pm.isotope)});"
           ></div>
         </label>`
       );
@@ -120,8 +120,9 @@ function renderState() {
 }
 
 
-function getImgUrl(dex) {
-  return `//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_${(dex + '').padStart(3, '0')}_00_shiny.png`;
+function getImgUrl(dex, isotope) {
+  let pokedex = `${dex}`.padStart(3, '0');
+  return `//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_${pokedex}_00${isotope || ''}_shiny.png`;
 }
 
 
