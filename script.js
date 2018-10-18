@@ -31,17 +31,23 @@ document.querySelectorAll('[data-l10n]').forEach(element => {
 });
 
 
+function sortPM(a, b) {
+  return (a.order || a.dex) - (b.order || b.dex);
+}
+
+
 let html = Object.values(pmsByFamily)
   .filter(family => family.pms[0].shiny_released)
   .map(family => {
-    let pmDom = family.pms.map(pm => {
+    let pmDom = family.pms
+    .sort(sortPM)
+    .map(pm => {
       if (!pm.shiny_released) { return; }
       totalShiny += 1;
       return (
         `<label
           class="pm"
           title="#${pm.dex} ${pm.name_en}"
-          style="${pm.order ? 'order: ' + pm.order : ''}"
         >
           <input class="sr-only pm-checkbox" type="checkbox" data-dex="${pm.dex}" />
           <div class="pm-info"
