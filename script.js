@@ -8,12 +8,11 @@ let pmsByFamily = pms.reduce((all, pm) => {
       family: pm.family,
     };
   }
+  pm.id = `${pm.dex}${pm.isotope || ''}`;
   all[pm.family].pms.push(pm);
   return all;
 }, {});
 
-
-let totalShiny = 0;
 
 let lang = /^zh/.test(navigator.language) ? 'zh' : 'en';
 let _name = (lang === 'en') ? 'name_en' : 'name';
@@ -43,13 +42,17 @@ let html = Object.values(pmsByFamily)
     .sort(sortPM)
     .map(pm => {
       if (!pm.shiny_released) { return; }
-      totalShiny += 1;
       return (
         `<label
           class="pm"
           title="#${pm.dex} ${pm.name_en}"
         >
-          <input class="sr-only pm-checkbox" type="checkbox" data-dex="${pm.dex}" />
+          <input
+            type="checkbox"
+            class="sr-only pm-checkbox"
+            data-dex="${pm.dex}"
+            data-id="${pm.id}"
+          />
           <div class="pm-info"
             data-dex="${pm.dex}"
             data-name="${pm[_name]}"
@@ -63,23 +66,39 @@ let html = Object.values(pmsByFamily)
   }).join('');
 
 
-let shinyDex = [];
 elm.checkList = document.querySelector('.pm-checklist');
 elm.checkList.innerHTML = html;
 elm.checkList.addEventListener('change', (e) => {
   let pm = e.target;
-  let dex = +pm.dataset.dex;
+  let id = pm.dataset.id;
+  let dex = pm.dataset.dex;
   let checked = pm.checked;
 
-  shinyDex[dex] = pm.checked;
+  updateCheckedState(id, checked);
   updateState();
 });
 
 
-let checkboxArr = [];
+function updateCheckedState(id) {
+  let _old = pmData.get(id);
+  pmData.set(id, {
+    ..._old,
+    ...{
+      checked: _old.checkbox.checked
+    }
+  });
+}
+
+
+let pmData = new Map();
 elm.checkboxs = document.querySelectorAll('.pm-checkbox');
 elm.checkboxs.forEach(checkbox => {
-  checkboxArr[+checkbox.dataset.dex] = checkbox;
+  let id = checkbox.dataset.id;
+  pmData.set(id, {
+    id,
+    checkbox,
+    checked: checkbox.checked
+  });
 });
 
 
@@ -87,21 +106,21 @@ elm.nickname = document.querySelector('.nickname');
 elm.nickname.addEventListener('input', updateState);
 
 
-document.querySelector('.counter [data-total]').dataset.total = totalShiny;
+document.querySelector('.counter [data-total]').dataset.total = pmData.size;
 elm.counter = document.querySelector('.counter [data-counter]');
 function updateShinyCounter() {
-  elm.counter.dataset.counter = getArrayIndex(shinyDex).length;
+  elm.counter.dataset.counter = getCheckedIndexArr(pmData).length;
 }
 
 
-function getArrayIndex(arr) {
-  return arr.map((i, v) => i ? v : i).filter(Boolean);
+function getCheckedIndexArr(_map) {
+  return [...(_map || pmData).entries()].filter(i => i[1].checked).map(i => i[1].id);
 }
 
 let splitChar = '-';
 function updateState() {
   let para = new URLSearchParams({
-    dex: getArrayIndex(shinyDex).join(splitChar),
+    dex: getCheckedIndexArr().join(splitChar),
     nickname: elm.nickname.value || '',
   });
   history.pushState(null, null, `?${para.toString()}`);
@@ -111,17 +130,19 @@ function updateState() {
 
 
 function renderState() {
-  let para = new URLSearchParams(location.search.replace(/^\?/, ''));
+  let para = new URLSearchParams(location.search);
 
   let _nickname = para.get('nickname');
   elm.nickname.value = _nickname;
 
-  let checkedDex = (para.get('dex') || '').split(splitChar).map(d => +d);
-  checkboxArr.forEach((box, dex) => {
-    let isChecked = (checkedDex.indexOf(dex) !== -1);
-    box.checked = isChecked;
-    shinyDex[dex] = isChecked;
+  let checkedDex = (para.get('dex') || '').split(splitChar);
+
+  pmData.forEach((i) => {
+    let isChecked = (checkedDex.indexOf(i.id) !== -1);
+    i.checkbox.checked = isChecked;
+    i.checked = isChecked;
   });
+
   updateShinyCounter();
 }
 
