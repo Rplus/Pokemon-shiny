@@ -30,8 +30,9 @@ $space-y: 8px;
 }
 
 .pm-info {
-  width: calc(5vmin + 70px);
-  height: calc(5vmin + 70px);
+  font-size: calc(5vmin + 70px);
+  width: 1em;
+  height: 1em;
   border-radius: inherit;
   background-size: var(--bgz, contain);
   background-position: var(--bgp, 100% 100%);
@@ -237,422 +238,435 @@ button {
   }
 }
 
+
 .pm-info {
   &[data-dex="1"] {
     --bgz: 170% 170%;
-    --bgp: right -50px bottom -21px;
+    --bgp: -.27em -.5em;
   }
   &[data-dex="2"] {
     --bgz: 150% 150%;
-    --bgp: right -45px bottom -20px;
+    --bgp: -.11em -.33em;
   }
   &[data-dex="3"] {
     --bgz: 130% 130%;
-    --bgp: right -37px bottom -15px;
+    --bgp: .01em -.18em;
   }
   &[data-dex="4"] {
     --bgz: 170% 170%;
-    --bgp: right -50px bottom -16px;
+    --bgp: -.27em -.56em;
   }
   &[data-dex="5"] {
     --bgz: 150% 150%;
-    --bgp: right -35px bottom -15px;
+    --bgp: -.2em -.36em;
   }
   &[data-dex="6"] {
     --bgz: 160% 160%;
-    --bgp: right -62px bottom -22px;
+    --bgp: -.06em -.4em;
   }
   &[data-dex="7"] {
     --bgz: 170% 170%;
-    --bgp: right -50px bottom -16px;
+    --bgp: -.26em -.55em;
   }
   &[data-dex="8"] {
     --bgz: 150% 150%;
-    --bgp: right -35px bottom -10px;
+    --bgp: -.18em -.42em;
   }
   &[data-dex="9"] {
     --bgz: 130% 130%;
-    --bgp: right -38px bottom -30px;
+    --bgp: .03em -.04em;
   }
   &[data-dex="25"] {
     --bgz: 130% 130%;
-    --bgp: right -35px bottom -15px;
+    --bgp: 0em -.17em;
   }
   &[data-dex="26"] {
     --bgz: 150% 150%;
-    --bgp: right -40px bottom -5px;
+    --bgp: -.16em -.45em;
   }
   &[data-dex="29"] {
     --bgz: 170% 170%;
-    --bgp: right -55px bottom -22px;
+    --bgp: -.23em -.51em;
   }
   &[data-dex="30"] {
     --bgz: 150% 150%;
-    --bgp: right -45px bottom -22px;
+    --bgp: -.11em -.31em;
   }
   &[data-dex="31"] {
     --bgz: 130% 130%;
-    --bgp: right -40px bottom -23px;
+    --bgp: .04em -.1em;
   }
   &[data-dex="58"] {
     --bgz: 140% 140%;
-    --bgp: right -35px bottom -20px;
+    --bgp: -.1em -.23em;
   }
   &[data-dex="59"] {
     --bgz: 120% 120%;
-    --bgp: right -25px bottom -15px;
+    --bgp: .02em -.07em;
   }
   &[data-dex="74"] {
     --bgz: 150% 150%;
-    --bgp: right -40px bottom -40px;
+    --bgp: -.16em -.16em;
   }
   &[data-dex="75"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -15px;
+    --bgp: -.04em -.17em;
   }
   &[data-dex="76"] {
     --bgz: 120% 120%;
-    --bgp: right -25px bottom -20px;
+    --bgp: .01em -.03em;
   }
   &[data-dex="88"] {
     --bgz: 115% 115%;
-    --bgp: right -25px bottom -15px;
+    --bgp: .06em -.02em;
   }
   &[data-dex="89"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -20px;
+    --bgp: -.04em -.13em;
   }
   &[data-dex="90"] {
     --bgz: 160% 160%;
-    --bgp: right -45px bottom -20px;
+    --bgp: -.2em -.43em;
   }
   &[data-dex="91"] {
     --bgz: 140% 140%;
-    --bgp: right -35px bottom -25px;
+    --bgp: -.1em -.18em;
   }
   &[data-dex="96"] {
     --bgz: 120% 120%;
-    --bgp: right -25px bottom -15px;
+    --bgp: .02em -.07em;
   }
   &[data-dex="97"] {
     --bgz: 110% 110%;
-    --bgp: right -25px bottom -10px;
+    --bgp: .12em -.01em;
   }
   &[data-dex="98"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -15px;
+    --bgp: -.02em -.16em;
   }
   &[data-dex="99"] {
     --bgz: 120% 120%;
-    --bgp: right -30px bottom -15px;
+    --bgp: .06em -.07em;
   }
   &[data-dex="126"] {
     --bgz: 120% 120%;
-    --bgp: right -30px bottom -15px;
+    --bgp: .06em -.07em;
   }
   &[data-dex="129"] {
     --bgz: 140% 140%;
-    --bgp: right -30px bottom -16px;
+    --bgp: -.14em -.26em;
   }
   &[data-dex="130"] {
     --bgz: 130% 130%;
-    --bgp: right -45px bottom -15px;
+    --bgp: .09em -.17em;
   }
   &[data-dex="133"] {
     --bgz: 170% 170%;
-    --bgp: right -50px bottom -25px;
+    --bgp: -.25em -.44em;
   }
   &[data-dex="134"] {
     --bgz: 150% 150%;
-    --bgp: right -45px bottom -20px;
+    --bgp: -.11em -.33em;
   }
   &[data-dex="135"] {
     --bgz: 150% 150%;
-    --bgp: right -45px bottom -20px;
+    --bgp: -.11em -.33em;
   }
   &[data-dex="136"] {
     --bgz: 150% 150%;
-    --bgp: right -45px bottom -20px;
+    --bgp: -.11em -.33em;
   }
   &[data-dex="138"] {
     --bgz: 170% 170%;
-    --bgp: right -45px bottom -30px;
+    --bgp: -.3em -.44em;
   }
   &[data-dex="139"] {
     --bgz: 140% 140%;
-    --bgp: right -35px bottom -22px;
+    --bgp: -.1em -.2em;
   }
   &[data-dex="140"] {
     --bgz: 170% 170%;
-    --bgp: right -45px bottom -30px;
+    --bgp: -.3em -.44em;
   }
   &[data-dex="141"] {
     --bgz: 120% 120%;
-    --bgp: right -30px bottom -20px;
+    --bgp: .06em -.04em;
   }
   &[data-dex="142"] {
     --bgz: 130% 130%;
-    --bgp: right -47px bottom -15px;
+    --bgp: .1em -.17em;
   }
   &[data-dex="144"] {
     --bgz: 130% 130%;
-    --bgp: right -40px bottom -10px;
+    --bgp: .01em -.22em;
   }
   &[data-dex="145"] {
     --bgz: 140% 140%;
-    --bgp: right -40px bottom -30px;
+    --bgp: -.06em -.15em;
   }
   &[data-dex="146"] {
     --bgz: 110% 110%;
-    --bgp: right -20px bottom -7px;
+    --bgp: .07em -.04em;
   }
   &[data-dex="147"] {
     --bgz: 150% 150%;
-    --bgp: right -40px bottom -15px;
+    --bgp: -.16em -.37em;
   }
   &[data-dex="148"] {
     --bgz: 140% 140%;
-    --bgp: right -35px bottom -22px;
+    --bgp: -.1em -.21em;
   }
   &[data-dex="149"] {
     --bgz: 140% 140%;
-    --bgp: right -35px bottom -15px;
+    --bgp: -.1em -.27em;
   }
   &[data-dex="152"] {
     --bgz: 170% 170%;
-    --bgp: right -50px bottom -21px;
+    --bgp: -.27em -.52em;
   }
   &[data-dex="153"] {
     --bgz: 120% 120%;
-    --bgp: right -25px bottom -8px;
+    --bgp: .02em -.13em;
   }
   &[data-dex="154"] {
     --bgz: 110% 110%;
-    --bgp: right -20px bottom -5px;
+    --bgp: .07em -.05em;
   }
   &[data-dex="172"] {
     --bgz: 130% 130%;
-    --bgp: right -35px bottom -12px;
+    --bgp: -.0em -.2em;
   }
   &[data-dex="175"] {
     --bgz: 150% 150%;
-    --bgp: right -36px bottom -15px;
+    --bgp: -.18em -.36em;
   }
   &[data-dex="176"] {
     --bgz: 150% 150%;
-    --bgp: right -39px bottom -15px;
+    --bgp: -.17em -.37em;
   }
   &[data-dex="177"] {
     --bgz: 150% 150%;
-    --bgp: right -40px bottom -10px;
+    --bgp: -.15em -.42em;
   }
   &[data-dex="178"] {
     --bgz: 120% 120%;
-    --bgp: right -25px bottom -25px;
+    --bgp: .02em .02em;
   }
   &[data-dex="179"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -8px;
+    --bgp: -.04em -.23em;
   }
   &[data-dex="180"] {
     --bgz: 130% 130%;
-    --bgp: right -25px bottom -15px;
+    --bgp: -.06em -.16em;
   }
   &[data-dex="181"] {
     --bgz: 120% 120%;
-    --bgp: right -25px bottom -20px;
+    --bgp: .02em -.03em;
   }
   &[data-dex="191"] {
     --bgz: 150% 150%;
-    --bgp: right -45px bottom -10px;
+    --bgp: -.11em -.4em;
   }
   &[data-dex="192"] {
     --bgz: 140% 140%;
-    --bgp: right -40px bottom -15px;
+    --bgp: -.06em -.25em;
   }
   &[data-dex="196"] {
     --bgz: 150% 150%;
-    --bgp: right -45px bottom -20px;
+    --bgp: -.11em -.33em;
   }
   &[data-dex="197"] {
     --bgz: 130% 130%;
-    --bgp: right -33px bottom -17px;
+    --bgp: -.01em -.15em;
   }
   &[data-dex="198"] {
     --bgz: 150% 150%;
-    --bgp: right -40px bottom -20px;
+    --bgp: -.16em -.33em;
   }
   &[data-dex="202"] {
     --bgz: 130% 130%;
-    --bgp: right -35px bottom -15px;
+    --bgp: -.0em -.17em;
   }
   &[data-dex="360"] {
     --bgz: 130% 130%;
-    --bgp: right -25px bottom -15px;
+    --bgp: -.09em -.17em;
   }
   &[data-dex="204"] {
     --bgz: 150% 150%;
-    --bgp: right -35px bottom -35px;
+    --bgp: -.2em -.2em;
   }
   &[data-dex="205"] {
     --bgz: 110% 110%;
-    --bgp: right -25px bottom -15px;
+    --bgp: .11em .03em;
   }
   &[data-dex="209"] {
     --bgz: 140% 140%;
-    --bgp: right -30px bottom -15px;
+    --bgp: -.12em -.27em;
   }
   &[data-dex="210"] {
     --bgz: 110% 110%;
-    --bgp: right -15px bottom -10px;
+    --bgp: .02em -.02em;
   }
   &[data-dex="228"] {
     --bgz: 150% 150%;
-    --bgp: right -35px bottom -15px;
+    --bgp: -.2em -.35em;
   }
   &[data-dex="229"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -20px;
+    --bgp: -.04em -.12em;
   }
   &[data-dex="240"] {
     --bgz: 140% 140%;
-    --bgp: right -40px bottom -10px;
+    --bgp: -.06em -.32em;
   }
   &[data-dex="246"] {
     --bgz: 150% 150%;
-    --bgp: right -40px bottom -15px;
+    --bgp: -.16em -.38em;
   }
   &[data-dex="247"] {
     --bgz: 130% 130%;
-    --bgp: right -35px bottom -15px;
+    --bgp: 0em -.17em;
   }
   &[data-dex="248"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -28px;
+    --bgp: -.04em -.06em;
   }
   &[data-dex="249"] {
     --bgz: 130% 130%;
-    --bgp: right -35px bottom -20px;
+    --bgp: 0em -.13em;
   }
   &[data-dex="250"] {
     --bgz: 130% 130%;
-    --bgp: right -40px bottom -5px;
+    --bgp: .04em -.25em;
   }
   &[data-dex="261"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -17px;
+    --bgp: -.03em -.13em;
   }
   &[data-dex="262"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -20px;
+    --bgp: -.03em -.13em;
   }
   &[data-dex="278"] {
     --bgz: 130% 130%;
-    --bgp: right -20px bottom -25px;
+    --bgp: -.13em -.08em;
   }
   &[data-dex="279"] {
     --bgz: 100% 100%;
-    --bgp: right -20px bottom 0px;
+    --bgp: .15em 0em;
   }
   &[data-dex="296"] {
     --bgz: 130% 130%;
-    --bgp: right -25px bottom -20px;
+    --bgp: -.08em -.12em;
   }
   &[data-dex="297"] {
     --bgz: 130% 130%;
-    --bgp: right -25px bottom -25px;
+    --bgp: -.08em -.09em;
   }
   &[data-dex="302"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -15px;
+    --bgp: -.04em -.15em;
   }
   &[data-dex="303"] {
     --bgz: 140% 140%;
-    --bgp: right -30px bottom -15px;
+    --bgp: -.14em -.27em;
   }
   &[data-dex="304"] {
     --bgz: 130% 130%;
-    --bgp: right -35px bottom -15px;
+    --bgp: -.0em -.15em;
   }
   &[data-dex="305"] {
     --bgz: 120% 120%;
-    --bgp: right -25px bottom -15px;
+    --bgp: .02em -.06em;
   }
   &[data-dex="306"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -20px;
+    --bgp: -.04em -.12em;
   }
   &[data-dex="307"] {
     --bgz: 150% 150%;
-    --bgp: right -40px bottom -20px;
+    --bgp: -.16em -.32em;
   }
   &[data-dex="308"] {
     --bgz: 130% 130%;
-    --bgp: right -35px bottom -15px;
+    --bgp: 0em -.15em;
   }
   &[data-dex="311"] {
     --bgz: 140% 140%;
-    --bgp: right -35px bottom -15px;
+    --bgp: -.1em -.25em;
   }
   &[data-dex="312"] {
     --bgz: 140% 140%;
-    --bgp: right -35px bottom -15px;
+    --bgp: -.1em -.25em;
   }
   &[data-dex="315"] {
     --bgz: 150% 150%;
-    --bgp: right -45px bottom -15px;
+    --bgp: -.11em -.37em;
   }
   &[data-dex="320"] {
     --bgz: 140% 140%;
-    --bgp: right -45px bottom -25px;
+    --bgp: -.01em -.18em;
   }
   &[data-dex="321"] {
     --bgz: 150% 150%;
-    --bgp: right -45px bottom -25px;
+    --bgp: -.12em -.29em;
   }
   &[data-dex="333"] {
     --bgz: 150% 150%;
-    --bgp: right -45px bottom -20px;
+    --bgp: -.11em -.32em;
   }
   &[data-dex="334"] {
     --bgz: 150% 150%;
-    --bgp: right -50px bottom -25px;
+    --bgp: -.06em -.27em;
   }
   &[data-dex="353"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -15px;
+    --bgp: -.04em -.17em;
   }
   &[data-dex="354"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -20px;
+    --bgp: -.04em -.13em;
   }
   &[data-dex="355"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -25px;
+    --bgp: -.04em -.07em;
   }
   &[data-dex="356"] {
     --bgz: 130% 130%;
-    --bgp: right -35px bottom -20px;
+    --bgp: 0em -.13em;
   }
   &[data-dex="359"] {
     --bgz: 130% 130%;
-    --bgp: right -35px bottom -20px;
+    --bgp: 0em -.13em;
   }
   &[data-dex="361"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -15px;
+    --bgp: -.04em -.16em;
   }
   &[data-dex="362"] {
     --bgz: 120% 120%;
-    --bgp: right -35px bottom -20px;
+    --bgp: .1em -.02em;
   }
   &[data-dex="370"] {
     --bgz: 130% 130%;
-    --bgp: right -30px bottom -25px;
+    --bgp: -.05em -.1em;
   }
   &[data-dex="382"] {
     --bgz: 150% 150%;
-    --bgp: right -25px bottom -35px;
+    --bgp: -.28em -.2em;
+  }
+  &[data-dex="403"] {
+    --bgz: 130% 130%;
+    --bgp: -.03em -.22em;
+  }
+  &[data-dex="404"] {
+    --bgz: 130% 130%;
+    --bgp: -.06em -.23em;
+  }
+  &[data-dex="405"] {
+    --bgz: 110% 110%;
+    --bgp: .05em -.03em;
   }
 }
 
