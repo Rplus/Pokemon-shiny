@@ -233,7 +233,7 @@ function upadtePageWidth(w) {
 }
 elm.pageWidth = document.querySelector('#page-width');
 elm.pageWidth.addEventListener('input', upadtePageWidth);
-upadtePageWidth();
+setTimeout(upadtePageWidth, 500);
 
 window.addEventListener('resize', () => {
   upadtePageWidth(null);
