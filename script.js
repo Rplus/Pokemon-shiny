@@ -240,6 +240,7 @@ window.addEventListener('resize', () => {
 });
 
 
+elm.workspace = document.querySelector('.workspace');
 let link = document.createElement('a');
 document.body.appendChild(link);
 elm.saveAsImg = document.querySelector('#save-as-img');
@@ -249,7 +250,8 @@ elm.saveAsImg.addEventListener('click', () => {
 
   setTimeout(() => {
     html2canvas(
-      elm.body, {
+      elm.workspace, {
+        width: elm.workspace.clientWidth,
         useCORS: true,
       }
     )
