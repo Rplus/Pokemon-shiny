@@ -15,14 +15,24 @@ let pmsByFamily = pms.reduce((all, pm) => {
 }, {});
 
 
-let lang = /^zh/.test(navigator.language) ? 'zh' : 'en';
-let _name = (lang === 'en') ? 'name_en' : 'name';
-document.documentElement.lang = (lang === 'zh') ? 'zh-TW' : 'en-US';
+let lang = navigator.language.slice(0, 2).toLowerCase();
+document.documentElement.lang = navigator.language;
 
 // l10n
 function getL10n(l10nID) {
-  return (l10n[l10nID] && l10n[l10nID][lang]) || l10nID;
+  return (
+    (
+      l10n[l10nID] && (
+        l10n[l10nID][lang] || l10n[l10nID]['en']
+      )
+    ) || l10nID
+  );
 }
+
+function getName(pmNames) {
+  return pmNames[lang] || pmNames['en'];
+}
+
 
 document.querySelectorAll('[data-l10n]').forEach(element => {
   let l10nID = element.dataset.l10n;
@@ -43,10 +53,11 @@ let html = Object.values(pmsByFamily)
     .sort(sortPM)
     .map(pm => {
       if (!pm.shiny_released) { return; }
+      let name = getName(pm.name);
       return (
         `<label
           class="pm"
-          title="#${pm.dex} ${pm.name_en}"
+          title="#${pm.dex} ${name}"
         >
           <input
             type="checkbox"
@@ -56,7 +67,7 @@ let html = Object.values(pmsByFamily)
           />
           <div class="pm-info"
             data-dex="${pm.dex}"
-            data-name="${pm[_name]}"
+            data-name="${name}"
             style="background-image: url(${getImgUrl(pm.dex, pm.isotope)});"
           ></div>
         </label>`

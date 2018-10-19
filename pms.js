@@ -1,3528 +1,4530 @@
 let pms = [
   {
     "dex": 1,
-    "name": "妙蛙種子",
-    "name_en": "Bulbasaur",
+    "name": {
+      "en": "Bulbasaur",
+      "zh": "妙蛙種子",
+    },
     "shiny_released": true,
     "family": "Bulbasaur"
   },
   {
     "dex": 2,
-    "name": "妙蛙草",
-    "name_en": "Ivysaur",
+    "name": {
+      "en": "Ivysaur",
+      "zh": "妙蛙草",
+    },
     "shiny_released": true,
     "family": "Bulbasaur"
   },
   {
     "dex": 3,
-    "name": "妙蛙花",
-    "name_en": "Venusaur",
+    "name": {
+      "en": "Venusaur",
+      "zh": "妙蛙花",
+    },
     "shiny_released": true,
     "family": "Bulbasaur"
   },
   {
     "dex": 4,
-    "name": "小火龍",
-    "name_en": "Charmander",
+    "name": {
+      "en": "Charmander",
+      "zh": "小火龍",
+    },
     "shiny_released": true,
     "family": "Charmander"
   },
   {
     "dex": 5,
-    "name": "火恐龍",
-    "name_en": "Charmeleon",
+    "name": {
+      "en": "Charmeleon",
+      "zh": "火恐龍",
+    },
     "shiny_released": true,
     "family": "Charmander"
   },
   {
     "dex": 6,
-    "name": "噴火龍",
-    "name_en": "Charizard",
+    "name": {
+      "en": "Charizard",
+      "zh": "噴火龍",
+    },
     "shiny_released": true,
     "family": "Charmander"
   },
   {
     "dex": 7,
-    "name": "傑尼龜",
-    "name_en": "Squirtle",
+    "name": {
+      "en": "Squirtle",
+      "zh": "傑尼龜",
+    },
     "shiny_released": true,
     "family": "Squirtle"
   },
   {
     "dex": 8,
-    "name": "卡咪龜",
-    "name_en": "Wartortle",
+    "name": {
+      "en": "Wartortle",
+      "zh": "卡咪龜",
+    },
     "shiny_released": true,
     "family": "Squirtle"
   },
   {
     "dex": 9,
-    "name": "水箭龜",
-    "name_en": "Blastoise",
+    "name": {
+      "en": "Blastoise",
+      "zh": "水箭龜",
+    },
     "shiny_released": true,
     "family": "Squirtle"
   },
   {
     "dex": "7",
     "isotope": "_05",
-    "name": "傑尼龜",
-    "name_en": "Squirtle",
+    "name": {
+      "en": "Squirtle",
+      "zh": "傑尼龜",
+    },
     "shiny_released": true,
     "family": "Squirtle_05"
   },
   {
     "dex": 8,
-    "name": "卡咪龜",
+    "name": {
+      "en": "Wartortle",
+      "zh": "卡咪龜",
+    },
     "isotope": "_05",
-    "name_en": "Wartortle",
     "shiny_released": true,
     "family": "Squirtle_05"
   },
   {
     "dex": 9,
-    "name": "水箭龜",
+    "name": {
+      "en": "Blastoise",
+      "zh": "水箭龜",
+    },
     "isotope": "_05",
-    "name_en": "Blastoise",
     "shiny_released": true,
     "family": "Squirtle_05"
   },
   {
     "dex": 10,
-    "name": "綠毛蟲",
-    "name_en": "Caterpie",
+    "name": {
+      "en": "Caterpie",
+      "zh": "綠毛蟲",
+    },
     "shiny_released": false,
     "family": "Caterpie"
   },
   {
     "dex": 11,
-    "name": "鐵甲蛹",
-    "name_en": "Metapod",
+    "name": {
+      "en": "Metapod",
+      "zh": "鐵甲蛹",
+    },
     "shiny_released": false,
     "family": "Caterpie"
   },
   {
     "dex": 12,
-    "name": "巴大蝶",
-    "name_en": "Butterfree",
+    "name": {
+      "en": "Butterfree",
+      "zh": "巴大蝶",
+    },
     "shiny_released": false,
     "family": "Caterpie"
   },
   {
     "dex": 13,
-    "name": "獨角蟲",
-    "name_en": "Weedle",
+    "name": {
+      "en": "Weedle",
+      "zh": "獨角蟲",
+    },
     "shiny_released": false,
     "family": "Weedle"
   },
   {
     "dex": 14,
-    "name": "鐵殼蛹",
-    "name_en": "Kakuna",
+    "name": {
+      "en": "Kakuna",
+      "zh": "鐵殼蛹",
+    },
     "shiny_released": false,
     "family": "Weedle"
   },
   {
     "dex": 15,
-    "name": "大針蜂",
-    "name_en": "Beedrill",
+    "name": {
+      "en": "Beedrill",
+      "zh": "大針蜂",
+    },
     "shiny_released": false,
     "family": "Weedle"
   },
   {
     "dex": 16,
-    "name": "波波",
-    "name_en": "Pidgey",
+    "name": {
+      "en": "Pidgey",
+      "zh": "波波",
+    },
     "shiny_released": false,
     "family": "Pidgey"
   },
   {
     "dex": 17,
-    "name": "比比鳥",
-    "name_en": "Pidgeotto",
+    "name": {
+      "en": "Pidgeotto",
+      "zh": "比比鳥",
+    },
     "shiny_released": false,
     "family": "Pidgey"
   },
   {
     "dex": 18,
-    "name": "大比鳥",
-    "name_en": "Pidgeot",
+    "name": {
+      "en": "Pidgeot",
+      "zh": "大比鳥",
+    },
     "shiny_released": false,
     "family": "Pidgey"
   },
   {
     "dex": 19,
-    "name": "小拉達",
-    "name_en": "Rattata",
+    "name": {
+      "en": "Rattata",
+      "zh": "小拉達",
+    },
     "shiny_released": false,
     "family": "Rattata"
   },
   {
     "dex": 20,
-    "name": "拉達",
-    "name_en": "Raticate",
+    "name": {
+      "en": "Raticate",
+      "zh": "拉達",
+    },
     "shiny_released": false,
     "family": "Rattata"
   },
   {
     "dex": 21,
-    "name": "烈雀",
-    "name_en": "Spearow",
+    "name": {
+      "en": "Spearow",
+      "zh": "烈雀",
+    },
     "shiny_released": false,
     "family": "Spearow"
   },
   {
     "dex": 22,
-    "name": "大嘴雀",
-    "name_en": "Fearow",
+    "name": {
+      "en": "Fearow",
+      "zh": "大嘴雀",
+    },
     "shiny_released": false,
     "family": "Spearow"
   },
   {
     "dex": 23,
-    "name": "阿柏蛇",
-    "name_en": "Ekans",
+    "name": {
+      "en": "Ekans",
+      "zh": "阿柏蛇",
+    },
     "shiny_released": false,
     "family": "Ekans"
   },
   {
     "dex": 24,
-    "name": "阿柏怪",
-    "name_en": "Arbok",
+    "name": {
+      "en": "Arbok",
+      "zh": "阿柏怪",
+    },
     "shiny_released": false,
     "family": "Ekans"
   },
   {
     "dex": 25,
-    "name": "皮卡丘",
-    "name_en": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "zh": "皮卡丘",
+    },
     "shiny_released": true,
     "family": "Pikachu"
   },
   {
     "dex": 26,
-    "name": "雷丘",
-    "name_en": "Raichu",
+    "name": {
+      "en": "Raichu",
+      "zh": "雷丘",
+    },
     "shiny_released": true,
     "family": "Pikachu"
   },
   {
     "dex": 25,
     "isotope": "_02",
-    "name": "皮卡丘",
-    "name_en": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "zh": "皮卡丘",
+    },
     "shiny_released": true,
     "family": "Pikachu_02"
   },
   {
     "dex": 26,
-    "name": "雷丘",
+    "name": {
+      "en": "Raichu",
+      "zh": "雷丘",
+    },
     "isotope": "_02",
-    "name_en": "Raichu",
     "shiny_released": true,
     "family": "Pikachu_02"
   },
   {
     "dex": 25,
     "isotope": "_06",
-    "name": "皮卡丘",
-    "name_en": "Pikachu",
+    "name": {
+      "en": "Pikachu",
+      "zh": "皮卡丘",
+    },
     "shiny_released": true,
     "family": "Pikachu_06"
   },
   {
     "dex": 26,
-    "name": "雷丘",
+    "name": {
+      "en": "Raichu",
+      "zh": "雷丘",
+    },
     "isotope": "_06",
-    "name_en": "Raichu",
     "shiny_released": true,
     "family": "Pikachu_06"
   },
   {
     "dex": 27,
-    "name": "穿山鼠",
-    "name_en": "Sandshrew",
+    "name": {
+      "en": "Sandshrew",
+      "zh": "穿山鼠",
+    },
     "shiny_released": false,
     "family": "Sandshrew"
   },
   {
     "dex": 28,
-    "name": "穿山王",
-    "name_en": "Sandslash",
+    "name": {
+      "en": "Sandslash",
+      "zh": "穿山王",
+    },
     "shiny_released": false,
     "family": "Sandshrew"
   },
   {
     "dex": 29,
-    "name": "尼多蘭",
-    "name_en": "Nidoran Female",
+    "name": {
+      "en": "Nidoran Female",
+      "zh": "尼多蘭",
+    },
     "shiny_released": true,
     "family": "Nidoran Female"
   },
   {
     "dex": 30,
-    "name": "尼多娜",
-    "name_en": "Nidorina",
+    "name": {
+      "en": "Nidorina",
+      "zh": "尼多娜",
+    },
     "shiny_released": true,
     "family": "Nidoran Female"
   },
   {
     "dex": 31,
-    "name": "尼多后",
-    "name_en": "Nidoqueen",
+    "name": {
+      "en": "Nidoqueen",
+      "zh": "尼多后",
+    },
     "shiny_released": true,
     "family": "Nidoran Female"
   },
   {
     "dex": 32,
-    "name": "尼多朗",
-    "name_en": "Nidoran Male",
+    "name": {
+      "en": "Nidoran Male",
+      "zh": "尼多朗",
+    },
     "shiny_released": false,
     "family": "Nidoran Male"
   },
   {
     "dex": 33,
-    "name": "尼多力諾",
-    "name_en": "Nidorino",
+    "name": {
+      "en": "Nidorino",
+      "zh": "尼多力諾",
+    },
     "shiny_released": false,
     "family": "Nidoran Male"
   },
   {
     "dex": 34,
-    "name": "尼多王",
-    "name_en": "Nidoking",
+    "name": {
+      "en": "Nidoking",
+      "zh": "尼多王",
+    },
     "shiny_released": false,
     "family": "Nidoran Male"
   },
   {
     "dex": 35,
-    "name": "皮皮",
-    "name_en": "Clefairy",
+    "name": {
+      "en": "Clefairy",
+      "zh": "皮皮",
+    },
     "shiny_released": false,
     "family": "Clefairy"
   },
   {
     "dex": 36,
-    "name": "皮可西",
-    "name_en": "Clefable",
+    "name": {
+      "en": "Clefable",
+      "zh": "皮可西",
+    },
     "shiny_released": false,
     "family": "Clefairy"
   },
   {
     "dex": 37,
-    "name": "六尾",
-    "name_en": "Vulpix",
+    "name": {
+      "en": "Vulpix",
+      "zh": "六尾",
+    },
     "shiny_released": false,
     "family": "Vulpix"
   },
   {
     "dex": 38,
-    "name": "九尾",
-    "name_en": "Ninetales",
+    "name": {
+      "en": "Ninetales",
+      "zh": "九尾",
+    },
     "shiny_released": false,
     "family": "Vulpix"
   },
   {
     "dex": 39,
-    "name": "胖丁",
-    "name_en": "Jigglypuff",
+    "name": {
+      "en": "Jigglypuff",
+      "zh": "胖丁",
+    },
     "shiny_released": false,
     "family": "Jigglypuff"
   },
   {
     "dex": 40,
-    "name": "胖可丁",
-    "name_en": "Wigglytuff",
+    "name": {
+      "en": "Wigglytuff",
+      "zh": "胖可丁",
+    },
     "shiny_released": false,
     "family": "Jigglypuff"
   },
   {
     "dex": 41,
-    "name": "超音蝠",
-    "name_en": "Zubat",
+    "name": {
+      "en": "Zubat",
+      "zh": "超音蝠",
+    },
     "shiny_released": false,
     "family": "Zubat"
   },
   {
     "dex": 42,
-    "name": "大嘴蝠",
-    "name_en": "Golbat",
+    "name": {
+      "en": "Golbat",
+      "zh": "大嘴蝠",
+    },
     "shiny_released": false,
     "family": "Zubat"
   },
   {
     "dex": 43,
-    "name": "走路草",
-    "name_en": "Oddish",
+    "name": {
+      "en": "Oddish",
+      "zh": "走路草",
+    },
     "shiny_released": false,
     "family": "Oddish"
   },
   {
     "dex": 44,
-    "name": "臭臭花",
-    "name_en": "Gloom",
+    "name": {
+      "en": "Gloom",
+      "zh": "臭臭花",
+    },
     "shiny_released": false,
     "family": "Oddish"
   },
   {
     "dex": 45,
-    "name": "霸王花",
-    "name_en": "Vileplume",
+    "name": {
+      "en": "Vileplume",
+      "zh": "霸王花",
+    },
     "shiny_released": false,
     "family": "Oddish"
   },
   {
     "dex": 46,
-    "name": "派拉斯",
-    "name_en": "Paras",
+    "name": {
+      "en": "Paras",
+      "zh": "派拉斯",
+    },
     "shiny_released": false,
     "family": "Paras"
   },
   {
     "dex": 47,
-    "name": "派拉斯特",
-    "name_en": "Parasect",
+    "name": {
+      "en": "Parasect",
+      "zh": "派拉斯特",
+    },
     "shiny_released": false,
     "family": "Paras"
   },
   {
     "dex": 48,
-    "name": "毛球",
-    "name_en": "Venonat",
+    "name": {
+      "en": "Venonat",
+      "zh": "毛球",
+    },
     "shiny_released": false,
     "family": "Venonat"
   },
   {
     "dex": 49,
-    "name": "摩魯蛾",
-    "name_en": "Venomoth",
+    "name": {
+      "en": "Venomoth",
+      "zh": "摩魯蛾",
+    },
     "shiny_released": false,
     "family": "Venonat"
   },
   {
     "dex": 50,
-    "name": "地鼠",
-    "name_en": "Diglett",
+    "name": {
+      "en": "Diglett",
+      "zh": "地鼠",
+    },
     "shiny_released": false,
     "family": "Diglett"
   },
   {
     "dex": 51,
-    "name": "三地鼠",
-    "name_en": "Dugtrio",
+    "name": {
+      "en": "Dugtrio",
+      "zh": "三地鼠",
+    },
     "shiny_released": false,
     "family": "Diglett"
   },
   {
     "dex": 52,
-    "name": "喵喵",
-    "name_en": "Meowth",
+    "name": {
+      "en": "Meowth",
+      "zh": "喵喵",
+    },
     "shiny_released": false,
     "family": "Meowth"
   },
   {
     "dex": 53,
-    "name": "貓老大",
-    "name_en": "Persian",
+    "name": {
+      "en": "Persian",
+      "zh": "貓老大",
+    },
     "shiny_released": false,
     "family": "Meowth"
   },
   {
     "dex": 54,
-    "name": "可達鴨",
-    "name_en": "Psyduck",
+    "name": {
+      "en": "Psyduck",
+      "zh": "可達鴨",
+    },
     "shiny_released": false,
     "family": "Psyduck"
   },
   {
     "dex": 55,
-    "name": "哥達鴨",
-    "name_en": "Golduck",
+    "name": {
+      "en": "Golduck",
+      "zh": "哥達鴨",
+    },
     "shiny_released": false,
     "family": "Psyduck"
   },
   {
     "dex": 56,
-    "name": "猴怪",
-    "name_en": "Mankey",
+    "name": {
+      "en": "Mankey",
+      "zh": "猴怪",
+    },
     "shiny_released": false,
     "family": "Mankey"
   },
   {
     "dex": 57,
-    "name": "火爆猴",
-    "name_en": "Primeape",
+    "name": {
+      "en": "Primeape",
+      "zh": "火爆猴",
+    },
     "shiny_released": false,
     "family": "Mankey"
   },
   {
     "dex": 58,
-    "name": "卡蒂狗",
-    "name_en": "Growlithe",
+    "name": {
+      "en": "Growlithe",
+      "zh": "卡蒂狗",
+    },
     "shiny_released": true,
     "family": "Growlithe"
   },
   {
     "dex": 59,
-    "name": "風速狗",
-    "name_en": "Arcanine",
+    "name": {
+      "en": "Arcanine",
+      "zh": "風速狗",
+    },
     "shiny_released": true,
     "family": "Growlithe"
   },
   {
     "dex": 60,
-    "name": "蚊香蝌蚪",
-    "name_en": "Poliwag",
+    "name": {
+      "en": "Poliwag",
+      "zh": "蚊香蝌蚪",
+    },
     "shiny_released": false,
     "family": "Poliwag"
   },
   {
     "dex": 61,
-    "name": "蚊香君",
-    "name_en": "Poliwhirl",
+    "name": {
+      "en": "Poliwhirl",
+      "zh": "蚊香君",
+    },
     "shiny_released": false,
     "family": "Poliwag"
   },
   {
     "dex": 62,
-    "name": "蚊香泳士",
-    "name_en": "Poliwrath",
+    "name": {
+      "en": "Poliwrath",
+      "zh": "蚊香泳士",
+    },
     "shiny_released": false,
     "family": "Poliwag"
   },
   {
     "dex": 63,
-    "name": "凱西",
-    "name_en": "Abra",
+    "name": {
+      "en": "Abra",
+      "zh": "凱西",
+    },
     "shiny_released": false,
     "family": "Abra"
   },
   {
     "dex": 64,
-    "name": "勇基拉",
-    "name_en": "Kadabra",
+    "name": {
+      "en": "Kadabra",
+      "zh": "勇基拉",
+    },
     "shiny_released": false,
     "family": "Abra"
   },
   {
     "dex": 65,
-    "name": "胡地",
-    "name_en": "Alakazam",
+    "name": {
+      "en": "Alakazam",
+      "zh": "胡地",
+    },
     "shiny_released": false,
     "family": "Abra"
   },
   {
     "dex": 66,
-    "name": "腕力",
-    "name_en": "Machop",
+    "name": {
+      "en": "Machop",
+      "zh": "腕力",
+    },
     "shiny_released": false,
     "family": "Machop"
   },
   {
     "dex": 67,
-    "name": "豪力",
-    "name_en": "Machoke",
+    "name": {
+      "en": "Machoke",
+      "zh": "豪力",
+    },
     "shiny_released": false,
     "family": "Machop"
   },
   {
     "dex": 68,
-    "name": "怪力",
-    "name_en": "Machamp",
+    "name": {
+      "en": "Machamp",
+      "zh": "怪力",
+    },
     "shiny_released": false,
     "family": "Machop"
   },
   {
     "dex": 69,
-    "name": "喇叭芽",
-    "name_en": "Bellsprout",
+    "name": {
+      "en": "Bellsprout",
+      "zh": "喇叭芽",
+    },
     "shiny_released": false,
     "family": "Bellsprout"
   },
   {
     "dex": 70,
-    "name": "口呆花",
-    "name_en": "Weepinbell",
+    "name": {
+      "en": "Weepinbell",
+      "zh": "口呆花",
+    },
     "shiny_released": false,
     "family": "Bellsprout"
   },
   {
     "dex": 71,
-    "name": "大食花",
-    "name_en": "Victreebel",
+    "name": {
+      "en": "Victreebel",
+      "zh": "大食花",
+    },
     "shiny_released": false,
     "family": "Bellsprout"
   },
   {
     "dex": 72,
-    "name": "瑪瑙水母",
-    "name_en": "Tentacool",
+    "name": {
+      "en": "Tentacool",
+      "zh": "瑪瑙水母",
+    },
     "shiny_released": false,
     "family": "Tentacool"
   },
   {
     "dex": 73,
-    "name": "毒刺水母",
-    "name_en": "Tentacruel",
+    "name": {
+      "en": "Tentacruel",
+      "zh": "毒刺水母",
+    },
     "shiny_released": false,
     "family": "Tentacool"
   },
   {
     "dex": 74,
-    "name": "小拳石",
-    "name_en": "Geodude",
+    "name": {
+      "en": "Geodude",
+      "zh": "小拳石",
+    },
     "shiny_released": true,
     "family": "Geodude"
   },
   {
     "dex": 75,
-    "name": "隆隆石",
-    "name_en": "Graveler",
+    "name": {
+      "en": "Graveler",
+      "zh": "隆隆石",
+    },
     "shiny_released": true,
     "family": "Geodude"
   },
   {
     "dex": 76,
-    "name": "隆隆岩",
-    "name_en": "Golem",
+    "name": {
+      "en": "Golem",
+      "zh": "隆隆岩",
+    },
     "shiny_released": true,
     "family": "Geodude"
   },
   {
     "dex": 77,
-    "name": "小火馬",
-    "name_en": "Ponyta",
+    "name": {
+      "en": "Ponyta",
+      "zh": "小火馬",
+    },
     "shiny_released": false,
     "family": "Ponyta"
   },
   {
     "dex": 78,
-    "name": "烈焰馬",
-    "name_en": "Rapidash",
+    "name": {
+      "en": "Rapidash",
+      "zh": "烈焰馬",
+    },
     "shiny_released": false,
     "family": "Ponyta"
   },
   {
     "dex": 79,
-    "name": "呆呆獸",
-    "name_en": "Slowpoke",
+    "name": {
+      "en": "Slowpoke",
+      "zh": "呆呆獸",
+    },
     "shiny_released": false,
     "family": "Slowpoke"
   },
   {
     "dex": 80,
-    "name": "呆殼獸",
-    "name_en": "Slowbro",
+    "name": {
+      "en": "Slowbro",
+      "zh": "呆殼獸",
+    },
     "shiny_released": false,
     "family": "Slowpoke"
   },
   {
     "dex": 81,
-    "name": "小磁怪",
-    "name_en": "Magnemite",
+    "name": {
+      "en": "Magnemite",
+      "zh": "小磁怪",
+    },
     "shiny_released": false,
     "family": "Magnemite"
   },
   {
     "dex": 82,
-    "name": "三合一磁怪",
-    "name_en": "Magneton",
+    "name": {
+      "en": "Magneton",
+      "zh": "三合一磁怪",
+    },
     "shiny_released": false,
     "family": "Magnemite"
   },
   {
     "dex": 83,
-    "name": "大蔥鴨",
-    "name_en": "Farfetchd",
+    "name": {
+      "en": "Farfetchd",
+      "zh": "大蔥鴨",
+    },
     "shiny_released": false,
     "family": "Farfetchd"
   },
   {
     "dex": 84,
-    "name": "嘟嘟",
-    "name_en": "Doduo",
+    "name": {
+      "en": "Doduo",
+      "zh": "嘟嘟",
+    },
     "shiny_released": false,
     "family": "Doduo"
   },
   {
     "dex": 85,
-    "name": "嘟嘟利",
-    "name_en": "Dodrio",
+    "name": {
+      "en": "Dodrio",
+      "zh": "嘟嘟利",
+    },
     "shiny_released": false,
     "family": "Doduo"
   },
   {
     "dex": 86,
-    "name": "小海獅",
-    "name_en": "Seel",
+    "name": {
+      "en": "Seel",
+      "zh": "小海獅",
+    },
     "shiny_released": false,
     "family": "Seel"
   },
   {
     "dex": 87,
-    "name": "白海獅",
-    "name_en": "Dewgong",
+    "name": {
+      "en": "Dewgong",
+      "zh": "白海獅",
+    },
     "shiny_released": false,
     "family": "Seel"
   },
   {
     "dex": 88,
-    "name": "臭泥",
-    "name_en": "Grimer",
+    "name": {
+      "en": "Grimer",
+      "zh": "臭泥",
+    },
     "shiny_released": true,
     "family": "Grimer"
   },
   {
     "dex": 89,
-    "name": "臭臭泥",
-    "name_en": "Muk",
+    "name": {
+      "en": "Muk",
+      "zh": "臭臭泥",
+    },
     "shiny_released": true,
     "family": "Grimer"
   },
   {
     "dex": 90,
-    "name": "大舌貝",
-    "name_en": "Shellder",
+    "name": {
+      "en": "Shellder",
+      "zh": "大舌貝",
+    },
     "shiny_released": true,
     "family": "Shellder"
   },
   {
     "dex": 91,
-    "name": "刺甲貝",
-    "name_en": "Cloyster",
+    "name": {
+      "en": "Cloyster",
+      "zh": "刺甲貝",
+    },
     "shiny_released": true,
     "family": "Shellder"
   },
   {
     "dex": 92,
-    "name": "鬼斯",
-    "name_en": "Gastly",
+    "name": {
+      "en": "Gastly",
+      "zh": "鬼斯",
+    },
     "shiny_released": false,
     "family": "Gastly"
   },
   {
     "dex": 93,
-    "name": "鬼斯通",
-    "name_en": "Haunter",
+    "name": {
+      "en": "Haunter",
+      "zh": "鬼斯通",
+    },
     "shiny_released": false,
     "family": "Gastly"
   },
   {
     "dex": 94,
-    "name": "耿鬼",
-    "name_en": "Gengar",
+    "name": {
+      "en": "Gengar",
+      "zh": "耿鬼",
+    },
     "shiny_released": false,
     "family": "Gastly"
   },
   {
     "dex": 95,
-    "name": "大岩蛇",
-    "name_en": "Onix",
+    "name": {
+      "en": "Onix",
+      "zh": "大岩蛇",
+    },
     "shiny_released": false,
     "family": "Onix"
   },
   {
     "dex": 96,
-    "name": "催眠貘",
-    "name_en": "Drowzee",
+    "name": {
+      "en": "Drowzee",
+      "zh": "催眠貘",
+    },
     "shiny_released": true,
     "family": "Drowzee"
   },
   {
     "dex": 97,
-    "name": "引夢貘人",
-    "name_en": "Hypno",
+    "name": {
+      "en": "Hypno",
+      "zh": "引夢貘人",
+    },
     "shiny_released": true,
     "family": "Drowzee"
   },
   {
     "dex": 98,
-    "name": "大鉗蟹",
-    "name_en": "Krabby",
+    "name": {
+      "en": "Krabby",
+      "zh": "大鉗蟹",
+    },
     "shiny_released": true,
     "family": "Krabby"
   },
   {
     "dex": 99,
-    "name": "巨鉗蟹",
-    "name_en": "Kingler",
+    "name": {
+      "en": "Kingler",
+      "zh": "巨鉗蟹",
+    },
     "shiny_released": true,
     "family": "Krabby"
   },
   {
     "dex": 100,
-    "name": "霹靂電球",
-    "name_en": "Voltorb",
+    "name": {
+      "en": "Voltorb",
+      "zh": "霹靂電球",
+    },
     "shiny_released": false,
     "family": "Voltorb"
   },
   {
     "dex": 101,
-    "name": "頑皮雷彈",
-    "name_en": "Electrode",
+    "name": {
+      "en": "Electrode",
+      "zh": "頑皮雷彈",
+    },
     "shiny_released": false,
     "family": "Voltorb"
   },
   {
     "dex": 102,
-    "name": "蛋蛋",
-    "name_en": "Exeggcute",
+    "name": {
+      "en": "Exeggcute",
+      "zh": "蛋蛋",
+    },
     "shiny_released": false,
     "family": "Exeggcute"
   },
   {
     "dex": 103,
-    "name": "椰蛋樹",
-    "name_en": "Exeggutor",
+    "name": {
+      "en": "Exeggutor",
+      "zh": "椰蛋樹",
+    },
     "shiny_released": false,
     "family": "Exeggcute"
   },
   {
     "dex": 104,
-    "name": "卡拉卡拉",
-    "name_en": "Cubone",
+    "name": {
+      "en": "Cubone",
+      "zh": "卡拉卡拉",
+    },
     "shiny_released": false,
     "family": "Cubone"
   },
   {
     "dex": 105,
-    "name": "嘎啦嘎啦",
-    "name_en": "Marowak",
+    "name": {
+      "en": "Marowak",
+      "zh": "嘎啦嘎啦",
+    },
     "shiny_released": false,
     "family": "Cubone"
   },
   {
     "dex": 106,
-    "name": "飛腿郎",
-    "name_en": "Hitmonlee",
+    "name": {
+      "en": "Hitmonlee",
+      "zh": "飛腿郎",
+    },
     "shiny_released": false,
     "family": "Tyrogue"
   },
   {
     "dex": 107,
-    "name": "快拳郎",
-    "name_en": "Hitmonchan",
+    "name": {
+      "en": "Hitmonchan",
+      "zh": "快拳郎",
+    },
     "shiny_released": false,
     "family": "Tyrogue"
   },
   {
     "dex": 108,
-    "name": "大舌頭",
-    "name_en": "Lickitung",
+    "name": {
+      "en": "Lickitung",
+      "zh": "大舌頭",
+    },
     "shiny_released": false,
     "family": "Lickitung"
   },
   {
     "dex": 109,
-    "name": "瓦斯彈",
-    "name_en": "Koffing",
+    "name": {
+      "en": "Koffing",
+      "zh": "瓦斯彈",
+    },
     "shiny_released": false,
     "family": "Koffing"
   },
   {
     "dex": 110,
-    "name": "雙彈瓦斯",
-    "name_en": "Weezing",
+    "name": {
+      "en": "Weezing",
+      "zh": "雙彈瓦斯",
+    },
     "shiny_released": false,
     "family": "Koffing"
   },
   {
     "dex": 111,
-    "name": "獨角犀牛",
-    "name_en": "Rhyhorn",
+    "name": {
+      "en": "Rhyhorn",
+      "zh": "獨角犀牛",
+    },
     "shiny_released": false,
     "family": "Rhyhorn"
   },
   {
     "dex": 112,
-    "name": "鑽角犀獸",
-    "name_en": "Rhydon",
+    "name": {
+      "en": "Rhydon",
+      "zh": "鑽角犀獸",
+    },
     "shiny_released": false,
     "family": "Rhyhorn"
   },
   {
     "dex": 113,
-    "name": "吉利蛋",
-    "name_en": "Chansey",
+    "name": {
+      "en": "Chansey",
+      "zh": "吉利蛋",
+    },
     "shiny_released": false,
     "family": "Chansey"
   },
   {
     "dex": 114,
-    "name": "蔓藤怪",
-    "name_en": "Tangela",
+    "name": {
+      "en": "Tangela",
+      "zh": "蔓藤怪",
+    },
     "shiny_released": false,
     "family": "Tangela"
   },
   {
     "dex": 115,
-    "name": "袋獸",
-    "name_en": "Kangaskhan",
+    "name": {
+      "en": "Kangaskhan",
+      "zh": "袋獸",
+    },
     "shiny_released": false,
     "family": "Kangaskhan"
   },
   {
     "dex": 116,
-    "name": "墨海馬",
-    "name_en": "Horsea",
+    "name": {
+      "en": "Horsea",
+      "zh": "墨海馬",
+    },
     "shiny_released": false,
     "family": "Horsea"
   },
   {
     "dex": 117,
-    "name": "海刺龍",
-    "name_en": "Seadra",
+    "name": {
+      "en": "Seadra",
+      "zh": "海刺龍",
+    },
     "shiny_released": false,
     "family": "Horsea"
   },
   {
     "dex": 118,
-    "name": "角金魚",
-    "name_en": "Goldeen",
+    "name": {
+      "en": "Goldeen",
+      "zh": "角金魚",
+    },
     "shiny_released": false,
     "family": "Goldeen"
   },
   {
     "dex": 119,
-    "name": "金魚王",
-    "name_en": "Seaking",
+    "name": {
+      "en": "Seaking",
+      "zh": "金魚王",
+    },
     "shiny_released": false,
     "family": "Goldeen"
   },
   {
     "dex": 120,
-    "name": "海星星",
-    "name_en": "Staryu",
+    "name": {
+      "en": "Staryu",
+      "zh": "海星星",
+    },
     "shiny_released": false,
     "family": "Staryu"
   },
   {
     "dex": 121,
-    "name": "寶石海星",
-    "name_en": "Starmie",
+    "name": {
+      "en": "Starmie",
+      "zh": "寶石海星",
+    },
     "shiny_released": false,
     "family": "Staryu"
   },
   {
     "dex": 122,
-    "name": "魔牆人偶",
-    "name_en": "Mr Mime",
+    "name": {
+      "en": "Mr Mime",
+      "zh": "魔牆人偶",
+    },
     "shiny_released": false,
     "family": "Mr Mime"
   },
   {
     "dex": 123,
-    "name": "飛天螳螂",
-    "name_en": "Scyther",
+    "name": {
+      "en": "Scyther",
+      "zh": "飛天螳螂",
+    },
     "shiny_released": false,
     "family": "Scyther"
   },
   {
     "dex": 124,
-    "name": "迷唇姐",
-    "name_en": "Jynx",
+    "name": {
+      "en": "Jynx",
+      "zh": "迷唇姐",
+    },
     "shiny_released": false,
     "family": "Jynx"
   },
   {
     "dex": 125,
-    "name": "電擊獸",
-    "name_en": "Electabuzz",
+    "name": {
+      "en": "Electabuzz",
+      "zh": "電擊獸",
+    },
     "shiny_released": false,
     "family": "Electabuzz"
   },
   {
     "dex": 126,
-    "name": "鴨嘴火獸",
-    "name_en": "Magmar",
+    "name": {
+      "en": "Magmar",
+      "zh": "鴨嘴火獸",
+    },
     "shiny_released": true,
     "family": "Magmar"
   },
   {
     "dex": 127,
-    "name": "凱羅斯",
-    "name_en": "Pinsir",
+    "name": {
+      "en": "Pinsir",
+      "zh": "凱羅斯",
+    },
     "shiny_released": false,
     "family": "Pinsir"
   },
   {
     "dex": 128,
-    "name": "肯泰羅",
-    "name_en": "Tauros",
+    "name": {
+      "en": "Tauros",
+      "zh": "肯泰羅",
+    },
     "shiny_released": false,
     "family": "Tauros"
   },
   {
     "dex": 129,
-    "name": "鯉魚王",
-    "name_en": "Magikarp",
+    "name": {
+      "en": "Magikarp",
+      "zh": "鯉魚王",
+    },
     "shiny_released": true,
     "family": "Magikarp"
   },
   {
     "dex": 130,
-    "name": "暴鯉龍",
-    "name_en": "Gyarados",
+    "name": {
+      "en": "Gyarados",
+      "zh": "暴鯉龍",
+    },
     "shiny_released": true,
     "family": "Magikarp"
   },
   {
     "dex": 131,
-    "name": "拉普拉斯",
-    "name_en": "Lapras",
+    "name": {
+      "en": "Lapras",
+      "zh": "拉普拉斯",
+    },
     "shiny_released": false,
     "family": "Lapras"
   },
   {
     "dex": 132,
-    "name": "百變怪",
-    "name_en": "Ditto",
+    "name": {
+      "en": "Ditto",
+      "zh": "百變怪",
+    },
     "shiny_released": false,
     "family": "Ditto"
   },
   {
     "dex": 133,
-    "name": "伊布",
-    "name_en": "Eevee",
+    "name": {
+      "en": "Eevee",
+      "zh": "伊布",
+    },
     "shiny_released": true,
     "family": "Eevee"
   },
   {
     "dex": 134,
-    "name": "水伊布",
-    "name_en": "Vaporeon",
+    "name": {
+      "en": "Vaporeon",
+      "zh": "水伊布",
+    },
     "shiny_released": true,
     "family": "Eevee"
   },
   {
     "dex": 135,
-    "name": "雷伊布",
-    "name_en": "Jolteon",
+    "name": {
+      "en": "Jolteon",
+      "zh": "雷伊布",
+    },
     "shiny_released": true,
     "family": "Eevee"
   },
   {
     "dex": 136,
-    "name": "火伊布",
-    "name_en": "Flareon",
+    "name": {
+      "en": "Flareon",
+      "zh": "火伊布",
+    },
     "shiny_released": true,
     "family": "Eevee"
   },
   {
     "dex": 137,
-    "name": "多邊獸",
-    "name_en": "Porygon",
+    "name": {
+      "en": "Porygon",
+      "zh": "多邊獸",
+    },
     "shiny_released": false,
     "family": "Porygon"
   },
   {
     "dex": 138,
-    "name": "菊石獸",
-    "name_en": "Omanyte",
+    "name": {
+      "en": "Omanyte",
+      "zh": "菊石獸",
+    },
     "shiny_released": true,
     "family": "Omanyte"
   },
   {
     "dex": 139,
-    "name": "多刺菊石獸",
-    "name_en": "Omastar",
+    "name": {
+      "en": "Omastar",
+      "zh": "多刺菊石獸",
+    },
     "shiny_released": true,
     "family": "Omanyte"
   },
   {
     "dex": 140,
-    "name": "化石盔",
-    "name_en": "Kabuto",
+    "name": {
+      "en": "Kabuto",
+      "zh": "化石盔",
+    },
     "shiny_released": true,
     "family": "Kabuto"
   },
   {
     "dex": 141,
-    "name": "鐮刀盔",
-    "name_en": "Kabutops",
+    "name": {
+      "en": "Kabutops",
+      "zh": "鐮刀盔",
+    },
     "shiny_released": true,
     "family": "Kabuto"
   },
   {
     "dex": 142,
-    "name": "化石翼龍",
-    "name_en": "Aerodactyl",
+    "name": {
+      "en": "Aerodactyl",
+      "zh": "化石翼龍",
+    },
     "shiny_released": true,
     "family": "Aerodactyl"
   },
   {
     "dex": 143,
-    "name": "卡比獸",
-    "name_en": "Snorlax",
+    "name": {
+      "en": "Snorlax",
+      "zh": "卡比獸",
+    },
     "shiny_released": false,
     "family": "Snorlax"
   },
   {
     "dex": 144,
-    "name": "急凍鳥",
-    "name_en": "Articuno",
+    "name": {
+      "en": "Articuno",
+      "zh": "急凍鳥",
+    },
     "shiny_released": true,
     "family": "Articuno"
   },
   {
     "dex": 145,
-    "name": "閃電鳥",
-    "name_en": "Zapdos",
+    "name": {
+      "en": "Zapdos",
+      "zh": "閃電鳥",
+    },
     "shiny_released": true,
     "family": "Zapdos"
   },
   {
     "dex": 146,
-    "name": "火焰鳥",
-    "name_en": "Moltres",
+    "name": {
+      "en": "Moltres",
+      "zh": "火焰鳥",
+    },
     "shiny_released": true,
     "family": "Moltres"
   },
   {
     "dex": 147,
-    "name": "迷你龍",
-    "name_en": "Dratini",
+    "name": {
+      "en": "Dratini",
+      "zh": "迷你龍",
+    },
     "shiny_released": true,
     "family": "Dratini"
   },
   {
     "dex": 148,
-    "name": "哈克龍",
-    "name_en": "Dragonair",
+    "name": {
+      "en": "Dragonair",
+      "zh": "哈克龍",
+    },
     "shiny_released": true,
     "family": "Dratini"
   },
   {
     "dex": 149,
-    "name": "快龍",
-    "name_en": "Dragonite",
+    "name": {
+      "en": "Dragonite",
+      "zh": "快龍",
+    },
     "shiny_released": true,
     "family": "Dratini"
   },
   {
     "dex": 150,
-    "name": "超夢",
-    "name_en": "Mewtwo",
+    "name": {
+      "en": "Mewtwo",
+      "zh": "超夢",
+    },
     "shiny_released": false,
     "family": "Mewtwo"
   },
   {
     "dex": 151,
-    "name": "夢幻",
-    "name_en": "Mew",
+    "name": {
+      "en": "Mew",
+      "zh": "夢幻",
+    },
     "shiny_released": false,
     "family": "Mew"
   },
   {
     "dex": 152,
-    "name": "菊草葉",
-    "name_en": "Chikorita",
+    "name": {
+      "en": "Chikorita",
+      "zh": "菊草葉",
+    },
     "shiny_released": true,
     "family": "Chikorita"
   },
   {
     "dex": 153,
-    "name": "月桂葉",
-    "name_en": "Bayleef",
+    "name": {
+      "en": "Bayleef",
+      "zh": "月桂葉",
+    },
     "shiny_released": true,
     "family": "Chikorita"
   },
   {
     "dex": 154,
-    "name": "大竺葵",
-    "name_en": "Meganium",
+    "name": {
+      "en": "Meganium",
+      "zh": "大竺葵",
+    },
     "shiny_released": true,
     "family": "Chikorita"
   },
   {
     "dex": 155,
-    "name": "火球鼠",
-    "name_en": "Cyndaquil",
+    "name": {
+      "en": "Cyndaquil",
+      "zh": "火球鼠",
+    },
     "shiny_released": false,
     "family": "Cyndaquil"
   },
   {
     "dex": 156,
-    "name": "火岩鼠",
-    "name_en": "Quilava",
+    "name": {
+      "en": "Quilava",
+      "zh": "火岩鼠",
+    },
     "shiny_released": false,
     "family": "Cyndaquil"
   },
   {
     "dex": 157,
-    "name": "火爆獸",
-    "name_en": "Typhlosion",
+    "name": {
+      "en": "Typhlosion",
+      "zh": "火爆獸",
+    },
     "shiny_released": false,
     "family": "Cyndaquil"
   },
   {
     "dex": 158,
-    "name": "小鋸鱷",
-    "name_en": "Totodile",
+    "name": {
+      "en": "Totodile",
+      "zh": "小鋸鱷",
+    },
     "shiny_released": false,
     "family": "Totodile"
   },
   {
     "dex": 159,
-    "name": "藍鱷",
-    "name_en": "Croconaw",
+    "name": {
+      "en": "Croconaw",
+      "zh": "藍鱷",
+    },
     "shiny_released": false,
     "family": "Totodile"
   },
   {
     "dex": 160,
-    "name": "大力鱷",
-    "name_en": "Feraligatr",
+    "name": {
+      "en": "Feraligatr",
+      "zh": "大力鱷",
+    },
     "shiny_released": false,
     "family": "Totodile"
   },
   {
     "dex": 161,
-    "name": "尾立",
-    "name_en": "Sentret",
+    "name": {
+      "en": "Sentret",
+      "zh": "尾立",
+    },
     "shiny_released": false,
     "family": "Sentret"
   },
   {
     "dex": 162,
-    "name": "大尾立",
-    "name_en": "Furret",
+    "name": {
+      "en": "Furret",
+      "zh": "大尾立",
+    },
     "shiny_released": false,
     "family": "Sentret"
   },
   {
     "dex": 163,
-    "name": "咕咕",
-    "name_en": "Hoothoot",
+    "name": {
+      "en": "Hoothoot",
+      "zh": "咕咕",
+    },
     "shiny_released": false,
     "family": "Hoothoot"
   },
   {
     "dex": 164,
-    "name": "貓頭夜鷹",
-    "name_en": "Noctowl",
+    "name": {
+      "en": "Noctowl",
+      "zh": "貓頭夜鷹",
+    },
     "shiny_released": false,
     "family": "Hoothoot"
   },
   {
     "dex": 165,
-    "name": "芭瓢蟲",
-    "name_en": "Ledyba",
+    "name": {
+      "en": "Ledyba",
+      "zh": "芭瓢蟲",
+    },
     "shiny_released": false,
     "family": "Ledyba"
   },
   {
     "dex": 166,
-    "name": "安瓢蟲",
-    "name_en": "Ledian",
+    "name": {
+      "en": "Ledian",
+      "zh": "安瓢蟲",
+    },
     "shiny_released": false,
     "family": "Ledyba"
   },
   {
     "dex": 167,
-    "name": "圓絲蛛",
-    "name_en": "Spinarak",
+    "name": {
+      "en": "Spinarak",
+      "zh": "圓絲蛛",
+    },
     "shiny_released": false,
     "family": "Spinarak"
   },
   {
     "dex": 168,
-    "name": "阿利多斯",
-    "name_en": "Ariados",
+    "name": {
+      "en": "Ariados",
+      "zh": "阿利多斯",
+    },
     "shiny_released": false,
     "family": "Spinarak"
   },
   {
     "dex": 169,
-    "name": "叉字蝠",
-    "name_en": "Crobat",
+    "name": {
+      "en": "Crobat",
+      "zh": "叉字蝠",
+    },
     "shiny_released": false,
     "family": "Zubat"
   },
   {
     "dex": 170,
-    "name": "燈籠魚",
-    "name_en": "Chinchou",
+    "name": {
+      "en": "Chinchou",
+      "zh": "燈籠魚",
+    },
     "shiny_released": false,
     "family": "Chinchou"
   },
   {
     "dex": 171,
-    "name": "電燈怪",
-    "name_en": "Lanturn",
+    "name": {
+      "en": "Lanturn",
+      "zh": "電燈怪",
+    },
     "shiny_released": false,
     "family": "Chinchou"
   },
   {
     "dex": 172,
-    "name": "皮丘",
-    "name_en": "Pichu",
+    "name": {
+      "en": "Pichu",
+      "zh": "皮丘",
+    },
     "shiny_released": true,
     "order": -1,
     "family": "Pikachu"
   },
   {
     "dex": 172,
-    "name": "皮丘",
+    "name": {
+      "en": "Pichu",
+      "zh": "皮丘",
+    },
     "isotope": "_02",
-    "name_en": "Pichu",
     "shiny_released": true,
     "order": -1,
     "family": "Pikachu_02"
   },
   {
     "dex": 173,
-    "name": "皮寶寶",
-    "name_en": "Cleffa",
+    "name": {
+      "en": "Cleffa",
+      "zh": "皮寶寶",
+    },
     "shiny_released": false,
     "order": -1,
     "family": "Clefairy"
   },
   {
     "dex": 174,
-    "name": "寶寶丁",
-    "name_en": "Igglybuff",
+    "name": {
+      "en": "Igglybuff",
+      "zh": "寶寶丁",
+    },
     "shiny_released": false,
     "order": -1,
     "family": "Jigglypuff"
   },
   {
     "dex": 175,
-    "name": "波克比",
-    "name_en": "Togepi",
+    "name": {
+      "en": "Togepi",
+      "zh": "波克比",
+    },
     "shiny_released": true,
     "family": "Togepi"
   },
   {
     "dex": 176,
-    "name": "波克基古",
-    "name_en": "Togetic",
+    "name": {
+      "en": "Togetic",
+      "zh": "波克基古",
+    },
     "shiny_released": true,
     "family": "Togepi"
   },
   {
     "dex": 177,
-    "name": "天然雀",
-    "name_en": "Natu",
+    "name": {
+      "en": "Natu",
+      "zh": "天然雀",
+    },
     "shiny_released": true,
     "family": "Natu"
   },
   {
     "dex": 178,
-    "name": "天然鳥",
-    "name_en": "Xatu",
+    "name": {
+      "en": "Xatu",
+      "zh": "天然鳥",
+    },
     "shiny_released": true,
     "family": "Natu"
   },
   {
     "dex": 179,
-    "name": "咩利羊",
-    "name_en": "Mareep",
+    "name": {
+      "en": "Mareep",
+      "zh": "咩利羊",
+    },
     "shiny_released": true,
     "family": "Mareep"
   },
   {
     "dex": 180,
-    "name": "茸茸羊",
-    "name_en": "Flaaffy",
+    "name": {
+      "en": "Flaaffy",
+      "zh": "茸茸羊",
+    },
     "shiny_released": true,
     "family": "Mareep"
   },
   {
     "dex": 181,
-    "name": "電龍",
-    "name_en": "Ampharos",
+    "name": {
+      "en": "Ampharos",
+      "zh": "電龍",
+    },
     "shiny_released": true,
     "family": "Mareep"
   },
   {
     "dex": 182,
-    "name": "美麗花",
-    "name_en": "Bellossom",
+    "name": {
+      "en": "Bellossom",
+      "zh": "美麗花",
+    },
     "shiny_released": false,
     "family": "Oddish"
   },
   {
     "dex": 183,
-    "name": "瑪力露",
-    "name_en": "Marill",
+    "name": {
+      "en": "Marill",
+      "zh": "瑪力露",
+    },
     "shiny_released": false,
     "family": "Marill"
   },
   {
     "dex": 184,
-    "name": "瑪力露麗",
-    "name_en": "Azumarill",
+    "name": {
+      "en": "Azumarill",
+      "zh": "瑪力露麗",
+    },
     "shiny_released": false,
     "family": "Marill"
   },
   {
     "dex": 185,
-    "name": "樹才怪",
-    "name_en": "Sudowoodo",
+    "name": {
+      "en": "Sudowoodo",
+      "zh": "樹才怪",
+    },
     "shiny_released": false,
     "family": "Sudowoodo"
   },
   {
     "dex": 186,
-    "name": "蚊香蛙皇",
-    "name_en": "Politoed",
+    "name": {
+      "en": "Politoed",
+      "zh": "蚊香蛙皇",
+    },
     "shiny_released": false,
     "family": "Poliwag"
   },
   {
     "dex": 187,
-    "name": "毽子草",
-    "name_en": "Hoppip",
+    "name": {
+      "en": "Hoppip",
+      "zh": "毽子草",
+    },
     "shiny_released": false,
     "family": "Hoppip"
   },
   {
     "dex": 188,
-    "name": "毽子花",
-    "name_en": "Skiploom",
+    "name": {
+      "en": "Skiploom",
+      "zh": "毽子花",
+    },
     "shiny_released": false,
     "family": "Hoppip"
   },
   {
     "dex": 189,
-    "name": "毽子棉",
-    "name_en": "Jumpluff",
+    "name": {
+      "en": "Jumpluff",
+      "zh": "毽子棉",
+    },
     "shiny_released": false,
     "family": "Hoppip"
   },
   {
     "dex": 190,
-    "name": "長尾怪手",
-    "name_en": "Aipom",
+    "name": {
+      "en": "Aipom",
+      "zh": "長尾怪手",
+    },
     "shiny_released": false,
     "family": "Aipom"
   },
   {
     "dex": 191,
-    "name": "向日種子",
-    "name_en": "Sunkern",
+    "name": {
+      "en": "Sunkern",
+      "zh": "向日種子",
+    },
     "shiny_released": true,
     "family": "Sunkern"
   },
   {
     "dex": 192,
-    "name": "向日花怪",
-    "name_en": "Sunflora",
+    "name": {
+      "en": "Sunflora",
+      "zh": "向日花怪",
+    },
     "shiny_released": true,
     "family": "Sunkern"
   },
   {
     "dex": 193,
-    "name": "蜻蜻蜓",
-    "name_en": "Yanma",
+    "name": {
+      "en": "Yanma",
+      "zh": "蜻蜻蜓",
+    },
     "shiny_released": false,
     "family": "Yanma"
   },
   {
     "dex": 194,
-    "name": "烏波",
-    "name_en": "Wooper",
+    "name": {
+      "en": "Wooper",
+      "zh": "烏波",
+    },
     "shiny_released": false,
     "family": "Wooper"
   },
   {
     "dex": 195,
-    "name": "沼王",
-    "name_en": "Quagsire",
+    "name": {
+      "en": "Quagsire",
+      "zh": "沼王",
+    },
     "shiny_released": false,
     "family": "Wooper"
   },
   {
     "dex": 196,
-    "name": "太陽伊布",
-    "name_en": "Espeon",
+    "name": {
+      "en": "Espeon",
+      "zh": "太陽伊布",
+    },
     "shiny_released": true,
     "family": "Eevee"
   },
   {
     "dex": 197,
-    "name": "月亮伊布",
-    "name_en": "Umbreon",
+    "name": {
+      "en": "Umbreon",
+      "zh": "月亮伊布",
+    },
     "shiny_released": true,
     "family": "Eevee"
   },
   {
     "dex": 198,
-    "name": "黑暗鴉",
-    "name_en": "Murkrow",
+    "name": {
+      "en": "Murkrow",
+      "zh": "黑暗鴉",
+    },
     "shiny_released": true,
     "family": "Murkrow"
   },
   {
     "dex": 199,
-    "name": "呆呆王",
-    "name_en": "Slowking",
+    "name": {
+      "en": "Slowking",
+      "zh": "呆呆王",
+    },
     "shiny_released": false,
     "family": "Slowpoke"
   },
   {
     "dex": 200,
-    "name": "夢妖",
-    "name_en": "Misdreavus",
+    "name": {
+      "en": "Misdreavus",
+      "zh": "夢妖",
+    },
     "shiny_released": false,
     "family": "Misdreavus"
   },
   {
     "dex": 201,
-    "name": "未知圖騰",
-    "name_en": "Unown",
+    "name": {
+      "en": "Unown",
+      "zh": "未知圖騰",
+    },
     "shiny_released": false,
     "family": "Unown"
   },
   {
     "dex": 202,
-    "name": "果然翁",
-    "name_en": "Wobbuffet",
+    "name": {
+      "en": "Wobbuffet",
+      "zh": "果然翁",
+    },
     "shiny_released": true,
     "family": "Wobbuffet"
   },
   {
     "dex": 203,
-    "name": "麒麟奇",
-    "name_en": "Girafarig",
+    "name": {
+      "en": "Girafarig",
+      "zh": "麒麟奇",
+    },
     "shiny_released": false,
     "family": "Girafarig"
   },
   {
     "dex": 204,
-    "name": "榛果球",
-    "name_en": "Pineco",
+    "name": {
+      "en": "Pineco",
+      "zh": "榛果球",
+    },
     "shiny_released": true,
     "family": "Pineco"
   },
   {
     "dex": 205,
-    "name": "佛烈托斯",
-    "name_en": "Forretress",
+    "name": {
+      "en": "Forretress",
+      "zh": "佛烈托斯",
+    },
     "shiny_released": true,
     "family": "Pineco"
   },
   {
     "dex": 206,
-    "name": "土龍弟弟",
-    "name_en": "Dunsparce",
+    "name": {
+      "en": "Dunsparce",
+      "zh": "土龍弟弟",
+    },
     "shiny_released": false,
     "family": "Dunsparce"
   },
   {
     "dex": 207,
-    "name": "天蠍",
-    "name_en": "Gligar",
+    "name": {
+      "en": "Gligar",
+      "zh": "天蠍",
+    },
     "shiny_released": false,
     "family": "Gligar"
   },
   {
     "dex": 208,
-    "name": "大鋼蛇",
-    "name_en": "Steelix",
+    "name": {
+      "en": "Steelix",
+      "zh": "大鋼蛇",
+    },
     "shiny_released": false,
     "family": "Onix"
   },
   {
     "dex": 209,
-    "name": "布魯",
-    "name_en": "Snubbull",
+    "name": {
+      "en": "Snubbull",
+      "zh": "布魯",
+    },
     "shiny_released": true,
     "family": "Snubbull"
   },
   {
     "dex": 210,
-    "name": "布魯皇",
-    "name_en": "Granbull",
+    "name": {
+      "en": "Granbull",
+      "zh": "布魯皇",
+    },
     "shiny_released": true,
     "family": "Snubbull"
   },
   {
     "dex": 211,
-    "name": "千針魚",
-    "name_en": "Qwilfish",
+    "name": {
+      "en": "Qwilfish",
+      "zh": "千針魚",
+    },
     "shiny_released": false,
     "family": "Qwilfish"
   },
   {
     "dex": 212,
-    "name": "巨鉗螳螂",
-    "name_en": "Scizor",
+    "name": {
+      "en": "Scizor",
+      "zh": "巨鉗螳螂",
+    },
     "shiny_released": false,
     "family": "Scyther"
   },
   {
     "dex": 213,
-    "name": "壺壺",
-    "name_en": "Shuckle",
+    "name": {
+      "en": "Shuckle",
+      "zh": "壺壺",
+    },
     "shiny_released": false,
     "family": "Shuckle"
   },
   {
     "dex": 214,
-    "name": "赫拉克羅斯",
-    "name_en": "Heracross",
+    "name": {
+      "en": "Heracross",
+      "zh": "赫拉克羅斯",
+    },
     "shiny_released": false,
     "family": "Heracross"
   },
   {
     "dex": 215,
-    "name": "狃拉",
-    "name_en": "Sneasel",
+    "name": {
+      "en": "Sneasel",
+      "zh": "狃拉",
+    },
     "shiny_released": false,
     "family": "Sneasel"
   },
   {
     "dex": 216,
-    "name": "熊寶寶",
-    "name_en": "Teddiursa",
+    "name": {
+      "en": "Teddiursa",
+      "zh": "熊寶寶",
+    },
     "shiny_released": false,
     "family": "Teddiursa"
   },
   {
     "dex": 217,
-    "name": "圈圈熊",
-    "name_en": "Ursaring",
+    "name": {
+      "en": "Ursaring",
+      "zh": "圈圈熊",
+    },
     "shiny_released": false,
     "family": "Teddiursa"
   },
   {
     "dex": 218,
-    "name": "熔岩蟲",
-    "name_en": "Slugma",
+    "name": {
+      "en": "Slugma",
+      "zh": "熔岩蟲",
+    },
     "shiny_released": false,
     "family": "Slugma"
   },
   {
     "dex": 219,
-    "name": "熔岩蝸牛",
-    "name_en": "Magcargo",
+    "name": {
+      "en": "Magcargo",
+      "zh": "熔岩蝸牛",
+    },
     "shiny_released": false,
     "family": "Slugma"
   },
   {
     "dex": 220,
-    "name": "小山豬",
-    "name_en": "Swinub",
+    "name": {
+      "en": "Swinub",
+      "zh": "小山豬",
+    },
     "shiny_released": false,
     "family": "Swinub"
   },
   {
     "dex": 221,
-    "name": "長毛豬",
-    "name_en": "Piloswine",
+    "name": {
+      "en": "Piloswine",
+      "zh": "長毛豬",
+    },
     "shiny_released": false,
     "family": "Swinub"
   },
   {
     "dex": 222,
-    "name": "太陽珊瑚",
-    "name_en": "Corsola",
+    "name": {
+      "en": "Corsola",
+      "zh": "太陽珊瑚",
+    },
     "shiny_released": false,
     "family": "Corsola"
   },
   {
     "dex": 223,
-    "name": "鐵炮魚",
-    "name_en": "Remoraid",
+    "name": {
+      "en": "Remoraid",
+      "zh": "鐵炮魚",
+    },
     "shiny_released": false,
     "family": "Remoraid"
   },
   {
     "dex": 224,
-    "name": "章魚桶",
-    "name_en": "Octillery",
+    "name": {
+      "en": "Octillery",
+      "zh": "章魚桶",
+    },
     "shiny_released": false,
     "family": "Remoraid"
   },
   {
     "dex": 225,
-    "name": "信使鳥",
-    "name_en": "Delibird",
+    "name": {
+      "en": "Delibird",
+      "zh": "信使鳥",
+    },
     "shiny_released": false,
     "family": "Delibird"
   },
   {
     "dex": 226,
-    "name": "巨翅飛魚",
-    "name_en": "Mantine",
+    "name": {
+      "en": "Mantine",
+      "zh": "巨翅飛魚",
+    },
     "shiny_released": false,
     "family": "Mantine"
   },
   {
     "dex": 227,
-    "name": "盔甲鳥",
-    "name_en": "Skarmory",
+    "name": {
+      "en": "Skarmory",
+      "zh": "盔甲鳥",
+    },
     "shiny_released": false,
     "family": "Skarmory"
   },
   {
     "dex": 228,
-    "name": "戴魯比",
-    "name_en": "Houndour",
+    "name": {
+      "en": "Houndour",
+      "zh": "戴魯比",
+    },
     "shiny_released": true,
     "family": "Houndour"
   },
   {
     "dex": 229,
-    "name": "黑魯加",
-    "name_en": "Houndoom",
+    "name": {
+      "en": "Houndoom",
+      "zh": "黑魯加",
+    },
     "shiny_released": true,
     "family": "Houndour"
   },
   {
     "dex": 230,
-    "name": "刺龍王",
-    "name_en": "Kingdra",
+    "name": {
+      "en": "Kingdra",
+      "zh": "刺龍王",
+    },
     "shiny_released": false,
     "family": "Horsea"
   },
   {
     "dex": 231,
-    "name": "小小象",
-    "name_en": "Phanpy",
+    "name": {
+      "en": "Phanpy",
+      "zh": "小小象",
+    },
     "shiny_released": false,
     "family": "Phanpy"
   },
   {
     "dex": 232,
-    "name": "頓甲",
-    "name_en": "Donphan",
+    "name": {
+      "en": "Donphan",
+      "zh": "頓甲",
+    },
     "shiny_released": false,
     "family": "Phanpy"
   },
   {
     "dex": 233,
-    "name": "多邊獸Ⅱ",
-    "name_en": "Porygon2",
+    "name": {
+      "en": "Porygon2",
+      "zh": "多邊獸Ⅱ",
+    },
     "shiny_released": false,
     "family": "Porygon"
   },
   {
     "dex": 234,
-    "name": "驚角鹿",
-    "name_en": "Stantler",
+    "name": {
+      "en": "Stantler",
+      "zh": "驚角鹿",
+    },
     "shiny_released": false,
     "family": "Stantler"
   },
   {
     "dex": 235,
-    "name": "圖圖犬",
-    "name_en": "Smeargle",
+    "name": {
+      "en": "Smeargle",
+      "zh": "圖圖犬",
+    },
     "shiny_released": false,
     "family": "Smeargle"
   },
   {
     "dex": 236,
-    "name": "無畏小子",
-    "name_en": "Tyrogue",
+    "name": {
+      "en": "Tyrogue",
+      "zh": "無畏小子",
+    },
     "shiny_released": false,
     "family": "Tyrogue"
   },
   {
     "dex": 237,
-    "name": "戰舞郎",
-    "name_en": "Hitmontop",
+    "name": {
+      "en": "Hitmontop",
+      "zh": "戰舞郎",
+    },
     "shiny_released": false,
     "family": "Tyrogue"
   },
   {
     "dex": 238,
-    "name": "迷唇娃",
-    "name_en": "Smoochum",
+    "name": {
+      "en": "Smoochum",
+      "zh": "迷唇娃",
+    },
     "shiny_released": false,
     "order": -1,
     "family": "Jynx"
   },
   {
     "dex": 239,
-    "name": "電擊怪",
-    "name_en": "Elekid",
+    "name": {
+      "en": "Elekid",
+      "zh": "電擊怪",
+    },
     "shiny_released": false,
     "order": -1,
     "family": "Electabuzz"
   },
   {
     "dex": 240,
-    "name": "鴨嘴寶寶",
-    "name_en": "Magby",
+    "name": {
+      "en": "Magby",
+      "zh": "鴨嘴寶寶",
+    },
     "shiny_released": true,
     "order": -1,
     "family": "Magmar"
   },
   {
     "dex": 241,
-    "name": "大奶罐",
-    "name_en": "Miltank",
+    "name": {
+      "en": "Miltank",
+      "zh": "大奶罐",
+    },
     "shiny_released": false,
     "family": "Miltank"
   },
   {
     "dex": 242,
-    "name": "幸福蛋",
-    "name_en": "Blissey",
+    "name": {
+      "en": "Blissey",
+      "zh": "幸福蛋",
+    },
     "shiny_released": false,
     "family": "Chansey"
   },
   {
     "dex": 243,
-    "name": "雷公",
-    "name_en": "Raikou",
+    "name": {
+      "en": "Raikou",
+      "zh": "雷公",
+    },
     "shiny_released": false,
     "family": "Raikou"
   },
   {
     "dex": 244,
-    "name": "炎帝",
-    "name_en": "Entei",
+    "name": {
+      "en": "Entei",
+      "zh": "炎帝",
+    },
     "shiny_released": false,
     "family": "Entei"
   },
   {
     "dex": 245,
-    "name": "水君",
-    "name_en": "Suicune",
+    "name": {
+      "en": "Suicune",
+      "zh": "水君",
+    },
     "shiny_released": false,
     "family": "Suicune"
   },
   {
     "dex": 246,
-    "name": "幼基拉斯",
-    "name_en": "Larvitar",
+    "name": {
+      "en": "Larvitar",
+      "zh": "幼基拉斯",
+    },
     "shiny_released": true,
     "family": "Larvitar"
   },
   {
     "dex": 247,
-    "name": "沙基拉斯",
-    "name_en": "Pupitar",
+    "name": {
+      "en": "Pupitar",
+      "zh": "沙基拉斯",
+    },
     "shiny_released": true,
     "family": "Larvitar"
   },
   {
     "dex": 248,
-    "name": "班基拉斯",
-    "name_en": "Tyranitar",
+    "name": {
+      "en": "Tyranitar",
+      "zh": "班基拉斯",
+    },
     "shiny_released": true,
     "family": "Larvitar"
   },
   {
     "dex": 249,
-    "name": "洛奇亞",
-    "name_en": "Lugia",
+    "name": {
+      "en": "Lugia",
+      "zh": "洛奇亞",
+    },
     "shiny_released": true,
     "family": "Lugia"
   },
   {
     "dex": 250,
-    "name": "鳳王",
-    "name_en": "Ho Oh",
+    "name": {
+      "en": "Ho Oh",
+      "zh": "鳳王",
+    },
     "shiny_released": true,
     "family": "Ho Oh"
   },
   {
     "dex": 251,
-    "name": "時拉比",
-    "name_en": "Celebi",
+    "name": {
+      "en": "Celebi",
+      "zh": "時拉比",
+    },
     "shiny_released": false,
     "family": "Celebi"
   },
   {
     "dex": 252,
-    "name": "木守宮",
-    "name_en": "Treecko",
+    "name": {
+      "en": "Treecko",
+      "zh": "木守宮",
+    },
     "shiny_released": false,
     "family": "Treecko"
   },
   {
     "dex": 253,
-    "name": "森林蜥蜴",
-    "name_en": "Grovyle",
+    "name": {
+      "en": "Grovyle",
+      "zh": "森林蜥蜴",
+    },
     "shiny_released": false,
     "family": "Treecko"
   },
   {
     "dex": 254,
-    "name": "蜥蜴王",
-    "name_en": "Sceptile",
+    "name": {
+      "en": "Sceptile",
+      "zh": "蜥蜴王",
+    },
     "shiny_released": false,
     "family": "Treecko"
   },
   {
     "dex": 255,
-    "name": "火稚雞",
-    "name_en": "Torchic",
+    "name": {
+      "en": "Torchic",
+      "zh": "火稚雞",
+    },
     "shiny_released": false,
     "family": "Torchic"
   },
   {
     "dex": 256,
-    "name": "力壯雞",
-    "name_en": "Combusken",
+    "name": {
+      "en": "Combusken",
+      "zh": "力壯雞",
+    },
     "shiny_released": false,
     "family": "Torchic"
   },
   {
     "dex": 257,
-    "name": "火焰雞",
-    "name_en": "Blaziken",
+    "name": {
+      "en": "Blaziken",
+      "zh": "火焰雞",
+    },
     "shiny_released": false,
     "family": "Torchic"
   },
   {
     "dex": 258,
-    "name": "水躍魚",
-    "name_en": "Mudkip",
+    "name": {
+      "en": "Mudkip",
+      "zh": "水躍魚",
+    },
     "shiny_released": false,
     "family": "Mudkip"
   },
   {
     "dex": 259,
-    "name": "沼躍魚",
-    "name_en": "Marshtomp",
+    "name": {
+      "en": "Marshtomp",
+      "zh": "沼躍魚",
+    },
     "shiny_released": false,
     "family": "Mudkip"
   },
   {
     "dex": 260,
-    "name": "巨沼怪",
-    "name_en": "Swampert",
+    "name": {
+      "en": "Swampert",
+      "zh": "巨沼怪",
+    },
     "shiny_released": false,
     "family": "Mudkip"
   },
   {
     "dex": 261,
-    "name": "土狼犬",
-    "name_en": "Poochyena",
+    "name": {
+      "en": "Poochyena",
+      "zh": "土狼犬",
+    },
     "shiny_released": true,
     "family": "Poochyena"
   },
   {
     "dex": 262,
-    "name": "大狼犬",
-    "name_en": "Mightyena",
+    "name": {
+      "en": "Mightyena",
+      "zh": "大狼犬",
+    },
     "shiny_released": true,
     "family": "Poochyena"
   },
   {
     "dex": 263,
-    "name": "蛇紋熊",
-    "name_en": "Zigzagoon",
+    "name": {
+      "en": "Zigzagoon",
+      "zh": "蛇紋熊",
+    },
     "shiny_released": false,
     "family": "Zigzagoon"
   },
   {
     "dex": 264,
-    "name": "直衝熊",
-    "name_en": "Linoone",
+    "name": {
+      "en": "Linoone",
+      "zh": "直衝熊",
+    },
     "shiny_released": false,
     "family": "Zigzagoon"
   },
   {
     "dex": 265,
-    "name": "刺尾蟲",
-    "name_en": "Wurmple",
+    "name": {
+      "en": "Wurmple",
+      "zh": "刺尾蟲",
+    },
     "shiny_released": false,
     "family": "Wurmple"
   },
   {
     "dex": 266,
-    "name": "甲殼繭",
-    "name_en": "Silcoon",
+    "name": {
+      "en": "Silcoon",
+      "zh": "甲殼繭",
+    },
     "shiny_released": false,
     "family": "Wurmple"
   },
   {
     "dex": 267,
-    "name": "狩獵鳳蝶",
-    "name_en": "Beautifly",
+    "name": {
+      "en": "Beautifly",
+      "zh": "狩獵鳳蝶",
+    },
     "shiny_released": false,
     "family": "Wurmple"
   },
   {
     "dex": 268,
-    "name": "盾甲繭",
-    "name_en": "Cascoon",
+    "name": {
+      "en": "Cascoon",
+      "zh": "盾甲繭",
+    },
     "shiny_released": false,
     "family": "Wurmple"
   },
   {
     "dex": 269,
-    "name": "毒粉蛾",
-    "name_en": "Dustox",
+    "name": {
+      "en": "Dustox",
+      "zh": "毒粉蛾",
+    },
     "shiny_released": false,
     "family": "Wurmple"
   },
   {
     "dex": 270,
-    "name": "蓮葉童子",
-    "name_en": "Lotad",
+    "name": {
+      "en": "Lotad",
+      "zh": "蓮葉童子",
+    },
     "shiny_released": false,
     "family": "Lotad"
   },
   {
     "dex": 271,
-    "name": "蓮帽小童",
-    "name_en": "Lombre",
+    "name": {
+      "en": "Lombre",
+      "zh": "蓮帽小童",
+    },
     "shiny_released": false,
     "family": "Lotad"
   },
   {
     "dex": 272,
-    "name": "樂天河童",
-    "name_en": "Ludicolo",
+    "name": {
+      "en": "Ludicolo",
+      "zh": "樂天河童",
+    },
     "shiny_released": false,
     "family": "Lotad"
   },
   {
     "dex": 273,
-    "name": "橡實果",
-    "name_en": "Seedot",
+    "name": {
+      "en": "Seedot",
+      "zh": "橡實果",
+    },
     "shiny_released": false,
     "family": "Seedot"
   },
   {
     "dex": 274,
-    "name": "長鼻葉",
-    "name_en": "Nuzleaf",
+    "name": {
+      "en": "Nuzleaf",
+      "zh": "長鼻葉",
+    },
     "shiny_released": false,
     "family": "Seedot"
   },
   {
     "dex": 275,
-    "name": "狡猾天狗",
-    "name_en": "Shiftry",
+    "name": {
+      "en": "Shiftry",
+      "zh": "狡猾天狗",
+    },
     "shiny_released": false,
     "family": "Seedot"
   },
   {
     "dex": 276,
-    "name": "傲骨燕",
-    "name_en": "Taillow",
+    "name": {
+      "en": "Taillow",
+      "zh": "傲骨燕",
+    },
     "shiny_released": false,
     "family": "Taillow"
   },
   {
     "dex": 277,
-    "name": "大王燕",
-    "name_en": "Swellow",
+    "name": {
+      "en": "Swellow",
+      "zh": "大王燕",
+    },
     "shiny_released": false,
     "family": "Taillow"
   },
   {
     "dex": 278,
-    "name": "長翅鷗",
-    "name_en": "Wingull",
+    "name": {
+      "en": "Wingull",
+      "zh": "長翅鷗",
+    },
     "shiny_released": true,
     "family": "Wingull"
   },
   {
     "dex": 279,
-    "name": "大嘴鷗",
-    "name_en": "Pelipper",
+    "name": {
+      "en": "Pelipper",
+      "zh": "大嘴鷗",
+    },
     "shiny_released": true,
     "family": "Wingull"
   },
   {
     "dex": 280,
-    "name": "拉魯拉絲",
-    "name_en": "Ralts",
+    "name": {
+      "en": "Ralts",
+      "zh": "拉魯拉絲",
+    },
     "shiny_released": false,
     "family": "Ralts"
   },
   {
     "dex": 281,
-    "name": "奇魯莉安",
-    "name_en": "Kirlia",
+    "name": {
+      "en": "Kirlia",
+      "zh": "奇魯莉安",
+    },
     "shiny_released": false,
     "family": "Ralts"
   },
   {
     "dex": 282,
-    "name": "沙奈朵",
-    "name_en": "Gardevoir",
+    "name": {
+      "en": "Gardevoir",
+      "zh": "沙奈朵",
+    },
     "shiny_released": false,
     "family": "Ralts"
   },
   {
     "dex": 283,
-    "name": "溜溜糖球",
-    "name_en": "Surskit",
+    "name": {
+      "en": "Surskit",
+      "zh": "溜溜糖球",
+    },
     "shiny_released": false,
     "family": "Surskit"
   },
   {
     "dex": 284,
-    "name": "雨翅蛾",
-    "name_en": "Masquerain",
+    "name": {
+      "en": "Masquerain",
+      "zh": "雨翅蛾",
+    },
     "shiny_released": false,
     "family": "Surskit"
   },
   {
     "dex": 285,
-    "name": "蘑蘑菇",
-    "name_en": "Shroomish",
+    "name": {
+      "en": "Shroomish",
+      "zh": "蘑蘑菇",
+    },
     "shiny_released": false,
     "family": "Shroomish"
   },
   {
     "dex": 286,
-    "name": "斗笠菇",
-    "name_en": "Breloom",
+    "name": {
+      "en": "Breloom",
+      "zh": "斗笠菇",
+    },
     "shiny_released": false,
     "family": "Shroomish"
   },
   {
     "dex": 287,
-    "name": "懶人獺",
-    "name_en": "Slakoth",
+    "name": {
+      "en": "Slakoth",
+      "zh": "懶人獺",
+    },
     "shiny_released": false,
     "family": "Slakoth"
   },
   {
     "dex": 288,
-    "name": "過動猿",
-    "name_en": "Vigoroth",
+    "name": {
+      "en": "Vigoroth",
+      "zh": "過動猿",
+    },
     "shiny_released": false,
     "family": "Slakoth"
   },
   {
     "dex": 289,
-    "name": "請假王",
-    "name_en": "Slaking",
+    "name": {
+      "en": "Slaking",
+      "zh": "請假王",
+    },
     "shiny_released": false,
     "family": "Slakoth"
   },
   {
     "dex": 290,
-    "name": "土居忍士",
-    "name_en": "Nincada",
+    "name": {
+      "en": "Nincada",
+      "zh": "土居忍士",
+    },
     "shiny_released": false,
     "family": "Nincada"
   },
   {
     "dex": 291,
-    "name": "鐵面忍者",
-    "name_en": "Ninjask",
+    "name": {
+      "en": "Ninjask",
+      "zh": "鐵面忍者",
+    },
     "shiny_released": false,
     "family": "Nincada"
   },
   {
     "dex": 292,
-    "name": "脫殼忍者",
-    "name_en": "Shedinja",
+    "name": {
+      "en": "Shedinja",
+      "zh": "脫殼忍者",
+    },
     "shiny_released": false,
     "family": "Nincada"
   },
   {
     "dex": 293,
-    "name": "咕妞妞",
-    "name_en": "Whismur",
+    "name": {
+      "en": "Whismur",
+      "zh": "咕妞妞",
+    },
     "shiny_released": false,
     "family": "Whismur"
   },
   {
     "dex": 294,
-    "name": "吼爆彈",
-    "name_en": "Loudred",
+    "name": {
+      "en": "Loudred",
+      "zh": "吼爆彈",
+    },
     "shiny_released": false,
     "family": "Whismur"
   },
   {
     "dex": 295,
-    "name": "爆音怪",
-    "name_en": "Exploud",
+    "name": {
+      "en": "Exploud",
+      "zh": "爆音怪",
+    },
     "shiny_released": false,
     "family": "Whismur"
   },
   {
     "dex": 296,
-    "name": "幕下力士",
-    "name_en": "Makuhita",
+    "name": {
+      "en": "Makuhita",
+      "zh": "幕下力士",
+    },
     "shiny_released": true,
     "family": "Makuhita"
   },
   {
     "dex": 297,
-    "name": "鐵掌力士",
-    "name_en": "Hariyama",
+    "name": {
+      "en": "Hariyama",
+      "zh": "鐵掌力士",
+    },
     "shiny_released": true,
     "family": "Makuhita"
   },
   {
     "dex": 298,
-    "name": "露力麗",
-    "name_en": "Azurill",
+    "name": {
+      "en": "Azurill",
+      "zh": "露力麗",
+    },
     "shiny_released": false,
     "family": "Marill"
   },
   {
     "dex": 299,
-    "name": "朝北鼻",
-    "name_en": "Nosepass",
+    "name": {
+      "en": "Nosepass",
+      "zh": "朝北鼻",
+    },
     "shiny_released": false,
     "family": "Nosepass"
   },
   {
     "dex": 300,
-    "name": "向尾喵",
-    "name_en": "Skitty",
+    "name": {
+      "en": "Skitty",
+      "zh": "向尾喵",
+    },
     "shiny_released": false,
     "family": "Skitty"
   },
   {
     "dex": 301,
-    "name": "優雅貓",
-    "name_en": "Delcatty",
+    "name": {
+      "en": "Delcatty",
+      "zh": "優雅貓",
+    },
     "shiny_released": false,
     "family": "Skitty"
   },
   {
     "dex": 302,
-    "name": "勾魂眼",
-    "name_en": "Sableye",
+    "name": {
+      "en": "Sableye",
+      "zh": "勾魂眼",
+    },
     "shiny_released": true,
     "family": "Sableye"
   },
   {
     "dex": 303,
-    "name": "大嘴娃",
-    "name_en": "Mawile",
+    "name": {
+      "en": "Mawile",
+      "zh": "大嘴娃",
+    },
     "shiny_released": true,
     "family": "Mawile"
   },
   {
     "dex": 304,
-    "name": "可可多拉",
-    "name_en": "Aron",
+    "name": {
+      "en": "Aron",
+      "zh": "可可多拉",
+    },
     "shiny_released": true,
     "family": "Aron"
   },
   {
     "dex": 305,
-    "name": "可多拉",
-    "name_en": "Lairon",
+    "name": {
+      "en": "Lairon",
+      "zh": "可多拉",
+    },
     "shiny_released": true,
     "family": "Aron"
   },
   {
     "dex": 306,
-    "name": "波士可多拉",
-    "name_en": "Aggron",
+    "name": {
+      "en": "Aggron",
+      "zh": "波士可多拉",
+    },
     "shiny_released": true,
     "family": "Aron"
   },
   {
     "dex": 307,
-    "name": "瑪沙那",
-    "name_en": "Meditite",
+    "name": {
+      "en": "Meditite",
+      "zh": "瑪沙那",
+    },
     "shiny_released": true,
     "family": "Meditite"
   },
   {
     "dex": 308,
-    "name": "恰雷姆",
-    "name_en": "Medicham",
+    "name": {
+      "en": "Medicham",
+      "zh": "恰雷姆",
+    },
     "shiny_released": true,
     "family": "Meditite"
   },
   {
     "dex": 309,
-    "name": "落雷獸",
-    "name_en": "Electrike",
+    "name": {
+      "en": "Electrike",
+      "zh": "落雷獸",
+    },
     "shiny_released": false,
     "family": "Electrike"
   },
   {
     "dex": 310,
-    "name": "雷電獸",
-    "name_en": "Manectric",
+    "name": {
+      "en": "Manectric",
+      "zh": "雷電獸",
+    },
     "shiny_released": false,
     "family": "Electrike"
   },
   {
     "dex": 311,
-    "name": "正電拍拍",
-    "name_en": "Plusle",
+    "name": {
+      "en": "Plusle",
+      "zh": "正電拍拍",
+    },
     "shiny_released": true,
     "family": "Plusle"
   },
   {
     "dex": 312,
-    "name": "負電拍拍",
-    "name_en": "Minun",
+    "name": {
+      "en": "Minun",
+      "zh": "負電拍拍",
+    },
     "shiny_released": true,
     "family": "Minun"
   },
   {
     "dex": 313,
-    "name": "電螢蟲",
-    "name_en": "Volbeat",
+    "name": {
+      "en": "Volbeat",
+      "zh": "電螢蟲",
+    },
     "shiny_released": false,
     "family": "Volbeat"
   },
   {
     "dex": 314,
-    "name": "甜甜螢",
-    "name_en": "Illumise",
+    "name": {
+      "en": "Illumise",
+      "zh": "甜甜螢",
+    },
     "shiny_released": false,
     "family": "Illumise"
   },
   {
     "dex": 315,
-    "name": "毒薔薇",
-    "name_en": "Roselia",
+    "name": {
+      "en": "Roselia",
+      "zh": "毒薔薇",
+    },
     "shiny_released": true,
     "family": "Roselia"
   },
   {
     "dex": 316,
-    "name": "溶食獸",
-    "name_en": "Gulpin",
+    "name": {
+      "en": "Gulpin",
+      "zh": "溶食獸",
+    },
     "shiny_released": false,
     "family": "Gulpin"
   },
   {
     "dex": 317,
-    "name": "吞食獸",
-    "name_en": "Swalot",
+    "name": {
+      "en": "Swalot",
+      "zh": "吞食獸",
+    },
     "shiny_released": false,
     "family": "Gulpin"
   },
   {
     "dex": 318,
-    "name": "利牙魚",
-    "name_en": "Carvanha",
+    "name": {
+      "en": "Carvanha",
+      "zh": "利牙魚",
+    },
     "shiny_released": false,
     "family": "Carvanha"
   },
   {
     "dex": 319,
-    "name": "巨牙鯊",
-    "name_en": "Sharpedo",
+    "name": {
+      "en": "Sharpedo",
+      "zh": "巨牙鯊",
+    },
     "shiny_released": false,
     "family": "Carvanha"
   },
   {
     "dex": 320,
-    "name": "吼吼鯨",
-    "name_en": "Wailmer",
+    "name": {
+      "en": "Wailmer",
+      "zh": "吼吼鯨",
+    },
     "shiny_released": true,
     "family": "Wailmer"
   },
   {
     "dex": 321,
-    "name": "吼鯨王",
-    "name_en": "Wailord",
+    "name": {
+      "en": "Wailord",
+      "zh": "吼鯨王",
+    },
     "shiny_released": true,
     "family": "Wailmer"
   },
   {
     "dex": 322,
-    "name": "呆火駝",
-    "name_en": "Numel",
+    "name": {
+      "en": "Numel",
+      "zh": "呆火駝",
+    },
     "shiny_released": false,
     "family": "Numel"
   },
   {
     "dex": 323,
-    "name": "噴火駝",
-    "name_en": "Camerupt",
+    "name": {
+      "en": "Camerupt",
+      "zh": "噴火駝",
+    },
     "shiny_released": false,
     "family": "Numel"
   },
   {
     "dex": 324,
-    "name": "煤炭龜",
-    "name_en": "Torkoal",
+    "name": {
+      "en": "Torkoal",
+      "zh": "煤炭龜",
+    },
     "shiny_released": false,
     "family": "Torkoal"
   },
   {
     "dex": 325,
-    "name": "跳跳豬",
-    "name_en": "Spoink",
+    "name": {
+      "en": "Spoink",
+      "zh": "跳跳豬",
+    },
     "shiny_released": false,
     "family": "Spoink"
   },
   {
     "dex": 326,
-    "name": "噗噗豬",
-    "name_en": "Grumpig",
+    "name": {
+      "en": "Grumpig",
+      "zh": "噗噗豬",
+    },
     "shiny_released": false,
     "family": "Spoink"
   },
   {
     "dex": 327,
-    "name": "晃晃斑",
-    "name_en": "Spinda",
+    "name": {
+      "en": "Spinda",
+      "zh": "晃晃斑",
+    },
     "shiny_released": false,
     "family": "Spinda"
   },
   {
     "dex": 328,
-    "name": "大顎蟻",
-    "name_en": "Trapinch",
+    "name": {
+      "en": "Trapinch",
+      "zh": "大顎蟻",
+    },
     "shiny_released": false,
     "family": "Trapinch"
   },
   {
     "dex": 329,
-    "name": "超音波幼蟲",
-    "name_en": "Vibrava",
+    "name": {
+      "en": "Vibrava",
+      "zh": "超音波幼蟲",
+    },
     "shiny_released": false,
     "family": "Trapinch"
   },
   {
     "dex": 330,
-    "name": "沙漠蜻蜓",
-    "name_en": "Flygon",
+    "name": {
+      "en": "Flygon",
+      "zh": "沙漠蜻蜓",
+    },
     "shiny_released": false,
     "family": "Trapinch"
   },
   {
     "dex": 331,
-    "name": "刺球仙人掌",
-    "name_en": "Cacnea",
+    "name": {
+      "en": "Cacnea",
+      "zh": "刺球仙人掌",
+    },
     "shiny_released": false,
     "family": "Cacnea"
   },
   {
     "dex": 332,
-    "name": "夢歌仙人掌",
-    "name_en": "Cacturne",
+    "name": {
+      "en": "Cacturne",
+      "zh": "夢歌仙人掌",
+    },
     "shiny_released": false,
     "family": "Cacnea"
   },
   {
     "dex": 333,
-    "name": "青綿鳥",
-    "name_en": "Swablu",
+    "name": {
+      "en": "Swablu",
+      "zh": "青綿鳥",
+    },
     "shiny_released": true,
     "family": "Swablu"
   },
   {
     "dex": 334,
-    "name": "七夕青鳥",
-    "name_en": "Altaria",
+    "name": {
+      "en": "Altaria",
+      "zh": "七夕青鳥",
+    },
     "shiny_released": true,
     "family": "Swablu"
   },
   {
     "dex": 335,
-    "name": "貓鼬斬",
-    "name_en": "Zangoose",
+    "name": {
+      "en": "Zangoose",
+      "zh": "貓鼬斬",
+    },
     "shiny_released": false,
     "family": "Zangoose"
   },
   {
     "dex": 336,
-    "name": "飯匙蛇",
-    "name_en": "Seviper",
+    "name": {
+      "en": "Seviper",
+      "zh": "飯匙蛇",
+    },
     "shiny_released": false,
     "family": "Seviper"
   },
   {
     "dex": 337,
-    "name": "月石",
-    "name_en": "Lunatone",
+    "name": {
+      "en": "Lunatone",
+      "zh": "月石",
+    },
     "shiny_released": false,
     "family": "Lunatone"
   },
   {
     "dex": 338,
-    "name": "太陽岩",
-    "name_en": "Solrock",
+    "name": {
+      "en": "Solrock",
+      "zh": "太陽岩",
+    },
     "shiny_released": false,
     "family": "Solrock"
   },
   {
     "dex": 339,
-    "name": "泥泥鰍",
-    "name_en": "Barboach",
+    "name": {
+      "en": "Barboach",
+      "zh": "泥泥鰍",
+    },
     "shiny_released": false,
     "family": "Barboach"
   },
   {
     "dex": 340,
-    "name": "鯰魚王",
-    "name_en": "Whiscash",
+    "name": {
+      "en": "Whiscash",
+      "zh": "鯰魚王",
+    },
     "shiny_released": false,
     "family": "Barboach"
   },
   {
     "dex": 341,
-    "name": "龍蝦小兵",
-    "name_en": "Corphish",
+    "name": {
+      "en": "Corphish",
+      "zh": "龍蝦小兵",
+    },
     "shiny_released": false,
     "family": "Corphish"
   },
   {
     "dex": 342,
-    "name": "鐵螯龍蝦",
-    "name_en": "Crawdaunt",
+    "name": {
+      "en": "Crawdaunt",
+      "zh": "鐵螯龍蝦",
+    },
     "shiny_released": false,
     "family": "Corphish"
   },
   {
     "dex": 343,
-    "name": "天秤偶",
-    "name_en": "Baltoy",
+    "name": {
+      "en": "Baltoy",
+      "zh": "天秤偶",
+    },
     "shiny_released": false,
     "family": "Baltoy"
   },
   {
     "dex": 344,
-    "name": "念力土偶",
-    "name_en": "Claydol",
+    "name": {
+      "en": "Claydol",
+      "zh": "念力土偶",
+    },
     "shiny_released": false,
     "family": "Baltoy"
   },
   {
     "dex": 345,
-    "name": "觸手百合",
-    "name_en": "Lileep",
+    "name": {
+      "en": "Lileep",
+      "zh": "觸手百合",
+    },
     "shiny_released": false,
     "family": "Lileep"
   },
   {
     "dex": 346,
-    "name": "搖籃百合",
-    "name_en": "Cradily",
+    "name": {
+      "en": "Cradily",
+      "zh": "搖籃百合",
+    },
     "shiny_released": false,
     "family": "Lileep"
   },
   {
     "dex": 347,
-    "name": "太古羽蟲",
-    "name_en": "Anorith",
+    "name": {
+      "en": "Anorith",
+      "zh": "太古羽蟲",
+    },
     "shiny_released": false,
     "family": "Anorith"
   },
   {
     "dex": 348,
-    "name": "太古盔甲",
-    "name_en": "Armaldo",
+    "name": {
+      "en": "Armaldo",
+      "zh": "太古盔甲",
+    },
     "shiny_released": false,
     "family": "Anorith"
   },
   {
     "dex": 349,
-    "name": "醜醜魚",
-    "name_en": "Feebas",
+    "name": {
+      "en": "Feebas",
+      "zh": "醜醜魚",
+    },
     "shiny_released": false,
     "family": "Feebas"
   },
   {
     "dex": 350,
-    "name": "美納斯",
-    "name_en": "Milotic",
+    "name": {
+      "en": "Milotic",
+      "zh": "美納斯",
+    },
     "shiny_released": false,
     "family": "Feebas"
   },
   {
     "dex": 351,
-    "name": "飄浮泡泡",
-    "name_en": "Castform",
+    "name": {
+      "en": "Castform",
+      "zh": "飄浮泡泡",
+    },
     "shiny_released": false,
     "family": "Castform"
   },
   {
     "dex": 352,
-    "name": "變隱龍",
-    "name_en": "Kecleon",
+    "name": {
+      "en": "Kecleon",
+      "zh": "變隱龍",
+    },
     "shiny_released": false,
     "family": "Kecleon"
   },
   {
     "dex": 353,
-    "name": "怨影娃娃",
-    "name_en": "Shuppet",
+    "name": {
+      "en": "Shuppet",
+      "zh": "怨影娃娃",
+    },
     "shiny_released": true,
     "family": "Shuppet"
   },
   {
     "dex": 354,
-    "name": "詛咒娃娃",
-    "name_en": "Banette",
+    "name": {
+      "en": "Banette",
+      "zh": "詛咒娃娃",
+    },
     "shiny_released": true,
     "family": "Shuppet"
   },
   {
     "dex": 355,
-    "name": "夜巡靈",
-    "name_en": "Duskull",
+    "name": {
+      "en": "Duskull",
+      "zh": "夜巡靈",
+    },
     "shiny_released": true,
     "family": "Duskull"
   },
   {
     "dex": 356,
-    "name": "彷徨夜靈",
-    "name_en": "Dusclops",
+    "name": {
+      "en": "Dusclops",
+      "zh": "彷徨夜靈",
+    },
     "shiny_released": true,
     "family": "Duskull"
   },
   {
     "dex": 357,
-    "name": "熱帶龍",
-    "name_en": "Tropius",
+    "name": {
+      "en": "Tropius",
+      "zh": "熱帶龍",
+    },
     "shiny_released": false,
     "family": "Tropius"
   },
   {
     "dex": 358,
-    "name": "風鈴鈴",
-    "name_en": "Chimecho",
+    "name": {
+      "en": "Chimecho",
+      "zh": "風鈴鈴",
+    },
     "shiny_released": false,
     "family": "Chimecho"
   },
   {
     "dex": 359,
-    "name": "阿勃梭魯",
-    "name_en": "Absol",
+    "name": {
+      "en": "Absol",
+      "zh": "阿勃梭魯",
+    },
     "shiny_released": true,
     "family": "Absol"
   },
   {
     "dex": 360,
-    "name": "小果然",
-    "name_en": "Wynaut",
+    "name": {
+      "en": "Wynaut",
+      "zh": "小果然",
+    },
     "shiny_released": true,
     "order": -1,
     "family": "Wobbuffet"
   },
   {
     "dex": 361,
-    "name": "雪童子",
-    "name_en": "Snorunt",
+    "name": {
+      "en": "Snorunt",
+      "zh": "雪童子",
+    },
     "shiny_released": true,
     "family": "Snorunt"
   },
   {
     "dex": 362,
-    "name": "冰鬼護",
-    "name_en": "Glalie",
+    "name": {
+      "en": "Glalie",
+      "zh": "冰鬼護",
+    },
     "shiny_released": true,
     "family": "Snorunt"
   },
   {
     "dex": 363,
-    "name": "海豹球",
-    "name_en": "Spheal",
+    "name": {
+      "en": "Spheal",
+      "zh": "海豹球",
+    },
     "shiny_released": false,
     "family": "Spheal"
   },
   {
     "dex": 364,
-    "name": "海魔獅",
-    "name_en": "Sealeo",
+    "name": {
+      "en": "Sealeo",
+      "zh": "海魔獅",
+    },
     "shiny_released": false,
     "family": "Spheal"
   },
   {
     "dex": 365,
-    "name": "帝牙海獅",
-    "name_en": "Walrein",
+    "name": {
+      "en": "Walrein",
+      "zh": "帝牙海獅",
+    },
     "shiny_released": false,
     "family": "Spheal"
   },
   {
     "dex": 366,
-    "name": "珍珠貝",
-    "name_en": "Clamperl",
+    "name": {
+      "en": "Clamperl",
+      "zh": "珍珠貝",
+    },
     "shiny_released": false,
     "family": "Clamperl"
   },
   {
     "dex": 367,
-    "name": "獵斑魚",
-    "name_en": "Huntail",
+    "name": {
+      "en": "Huntail",
+      "zh": "獵斑魚",
+    },
     "shiny_released": false,
     "family": "Clamperl"
   },
   {
     "dex": 368,
-    "name": "櫻花魚",
-    "name_en": "Gorebyss",
+    "name": {
+      "en": "Gorebyss",
+      "zh": "櫻花魚",
+    },
     "shiny_released": false,
     "family": "Clamperl"
   },
   {
     "dex": 369,
-    "name": "古空棘魚",
-    "name_en": "Relicanth",
+    "name": {
+      "en": "Relicanth",
+      "zh": "古空棘魚",
+    },
     "shiny_released": false,
     "family": "Relicanth"
   },
   {
     "dex": 370,
-    "name": "愛心魚",
-    "name_en": "Luvdisc",
+    "name": {
+      "en": "Luvdisc",
+      "zh": "愛心魚",
+    },
     "shiny_released": true,
     "family": "Luvdisc"
   },
   {
     "dex": 371,
-    "name": "寶貝龍",
-    "name_en": "Bagon",
+    "name": {
+      "en": "Bagon",
+      "zh": "寶貝龍",
+    },
     "shiny_released": false,
     "family": "Bagon"
   },
   {
     "dex": 372,
-    "name": "甲殼龍",
-    "name_en": "Shelgon",
+    "name": {
+      "en": "Shelgon",
+      "zh": "甲殼龍",
+    },
     "shiny_released": false,
     "family": "Bagon"
   },
   {
     "dex": 373,
-    "name": "暴飛龍",
-    "name_en": "Salamence",
+    "name": {
+      "en": "Salamence",
+      "zh": "暴飛龍",
+    },
     "shiny_released": false,
     "family": "Bagon"
   },
   {
     "dex": 374,
-    "name": "鐵啞鈴",
-    "name_en": "Beldum",
+    "name": {
+      "en": "Beldum",
+      "zh": "鐵啞鈴",
+    },
     "shiny_released": false,
     "family": "Beldum"
   },
   {
     "dex": 375,
-    "name": "金屬怪",
-    "name_en": "Metang",
+    "name": {
+      "en": "Metang",
+      "zh": "金屬怪",
+    },
     "shiny_released": false,
     "family": "Beldum"
   },
   {
     "dex": 376,
-    "name": "巨金怪",
-    "name_en": "Metagross",
+    "name": {
+      "en": "Metagross",
+      "zh": "巨金怪",
+    },
     "shiny_released": false,
     "family": "Beldum"
   },
   {
     "dex": 377,
-    "name": "雷吉洛克",
-    "name_en": "Regirock",
+    "name": {
+      "en": "Regirock",
+      "zh": "雷吉洛克",
+    },
     "shiny_released": false,
     "family": "Regirock"
   },
   {
     "dex": 378,
-    "name": "雷吉艾斯",
-    "name_en": "Regice",
+    "name": {
+      "en": "Regice",
+      "zh": "雷吉艾斯",
+    },
     "shiny_released": false,
     "family": "Regice"
   },
   {
     "dex": 379,
-    "name": "雷吉斯奇魯",
-    "name_en": "Registeel",
+    "name": {
+      "en": "Registeel",
+      "zh": "雷吉斯奇魯",
+    },
     "shiny_released": false,
     "family": "Registeel"
   },
   {
     "dex": 380,
-    "name": "拉帝亞斯",
-    "name_en": "Latias",
+    "name": {
+      "en": "Latias",
+      "zh": "拉帝亞斯",
+    },
     "shiny_released": false,
     "family": "Latias"
   },
   {
     "dex": 381,
-    "name": "拉帝歐斯",
-    "name_en": "Latios",
+    "name": {
+      "en": "Latios",
+      "zh": "拉帝歐斯",
+    },
     "shiny_released": false,
     "family": "Latios"
   },
   {
     "dex": 382,
-    "name": "蓋歐卡",
-    "name_en": "Kyogre",
+    "name": {
+      "en": "Kyogre",
+      "zh": "蓋歐卡",
+    },
     "shiny_released": true,
     "family": "Kyogre"
   },
   {
     "dex": 383,
-    "name": "固拉多",
-    "name_en": "Groudon",
+    "name": {
+      "en": "Groudon",
+      "zh": "固拉多",
+    },
     "shiny_released": false,
     "family": "Groudon"
   },
   {
     "dex": 384,
-    "name": "烈空坐",
-    "name_en": "Rayquaza",
+    "name": {
+      "en": "Rayquaza",
+      "zh": "烈空坐",
+    },
     "shiny_released": false,
     "family": "Rayquaza"
   },
   {
     "dex": 385,
-    "name": "基拉祈",
-    "name_en": "Jirachi",
+    "name": {
+      "en": "Jirachi",
+      "zh": "基拉祈",
+    },
     "shiny_released": false,
     "family": "Jirachi"
   },
   {
     "dex": 386,
-    "name": "代歐奇希斯",
-    "name_en": "Deoxys",
+    "name": {
+      "en": "Deoxys",
+      "zh": "代歐奇希斯",
+    },
     "shiny_released": false,
     "family": "Deoxys"
   },
   {
     "dex": 387,
-    "name": "草苗龜",
-    "name_en": "Turtwig",
+    "name": {
+      "en": "Turtwig",
+      "zh": "草苗龜",
+    },
     "shiny_released": false,
     "family": "Turtwig"
   },
   {
     "dex": 388,
-    "name": "樹林龜",
-    "name_en": "Grotle",
+    "name": {
+      "en": "Grotle",
+      "zh": "樹林龜",
+    },
     "shiny_released": false,
     "family": "Turtwig"
   },
   {
     "dex": 389,
-    "name": "土台龜",
-    "name_en": "Torterra",
+    "name": {
+      "en": "Torterra",
+      "zh": "土台龜",
+    },
     "shiny_released": false,
     "family": "Turtwig"
   },
   {
     "dex": 390,
-    "name": "小火焰猴",
-    "name_en": "Chimchar",
+    "name": {
+      "en": "Chimchar",
+      "zh": "小火焰猴",
+    },
     "shiny_released": false,
     "family": "Chimchar"
   },
   {
     "dex": 391,
-    "name": "猛火猴",
-    "name_en": "Monferno",
+    "name": {
+      "en": "Monferno",
+      "zh": "猛火猴",
+    },
     "shiny_released": false,
     "family": "Chimchar"
   },
   {
     "dex": 392,
-    "name": "烈焰猴",
-    "name_en": "Infernape",
+    "name": {
+      "en": "Infernape",
+      "zh": "烈焰猴",
+    },
     "shiny_released": false,
     "family": "Chimchar"
   },
   {
     "dex": 393,
-    "name": "波加曼",
-    "name_en": "Piplup",
+    "name": {
+      "en": "Piplup",
+      "zh": "波加曼",
+    },
     "shiny_released": false,
     "family": "Piplup"
   },
   {
     "dex": 394,
-    "name": "波皇子",
-    "name_en": "Prinplup",
+    "name": {
+      "en": "Prinplup",
+      "zh": "波皇子",
+    },
     "shiny_released": false,
     "family": "Piplup"
   },
   {
     "dex": 395,
-    "name": "帝王拿波",
-    "name_en": "Empoleon",
+    "name": {
+      "en": "Empoleon",
+      "zh": "帝王拿波",
+    },
     "shiny_released": false,
     "family": "Piplup"
   },
   {
     "dex": 396,
-    "name": "姆克兒",
-    "name_en": "Starly",
+    "name": {
+      "en": "Starly",
+      "zh": "姆克兒",
+    },
     "shiny_released": false,
     "family": "Starly"
   },
   {
     "dex": 397,
-    "name": "姆克鳥",
-    "name_en": "Staravia",
+    "name": {
+      "en": "Staravia",
+      "zh": "姆克鳥",
+    },
     "shiny_released": false,
     "family": "Starly"
   },
   {
     "dex": 398,
-    "name": "姆克鷹",
-    "name_en": "Staraptor",
+    "name": {
+      "en": "Staraptor",
+      "zh": "姆克鷹",
+    },
     "shiny_released": false,
     "family": "Starly"
   },
   {
     "dex": 399,
-    "name": "大牙狸",
-    "name_en": "Bidoof",
+    "name": {
+      "en": "Bidoof",
+      "zh": "大牙狸",
+    },
     "shiny_released": false,
     "family": "Bidoof"
   },
   {
     "dex": 400,
-    "name": "大尾狸",
-    "name_en": "Bibarel",
+    "name": {
+      "en": "Bibarel",
+      "zh": "大尾狸",
+    },
     "shiny_released": false,
     "family": "Bidoof"
   },
   {
     "dex": 401,
-    "name": "圓法師",
-    "name_en": "Kricketot",
+    "name": {
+      "en": "Kricketot",
+      "zh": "圓法師",
+    },
     "shiny_released": false,
     "family": "Kricketot"
   },
   {
     "dex": 402,
-    "name": "音箱蟀",
-    "name_en": "Kricketune",
+    "name": {
+      "en": "Kricketune",
+      "zh": "音箱蟀",
+    },
     "shiny_released": false,
     "family": "Kricketot"
   },
   {
     "dex": 403,
-    "name": "小貓怪",
-    "name_en": "Shinx",
+    "name": {
+      "en": "Shinx",
+      "zh": "小貓怪",
+    },
     "shiny_released": true,
     "family": "Shinx"
   },
   {
     "dex": 404,
-    "name": "勒克貓",
-    "name_en": "Luxio",
+    "name": {
+      "en": "Luxio",
+      "zh": "勒克貓",
+    },
     "shiny_released": true,
     "family": "Shinx"
   },
   {
     "dex": 405,
-    "name": "倫琴貓",
-    "name_en": "Luxray",
+    "name": {
+      "en": "Luxray",
+      "zh": "倫琴貓",
+    },
     "shiny_released": true,
     "family": "Shinx"
   },
   {
     "dex": 406,
-    "name": "含羞苞",
-    "name_en": "Budew",
+    "name": {
+      "en": "Budew",
+      "zh": "含羞苞",
+    },
     "shiny_released": false,
     "family": "Roselia",
     "order": -1
   },
   {
     "dex": 407,
-    "name": "羅絲雷朵",
-    "name_en": "Roserade",
+    "name": {
+      "en": "Roserade",
+      "zh": "羅絲雷朵",
+    },
     "shiny_released": false,
     "family": "Roselia"
   },
   {
     "dex": 408,
-    "name": "頭蓋龍",
-    "name_en": "Cranidos",
+    "name": {
+      "en": "Cranidos",
+      "zh": "頭蓋龍",
+    },
     "shiny_released": false,
     "family": "Cranidos"
   },
   {
     "dex": 409,
-    "name": "戰槌龍",
-    "name_en": "Rampardos",
+    "name": {
+      "en": "Rampardos",
+      "zh": "戰槌龍",
+    },
     "shiny_released": false,
     "family": "Cranidos"
   },
   {
     "dex": 410,
-    "name": "盾甲龍",
-    "name_en": "Shieldon",
+    "name": {
+      "en": "Shieldon",
+      "zh": "盾甲龍",
+    },
     "shiny_released": false,
     "family": "Shieldon"
   },
   {
     "dex": 411,
-    "name": "護城龍",
-    "name_en": "Bastiodon",
+    "name": {
+      "en": "Bastiodon",
+      "zh": "護城龍",
+    },
     "shiny_released": false,
     "family": "Shieldon"
   },
   {
     "dex": 412,
-    "name": "結草兒",
-    "name_en": "Burmy",
+    "name": {
+      "en": "Burmy",
+      "zh": "結草兒",
+    },
     "shiny_released": false,
     "family": "Burmy"
   },
   {
     "dex": 413,
-    "name": "結草貴婦",
-    "name_en": "Wormadam",
+    "name": {
+      "en": "Wormadam",
+      "zh": "結草貴婦",
+    },
     "shiny_released": false,
     "family": "Burmy"
   },
   {
     "dex": 414,
-    "name": "紳士蛾",
-    "name_en": "Mothim",
+    "name": {
+      "en": "Mothim",
+      "zh": "紳士蛾",
+    },
     "shiny_released": false,
     "family": "Burmy"
   },
   {
     "dex": 415,
-    "name": "三蜜蜂",
-    "name_en": "Combee",
+    "name": {
+      "en": "Combee",
+      "zh": "三蜜蜂",
+    },
     "shiny_released": false,
     "family": "Combee"
   },
   {
     "dex": 416,
-    "name": "蜂后",
-    "name_en": "Vespiquen",
+    "name": {
+      "en": "Vespiquen",
+      "zh": "蜂后",
+    },
     "shiny_released": false,
     "family": "Combee"
   },
   {
     "dex": 417,
-    "name": "帕奇利茲",
-    "name_en": "Pachirisu",
+    "name": {
+      "en": "Pachirisu",
+      "zh": "帕奇利茲",
+    },
     "shiny_released": false,
     "family": "Pachirisu"
   },
   {
     "dex": 418,
-    "name": "泳氣鼬",
-    "name_en": "Buizel",
+    "name": {
+      "en": "Buizel",
+      "zh": "泳氣鼬",
+    },
     "shiny_released": false,
     "family": "Floatzel"
   },
   {
     "dex": 419,
-    "name": "浮潛鼬",
-    "name_en": "Floatzel",
+    "name": {
+      "en": "Floatzel",
+      "zh": "浮潛鼬",
+    },
     "shiny_released": false,
     "family": "Floatzel"
   },
   {
     "dex": 420,
-    "name": "櫻花寶",
-    "name_en": "Cherubi",
+    "name": {
+      "en": "Cherubi",
+      "zh": "櫻花寶",
+    },
     "shiny_released": false,
     "family": "Cherubi"
   },
   {
     "dex": 421,
-    "name": "櫻花兒",
-    "name_en": "Cherrim",
+    "name": {
+      "en": "Cherrim",
+      "zh": "櫻花兒",
+    },
     "shiny_released": false,
     "family": "Cherubi"
   },
   {
     "dex": 422,
-    "name": "無殼海牛",
-    "name_en": "Shellos",
+    "name": {
+      "en": "Shellos",
+      "zh": "無殼海牛",
+    },
     "shiny_released": false,
     "family": "Shellos"
   },
   {
     "dex": 423,
-    "name": "海牛獸",
-    "name_en": "Gastrodon",
+    "name": {
+      "en": "Gastrodon",
+      "zh": "海牛獸",
+    },
     "shiny_released": false,
     "family": "Shellos"
   },
   {
     "dex": 424,
-    "name": "雙尾怪手",
-    "name_en": "Ambipom",
+    "name": {
+      "en": "Ambipom",
+      "zh": "雙尾怪手",
+    },
     "shiny_released": false,
     "family": "Aipom"
   },
   {
     "dex": 425,
-    "name": "飄飄球",
-    "name_en": "Drifloon",
+    "name": {
+      "en": "Drifloon",
+      "zh": "飄飄球",
+    },
     "shiny_released": false,
     "family": "Drifloon"
   },
   {
     "dex": 426,
-    "name": "附和氣球",
-    "name_en": "Drifblim",
+    "name": {
+      "en": "Drifblim",
+      "zh": "附和氣球",
+    },
     "shiny_released": false,
     "family": "Drifloon"
   },
   {
     "dex": 427,
-    "name": "捲捲耳",
-    "name_en": "Buneary",
+    "name": {
+      "en": "Buneary",
+      "zh": "捲捲耳",
+    },
     "shiny_released": false,
     "family": "Buneary"
   },
   {
     "dex": 428,
-    "name": "長耳兔",
-    "name_en": "Lopunny",
+    "name": {
+      "en": "Lopunny",
+      "zh": "長耳兔",
+    },
     "shiny_released": false,
     "family": "Buneary"
   },
   {
     "dex": 429,
-    "name": "夢妖魔",
-    "name_en": "Mismagius",
+    "name": {
+      "en": "Mismagius",
+      "zh": "夢妖魔",
+    },
     "shiny_released": false,
     "family": "Misdreavus"
   },
   {
     "dex": 430,
-    "name": "烏鴉頭頭",
-    "name_en": "Honchkrow",
+    "name": {
+      "en": "Honchkrow",
+      "zh": "烏鴉頭頭",
+    },
     "shiny_released": false,
     "family": "Murkrow"
   },
   {
     "dex": 431,
-    "name": "魅力喵",
-    "name_en": "Glameow",
+    "name": {
+      "en": "Glameow",
+      "zh": "魅力喵",
+    },
     "shiny_released": false,
     "family": "Glameow"
   },
   {
     "dex": 432,
-    "name": "東施喵",
-    "name_en": "Purugly",
+    "name": {
+      "en": "Purugly",
+      "zh": "東施喵",
+    },
     "shiny_released": false,
     "family": "Glameow"
   },
   {
     "dex": 433,
-    "name": "鈴噹響",
-    "name_en": "Chingling",
+    "name": {
+      "en": "Chingling",
+      "zh": "鈴噹響",
+    },
     "shiny_released": false,
     "family": "Chimecho",
     "order": -1
   },
   {
     "dex": 434,
-    "name": "臭鼬噗",
-    "name_en": "Stunky",
+    "name": {
+      "en": "Stunky",
+      "zh": "臭鼬噗",
+    },
     "shiny_released": false,
     "family": "Stunky"
   },
   {
     "dex": 435,
-    "name": "坦克臭鼬",
-    "name_en": "Skuntank",
+    "name": {
+      "en": "Skuntank",
+      "zh": "坦克臭鼬",
+    },
     "shiny_released": false,
     "family": "Stunky"
   },
   {
     "dex": 436,
-    "name": "銅鏡怪",
-    "name_en": "Bronzor",
+    "name": {
+      "en": "Bronzor",
+      "zh": "銅鏡怪",
+    },
     "shiny_released": false,
     "family": "Bronzor"
   },
   {
     "dex": 437,
-    "name": "青銅鐘",
-    "name_en": "Bronzong",
+    "name": {
+      "en": "Bronzong",
+      "zh": "青銅鐘",
+    },
     "shiny_released": false,
     "family": "Bronzor"
   },
   {
     "dex": 438,
-    "name": "愛哭樹",
-    "name_en": "Bonsly",
+    "name": {
+      "en": "Bonsly",
+      "zh": "愛哭樹",
+    },
     "shiny_released": false,
     "family": "Sudowoodo"
   },
   {
     "dex": 439,
-    "name": "魔尼尼",
-    "name_en": "Mime Jr.",
+    "name": {
+      "en": "Mime Jr.",
+      "zh": "魔尼尼",
+    },
     "shiny_released": false,
     "family": "Mr Mime"
   },
   {
     "dex": 440,
-    "name": "好運蛋",
-    "name_en": "Happiny",
+    "name": {
+      "en": "Happiny",
+      "zh": "好運蛋",
+    },
     "shiny_released": false,
     "family": "Chansey",
     "order": -1
   },
   {
     "dex": 441,
-    "name": "聒噪鳥",
-    "name_en": "Chatot",
+    "name": {
+      "en": "Chatot",
+      "zh": "聒噪鳥",
+    },
     "shiny_released": false,
     "family": "Chatot"
   },
   {
     "dex": 442,
-    "name": "花岩怪",
-    "name_en": "Spiritomb",
+    "name": {
+      "en": "Spiritomb",
+      "zh": "花岩怪",
+    },
     "shiny_released": false,
     "family": "Spiritomb"
   },
   {
     "dex": 443,
-    "name": "圓陸鯊",
-    "name_en": "Gible",
+    "name": {
+      "en": "Gible",
+      "zh": "圓陸鯊",
+    },
     "shiny_released": false,
     "family": "Gible"
   },
   {
     "dex": 444,
-    "name": "尖牙陸鯊",
-    "name_en": "Gabite",
+    "name": {
+      "en": "Gabite",
+      "zh": "尖牙陸鯊",
+    },
     "shiny_released": false,
     "family": "Gible"
   },
   {
     "dex": 445,
-    "name": "烈咬陸鯊",
-    "name_en": "Garchomp",
+    "name": {
+      "en": "Garchomp",
+      "zh": "烈咬陸鯊",
+    },
     "shiny_released": false,
     "family": "Gible"
   },
   {
     "dex": 446,
-    "name": "小卡比獸",
-    "name_en": "Munchlax",
+    "name": {
+      "en": "Munchlax",
+      "zh": "小卡比獸",
+    },
     "shiny_released": false,
     "family": "Snorlax",
     "order": -1
   },
   {
     "dex": 447,
-    "name": "利歐路",
-    "name_en": "Riolu",
+    "name": {
+      "en": "Riolu",
+      "zh": "利歐路",
+    },
     "shiny_released": false,
     "family": "Riolu"
   },
   {
     "dex": 448,
-    "name": "路卡利歐",
-    "name_en": "Lucario",
+    "name": {
+      "en": "Lucario",
+      "zh": "路卡利歐",
+    },
     "shiny_released": false,
     "family": "Riolu"
   },
   {
     "dex": 449,
-    "name": "怪河馬",
-    "name_en": "Hippopotas",
+    "name": {
+      "en": "Hippopotas",
+      "zh": "怪河馬",
+    },
     "shiny_released": false,
     "family": "Hippowdon"
   },
   {
     "dex": 450,
-    "name": "河馬獸",
-    "name_en": "Hippowdon",
+    "name": {
+      "en": "Hippowdon",
+      "zh": "河馬獸",
+    },
     "shiny_released": false,
     "family": "Hippowdon"
   },
   {
     "dex": 451,
-    "name": "紫天蠍",
-    "name_en": "Skorupi",
+    "name": {
+      "en": "Skorupi",
+      "zh": "紫天蠍",
+    },
     "shiny_released": false,
     "family": "Skorupi"
   },
   {
     "dex": 452,
-    "name": "龍王蠍",
-    "name_en": "Drapion",
+    "name": {
+      "en": "Drapion",
+      "zh": "龍王蠍",
+    },
     "shiny_released": false,
     "family": "Skorupi"
   },
   {
     "dex": 453,
-    "name": "不良蛙",
-    "name_en": "Croagunk",
+    "name": {
+      "en": "Croagunk",
+      "zh": "不良蛙",
+    },
     "shiny_released": false,
     "family": "Croagunk"
   },
   {
     "dex": 454,
-    "name": "毒骷蛙",
-    "name_en": "Toxicroak",
+    "name": {
+      "en": "Toxicroak",
+      "zh": "毒骷蛙",
+    },
     "shiny_released": false,
     "family": "Croagunk"
   },
   {
     "dex": 455,
-    "name": "尖牙籠",
-    "name_en": "Carnivine",
+    "name": {
+      "en": "Carnivine",
+      "zh": "尖牙籠",
+    },
     "shiny_released": false,
     "family": "Carnivine"
   },
   {
     "dex": 456,
-    "name": "螢光魚",
-    "name_en": "Finneon",
+    "name": {
+      "en": "Finneon",
+      "zh": "螢光魚",
+    },
     "shiny_released": false,
     "family": "Finneon"
   },
   {
     "dex": 457,
-    "name": "霓虹魚",
-    "name_en": "Lumineon",
+    "name": {
+      "en": "Lumineon",
+      "zh": "霓虹魚",
+    },
     "shiny_released": false,
     "family": "Finneon"
   },
   {
     "dex": 458,
-    "name": "小球飛魚",
-    "name_en": "Mantyke",
+    "name": {
+      "en": "Mantyke",
+      "zh": "小球飛魚",
+    },
     "shiny_released": false,
     "family": "Mantine"
   },
   {
     "dex": 459,
-    "name": "雪笠怪",
-    "name_en": "Snover",
+    "name": {
+      "en": "Snover",
+      "zh": "雪笠怪",
+    },
     "shiny_released": false,
     "family": "xxxSnover"
   },
   {
     "dex": 460,
-    "name": "暴雪王",
-    "name_en": "Abomasnow",
+    "name": {
+      "en": "Abomasnow",
+      "zh": "暴雪王",
+    },
     "shiny_released": false,
     "family": "Snover"
   },
   {
     "dex": 461,
-    "name": "瑪狃拉",
-    "name_en": "Weavile",
+    "name": {
+      "en": "Weavile",
+      "zh": "瑪狃拉",
+    },
     "shiny_released": false,
     "family": "Sneasel"
   },
   {
     "dex": 462,
-    "name": "自爆磁怪",
-    "name_en": "Magnezone",
+    "name": {
+      "en": "Magnezone",
+      "zh": "自爆磁怪",
+    },
     "shiny_released": false,
     "family": "Magnemite"
   },
   {
     "dex": 463,
-    "name": "大舌舔",
-    "name_en": "Lickilicky",
+    "name": {
+      "en": "Lickilicky",
+      "zh": "大舌舔",
+    },
     "shiny_released": false,
     "family": "Lickitung"
   },
   {
     "dex": 464,
-    "name": "超鐵暴龍",
-    "name_en": "Rhyperior",
+    "name": {
+      "en": "Rhyperior",
+      "zh": "超鐵暴龍",
+    },
     "shiny_released": false,
     "family": "Rhyhorn"
   },
   {
     "dex": 465,
-    "name": "巨蔓藤",
-    "name_en": "Tangrowth",
+    "name": {
+      "en": "Tangrowth",
+      "zh": "巨蔓藤",
+    },
     "shiny_released": false,
     "family": "Tangela"
   },
   {
     "dex": 466,
-    "name": "電擊魔獸",
-    "name_en": "Electivire",
+    "name": {
+      "en": "Electivire",
+      "zh": "電擊魔獸",
+    },
     "shiny_released": false,
     "family": "Electabuzz"
   },
   {
     "dex": 467,
-    "name": "鴨嘴焰龍",
-    "name_en": "Magmortar",
+    "name": {
+      "en": "Magmortar",
+      "zh": "鴨嘴焰龍",
+    },
     "shiny_released": false,
     "family": "Magmar"
   },
   {
     "dex": 468,
-    "name": "波克基斯",
-    "name_en": "Togekiss",
+    "name": {
+      "en": "Togekiss",
+      "zh": "波克基斯",
+    },
     "shiny_released": false,
     "family": "Togepi"
   },
   {
     "dex": 469,
-    "name": "梅卡陽瑪",
-    "name_en": "Yanmega",
+    "name": {
+      "en": "Yanmega",
+      "zh": "梅卡陽瑪",
+    },
     "shiny_released": false,
     "family": "Yanmega"
   },
   {
     "dex": 470,
-    "name": "葉精靈",
-    "name_en": "Leafeon",
+    "name": {
+      "en": "Leafeon",
+      "zh": "葉精靈",
+    },
     "shiny_released": false,
     "family": "Eevee"
   },
   {
     "dex": 471,
-    "name": "冰精靈",
-    "name_en": "Glaceon",
+    "name": {
+      "en": "Glaceon",
+      "zh": "冰精靈",
+    },
     "shiny_released": false,
     "family": "Eevee"
   },
   {
     "dex": 472,
-    "name": "天蠍王",
-    "name_en": "Gliscor",
+    "name": {
+      "en": "Gliscor",
+      "zh": "天蠍王",
+    },
     "shiny_released": false,
     "family": "Gligar"
   },
   {
     "dex": 473,
-    "name": "象牙豬",
-    "name_en": "Mamoswine",
+    "name": {
+      "en": "Mamoswine",
+      "zh": "象牙豬",
+    },
     "shiny_released": false,
     "family": "Swinub"
   },
   {
     "dex": 474,
-    "name": "3D龍Z",
-    "name_en": "Porygon-Z",
+    "name": {
+      "en": "Porygon-Z",
+      "zh": "3D龍Z",
+    },
     "shiny_released": false,
     "family": "Porygon"
   },
   {
     "dex": 475,
-    "name": "艾路雷朵",
-    "name_en": "Gallade",
+    "name": {
+      "en": "Gallade",
+      "zh": "艾路雷朵",
+    },
     "shiny_released": false,
     "family": "xxx"
   },
   {
     "dex": 476,
-    "name": "大朝北鼻",
-    "name_en": "Probopass",
+    "name": {
+      "en": "Probopass",
+      "zh": "大朝北鼻",
+    },
     "shiny_released": false,
     "family": "Nosepass"
   },
   {
     "dex": 477,
-    "name": "夜黑魔人",
-    "name_en": "Dusknoir",
+    "name": {
+      "en": "Dusknoir",
+      "zh": "夜黑魔人",
+    },
     "shiny_released": false,
     "family": "Dusknoir"
   },
   {
     "dex": 478,
-    "name": "雪妖女",
-    "name_en": "Froslass",
+    "name": {
+      "en": "Froslass",
+      "zh": "雪妖女",
+    },
     "shiny_released": false,
     "family": "Snorunt"
   },
   {
     "dex": 479,
-    "name": "洛托姆",
-    "name_en": "Rotom",
+    "name": {
+      "en": "Rotom",
+      "zh": "洛托姆",
+    },
     "shiny_released": false,
     "family": "Rotom"
   },
   {
     "dex": 480,
-    "name": "由克希",
-    "name_en": "Uxie",
+    "name": {
+      "en": "Uxie",
+      "zh": "由克希",
+    },
     "shiny_released": false,
     "family": "Uxie"
   },
   {
     "dex": 481,
-    "name": "艾姆利多",
-    "name_en": "Mesprit",
+    "name": {
+      "en": "Mesprit",
+      "zh": "艾姆利多",
+    },
     "shiny_released": false,
     "family": "Mesprit"
   },
   {
     "dex": 482,
-    "name": "亞克諾姆",
-    "name_en": "Azelf",
+    "name": {
+      "en": "Azelf",
+      "zh": "亞克諾姆",
+    },
     "shiny_released": false,
     "family": "Azelf"
   },
   {
     "dex": 483,
-    "name": "帝牙盧卡",
-    "name_en": "Dialga",
+    "name": {
+      "en": "Dialga",
+      "zh": "帝牙盧卡",
+    },
     "shiny_released": false,
     "family": "Dialga"
   },
   {
     "dex": 484,
-    "name": "帕路奇犽",
-    "name_en": "Palkia",
+    "name": {
+      "en": "Palkia",
+      "zh": "帕路奇犽",
+    },
     "shiny_released": false,
     "family": "Palkia"
   },
   {
     "dex": 485,
-    "name": "席多藍恩",
-    "name_en": "Heatran",
+    "name": {
+      "en": "Heatran",
+      "zh": "席多藍恩",
+    },
     "shiny_released": false,
     "family": "Heatran"
   },
   {
     "dex": 486,
-    "name": "雷吉奇卡斯",
-    "name_en": "Regigigas",
+    "name": {
+      "en": "Regigigas",
+      "zh": "雷吉奇卡斯",
+    },
     "shiny_released": false,
     "family": "Regigigas"
   },
   {
     "dex": 487,
-    "name": "騎拉帝納",
-    "name_en": "Giratina",
+    "name": {
+      "en": "Giratina",
+      "zh": "騎拉帝納",
+    },
     "shiny_released": false,
     "family": "Giratina"
   },
   {
     "dex": 488,
-    "name": "克雷色利亞",
-    "name_en": "Cresselia",
+    "name": {
+      "en": "Cresselia",
+      "zh": "克雷色利亞",
+    },
     "shiny_released": false,
     "family": "Cresselia"
   },
   {
     "dex": 489,
-    "name": "霏歐納",
-    "name_en": "Phione",
+    "name": {
+      "en": "Phione",
+      "zh": "霏歐納",
+    },
     "shiny_released": false,
     "family": "Phione"
   },
   {
     "dex": 490,
-    "name": "瑪納霏",
-    "name_en": "Manaphy",
+    "name": {
+      "en": "Manaphy",
+      "zh": "瑪納霏",
+    },
     "shiny_released": false,
     "family": "Manaphy"
   },
   {
     "dex": 491,
-    "name": "達克萊伊",
-    "name_en": "Darkrai",
+    "name": {
+      "en": "Darkrai",
+      "zh": "達克萊伊",
+    },
     "shiny_released": false,
     "family": "Darkrai"
   },
   {
     "dex": 492,
-    "name": "謝米",
-    "name_en": "Shaymin (Sky Forme)",
+    "name": {
+      "en": "Shaymin (Sky Forme)",
+      "zh": "謝米",
+    },
     "shiny_released": false,
     "family": "Shaymin"
   },
   {
     "dex": 493,
-    "name": "阿爾宙斯",
-    "name_en": "Arceus",
+    "name": {
+      "en": "Arceus",
+      "zh": "阿爾宙斯",
+    },
     "shiny_released": false,
     "family": "Arceus"
   },
