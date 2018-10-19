@@ -250,10 +250,6 @@ button {
   padding: 10px 3%;
   border: 2px dotted #ccc;
 
-  .output-wrap {
-    // text-align: left;
-  }
-
   hr {
     margin-top: 1em;
     margin-bottom: 1em;
@@ -708,6 +704,10 @@ body.print {
 
   .source {
     display: block;
+  }
+
+  .pm-checkbox:not(:checked) + .pm-info {
+    opacity: .3;
   }
 }
 
