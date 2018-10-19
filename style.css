@@ -1,8 +1,9 @@
 @charset "UTF-8";
 .pm-checklist {
   max-width: 1200px;
+  width: 95%;
   margin: 0 auto; }
-  body[style] .pm-checklist {
+  .workspace[style] .pm-checklist {
     max-width: unset; }
 
 .pm-group {
@@ -177,6 +178,19 @@ button {
     content: '  .'; }
   80% {
     content: '   '; } }
+
+.output-wrap {
+  width: 90%;
+  max-width: 600px;
+  margin: 1em auto 0;
+  padding: 10px 3%;
+  border: 2px dotted #ccc; }
+  .output-wrap hr {
+    margin-top: 1em;
+    margin-bottom: 1em; }
+
+.output-img {
+  max-width: 70%; }
 
 .pm-info[data-dex="1"] {
   --bgz: 170% 170%;
@@ -609,13 +623,15 @@ button {
 [data-l10n]:not([data-l10n-done="1"]) {
   color: transparent; }
 
-body.print {
-  width: 1200px; }
-  body.print aside,
-  body.print footer {
-    display: none; }
-  body.print .source {
-    display: block; }
+body.print aside,
+body.print footer {
+  display: none; }
+
+body.print .source {
+  display: block; }
+
+body.print .pm-checkbox:not(:checked) + .pm-info {
+  opacity: .3; }
 
 .source {
   display: none;
@@ -644,6 +660,9 @@ body.print {
   margin: 0;
   padding: 0;
   box-sizing: border-box; }
+
+.workspace {
+  background-color: inherit; }
 
 body {
   text-align: center;
