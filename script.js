@@ -225,26 +225,14 @@ window.addEventListener('popstate', renderState);
 renderState();
 
 
-function upadtePageWidth(w) {
-  if (!w) {
-    elm.pageWidth.value = document.documentElement.clientWidth;
-  }
-  elm.body.style.width = `${elm.pageWidth.value}px`;
-}
-elm.pageWidth = document.querySelector('#page-width');
-elm.pageWidth.addEventListener('input', upadtePageWidth);
-setTimeout(upadtePageWidth, 500);
-
-window.addEventListener('resize', () => {
-  upadtePageWidth(null);
-});
-
 
 elm.workspace = document.querySelector('.workspace');
-let link = document.createElement('a');
-document.body.appendChild(link);
+elm.outputLink = document.querySelector('.output-link');
+elm.outputImg = document.querySelector('.output-img');
 elm.saveAsImg = document.querySelector('#save-as-img');
+
 elm.saveAsImg.addEventListener('click', () => {
+  updateOutput();
   elm.body.classList.add('print');
   window.scrollTo(0, 0);
 
@@ -256,10 +244,49 @@ elm.saveAsImg.addEventListener('click', () => {
       }
     )
     .then(canvas => {
-      link.href = canvas.toDataURL('image/png');
-      link.download = `${elm.nickname.value || 'my'}-shiny.png`;
-      link.click();
+      updateOutput(canvas);
       elm.body.classList.remove('print');
     });
   }, 200);
 });
+
+function updateOutput(canvas) {
+  if (!canvas) {
+    elm.outputLink.href = '';
+    elm.outputImg.src = '';
+    return;
+  }
+
+  window.cc = canvas;
+  elm.outputImg.src = canvas.toDataURL('image/jpeg');
+  elm.outputLink.href = canvas.toDataURL('image/jpeg');
+  elm.outputLink.download = `${elm.nickname.value || 'my'}-shiny-w${canvas.width}.png`;
+  elm.outputLink.click();
+}
+
+elm.outputWidth = document.querySelector('#output-width');
+elm.outputWidth.value = elm.workspace.clientWidth;
+document.querySelector('#reset-output-width').addEventListener('click', (e) => {
+  e.preventDefault();
+  elm.outputWidth.value = elm.workspace.clientWidth;
+  updateOutputWidth();
+});
+
+document.querySelector('#set-output-width').addEventListener('click', (e) => {
+  e.preventDefault();
+  let width = Math.min(
+    elm.outputWidth.max,
+    Math.max(elm.outputWidth.min, elm.outputWidth.value)
+  );
+  elm.outputWidth.value = width;
+  updateOutputWidth(width);
+});
+
+
+function updateOutputWidth(width) {
+  if (!width) {
+    elm.workspace.removeAttribute('style');
+    return;
+  }
+  elm.workspace.style.width = `${width}px`;
+}

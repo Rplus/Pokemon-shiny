@@ -49,12 +49,29 @@
         <span data-l10n="share-with-short-url">Share with short url</span>
       </a>
 
-      <div class="btn-group">
-        <button data-l10n="save-as-image" id="save-as-img">Save as image</button>
-        <br>
-        <span data-l10n="width">Width: </span>
-        <input class="ta-r" id="page-width" type="number" min="200" max="3000" pattern="[0-9]+" step="5"> px
-      </div>
+      <fieldset class="output-wrap">
+        <legend data-l10n="export">Export</legend>
+
+        <fieldset class="output-wrap">
+          <button id="set-output-width" data-l10n="set-width">Set width: </button>
+          <input class="ta-r" id="output-width" type="number"
+            min="200" max="3000" pattern="[0-9]+" step="5"
+            value="900"
+          /> px / 
+          <button type="reset" id="reset-output-width" data-l10n="reset-width">Reset width</button>
+
+          <br>
+          <br>
+
+          <button data-l10n="save-as-image" id="save-as-img">Save as image</button>
+        </fieldset>
+
+        <hr>
+
+        <a class="output-link" title="click to download" href="###">
+          <img class="output-img" src="favicon.png" />
+        </a>
+      </fieldset>
     </aside>
 
     <a class="source" href="https://Rplus.github.io/Pokemon-shiny/"></a>
