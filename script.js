@@ -260,7 +260,7 @@ function updateOutput(canvas) {
   window.cc = canvas;
   elm.outputImg.src = canvas.toDataURL('image/jpeg');
   elm.outputLink.href = canvas.toDataURL('image/jpeg');
-  elm.outputLink.download = `${elm.nickname.value || 'my'}-shiny-w${canvas.width}.png`;
+  elm.outputLink.download = `${elm.nickname.value || 'my'}-shiny-w${canvas.width}.jpg`;
   elm.outputLink.click();
 }
 
