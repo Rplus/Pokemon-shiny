@@ -4,6 +4,7 @@ let pms = [
     "name": {
       "en": "Bulbasaur",
       "zh": "妙蛙種子",
+      "de": "Bisasam",
     },
     "shiny_released": true,
     "family": "Bulbasaur"
@@ -13,6 +14,7 @@ let pms = [
     "name": {
       "en": "Ivysaur",
       "zh": "妙蛙草",
+      "de": "Bisaknosp",
     },
     "shiny_released": true,
     "family": "Bulbasaur"
@@ -22,6 +24,7 @@ let pms = [
     "name": {
       "en": "Venusaur",
       "zh": "妙蛙花",
+      "de": "Bisaflor",
     },
     "shiny_released": true,
     "family": "Bulbasaur"
@@ -31,6 +34,7 @@ let pms = [
     "name": {
       "en": "Charmander",
       "zh": "小火龍",
+      "de": "Glumanda",
     },
     "shiny_released": true,
     "family": "Charmander"
@@ -40,6 +44,7 @@ let pms = [
     "name": {
       "en": "Charmeleon",
       "zh": "火恐龍",
+      "de": "Glutexo",
     },
     "shiny_released": true,
     "family": "Charmander"
@@ -49,6 +54,7 @@ let pms = [
     "name": {
       "en": "Charizard",
       "zh": "噴火龍",
+      "de": "Glurak",
     },
     "shiny_released": true,
     "family": "Charmander"
@@ -58,6 +64,7 @@ let pms = [
     "name": {
       "en": "Squirtle",
       "zh": "傑尼龜",
+      "de": "Schiggy",
     },
     "shiny_released": true,
     "family": "Squirtle"
@@ -67,6 +74,7 @@ let pms = [
     "name": {
       "en": "Wartortle",
       "zh": "卡咪龜",
+      "de": "Schillok",
     },
     "shiny_released": true,
     "family": "Squirtle"
@@ -76,6 +84,7 @@ let pms = [
     "name": {
       "en": "Blastoise",
       "zh": "水箭龜",
+      "de": "Turtok",
     },
     "shiny_released": true,
     "family": "Squirtle"
@@ -86,6 +95,7 @@ let pms = [
     "name": {
       "en": "Squirtle",
       "zh": "傑尼龜",
+      "de": "Schiggy",
     },
     "shiny_released": true,
     "family": "Squirtle_05"
@@ -95,6 +105,7 @@ let pms = [
     "name": {
       "en": "Wartortle",
       "zh": "卡咪龜",
+      "de": "Schillok",
     },
     "isotope": "_05",
     "shiny_released": true,
@@ -105,6 +116,7 @@ let pms = [
     "name": {
       "en": "Blastoise",
       "zh": "水箭龜",
+      "de": "Turtok",
     },
     "isotope": "_05",
     "shiny_released": true,
@@ -115,6 +127,7 @@ let pms = [
     "name": {
       "en": "Caterpie",
       "zh": "綠毛蟲",
+      "de": "Raupy",
     },
     "shiny_released": false,
     "family": "Caterpie"
@@ -124,6 +137,7 @@ let pms = [
     "name": {
       "en": "Metapod",
       "zh": "鐵甲蛹",
+      "de": "Safcon",
     },
     "shiny_released": false,
     "family": "Caterpie"
@@ -133,6 +147,7 @@ let pms = [
     "name": {
       "en": "Butterfree",
       "zh": "巴大蝶",
+      "de": "Smettbo",
     },
     "shiny_released": false,
     "family": "Caterpie"
@@ -142,6 +157,7 @@ let pms = [
     "name": {
       "en": "Weedle",
       "zh": "獨角蟲",
+      "de": "Hornliu",
     },
     "shiny_released": false,
     "family": "Weedle"
@@ -151,6 +167,7 @@ let pms = [
     "name": {
       "en": "Kakuna",
       "zh": "鐵殼蛹",
+      "de": "Kokuna",
     },
     "shiny_released": false,
     "family": "Weedle"
@@ -160,6 +177,7 @@ let pms = [
     "name": {
       "en": "Beedrill",
       "zh": "大針蜂",
+      "de": "Bibor",
     },
     "shiny_released": false,
     "family": "Weedle"
@@ -169,6 +187,7 @@ let pms = [
     "name": {
       "en": "Pidgey",
       "zh": "波波",
+      "de": "Taubsi",
     },
     "shiny_released": false,
     "family": "Pidgey"
@@ -178,6 +197,7 @@ let pms = [
     "name": {
       "en": "Pidgeotto",
       "zh": "比比鳥",
+      "de": "Tauboga",
     },
     "shiny_released": false,
     "family": "Pidgey"
@@ -187,6 +207,7 @@ let pms = [
     "name": {
       "en": "Pidgeot",
       "zh": "大比鳥",
+      "de": "Tauboss",
     },
     "shiny_released": false,
     "family": "Pidgey"
@@ -196,6 +217,7 @@ let pms = [
     "name": {
       "en": "Rattata",
       "zh": "小拉達",
+      "de": "Rattfratz",
     },
     "shiny_released": false,
     "family": "Rattata"
@@ -205,6 +227,7 @@ let pms = [
     "name": {
       "en": "Raticate",
       "zh": "拉達",
+      "de": "Rattikarl",
     },
     "shiny_released": false,
     "family": "Rattata"
@@ -214,6 +237,7 @@ let pms = [
     "name": {
       "en": "Spearow",
       "zh": "烈雀",
+      "de": "Habitak",
     },
     "shiny_released": false,
     "family": "Spearow"
@@ -223,6 +247,7 @@ let pms = [
     "name": {
       "en": "Fearow",
       "zh": "大嘴雀",
+      "de": "Ibitak",
     },
     "shiny_released": false,
     "family": "Spearow"
@@ -232,6 +257,7 @@ let pms = [
     "name": {
       "en": "Ekans",
       "zh": "阿柏蛇",
+      "de": "Rettan",
     },
     "shiny_released": false,
     "family": "Ekans"
@@ -241,6 +267,7 @@ let pms = [
     "name": {
       "en": "Arbok",
       "zh": "阿柏怪",
+      "de": "Arbok",
     },
     "shiny_released": false,
     "family": "Ekans"
@@ -250,6 +277,7 @@ let pms = [
     "name": {
       "en": "Pikachu",
       "zh": "皮卡丘",
+      "de": "Pikachu",
     },
     "shiny_released": true,
     "family": "Pikachu"
@@ -259,6 +287,7 @@ let pms = [
     "name": {
       "en": "Raichu",
       "zh": "雷丘",
+      "de": "Raichu",
     },
     "shiny_released": true,
     "family": "Pikachu"
@@ -269,6 +298,7 @@ let pms = [
     "name": {
       "en": "Pikachu",
       "zh": "皮卡丘",
+      "de": "Pikachu",
     },
     "shiny_released": true,
     "family": "Pikachu_02"
@@ -278,6 +308,7 @@ let pms = [
     "name": {
       "en": "Raichu",
       "zh": "雷丘",
+      "de": "Raichu",
     },
     "isotope": "_02",
     "shiny_released": true,
@@ -289,6 +320,7 @@ let pms = [
     "name": {
       "en": "Pikachu",
       "zh": "皮卡丘",
+      "de": "Pikachu",
     },
     "shiny_released": true,
     "family": "Pikachu_06"
@@ -298,6 +330,7 @@ let pms = [
     "name": {
       "en": "Raichu",
       "zh": "雷丘",
+      "de": "Raichu",
     },
     "isotope": "_06",
     "shiny_released": true,
@@ -308,6 +341,7 @@ let pms = [
     "name": {
       "en": "Sandshrew",
       "zh": "穿山鼠",
+      "de": "Sandan",
     },
     "shiny_released": false,
     "family": "Sandshrew"
@@ -317,6 +351,7 @@ let pms = [
     "name": {
       "en": "Sandslash",
       "zh": "穿山王",
+      "de": "Sandamer",
     },
     "shiny_released": false,
     "family": "Sandshrew"
@@ -326,6 +361,7 @@ let pms = [
     "name": {
       "en": "Nidoran Female",
       "zh": "尼多蘭",
+      "de": "Nidoran (W)",
     },
     "shiny_released": true,
     "family": "Nidoran Female"
@@ -335,6 +371,7 @@ let pms = [
     "name": {
       "en": "Nidorina",
       "zh": "尼多娜",
+      "de": "Nidorina",
     },
     "shiny_released": true,
     "family": "Nidoran Female"
@@ -344,6 +381,7 @@ let pms = [
     "name": {
       "en": "Nidoqueen",
       "zh": "尼多后",
+      "de": "Nidorina",
     },
     "shiny_released": true,
     "family": "Nidoran Female"
@@ -353,6 +391,7 @@ let pms = [
     "name": {
       "en": "Nidoran Male",
       "zh": "尼多朗",
+      "de": "Nidoran (M)",
     },
     "shiny_released": false,
     "family": "Nidoran Male"
@@ -362,6 +401,7 @@ let pms = [
     "name": {
       "en": "Nidorino",
       "zh": "尼多力諾",
+      "de": "Nidorino",
     },
     "shiny_released": false,
     "family": "Nidoran Male"
@@ -371,6 +411,7 @@ let pms = [
     "name": {
       "en": "Nidoking",
       "zh": "尼多王",
+      "de": "Nidoking",
     },
     "shiny_released": false,
     "family": "Nidoran Male"
@@ -380,6 +421,7 @@ let pms = [
     "name": {
       "en": "Clefairy",
       "zh": "皮皮",
+      "de": "Piepi",
     },
     "shiny_released": false,
     "family": "Clefairy"
@@ -389,6 +431,7 @@ let pms = [
     "name": {
       "en": "Clefable",
       "zh": "皮可西",
+      "de": "Pixi",
     },
     "shiny_released": false,
     "family": "Clefairy"
@@ -398,6 +441,7 @@ let pms = [
     "name": {
       "en": "Vulpix",
       "zh": "六尾",
+      "de": "Vulpix",
     },
     "shiny_released": false,
     "family": "Vulpix"
@@ -407,6 +451,7 @@ let pms = [
     "name": {
       "en": "Ninetales",
       "zh": "九尾",
+      "de": "Vulnona",
     },
     "shiny_released": false,
     "family": "Vulpix"
@@ -416,6 +461,7 @@ let pms = [
     "name": {
       "en": "Jigglypuff",
       "zh": "胖丁",
+      "de": "Pummeluff",
     },
     "shiny_released": false,
     "family": "Jigglypuff"
@@ -425,6 +471,7 @@ let pms = [
     "name": {
       "en": "Wigglytuff",
       "zh": "胖可丁",
+      "de": "Knuddeluff",
     },
     "shiny_released": false,
     "family": "Jigglypuff"
@@ -434,6 +481,7 @@ let pms = [
     "name": {
       "en": "Zubat",
       "zh": "超音蝠",
+      "de": "Zubat",
     },
     "shiny_released": false,
     "family": "Zubat"
@@ -443,6 +491,7 @@ let pms = [
     "name": {
       "en": "Golbat",
       "zh": "大嘴蝠",
+      "de": "Golbat",
     },
     "shiny_released": false,
     "family": "Zubat"
@@ -452,6 +501,7 @@ let pms = [
     "name": {
       "en": "Oddish",
       "zh": "走路草",
+      "de": "Myrapla",
     },
     "shiny_released": false,
     "family": "Oddish"
@@ -461,6 +511,7 @@ let pms = [
     "name": {
       "en": "Gloom",
       "zh": "臭臭花",
+      "de": "Duflor",
     },
     "shiny_released": false,
     "family": "Oddish"
@@ -470,6 +521,7 @@ let pms = [
     "name": {
       "en": "Vileplume",
       "zh": "霸王花",
+      "de": "Giflor",
     },
     "shiny_released": false,
     "family": "Oddish"
@@ -479,6 +531,7 @@ let pms = [
     "name": {
       "en": "Paras",
       "zh": "派拉斯",
+      "de": "Paras",
     },
     "shiny_released": false,
     "family": "Paras"
@@ -488,6 +541,7 @@ let pms = [
     "name": {
       "en": "Parasect",
       "zh": "派拉斯特",
+      "de": "Parasek",
     },
     "shiny_released": false,
     "family": "Paras"
@@ -497,6 +551,7 @@ let pms = [
     "name": {
       "en": "Venonat",
       "zh": "毛球",
+      "de": "Bluzuk",
     },
     "shiny_released": false,
     "family": "Venonat"
@@ -506,6 +561,7 @@ let pms = [
     "name": {
       "en": "Venomoth",
       "zh": "摩魯蛾",
+      "de": "Omot",
     },
     "shiny_released": false,
     "family": "Venonat"
@@ -515,6 +571,7 @@ let pms = [
     "name": {
       "en": "Diglett",
       "zh": "地鼠",
+      "de": "Digda",
     },
     "shiny_released": false,
     "family": "Diglett"
@@ -524,6 +581,7 @@ let pms = [
     "name": {
       "en": "Dugtrio",
       "zh": "三地鼠",
+      "de": "Digdri",
     },
     "shiny_released": false,
     "family": "Diglett"
@@ -533,6 +591,7 @@ let pms = [
     "name": {
       "en": "Meowth",
       "zh": "喵喵",
+      "de": "Mauzi",
     },
     "shiny_released": false,
     "family": "Meowth"
@@ -542,6 +601,7 @@ let pms = [
     "name": {
       "en": "Persian",
       "zh": "貓老大",
+      "de": "Snobilikat",
     },
     "shiny_released": false,
     "family": "Meowth"
@@ -551,6 +611,7 @@ let pms = [
     "name": {
       "en": "Psyduck",
       "zh": "可達鴨",
+      "de": "Enton",
     },
     "shiny_released": false,
     "family": "Psyduck"
@@ -560,6 +621,7 @@ let pms = [
     "name": {
       "en": "Golduck",
       "zh": "哥達鴨",
+      "de": "Entoron",
     },
     "shiny_released": false,
     "family": "Psyduck"
@@ -569,6 +631,7 @@ let pms = [
     "name": {
       "en": "Mankey",
       "zh": "猴怪",
+      "de": "Menki",
     },
     "shiny_released": false,
     "family": "Mankey"
@@ -578,6 +641,7 @@ let pms = [
     "name": {
       "en": "Primeape",
       "zh": "火爆猴",
+      "de": "Rasaff",
     },
     "shiny_released": false,
     "family": "Mankey"
@@ -587,6 +651,7 @@ let pms = [
     "name": {
       "en": "Growlithe",
       "zh": "卡蒂狗",
+      "de": "Fukano",
     },
     "shiny_released": true,
     "family": "Growlithe"
@@ -596,6 +661,7 @@ let pms = [
     "name": {
       "en": "Arcanine",
       "zh": "風速狗",
+      "de": "Arkani",
     },
     "shiny_released": true,
     "family": "Growlithe"
@@ -605,6 +671,7 @@ let pms = [
     "name": {
       "en": "Poliwag",
       "zh": "蚊香蝌蚪",
+      "de": "Quapsel",
     },
     "shiny_released": false,
     "family": "Poliwag"
@@ -614,6 +681,7 @@ let pms = [
     "name": {
       "en": "Poliwhirl",
       "zh": "蚊香君",
+      "de": "Quaputzi",
     },
     "shiny_released": false,
     "family": "Poliwag"
@@ -623,6 +691,7 @@ let pms = [
     "name": {
       "en": "Poliwrath",
       "zh": "蚊香泳士",
+      "de": "Quappo",
     },
     "shiny_released": false,
     "family": "Poliwag"
@@ -632,6 +701,7 @@ let pms = [
     "name": {
       "en": "Abra",
       "zh": "凱西",
+      "de": "Abra",
     },
     "shiny_released": false,
     "family": "Abra"
@@ -641,6 +711,7 @@ let pms = [
     "name": {
       "en": "Kadabra",
       "zh": "勇基拉",
+      "de": "Kadabra",
     },
     "shiny_released": false,
     "family": "Abra"
@@ -650,6 +721,7 @@ let pms = [
     "name": {
       "en": "Alakazam",
       "zh": "胡地",
+      "de": "Simsala",
     },
     "shiny_released": false,
     "family": "Abra"
@@ -659,6 +731,7 @@ let pms = [
     "name": {
       "en": "Machop",
       "zh": "腕力",
+      "de": "Machollo",
     },
     "shiny_released": false,
     "family": "Machop"
@@ -668,6 +741,7 @@ let pms = [
     "name": {
       "en": "Machoke",
       "zh": "豪力",
+      "de": "Maschock",
     },
     "shiny_released": false,
     "family": "Machop"
@@ -677,6 +751,7 @@ let pms = [
     "name": {
       "en": "Machamp",
       "zh": "怪力",
+      "de": "Machomei",
     },
     "shiny_released": false,
     "family": "Machop"
@@ -686,6 +761,7 @@ let pms = [
     "name": {
       "en": "Bellsprout",
       "zh": "喇叭芽",
+      "de": "Knofensa",
     },
     "shiny_released": false,
     "family": "Bellsprout"
@@ -695,6 +771,7 @@ let pms = [
     "name": {
       "en": "Weepinbell",
       "zh": "口呆花",
+      "de": "Ultrigaria",
     },
     "shiny_released": false,
     "family": "Bellsprout"
@@ -704,6 +781,7 @@ let pms = [
     "name": {
       "en": "Victreebel",
       "zh": "大食花",
+      "de": "Sarzenia",
     },
     "shiny_released": false,
     "family": "Bellsprout"
@@ -713,6 +791,7 @@ let pms = [
     "name": {
       "en": "Tentacool",
       "zh": "瑪瑙水母",
+      "de": "Tentacha",
     },
     "shiny_released": false,
     "family": "Tentacool"
@@ -722,6 +801,7 @@ let pms = [
     "name": {
       "en": "Tentacruel",
       "zh": "毒刺水母",
+      "de": "Tentoxa",
     },
     "shiny_released": false,
     "family": "Tentacool"
@@ -731,6 +811,7 @@ let pms = [
     "name": {
       "en": "Geodude",
       "zh": "小拳石",
+      "de": "Kleinstein",
     },
     "shiny_released": true,
     "family": "Geodude"
@@ -740,6 +821,7 @@ let pms = [
     "name": {
       "en": "Graveler",
       "zh": "隆隆石",
+      "de": "Georok",
     },
     "shiny_released": true,
     "family": "Geodude"
@@ -749,6 +831,7 @@ let pms = [
     "name": {
       "en": "Golem",
       "zh": "隆隆岩",
+      "de": "Geowaz",
     },
     "shiny_released": true,
     "family": "Geodude"
@@ -758,6 +841,7 @@ let pms = [
     "name": {
       "en": "Ponyta",
       "zh": "小火馬",
+      "de": "Ponita",
     },
     "shiny_released": false,
     "family": "Ponyta"
@@ -767,6 +851,7 @@ let pms = [
     "name": {
       "en": "Rapidash",
       "zh": "烈焰馬",
+      "de": "Gallopa",
     },
     "shiny_released": false,
     "family": "Ponyta"
@@ -776,6 +861,7 @@ let pms = [
     "name": {
       "en": "Slowpoke",
       "zh": "呆呆獸",
+      "de": "Flegmon",
     },
     "shiny_released": false,
     "family": "Slowpoke"
@@ -785,6 +871,7 @@ let pms = [
     "name": {
       "en": "Slowbro",
       "zh": "呆殼獸",
+      "de": "Lahmus",
     },
     "shiny_released": false,
     "family": "Slowpoke"
@@ -794,6 +881,7 @@ let pms = [
     "name": {
       "en": "Magnemite",
       "zh": "小磁怪",
+      "de": "Magnetilo",
     },
     "shiny_released": false,
     "family": "Magnemite"
@@ -803,6 +891,7 @@ let pms = [
     "name": {
       "en": "Magneton",
       "zh": "三合一磁怪",
+      "de": "Magneton",
     },
     "shiny_released": false,
     "family": "Magnemite"
@@ -812,6 +901,7 @@ let pms = [
     "name": {
       "en": "Farfetchd",
       "zh": "大蔥鴨",
+      "de": "Porenta",
     },
     "shiny_released": false,
     "family": "Farfetchd"
@@ -821,6 +911,7 @@ let pms = [
     "name": {
       "en": "Doduo",
       "zh": "嘟嘟",
+      "de": "Dodu",
     },
     "shiny_released": false,
     "family": "Doduo"
@@ -830,6 +921,7 @@ let pms = [
     "name": {
       "en": "Dodrio",
       "zh": "嘟嘟利",
+      "de": "Dodri",
     },
     "shiny_released": false,
     "family": "Doduo"
@@ -839,6 +931,7 @@ let pms = [
     "name": {
       "en": "Seel",
       "zh": "小海獅",
+      "de": "Jurob",
     },
     "shiny_released": false,
     "family": "Seel"
@@ -848,6 +941,7 @@ let pms = [
     "name": {
       "en": "Dewgong",
       "zh": "白海獅",
+      "de": "Jugong",
     },
     "shiny_released": false,
     "family": "Seel"
@@ -857,6 +951,7 @@ let pms = [
     "name": {
       "en": "Grimer",
       "zh": "臭泥",
+      "de": "Sleima",
     },
     "shiny_released": true,
     "family": "Grimer"
@@ -866,6 +961,7 @@ let pms = [
     "name": {
       "en": "Muk",
       "zh": "臭臭泥",
+      "de": "Sleimok",
     },
     "shiny_released": true,
     "family": "Grimer"
@@ -875,6 +971,7 @@ let pms = [
     "name": {
       "en": "Shellder",
       "zh": "大舌貝",
+      "de": "Muschas",
     },
     "shiny_released": true,
     "family": "Shellder"
@@ -884,6 +981,7 @@ let pms = [
     "name": {
       "en": "Cloyster",
       "zh": "刺甲貝",
+      "de": "Austos",
     },
     "shiny_released": true,
     "family": "Shellder"
@@ -893,6 +991,7 @@ let pms = [
     "name": {
       "en": "Gastly",
       "zh": "鬼斯",
+      "de": "Nebulak",
     },
     "shiny_released": false,
     "family": "Gastly"
@@ -902,6 +1001,7 @@ let pms = [
     "name": {
       "en": "Haunter",
       "zh": "鬼斯通",
+      "de": "Alpollo",
     },
     "shiny_released": false,
     "family": "Gastly"
@@ -911,6 +1011,7 @@ let pms = [
     "name": {
       "en": "Gengar",
       "zh": "耿鬼",
+      "de": "Gengar",
     },
     "shiny_released": false,
     "family": "Gastly"
@@ -920,6 +1021,7 @@ let pms = [
     "name": {
       "en": "Onix",
       "zh": "大岩蛇",
+      "de": "Onix",
     },
     "shiny_released": false,
     "family": "Onix"
@@ -929,6 +1031,7 @@ let pms = [
     "name": {
       "en": "Drowzee",
       "zh": "催眠貘",
+      "de": "Traumato",
     },
     "shiny_released": true,
     "family": "Drowzee"
@@ -938,6 +1041,7 @@ let pms = [
     "name": {
       "en": "Hypno",
       "zh": "引夢貘人",
+      "de": "Hypno",
     },
     "shiny_released": true,
     "family": "Drowzee"
@@ -947,6 +1051,7 @@ let pms = [
     "name": {
       "en": "Krabby",
       "zh": "大鉗蟹",
+      "de": "Krabby",
     },
     "shiny_released": true,
     "family": "Krabby"
@@ -956,6 +1061,7 @@ let pms = [
     "name": {
       "en": "Kingler",
       "zh": "巨鉗蟹",
+      "de": "Kingler",
     },
     "shiny_released": true,
     "family": "Krabby"
@@ -965,6 +1071,7 @@ let pms = [
     "name": {
       "en": "Voltorb",
       "zh": "霹靂電球",
+      "de": "Voltobal",
     },
     "shiny_released": false,
     "family": "Voltorb"
@@ -974,6 +1081,7 @@ let pms = [
     "name": {
       "en": "Electrode",
       "zh": "頑皮雷彈",
+      "de": "Lektrobal",
     },
     "shiny_released": false,
     "family": "Voltorb"
@@ -983,6 +1091,7 @@ let pms = [
     "name": {
       "en": "Exeggcute",
       "zh": "蛋蛋",
+      "de": "Owei",
     },
     "shiny_released": false,
     "family": "Exeggcute"
@@ -992,6 +1101,7 @@ let pms = [
     "name": {
       "en": "Exeggutor",
       "zh": "椰蛋樹",
+      "de": "Kokowei",
     },
     "shiny_released": false,
     "family": "Exeggcute"
@@ -1001,6 +1111,7 @@ let pms = [
     "name": {
       "en": "Cubone",
       "zh": "卡拉卡拉",
+      "de": "Tragosso",
     },
     "shiny_released": false,
     "family": "Cubone"
@@ -1010,6 +1121,7 @@ let pms = [
     "name": {
       "en": "Marowak",
       "zh": "嘎啦嘎啦",
+      "de": "Knogga",
     },
     "shiny_released": false,
     "family": "Cubone"
@@ -1019,6 +1131,7 @@ let pms = [
     "name": {
       "en": "Hitmonlee",
       "zh": "飛腿郎",
+      "de": "Kicklee",
     },
     "shiny_released": false,
     "family": "Tyrogue"
@@ -1028,6 +1141,7 @@ let pms = [
     "name": {
       "en": "Hitmonchan",
       "zh": "快拳郎",
+      "de": "Nockchan",
     },
     "shiny_released": false,
     "family": "Tyrogue"
@@ -1037,6 +1151,7 @@ let pms = [
     "name": {
       "en": "Lickitung",
       "zh": "大舌頭",
+      "de": "Schlurp",
     },
     "shiny_released": false,
     "family": "Lickitung"
@@ -1046,6 +1161,7 @@ let pms = [
     "name": {
       "en": "Koffing",
       "zh": "瓦斯彈",
+      "de": "Smogon",
     },
     "shiny_released": false,
     "family": "Koffing"
@@ -1055,6 +1171,7 @@ let pms = [
     "name": {
       "en": "Weezing",
       "zh": "雙彈瓦斯",
+      "de": "Smogmog",
     },
     "shiny_released": false,
     "family": "Koffing"
@@ -1064,6 +1181,7 @@ let pms = [
     "name": {
       "en": "Rhyhorn",
       "zh": "獨角犀牛",
+      "de": "Rihorn",
     },
     "shiny_released": false,
     "family": "Rhyhorn"
@@ -1073,6 +1191,7 @@ let pms = [
     "name": {
       "en": "Rhydon",
       "zh": "鑽角犀獸",
+      "de": "Rizeros",
     },
     "shiny_released": false,
     "family": "Rhyhorn"
@@ -1082,6 +1201,7 @@ let pms = [
     "name": {
       "en": "Chansey",
       "zh": "吉利蛋",
+      "de": "Chaneira",
     },
     "shiny_released": false,
     "family": "Chansey"
@@ -1091,6 +1211,7 @@ let pms = [
     "name": {
       "en": "Tangela",
       "zh": "蔓藤怪",
+      "de": "Tangela",
     },
     "shiny_released": false,
     "family": "Tangela"
@@ -1100,6 +1221,7 @@ let pms = [
     "name": {
       "en": "Kangaskhan",
       "zh": "袋獸",
+      "de": "Kangama",
     },
     "shiny_released": false,
     "family": "Kangaskhan"
@@ -1109,6 +1231,7 @@ let pms = [
     "name": {
       "en": "Horsea",
       "zh": "墨海馬",
+      "de": "Seeper",
     },
     "shiny_released": false,
     "family": "Horsea"
@@ -1118,6 +1241,7 @@ let pms = [
     "name": {
       "en": "Seadra",
       "zh": "海刺龍",
+      "de": "Seemon",
     },
     "shiny_released": false,
     "family": "Horsea"
@@ -1127,6 +1251,7 @@ let pms = [
     "name": {
       "en": "Goldeen",
       "zh": "角金魚",
+      "de": "Goldini",
     },
     "shiny_released": false,
     "family": "Goldeen"
@@ -1136,6 +1261,7 @@ let pms = [
     "name": {
       "en": "Seaking",
       "zh": "金魚王",
+      "de": "Golking",
     },
     "shiny_released": false,
     "family": "Goldeen"
@@ -1145,6 +1271,7 @@ let pms = [
     "name": {
       "en": "Staryu",
       "zh": "海星星",
+      "de": "Sterndu",
     },
     "shiny_released": false,
     "family": "Staryu"
@@ -1154,6 +1281,7 @@ let pms = [
     "name": {
       "en": "Starmie",
       "zh": "寶石海星",
+      "de": "Starmie",
     },
     "shiny_released": false,
     "family": "Staryu"
@@ -1163,6 +1291,7 @@ let pms = [
     "name": {
       "en": "Mr Mime",
       "zh": "魔牆人偶",
+      "de": "Pantimos",
     },
     "shiny_released": false,
     "family": "Mr Mime"
@@ -1172,6 +1301,7 @@ let pms = [
     "name": {
       "en": "Scyther",
       "zh": "飛天螳螂",
+      "de": "Sichlor",
     },
     "shiny_released": false,
     "family": "Scyther"
@@ -1181,6 +1311,7 @@ let pms = [
     "name": {
       "en": "Jynx",
       "zh": "迷唇姐",
+      "de": "Rossana",
     },
     "shiny_released": false,
     "family": "Jynx"
@@ -1190,6 +1321,7 @@ let pms = [
     "name": {
       "en": "Electabuzz",
       "zh": "電擊獸",
+      "de": "Elektek",
     },
     "shiny_released": false,
     "family": "Electabuzz"
@@ -1199,6 +1331,7 @@ let pms = [
     "name": {
       "en": "Magmar",
       "zh": "鴨嘴火獸",
+      "de": "Magmar",
     },
     "shiny_released": true,
     "family": "Magmar"
@@ -1208,6 +1341,7 @@ let pms = [
     "name": {
       "en": "Pinsir",
       "zh": "凱羅斯",
+      "de": "Pinsir",
     },
     "shiny_released": false,
     "family": "Pinsir"
@@ -1217,6 +1351,7 @@ let pms = [
     "name": {
       "en": "Tauros",
       "zh": "肯泰羅",
+      "de": "Tauros",
     },
     "shiny_released": false,
     "family": "Tauros"
@@ -1226,6 +1361,7 @@ let pms = [
     "name": {
       "en": "Magikarp",
       "zh": "鯉魚王",
+      "de": "Karpador",
     },
     "shiny_released": true,
     "family": "Magikarp"
@@ -1235,6 +1371,7 @@ let pms = [
     "name": {
       "en": "Gyarados",
       "zh": "暴鯉龍",
+      "de": "Garados",
     },
     "shiny_released": true,
     "family": "Magikarp"
@@ -1244,6 +1381,7 @@ let pms = [
     "name": {
       "en": "Lapras",
       "zh": "拉普拉斯",
+      "de": "Lapras",
     },
     "shiny_released": false,
     "family": "Lapras"
@@ -1253,6 +1391,7 @@ let pms = [
     "name": {
       "en": "Ditto",
       "zh": "百變怪",
+      "de": "Ditto",
     },
     "shiny_released": false,
     "family": "Ditto"
@@ -1262,6 +1401,7 @@ let pms = [
     "name": {
       "en": "Eevee",
       "zh": "伊布",
+      "de": "Evoli",
     },
     "shiny_released": true,
     "family": "Eevee"
@@ -1271,6 +1411,7 @@ let pms = [
     "name": {
       "en": "Vaporeon",
       "zh": "水伊布",
+      "de": "Aquana",
     },
     "shiny_released": true,
     "family": "Eevee"
@@ -1280,6 +1421,7 @@ let pms = [
     "name": {
       "en": "Jolteon",
       "zh": "雷伊布",
+      "de": "Blitza",
     },
     "shiny_released": true,
     "family": "Eevee"
@@ -1289,6 +1431,7 @@ let pms = [
     "name": {
       "en": "Flareon",
       "zh": "火伊布",
+      "de": "Flamara",
     },
     "shiny_released": true,
     "family": "Eevee"
@@ -1298,6 +1441,7 @@ let pms = [
     "name": {
       "en": "Porygon",
       "zh": "多邊獸",
+      "de": "Porygon",
     },
     "shiny_released": false,
     "family": "Porygon"
@@ -1307,6 +1451,7 @@ let pms = [
     "name": {
       "en": "Omanyte",
       "zh": "菊石獸",
+      "de": "Amonitas",
     },
     "shiny_released": true,
     "family": "Omanyte"
@@ -1316,6 +1461,7 @@ let pms = [
     "name": {
       "en": "Omastar",
       "zh": "多刺菊石獸",
+      "de": "Amoroso",
     },
     "shiny_released": true,
     "family": "Omanyte"
@@ -1325,6 +1471,7 @@ let pms = [
     "name": {
       "en": "Kabuto",
       "zh": "化石盔",
+      "de": "Kabuto",
     },
     "shiny_released": true,
     "family": "Kabuto"
@@ -1334,6 +1481,7 @@ let pms = [
     "name": {
       "en": "Kabutops",
       "zh": "鐮刀盔",
+      "de": "Kabutops",
     },
     "shiny_released": true,
     "family": "Kabuto"
@@ -1343,6 +1491,7 @@ let pms = [
     "name": {
       "en": "Aerodactyl",
       "zh": "化石翼龍",
+      "de": "Aerodactyl",
     },
     "shiny_released": true,
     "family": "Aerodactyl"
@@ -1352,6 +1501,7 @@ let pms = [
     "name": {
       "en": "Snorlax",
       "zh": "卡比獸",
+      "de": "Relaxo",
     },
     "shiny_released": false,
     "family": "Snorlax"
@@ -1361,6 +1511,7 @@ let pms = [
     "name": {
       "en": "Articuno",
       "zh": "急凍鳥",
+      "de": "Arktos",
     },
     "shiny_released": true,
     "family": "Articuno"
@@ -1370,6 +1521,7 @@ let pms = [
     "name": {
       "en": "Zapdos",
       "zh": "閃電鳥",
+      "de": "Zapdos",
     },
     "shiny_released": true,
     "family": "Zapdos"
@@ -1379,6 +1531,7 @@ let pms = [
     "name": {
       "en": "Moltres",
       "zh": "火焰鳥",
+      "de": "Lavados",
     },
     "shiny_released": true,
     "family": "Moltres"
@@ -1388,6 +1541,7 @@ let pms = [
     "name": {
       "en": "Dratini",
       "zh": "迷你龍",
+      "de": "Dratini",
     },
     "shiny_released": true,
     "family": "Dratini"
@@ -1397,6 +1551,7 @@ let pms = [
     "name": {
       "en": "Dragonair",
       "zh": "哈克龍",
+      "de": "Dragonir",
     },
     "shiny_released": true,
     "family": "Dratini"
@@ -1406,6 +1561,7 @@ let pms = [
     "name": {
       "en": "Dragonite",
       "zh": "快龍",
+      "de": "Dragoran",
     },
     "shiny_released": true,
     "family": "Dratini"
@@ -1415,6 +1571,7 @@ let pms = [
     "name": {
       "en": "Mewtwo",
       "zh": "超夢",
+      "de": "Mewtu",
     },
     "shiny_released": false,
     "family": "Mewtwo"
@@ -1424,6 +1581,7 @@ let pms = [
     "name": {
       "en": "Mew",
       "zh": "夢幻",
+      "de": "Mew",
     },
     "shiny_released": false,
     "family": "Mew"
@@ -1433,6 +1591,7 @@ let pms = [
     "name": {
       "en": "Chikorita",
       "zh": "菊草葉",
+      "de": "Endivie",
     },
     "shiny_released": true,
     "family": "Chikorita"
@@ -1442,6 +1601,7 @@ let pms = [
     "name": {
       "en": "Bayleef",
       "zh": "月桂葉",
+      "de": "Lorblatt",
     },
     "shiny_released": true,
     "family": "Chikorita"
@@ -1451,6 +1611,7 @@ let pms = [
     "name": {
       "en": "Meganium",
       "zh": "大竺葵",
+      "de": "Meganie",
     },
     "shiny_released": true,
     "family": "Chikorita"
@@ -1460,6 +1621,7 @@ let pms = [
     "name": {
       "en": "Cyndaquil",
       "zh": "火球鼠",
+      "de": "Feurigel",
     },
     "shiny_released": false,
     "family": "Cyndaquil"
@@ -1469,6 +1631,7 @@ let pms = [
     "name": {
       "en": "Quilava",
       "zh": "火岩鼠",
+      "de": "Igelavar",
     },
     "shiny_released": false,
     "family": "Cyndaquil"
@@ -1478,6 +1641,7 @@ let pms = [
     "name": {
       "en": "Typhlosion",
       "zh": "火爆獸",
+      "de": "Tornupto",
     },
     "shiny_released": false,
     "family": "Cyndaquil"
@@ -1487,6 +1651,7 @@ let pms = [
     "name": {
       "en": "Totodile",
       "zh": "小鋸鱷",
+      "de": "Karnimani",
     },
     "shiny_released": false,
     "family": "Totodile"
@@ -1496,6 +1661,7 @@ let pms = [
     "name": {
       "en": "Croconaw",
       "zh": "藍鱷",
+      "de": "Tyracroc",
     },
     "shiny_released": false,
     "family": "Totodile"
@@ -1505,6 +1671,7 @@ let pms = [
     "name": {
       "en": "Feraligatr",
       "zh": "大力鱷",
+      "de": "Impergator",
     },
     "shiny_released": false,
     "family": "Totodile"
@@ -1514,6 +1681,7 @@ let pms = [
     "name": {
       "en": "Sentret",
       "zh": "尾立",
+      "de": "Wiesor",
     },
     "shiny_released": false,
     "family": "Sentret"
@@ -1523,6 +1691,7 @@ let pms = [
     "name": {
       "en": "Furret",
       "zh": "大尾立",
+      "de": "Wiesenior",
     },
     "shiny_released": false,
     "family": "Sentret"
@@ -1532,6 +1701,7 @@ let pms = [
     "name": {
       "en": "Hoothoot",
       "zh": "咕咕",
+      "de": "Hoothoot",
     },
     "shiny_released": false,
     "family": "Hoothoot"
@@ -1541,6 +1711,7 @@ let pms = [
     "name": {
       "en": "Noctowl",
       "zh": "貓頭夜鷹",
+      "de": "Noctuh",
     },
     "shiny_released": false,
     "family": "Hoothoot"
@@ -1550,6 +1721,7 @@ let pms = [
     "name": {
       "en": "Ledyba",
       "zh": "芭瓢蟲",
+      "de": "Ledyba",
     },
     "shiny_released": false,
     "family": "Ledyba"
@@ -1559,6 +1731,7 @@ let pms = [
     "name": {
       "en": "Ledian",
       "zh": "安瓢蟲",
+      "de": "Ledian",
     },
     "shiny_released": false,
     "family": "Ledyba"
@@ -1568,6 +1741,7 @@ let pms = [
     "name": {
       "en": "Spinarak",
       "zh": "圓絲蛛",
+      "de": "Webarak",
     },
     "shiny_released": false,
     "family": "Spinarak"
@@ -1577,6 +1751,7 @@ let pms = [
     "name": {
       "en": "Ariados",
       "zh": "阿利多斯",
+      "de": "Ariados",
     },
     "shiny_released": false,
     "family": "Spinarak"
@@ -1586,6 +1761,7 @@ let pms = [
     "name": {
       "en": "Crobat",
       "zh": "叉字蝠",
+      "de": "Iksbat",
     },
     "shiny_released": false,
     "family": "Zubat"
@@ -1595,6 +1771,7 @@ let pms = [
     "name": {
       "en": "Chinchou",
       "zh": "燈籠魚",
+      "de": "Lampi",
     },
     "shiny_released": false,
     "family": "Chinchou"
@@ -1604,6 +1781,7 @@ let pms = [
     "name": {
       "en": "Lanturn",
       "zh": "電燈怪",
+      "de": "Lanturn",
     },
     "shiny_released": false,
     "family": "Chinchou"
@@ -1613,6 +1791,7 @@ let pms = [
     "name": {
       "en": "Pichu",
       "zh": "皮丘",
+      "de": "Pichu",
     },
     "shiny_released": true,
     "order": -1,
@@ -1623,6 +1802,7 @@ let pms = [
     "name": {
       "en": "Pichu",
       "zh": "皮丘",
+      "de": "Pichu",
     },
     "isotope": "_02",
     "shiny_released": true,
@@ -1634,6 +1814,7 @@ let pms = [
     "name": {
       "en": "Cleffa",
       "zh": "皮寶寶",
+      "de": "Pii",
     },
     "shiny_released": false,
     "order": -1,
@@ -1644,6 +1825,7 @@ let pms = [
     "name": {
       "en": "Igglybuff",
       "zh": "寶寶丁",
+      "de": "Fluffeluff",
     },
     "shiny_released": false,
     "order": -1,
@@ -1654,6 +1836,7 @@ let pms = [
     "name": {
       "en": "Togepi",
       "zh": "波克比",
+      "de": "Togepi",
     },
     "shiny_released": true,
     "family": "Togepi"
@@ -1663,6 +1846,7 @@ let pms = [
     "name": {
       "en": "Togetic",
       "zh": "波克基古",
+      "de": "Togetic",
     },
     "shiny_released": true,
     "family": "Togepi"
@@ -1672,6 +1856,7 @@ let pms = [
     "name": {
       "en": "Natu",
       "zh": "天然雀",
+      "de": "Natu",
     },
     "shiny_released": true,
     "family": "Natu"
@@ -1681,6 +1866,7 @@ let pms = [
     "name": {
       "en": "Xatu",
       "zh": "天然鳥",
+      "de": "Xatu",
     },
     "shiny_released": true,
     "family": "Natu"
@@ -1690,6 +1876,7 @@ let pms = [
     "name": {
       "en": "Mareep",
       "zh": "咩利羊",
+      "de": "Voltilamm",
     },
     "shiny_released": true,
     "family": "Mareep"
@@ -1699,6 +1886,7 @@ let pms = [
     "name": {
       "en": "Flaaffy",
       "zh": "茸茸羊",
+      "de": "Waaty",
     },
     "shiny_released": true,
     "family": "Mareep"
@@ -1708,6 +1896,7 @@ let pms = [
     "name": {
       "en": "Ampharos",
       "zh": "電龍",
+      "de": "Ampharos",
     },
     "shiny_released": true,
     "family": "Mareep"
@@ -1717,6 +1906,7 @@ let pms = [
     "name": {
       "en": "Bellossom",
       "zh": "美麗花",
+      "de": "Blubella",
     },
     "shiny_released": false,
     "family": "Oddish"
@@ -1726,6 +1916,7 @@ let pms = [
     "name": {
       "en": "Marill",
       "zh": "瑪力露",
+      "de": "Marill",
     },
     "shiny_released": false,
     "family": "Marill"
@@ -1735,6 +1926,7 @@ let pms = [
     "name": {
       "en": "Azumarill",
       "zh": "瑪力露麗",
+      "de": "Azumarill",
     },
     "shiny_released": false,
     "family": "Marill"
@@ -1744,6 +1936,7 @@ let pms = [
     "name": {
       "en": "Sudowoodo",
       "zh": "樹才怪",
+      "de": "Mogelbaum",
     },
     "shiny_released": false,
     "family": "Sudowoodo"
@@ -1753,6 +1946,7 @@ let pms = [
     "name": {
       "en": "Politoed",
       "zh": "蚊香蛙皇",
+      "de": "Quaxo",
     },
     "shiny_released": false,
     "family": "Poliwag"
@@ -1762,6 +1956,7 @@ let pms = [
     "name": {
       "en": "Hoppip",
       "zh": "毽子草",
+      "de": "Hoppspross",
     },
     "shiny_released": false,
     "family": "Hoppip"
@@ -1771,6 +1966,7 @@ let pms = [
     "name": {
       "en": "Skiploom",
       "zh": "毽子花",
+      "de": "Hubelupf",
     },
     "shiny_released": false,
     "family": "Hoppip"
@@ -1780,6 +1976,7 @@ let pms = [
     "name": {
       "en": "Jumpluff",
       "zh": "毽子棉",
+      "de": "Papungha",
     },
     "shiny_released": false,
     "family": "Hoppip"
@@ -1789,6 +1986,7 @@ let pms = [
     "name": {
       "en": "Aipom",
       "zh": "長尾怪手",
+      "de": "Griffel",
     },
     "shiny_released": false,
     "family": "Aipom"
@@ -1798,6 +1996,7 @@ let pms = [
     "name": {
       "en": "Sunkern",
       "zh": "向日種子",
+      "de": "Sonnkern",
     },
     "shiny_released": true,
     "family": "Sunkern"
@@ -1807,6 +2006,7 @@ let pms = [
     "name": {
       "en": "Sunflora",
       "zh": "向日花怪",
+      "de": "Sonnflora",
     },
     "shiny_released": true,
     "family": "Sunkern"
@@ -1816,6 +2016,7 @@ let pms = [
     "name": {
       "en": "Yanma",
       "zh": "蜻蜻蜓",
+      "de": "Yanma",
     },
     "shiny_released": false,
     "family": "Yanma"
@@ -1825,6 +2026,7 @@ let pms = [
     "name": {
       "en": "Wooper",
       "zh": "烏波",
+      "de": "Felino",
     },
     "shiny_released": false,
     "family": "Wooper"
@@ -1834,6 +2036,7 @@ let pms = [
     "name": {
       "en": "Quagsire",
       "zh": "沼王",
+      "de": "Morlord",
     },
     "shiny_released": false,
     "family": "Wooper"
@@ -1843,6 +2046,7 @@ let pms = [
     "name": {
       "en": "Espeon",
       "zh": "太陽伊布",
+      "de": "Psiana",
     },
     "shiny_released": true,
     "family": "Eevee"
@@ -1852,6 +2056,7 @@ let pms = [
     "name": {
       "en": "Umbreon",
       "zh": "月亮伊布",
+      "de": "Nachtara",
     },
     "shiny_released": true,
     "family": "Eevee"
@@ -1861,6 +2066,7 @@ let pms = [
     "name": {
       "en": "Murkrow",
       "zh": "黑暗鴉",
+      "de": "Kramurx",
     },
     "shiny_released": true,
     "family": "Murkrow"
@@ -1870,6 +2076,7 @@ let pms = [
     "name": {
       "en": "Slowking",
       "zh": "呆呆王",
+      "de": "Laschoking",
     },
     "shiny_released": false,
     "family": "Slowpoke"
@@ -1879,6 +2086,7 @@ let pms = [
     "name": {
       "en": "Misdreavus",
       "zh": "夢妖",
+      "de": "Traunfugil",
     },
     "shiny_released": false,
     "family": "Misdreavus"
@@ -1888,6 +2096,7 @@ let pms = [
     "name": {
       "en": "Unown",
       "zh": "未知圖騰",
+      "de": "Icognito",
     },
     "shiny_released": false,
     "family": "Unown"
@@ -1897,6 +2106,7 @@ let pms = [
     "name": {
       "en": "Wobbuffet",
       "zh": "果然翁",
+      "de": "Woingenau",
     },
     "shiny_released": true,
     "family": "Wobbuffet"
@@ -1906,6 +2116,7 @@ let pms = [
     "name": {
       "en": "Girafarig",
       "zh": "麒麟奇",
+      "de": "Girafarig",
     },
     "shiny_released": false,
     "family": "Girafarig"
@@ -1915,6 +2126,7 @@ let pms = [
     "name": {
       "en": "Pineco",
       "zh": "榛果球",
+      "de": "Tannza",
     },
     "shiny_released": true,
     "family": "Pineco"
@@ -1924,6 +2136,7 @@ let pms = [
     "name": {
       "en": "Forretress",
       "zh": "佛烈托斯",
+      "de": "Forstellka",
     },
     "shiny_released": true,
     "family": "Pineco"
@@ -1933,6 +2146,7 @@ let pms = [
     "name": {
       "en": "Dunsparce",
       "zh": "土龍弟弟",
+      "de": "Dummisel",
     },
     "shiny_released": false,
     "family": "Dunsparce"
@@ -1942,6 +2156,7 @@ let pms = [
     "name": {
       "en": "Gligar",
       "zh": "天蠍",
+      "de": "Skorgla",
     },
     "shiny_released": false,
     "family": "Gligar"
@@ -1951,6 +2166,7 @@ let pms = [
     "name": {
       "en": "Steelix",
       "zh": "大鋼蛇",
+      "de": "Stahlos",
     },
     "shiny_released": false,
     "family": "Onix"
@@ -1960,6 +2176,7 @@ let pms = [
     "name": {
       "en": "Snubbull",
       "zh": "布魯",
+      "de": "Snubbull",
     },
     "shiny_released": true,
     "family": "Snubbull"
@@ -1969,6 +2186,7 @@ let pms = [
     "name": {
       "en": "Granbull",
       "zh": "布魯皇",
+      "de": "Granbull",
     },
     "shiny_released": true,
     "family": "Snubbull"
@@ -1978,6 +2196,7 @@ let pms = [
     "name": {
       "en": "Qwilfish",
       "zh": "千針魚",
+      "de": "Baldorfish",
     },
     "shiny_released": false,
     "family": "Qwilfish"
@@ -1987,6 +2206,7 @@ let pms = [
     "name": {
       "en": "Scizor",
       "zh": "巨鉗螳螂",
+      "de": "Scherox",
     },
     "shiny_released": false,
     "family": "Scyther"
@@ -1996,6 +2216,7 @@ let pms = [
     "name": {
       "en": "Shuckle",
       "zh": "壺壺",
+      "de": "Pottrott",
     },
     "shiny_released": false,
     "family": "Shuckle"
@@ -2005,6 +2226,7 @@ let pms = [
     "name": {
       "en": "Heracross",
       "zh": "赫拉克羅斯",
+      "de": "Skaraborn",
     },
     "shiny_released": false,
     "family": "Heracross"
@@ -2014,6 +2236,7 @@ let pms = [
     "name": {
       "en": "Sneasel",
       "zh": "狃拉",
+      "de": "Sniebel",
     },
     "shiny_released": false,
     "family": "Sneasel"
@@ -2023,6 +2246,7 @@ let pms = [
     "name": {
       "en": "Teddiursa",
       "zh": "熊寶寶",
+      "de": "Teddiursa",
     },
     "shiny_released": false,
     "family": "Teddiursa"
@@ -2032,6 +2256,7 @@ let pms = [
     "name": {
       "en": "Ursaring",
       "zh": "圈圈熊",
+      "de": "Ursaring",
     },
     "shiny_released": false,
     "family": "Teddiursa"
@@ -2041,6 +2266,7 @@ let pms = [
     "name": {
       "en": "Slugma",
       "zh": "熔岩蟲",
+      "de": "Schneckmag",
     },
     "shiny_released": false,
     "family": "Slugma"
@@ -2050,6 +2276,7 @@ let pms = [
     "name": {
       "en": "Magcargo",
       "zh": "熔岩蝸牛",
+      "de": "Magcargo",
     },
     "shiny_released": false,
     "family": "Slugma"
@@ -2059,6 +2286,7 @@ let pms = [
     "name": {
       "en": "Swinub",
       "zh": "小山豬",
+      "de": "Quiekel",
     },
     "shiny_released": false,
     "family": "Swinub"
@@ -2068,6 +2296,7 @@ let pms = [
     "name": {
       "en": "Piloswine",
       "zh": "長毛豬",
+      "de": "Keifel",
     },
     "shiny_released": false,
     "family": "Swinub"
@@ -2077,6 +2306,7 @@ let pms = [
     "name": {
       "en": "Corsola",
       "zh": "太陽珊瑚",
+      "de": "Corasonn",
     },
     "shiny_released": false,
     "family": "Corsola"
@@ -2086,6 +2316,7 @@ let pms = [
     "name": {
       "en": "Remoraid",
       "zh": "鐵炮魚",
+      "de": "Remoraid",
     },
     "shiny_released": false,
     "family": "Remoraid"
@@ -2095,6 +2326,7 @@ let pms = [
     "name": {
       "en": "Octillery",
       "zh": "章魚桶",
+      "de": "Octillery",
     },
     "shiny_released": false,
     "family": "Remoraid"
@@ -2104,6 +2336,7 @@ let pms = [
     "name": {
       "en": "Delibird",
       "zh": "信使鳥",
+      "de": "Botogel",
     },
     "shiny_released": false,
     "family": "Delibird"
@@ -2113,6 +2346,7 @@ let pms = [
     "name": {
       "en": "Mantine",
       "zh": "巨翅飛魚",
+      "de": "Mantax",
     },
     "shiny_released": false,
     "family": "Mantine"
@@ -2122,6 +2356,7 @@ let pms = [
     "name": {
       "en": "Skarmory",
       "zh": "盔甲鳥",
+      "de": "Panzaeron",
     },
     "shiny_released": false,
     "family": "Skarmory"
@@ -2131,6 +2366,7 @@ let pms = [
     "name": {
       "en": "Houndour",
       "zh": "戴魯比",
+      "de": "Hunduster",
     },
     "shiny_released": true,
     "family": "Houndour"
@@ -2140,6 +2376,7 @@ let pms = [
     "name": {
       "en": "Houndoom",
       "zh": "黑魯加",
+      "de": "Hundemon",
     },
     "shiny_released": true,
     "family": "Houndour"
@@ -2149,6 +2386,7 @@ let pms = [
     "name": {
       "en": "Kingdra",
       "zh": "刺龍王",
+      "de": "Seedraking",
     },
     "shiny_released": false,
     "family": "Horsea"
@@ -2158,6 +2396,7 @@ let pms = [
     "name": {
       "en": "Phanpy",
       "zh": "小小象",
+      "de": "Phanpy",
     },
     "shiny_released": false,
     "family": "Phanpy"
@@ -2167,6 +2406,7 @@ let pms = [
     "name": {
       "en": "Donphan",
       "zh": "頓甲",
+      "de": "Donphan",
     },
     "shiny_released": false,
     "family": "Phanpy"
@@ -2176,6 +2416,7 @@ let pms = [
     "name": {
       "en": "Porygon2",
       "zh": "多邊獸Ⅱ",
+      "de": "Porygon2",
     },
     "shiny_released": false,
     "family": "Porygon"
@@ -2185,6 +2426,7 @@ let pms = [
     "name": {
       "en": "Stantler",
       "zh": "驚角鹿",
+      "de": "Damhirplex",
     },
     "shiny_released": false,
     "family": "Stantler"
@@ -2194,6 +2436,7 @@ let pms = [
     "name": {
       "en": "Smeargle",
       "zh": "圖圖犬",
+      "de": "Farbeagle",
     },
     "shiny_released": false,
     "family": "Smeargle"
@@ -2203,6 +2446,7 @@ let pms = [
     "name": {
       "en": "Tyrogue",
       "zh": "無畏小子",
+      "de": "Rabauz",
     },
     "shiny_released": false,
     "family": "Tyrogue"
@@ -2212,6 +2456,7 @@ let pms = [
     "name": {
       "en": "Hitmontop",
       "zh": "戰舞郎",
+      "de": "Kapoera",
     },
     "shiny_released": false,
     "family": "Tyrogue"
@@ -2221,6 +2466,7 @@ let pms = [
     "name": {
       "en": "Smoochum",
       "zh": "迷唇娃",
+      "de": "Kussilla",
     },
     "shiny_released": false,
     "order": -1,
@@ -2231,6 +2477,7 @@ let pms = [
     "name": {
       "en": "Elekid",
       "zh": "電擊怪",
+      "de": "Elekid",
     },
     "shiny_released": false,
     "order": -1,
@@ -2241,6 +2488,7 @@ let pms = [
     "name": {
       "en": "Magby",
       "zh": "鴨嘴寶寶",
+      "de": "Magby",
     },
     "shiny_released": true,
     "order": -1,
@@ -2251,6 +2499,7 @@ let pms = [
     "name": {
       "en": "Miltank",
       "zh": "大奶罐",
+      "de": "Miltank",
     },
     "shiny_released": false,
     "family": "Miltank"
@@ -2260,6 +2509,7 @@ let pms = [
     "name": {
       "en": "Blissey",
       "zh": "幸福蛋",
+      "de": "Heiteira",
     },
     "shiny_released": false,
     "family": "Chansey"
@@ -2269,6 +2519,7 @@ let pms = [
     "name": {
       "en": "Raikou",
       "zh": "雷公",
+      "de": "Raikou",
     },
     "shiny_released": false,
     "family": "Raikou"
@@ -2278,6 +2529,7 @@ let pms = [
     "name": {
       "en": "Entei",
       "zh": "炎帝",
+      "de": "Entei",
     },
     "shiny_released": false,
     "family": "Entei"
@@ -2287,6 +2539,7 @@ let pms = [
     "name": {
       "en": "Suicune",
       "zh": "水君",
+      "de": "Suicune",
     },
     "shiny_released": false,
     "family": "Suicune"
@@ -2296,6 +2549,7 @@ let pms = [
     "name": {
       "en": "Larvitar",
       "zh": "幼基拉斯",
+      "de": "Larvitar",
     },
     "shiny_released": true,
     "family": "Larvitar"
@@ -2305,6 +2559,7 @@ let pms = [
     "name": {
       "en": "Pupitar",
       "zh": "沙基拉斯",
+      "de": "Pupitar",
     },
     "shiny_released": true,
     "family": "Larvitar"
@@ -2314,6 +2569,7 @@ let pms = [
     "name": {
       "en": "Tyranitar",
       "zh": "班基拉斯",
+      "de": "Despotar",
     },
     "shiny_released": true,
     "family": "Larvitar"
@@ -2323,6 +2579,7 @@ let pms = [
     "name": {
       "en": "Lugia",
       "zh": "洛奇亞",
+      "de": "Lugia",
     },
     "shiny_released": true,
     "family": "Lugia"
@@ -2332,6 +2589,7 @@ let pms = [
     "name": {
       "en": "Ho Oh",
       "zh": "鳳王",
+      "de": "Ho Oh",
     },
     "shiny_released": true,
     "family": "Ho Oh"
@@ -2341,6 +2599,7 @@ let pms = [
     "name": {
       "en": "Celebi",
       "zh": "時拉比",
+      "de": "Celebi",
     },
     "shiny_released": false,
     "family": "Celebi"
@@ -2350,6 +2609,7 @@ let pms = [
     "name": {
       "en": "Treecko",
       "zh": "木守宮",
+      "de": "Geckarbor",
     },
     "shiny_released": false,
     "family": "Treecko"
@@ -2359,6 +2619,7 @@ let pms = [
     "name": {
       "en": "Grovyle",
       "zh": "森林蜥蜴",
+      "de": "Reptain",
     },
     "shiny_released": false,
     "family": "Treecko"
@@ -2368,6 +2629,7 @@ let pms = [
     "name": {
       "en": "Sceptile",
       "zh": "蜥蜴王",
+      "de": "Gewaldro",
     },
     "shiny_released": false,
     "family": "Treecko"
@@ -2377,6 +2639,7 @@ let pms = [
     "name": {
       "en": "Torchic",
       "zh": "火稚雞",
+      "de": "Flemmli",
     },
     "shiny_released": false,
     "family": "Torchic"
@@ -2386,6 +2649,7 @@ let pms = [
     "name": {
       "en": "Combusken",
       "zh": "力壯雞",
+      "de": "Jungglut",
     },
     "shiny_released": false,
     "family": "Torchic"
@@ -2395,6 +2659,7 @@ let pms = [
     "name": {
       "en": "Blaziken",
       "zh": "火焰雞",
+      "de": "Lohgock",
     },
     "shiny_released": false,
     "family": "Torchic"
@@ -2404,6 +2669,7 @@ let pms = [
     "name": {
       "en": "Mudkip",
       "zh": "水躍魚",
+      "de": "Hydropi",
     },
     "shiny_released": false,
     "family": "Mudkip"
@@ -2413,6 +2679,7 @@ let pms = [
     "name": {
       "en": "Marshtomp",
       "zh": "沼躍魚",
+      "de": "Moorabbel",
     },
     "shiny_released": false,
     "family": "Mudkip"
@@ -2422,6 +2689,7 @@ let pms = [
     "name": {
       "en": "Swampert",
       "zh": "巨沼怪",
+      "de": "Sumpex",
     },
     "shiny_released": false,
     "family": "Mudkip"
@@ -2431,6 +2699,7 @@ let pms = [
     "name": {
       "en": "Poochyena",
       "zh": "土狼犬",
+      "de": "Fiffyen",
     },
     "shiny_released": true,
     "family": "Poochyena"
@@ -2440,6 +2709,7 @@ let pms = [
     "name": {
       "en": "Mightyena",
       "zh": "大狼犬",
+      "de": "Magnayen",
     },
     "shiny_released": true,
     "family": "Poochyena"
@@ -2449,6 +2719,7 @@ let pms = [
     "name": {
       "en": "Zigzagoon",
       "zh": "蛇紋熊",
+      "de": "Zigzachs",
     },
     "shiny_released": false,
     "family": "Zigzagoon"
@@ -2458,6 +2729,7 @@ let pms = [
     "name": {
       "en": "Linoone",
       "zh": "直衝熊",
+      "de": "Geradaks",
     },
     "shiny_released": false,
     "family": "Zigzagoon"
@@ -2467,6 +2739,7 @@ let pms = [
     "name": {
       "en": "Wurmple",
       "zh": "刺尾蟲",
+      "de": "Waumpel",
     },
     "shiny_released": false,
     "family": "Wurmple"
@@ -2476,6 +2749,7 @@ let pms = [
     "name": {
       "en": "Silcoon",
       "zh": "甲殼繭",
+      "de": "Schaloko",
     },
     "shiny_released": false,
     "family": "Wurmple"
@@ -2485,6 +2759,7 @@ let pms = [
     "name": {
       "en": "Beautifly",
       "zh": "狩獵鳳蝶",
+      "de": "Papinella",
     },
     "shiny_released": false,
     "family": "Wurmple"
@@ -2494,6 +2769,7 @@ let pms = [
     "name": {
       "en": "Cascoon",
       "zh": "盾甲繭",
+      "de": "Panekon",
     },
     "shiny_released": false,
     "family": "Wurmple"
@@ -2503,6 +2779,7 @@ let pms = [
     "name": {
       "en": "Dustox",
       "zh": "毒粉蛾",
+      "de": "Pudox",
     },
     "shiny_released": false,
     "family": "Wurmple"
@@ -2512,6 +2789,7 @@ let pms = [
     "name": {
       "en": "Lotad",
       "zh": "蓮葉童子",
+      "de": "Loturzel",
     },
     "shiny_released": false,
     "family": "Lotad"
@@ -2521,6 +2799,7 @@ let pms = [
     "name": {
       "en": "Lombre",
       "zh": "蓮帽小童",
+      "de": "Lombrero",
     },
     "shiny_released": false,
     "family": "Lotad"
@@ -2530,6 +2809,7 @@ let pms = [
     "name": {
       "en": "Ludicolo",
       "zh": "樂天河童",
+      "de": "Kappalores",
     },
     "shiny_released": false,
     "family": "Lotad"
@@ -2539,6 +2819,7 @@ let pms = [
     "name": {
       "en": "Seedot",
       "zh": "橡實果",
+      "de": "Samurzel",
     },
     "shiny_released": false,
     "family": "Seedot"
@@ -2548,6 +2829,7 @@ let pms = [
     "name": {
       "en": "Nuzleaf",
       "zh": "長鼻葉",
+      "de": "Blanas",
     },
     "shiny_released": false,
     "family": "Seedot"
@@ -2557,6 +2839,7 @@ let pms = [
     "name": {
       "en": "Shiftry",
       "zh": "狡猾天狗",
+      "de": "Tengulist",
     },
     "shiny_released": false,
     "family": "Seedot"
@@ -2566,6 +2849,7 @@ let pms = [
     "name": {
       "en": "Taillow",
       "zh": "傲骨燕",
+      "de": "Schwalbini",
     },
     "shiny_released": false,
     "family": "Taillow"
@@ -2575,6 +2859,7 @@ let pms = [
     "name": {
       "en": "Swellow",
       "zh": "大王燕",
+      "de": "Schwalboss",
     },
     "shiny_released": false,
     "family": "Taillow"
@@ -2584,6 +2869,7 @@ let pms = [
     "name": {
       "en": "Wingull",
       "zh": "長翅鷗",
+      "de": "Wingull",
     },
     "shiny_released": true,
     "family": "Wingull"
@@ -2593,6 +2879,7 @@ let pms = [
     "name": {
       "en": "Pelipper",
       "zh": "大嘴鷗",
+      "de": "Pelipper",
     },
     "shiny_released": true,
     "family": "Wingull"
@@ -2602,6 +2889,7 @@ let pms = [
     "name": {
       "en": "Ralts",
       "zh": "拉魯拉絲",
+      "de": "Trasla",
     },
     "shiny_released": false,
     "family": "Ralts"
@@ -2611,6 +2899,7 @@ let pms = [
     "name": {
       "en": "Kirlia",
       "zh": "奇魯莉安",
+      "de": "Kirlia",
     },
     "shiny_released": false,
     "family": "Ralts"
@@ -2620,6 +2909,7 @@ let pms = [
     "name": {
       "en": "Gardevoir",
       "zh": "沙奈朵",
+      "de": "Guardevoir",
     },
     "shiny_released": false,
     "family": "Ralts"
@@ -2629,6 +2919,7 @@ let pms = [
     "name": {
       "en": "Surskit",
       "zh": "溜溜糖球",
+      "de": "Gehweiher",
     },
     "shiny_released": false,
     "family": "Surskit"
@@ -2638,6 +2929,7 @@ let pms = [
     "name": {
       "en": "Masquerain",
       "zh": "雨翅蛾",
+      "de": "Maskeregen",
     },
     "shiny_released": false,
     "family": "Surskit"
@@ -2647,6 +2939,7 @@ let pms = [
     "name": {
       "en": "Shroomish",
       "zh": "蘑蘑菇",
+      "de": "Knilz",
     },
     "shiny_released": false,
     "family": "Shroomish"
@@ -2656,6 +2949,7 @@ let pms = [
     "name": {
       "en": "Breloom",
       "zh": "斗笠菇",
+      "de": "Kapilz",
     },
     "shiny_released": false,
     "family": "Shroomish"
@@ -2665,6 +2959,7 @@ let pms = [
     "name": {
       "en": "Slakoth",
       "zh": "懶人獺",
+      "de": "Bummelz",
     },
     "shiny_released": false,
     "family": "Slakoth"
@@ -2674,6 +2969,7 @@ let pms = [
     "name": {
       "en": "Vigoroth",
       "zh": "過動猿",
+      "de": "Muntier",
     },
     "shiny_released": false,
     "family": "Slakoth"
@@ -2683,6 +2979,7 @@ let pms = [
     "name": {
       "en": "Slaking",
       "zh": "請假王",
+      "de": "Letarking",
     },
     "shiny_released": false,
     "family": "Slakoth"
@@ -2692,6 +2989,7 @@ let pms = [
     "name": {
       "en": "Nincada",
       "zh": "土居忍士",
+      "de": "Nincada",
     },
     "shiny_released": false,
     "family": "Nincada"
@@ -2701,6 +2999,7 @@ let pms = [
     "name": {
       "en": "Ninjask",
       "zh": "鐵面忍者",
+      "de": "Ninjask",
     },
     "shiny_released": false,
     "family": "Nincada"
@@ -2710,6 +3009,7 @@ let pms = [
     "name": {
       "en": "Shedinja",
       "zh": "脫殼忍者",
+      "de": "Ninjatom",
     },
     "shiny_released": false,
     "family": "Nincada"
@@ -2719,6 +3019,7 @@ let pms = [
     "name": {
       "en": "Whismur",
       "zh": "咕妞妞",
+      "de": "Flurmel",
     },
     "shiny_released": false,
     "family": "Whismur"
@@ -2728,6 +3029,7 @@ let pms = [
     "name": {
       "en": "Loudred",
       "zh": "吼爆彈",
+      "de": "Krakeelo",
     },
     "shiny_released": false,
     "family": "Whismur"
@@ -2737,6 +3039,7 @@ let pms = [
     "name": {
       "en": "Exploud",
       "zh": "爆音怪",
+      "de": "Krawumms",
     },
     "shiny_released": false,
     "family": "Whismur"
@@ -2746,6 +3049,7 @@ let pms = [
     "name": {
       "en": "Makuhita",
       "zh": "幕下力士",
+      "de": "Makuhita"
     },
     "shiny_released": true,
     "family": "Makuhita"
@@ -2755,6 +3059,7 @@ let pms = [
     "name": {
       "en": "Hariyama",
       "zh": "鐵掌力士",
+      "de": "Hariyama",
     },
     "shiny_released": true,
     "family": "Makuhita"
@@ -2764,6 +3069,7 @@ let pms = [
     "name": {
       "en": "Azurill",
       "zh": "露力麗",
+      "de": "Azurill",
     },
     "shiny_released": false,
     "family": "Marill"
@@ -2773,6 +3079,7 @@ let pms = [
     "name": {
       "en": "Nosepass",
       "zh": "朝北鼻",
+      "de": "Nasgnet",
     },
     "shiny_released": false,
     "family": "Nosepass"
@@ -2782,6 +3089,7 @@ let pms = [
     "name": {
       "en": "Skitty",
       "zh": "向尾喵",
+      "de": "Eneco",
     },
     "shiny_released": false,
     "family": "Skitty"
@@ -2791,6 +3099,7 @@ let pms = [
     "name": {
       "en": "Delcatty",
       "zh": "優雅貓",
+      "de": "Enekoro",
     },
     "shiny_released": false,
     "family": "Skitty"
@@ -2800,6 +3109,7 @@ let pms = [
     "name": {
       "en": "Sableye",
       "zh": "勾魂眼",
+      "de": "Zobiris",
     },
     "shiny_released": true,
     "family": "Sableye"
@@ -2809,6 +3119,7 @@ let pms = [
     "name": {
       "en": "Mawile",
       "zh": "大嘴娃",
+      "de": "Flunkifer",
     },
     "shiny_released": true,
     "family": "Mawile"
@@ -2818,6 +3129,7 @@ let pms = [
     "name": {
       "en": "Aron",
       "zh": "可可多拉",
+      "de": "Stollunior",
     },
     "shiny_released": true,
     "family": "Aron"
@@ -2827,6 +3139,7 @@ let pms = [
     "name": {
       "en": "Lairon",
       "zh": "可多拉",
+      "de": "Stollrak",
     },
     "shiny_released": true,
     "family": "Aron"
@@ -2836,6 +3149,7 @@ let pms = [
     "name": {
       "en": "Aggron",
       "zh": "波士可多拉",
+      "de": "Stolloss",
     },
     "shiny_released": true,
     "family": "Aron"
@@ -2845,6 +3159,7 @@ let pms = [
     "name": {
       "en": "Meditite",
       "zh": "瑪沙那",
+      "de": "Meditite",
     },
     "shiny_released": true,
     "family": "Meditite"
@@ -2854,6 +3169,7 @@ let pms = [
     "name": {
       "en": "Medicham",
       "zh": "恰雷姆",
+      "de": "Meditalis",
     },
     "shiny_released": true,
     "family": "Meditite"
@@ -2863,6 +3179,7 @@ let pms = [
     "name": {
       "en": "Electrike",
       "zh": "落雷獸",
+      "de": "Frizelbliz",
     },
     "shiny_released": false,
     "family": "Electrike"
@@ -2872,6 +3189,7 @@ let pms = [
     "name": {
       "en": "Manectric",
       "zh": "雷電獸",
+      "de": "Voltenso",
     },
     "shiny_released": false,
     "family": "Electrike"
@@ -2881,6 +3199,7 @@ let pms = [
     "name": {
       "en": "Plusle",
       "zh": "正電拍拍",
+      "de": "Plusle",
     },
     "shiny_released": true,
     "family": "Plusle"
@@ -2890,6 +3209,7 @@ let pms = [
     "name": {
       "en": "Minun",
       "zh": "負電拍拍",
+      "de": "Minun",
     },
     "shiny_released": true,
     "family": "Minun"
@@ -2899,6 +3219,7 @@ let pms = [
     "name": {
       "en": "Volbeat",
       "zh": "電螢蟲",
+      "de": "Volbeat",
     },
     "shiny_released": false,
     "family": "Volbeat"
@@ -2908,6 +3229,7 @@ let pms = [
     "name": {
       "en": "Illumise",
       "zh": "甜甜螢",
+      "de": "Illumise",
     },
     "shiny_released": false,
     "family": "Illumise"
@@ -2917,6 +3239,7 @@ let pms = [
     "name": {
       "en": "Roselia",
       "zh": "毒薔薇",
+      "de": "Roselia",
     },
     "shiny_released": true,
     "family": "Roselia"
@@ -2926,6 +3249,7 @@ let pms = [
     "name": {
       "en": "Gulpin",
       "zh": "溶食獸",
+      "de": "Schluppuck",
     },
     "shiny_released": false,
     "family": "Gulpin"
@@ -2935,6 +3259,7 @@ let pms = [
     "name": {
       "en": "Swalot",
       "zh": "吞食獸",
+      "de": "Schlukwech",
     },
     "shiny_released": false,
     "family": "Gulpin"
@@ -2944,6 +3269,7 @@ let pms = [
     "name": {
       "en": "Carvanha",
       "zh": "利牙魚",
+      "de": "Kanivanha",
     },
     "shiny_released": false,
     "family": "Carvanha"
@@ -2953,6 +3279,7 @@ let pms = [
     "name": {
       "en": "Sharpedo",
       "zh": "巨牙鯊",
+      "de": "Tohaido",
     },
     "shiny_released": false,
     "family": "Carvanha"
@@ -2962,6 +3289,7 @@ let pms = [
     "name": {
       "en": "Wailmer",
       "zh": "吼吼鯨",
+      "de": "Wailmer",
     },
     "shiny_released": true,
     "family": "Wailmer"
@@ -2971,6 +3299,7 @@ let pms = [
     "name": {
       "en": "Wailord",
       "zh": "吼鯨王",
+      "de": "Wailord",
     },
     "shiny_released": true,
     "family": "Wailmer"
@@ -2980,6 +3309,7 @@ let pms = [
     "name": {
       "en": "Numel",
       "zh": "呆火駝",
+      "de": "Camaub",
     },
     "shiny_released": false,
     "family": "Numel"
@@ -2989,6 +3319,7 @@ let pms = [
     "name": {
       "en": "Camerupt",
       "zh": "噴火駝",
+      "de": "Camerupt",
     },
     "shiny_released": false,
     "family": "Numel"
@@ -2998,6 +3329,7 @@ let pms = [
     "name": {
       "en": "Torkoal",
       "zh": "煤炭龜",
+      "de": "Qurtel",
     },
     "shiny_released": false,
     "family": "Torkoal"
@@ -3007,6 +3339,7 @@ let pms = [
     "name": {
       "en": "Spoink",
       "zh": "跳跳豬",
+      "de": "Spoink",
     },
     "shiny_released": false,
     "family": "Spoink"
@@ -3016,6 +3349,7 @@ let pms = [
     "name": {
       "en": "Grumpig",
       "zh": "噗噗豬",
+      "de": "Groink",
     },
     "shiny_released": false,
     "family": "Spoink"
@@ -3025,6 +3359,7 @@ let pms = [
     "name": {
       "en": "Spinda",
       "zh": "晃晃斑",
+      "de": "Pandir",
     },
     "shiny_released": false,
     "family": "Spinda"
@@ -3034,6 +3369,7 @@ let pms = [
     "name": {
       "en": "Trapinch",
       "zh": "大顎蟻",
+      "de": "Knacklion",
     },
     "shiny_released": false,
     "family": "Trapinch"
@@ -3043,6 +3379,7 @@ let pms = [
     "name": {
       "en": "Vibrava",
       "zh": "超音波幼蟲",
+      "de": "Vibrava",
     },
     "shiny_released": false,
     "family": "Trapinch"
@@ -3052,6 +3389,7 @@ let pms = [
     "name": {
       "en": "Flygon",
       "zh": "沙漠蜻蜓",
+      "de": "Libelldra",
     },
     "shiny_released": false,
     "family": "Trapinch"
@@ -3061,6 +3399,7 @@ let pms = [
     "name": {
       "en": "Cacnea",
       "zh": "刺球仙人掌",
+      "de": "Tuska",
     },
     "shiny_released": false,
     "family": "Cacnea"
@@ -3070,6 +3409,7 @@ let pms = [
     "name": {
       "en": "Cacturne",
       "zh": "夢歌仙人掌",
+      "de": "Noktuska",
     },
     "shiny_released": false,
     "family": "Cacnea"
@@ -3079,6 +3419,7 @@ let pms = [
     "name": {
       "en": "Swablu",
       "zh": "青綿鳥",
+      "de": "Wablu",
     },
     "shiny_released": true,
     "family": "Swablu"
@@ -3088,6 +3429,7 @@ let pms = [
     "name": {
       "en": "Altaria",
       "zh": "七夕青鳥",
+      "de": "Altaria",
     },
     "shiny_released": true,
     "family": "Swablu"
@@ -3097,6 +3439,7 @@ let pms = [
     "name": {
       "en": "Zangoose",
       "zh": "貓鼬斬",
+      "de": "Sengo",
     },
     "shiny_released": false,
     "family": "Zangoose"
@@ -3106,6 +3449,7 @@ let pms = [
     "name": {
       "en": "Seviper",
       "zh": "飯匙蛇",
+      "de": "Vipitis",
     },
     "shiny_released": false,
     "family": "Seviper"
@@ -3115,6 +3459,7 @@ let pms = [
     "name": {
       "en": "Lunatone",
       "zh": "月石",
+      "de": "Lunastein",
     },
     "shiny_released": false,
     "family": "Lunatone"
@@ -3124,6 +3469,7 @@ let pms = [
     "name": {
       "en": "Solrock",
       "zh": "太陽岩",
+      "de": "Sonnfel",
     },
     "shiny_released": false,
     "family": "Solrock"
@@ -3133,6 +3479,7 @@ let pms = [
     "name": {
       "en": "Barboach",
       "zh": "泥泥鰍",
+      "de": "Schmerbe",
     },
     "shiny_released": false,
     "family": "Barboach"
@@ -3142,6 +3489,7 @@ let pms = [
     "name": {
       "en": "Whiscash",
       "zh": "鯰魚王",
+      "de": "Welsar",
     },
     "shiny_released": false,
     "family": "Barboach"
@@ -3151,6 +3499,7 @@ let pms = [
     "name": {
       "en": "Corphish",
       "zh": "龍蝦小兵",
+      "de": "Krebscorps",
     },
     "shiny_released": false,
     "family": "Corphish"
@@ -3160,6 +3509,7 @@ let pms = [
     "name": {
       "en": "Crawdaunt",
       "zh": "鐵螯龍蝦",
+      "de": "Krebutack",
     },
     "shiny_released": false,
     "family": "Corphish"
@@ -3169,6 +3519,7 @@ let pms = [
     "name": {
       "en": "Baltoy",
       "zh": "天秤偶",
+      "de": "Puppance",
     },
     "shiny_released": false,
     "family": "Baltoy"
@@ -3178,6 +3529,7 @@ let pms = [
     "name": {
       "en": "Claydol",
       "zh": "念力土偶",
+      "de": "Lepumentas",
     },
     "shiny_released": false,
     "family": "Baltoy"
@@ -3187,6 +3539,7 @@ let pms = [
     "name": {
       "en": "Lileep",
       "zh": "觸手百合",
+      "de": "Liliep",
     },
     "shiny_released": false,
     "family": "Lileep"
@@ -3196,6 +3549,7 @@ let pms = [
     "name": {
       "en": "Cradily",
       "zh": "搖籃百合",
+      "de": "Wielie",
     },
     "shiny_released": false,
     "family": "Lileep"
@@ -3205,6 +3559,7 @@ let pms = [
     "name": {
       "en": "Anorith",
       "zh": "太古羽蟲",
+      "de": "Anorith",
     },
     "shiny_released": false,
     "family": "Anorith"
@@ -3214,6 +3569,7 @@ let pms = [
     "name": {
       "en": "Armaldo",
       "zh": "太古盔甲",
+      "de": "Armaldo",
     },
     "shiny_released": false,
     "family": "Anorith"
@@ -3223,6 +3579,7 @@ let pms = [
     "name": {
       "en": "Feebas",
       "zh": "醜醜魚",
+      "de": "Barschwa",
     },
     "shiny_released": false,
     "family": "Feebas"
@@ -3232,6 +3589,7 @@ let pms = [
     "name": {
       "en": "Milotic",
       "zh": "美納斯",
+      "de": "Milotic",
     },
     "shiny_released": false,
     "family": "Feebas"
@@ -3241,6 +3599,7 @@ let pms = [
     "name": {
       "en": "Castform",
       "zh": "飄浮泡泡",
+      "de": "Formeo",
     },
     "shiny_released": false,
     "family": "Castform"
@@ -3250,6 +3609,7 @@ let pms = [
     "name": {
       "en": "Kecleon",
       "zh": "變隱龍",
+      "de": "Kecleon",
     },
     "shiny_released": false,
     "family": "Kecleon"
@@ -3259,6 +3619,7 @@ let pms = [
     "name": {
       "en": "Shuppet",
       "zh": "怨影娃娃",
+      "de": "Shuppet",
     },
     "shiny_released": true,
     "family": "Shuppet"
@@ -3268,6 +3629,7 @@ let pms = [
     "name": {
       "en": "Banette",
       "zh": "詛咒娃娃",
+      "de": "Banette",
     },
     "shiny_released": true,
     "family": "Shuppet"
@@ -3277,6 +3639,7 @@ let pms = [
     "name": {
       "en": "Duskull",
       "zh": "夜巡靈",
+      "de": "Zwirrlicht",
     },
     "shiny_released": true,
     "family": "Duskull"
@@ -3286,6 +3649,7 @@ let pms = [
     "name": {
       "en": "Dusclops",
       "zh": "彷徨夜靈",
+      "de": "Zwirrklop",
     },
     "shiny_released": true,
     "family": "Duskull"
@@ -3295,6 +3659,7 @@ let pms = [
     "name": {
       "en": "Tropius",
       "zh": "熱帶龍",
+      "de": "Tropius",
     },
     "shiny_released": false,
     "family": "Tropius"
@@ -3304,6 +3669,7 @@ let pms = [
     "name": {
       "en": "Chimecho",
       "zh": "風鈴鈴",
+      "de": "Palimpalim",
     },
     "shiny_released": false,
     "family": "Chimecho"
@@ -3313,6 +3679,7 @@ let pms = [
     "name": {
       "en": "Absol",
       "zh": "阿勃梭魯",
+      "de": "Absol",
     },
     "shiny_released": true,
     "family": "Absol"
@@ -3322,6 +3689,7 @@ let pms = [
     "name": {
       "en": "Wynaut",
       "zh": "小果然",
+      "de": "Isso",
     },
     "shiny_released": true,
     "order": -1,
@@ -3332,6 +3700,7 @@ let pms = [
     "name": {
       "en": "Snorunt",
       "zh": "雪童子",
+      "de": "Schneppke",
     },
     "shiny_released": true,
     "family": "Snorunt"
@@ -3341,6 +3710,7 @@ let pms = [
     "name": {
       "en": "Glalie",
       "zh": "冰鬼護",
+      "de": "Firnontor",
     },
     "shiny_released": true,
     "family": "Snorunt"
@@ -3350,6 +3720,7 @@ let pms = [
     "name": {
       "en": "Spheal",
       "zh": "海豹球",
+      "de": "Seemops",
     },
     "shiny_released": false,
     "family": "Spheal"
@@ -3359,6 +3730,7 @@ let pms = [
     "name": {
       "en": "Sealeo",
       "zh": "海魔獅",
+      "de": "Seejong",
     },
     "shiny_released": false,
     "family": "Spheal"
@@ -3368,6 +3740,7 @@ let pms = [
     "name": {
       "en": "Walrein",
       "zh": "帝牙海獅",
+      "de": "Walraisa",
     },
     "shiny_released": false,
     "family": "Spheal"
@@ -3377,6 +3750,7 @@ let pms = [
     "name": {
       "en": "Clamperl",
       "zh": "珍珠貝",
+      "de": "Perlu",
     },
     "shiny_released": false,
     "family": "Clamperl"
@@ -3386,6 +3760,7 @@ let pms = [
     "name": {
       "en": "Huntail",
       "zh": "獵斑魚",
+      "de": "Aalabyss",
     },
     "shiny_released": false,
     "family": "Clamperl"
@@ -3395,6 +3770,7 @@ let pms = [
     "name": {
       "en": "Gorebyss",
       "zh": "櫻花魚",
+      "de": "Saganabyss",
     },
     "shiny_released": false,
     "family": "Clamperl"
@@ -3404,6 +3780,7 @@ let pms = [
     "name": {
       "en": "Relicanth",
       "zh": "古空棘魚",
+      "de": "Relicanth",
     },
     "shiny_released": false,
     "family": "Relicanth"
@@ -3413,6 +3790,7 @@ let pms = [
     "name": {
       "en": "Luvdisc",
       "zh": "愛心魚",
+      "de": "Liebiskus",
     },
     "shiny_released": true,
     "family": "Luvdisc"
@@ -3422,6 +3800,7 @@ let pms = [
     "name": {
       "en": "Bagon",
       "zh": "寶貝龍",
+      "de": "Kindwurm",
     },
     "shiny_released": false,
     "family": "Bagon"
@@ -3431,6 +3810,7 @@ let pms = [
     "name": {
       "en": "Shelgon",
       "zh": "甲殼龍",
+      "de": "Draschel",
     },
     "shiny_released": false,
     "family": "Bagon"
@@ -3440,6 +3820,7 @@ let pms = [
     "name": {
       "en": "Salamence",
       "zh": "暴飛龍",
+      "de": "Brutalanda",
     },
     "shiny_released": false,
     "family": "Bagon"
@@ -3449,8 +3830,9 @@ let pms = [
     "name": {
       "en": "Beldum",
       "zh": "鐵啞鈴",
+      "de": "Tanhel",
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Beldum"
   },
   {
@@ -3458,8 +3840,9 @@ let pms = [
     "name": {
       "en": "Metang",
       "zh": "金屬怪",
+      "de": "Metang",
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Beldum"
   },
   {
@@ -3467,8 +3850,9 @@ let pms = [
     "name": {
       "en": "Metagross",
       "zh": "巨金怪",
+      "de": "Metagross",
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Beldum"
   },
   {
@@ -3476,6 +3860,7 @@ let pms = [
     "name": {
       "en": "Regirock",
       "zh": "雷吉洛克",
+      "de": "Regirock",
     },
     "shiny_released": false,
     "family": "Regirock"
@@ -3485,6 +3870,7 @@ let pms = [
     "name": {
       "en": "Regice",
       "zh": "雷吉艾斯",
+      "de": "Regice",
     },
     "shiny_released": false,
     "family": "Regice"
@@ -3494,6 +3880,7 @@ let pms = [
     "name": {
       "en": "Registeel",
       "zh": "雷吉斯奇魯",
+      "de": "Registeel",
     },
     "shiny_released": false,
     "family": "Registeel"
@@ -3503,6 +3890,7 @@ let pms = [
     "name": {
       "en": "Latias",
       "zh": "拉帝亞斯",
+      "de": "Latias",
     },
     "shiny_released": false,
     "family": "Latias"
@@ -3512,6 +3900,7 @@ let pms = [
     "name": {
       "en": "Latios",
       "zh": "拉帝歐斯",
+      "de": "Latios",
     },
     "shiny_released": false,
     "family": "Latios"
@@ -3521,6 +3910,7 @@ let pms = [
     "name": {
       "en": "Kyogre",
       "zh": "蓋歐卡",
+      "de": "Kyogre",
     },
     "shiny_released": true,
     "family": "Kyogre"
@@ -3530,6 +3920,7 @@ let pms = [
     "name": {
       "en": "Groudon",
       "zh": "固拉多",
+      "de": "Groudon",
     },
     "shiny_released": false,
     "family": "Groudon"
@@ -3539,6 +3930,7 @@ let pms = [
     "name": {
       "en": "Rayquaza",
       "zh": "烈空坐",
+      "de": "Rayquaza",
     },
     "shiny_released": false,
     "family": "Rayquaza"
@@ -3548,6 +3940,7 @@ let pms = [
     "name": {
       "en": "Jirachi",
       "zh": "基拉祈",
+      "de": "Jirachi",
     },
     "shiny_released": false,
     "family": "Jirachi"
@@ -3557,6 +3950,7 @@ let pms = [
     "name": {
       "en": "Deoxys",
       "zh": "代歐奇希斯",
+      "de": "Deoxys",
     },
     "shiny_released": false,
     "family": "Deoxys"
@@ -3566,6 +3960,7 @@ let pms = [
     "name": {
       "en": "Turtwig",
       "zh": "草苗龜",
+      "de": "Chelast",
     },
     "shiny_released": false,
     "family": "Turtwig"
@@ -3575,6 +3970,7 @@ let pms = [
     "name": {
       "en": "Grotle",
       "zh": "樹林龜",
+      "de": "Chelcarain",
     },
     "shiny_released": false,
     "family": "Turtwig"
@@ -3584,6 +3980,7 @@ let pms = [
     "name": {
       "en": "Torterra",
       "zh": "土台龜",
+      "de": "Chelterrar",
     },
     "shiny_released": false,
     "family": "Turtwig"
@@ -3593,6 +3990,7 @@ let pms = [
     "name": {
       "en": "Chimchar",
       "zh": "小火焰猴",
+      "de": "Panflam",
     },
     "shiny_released": false,
     "family": "Chimchar"
@@ -3602,6 +4000,7 @@ let pms = [
     "name": {
       "en": "Monferno",
       "zh": "猛火猴",
+      "de": "Panpyro",
     },
     "shiny_released": false,
     "family": "Chimchar"
@@ -3611,6 +4010,7 @@ let pms = [
     "name": {
       "en": "Infernape",
       "zh": "烈焰猴",
+      "de": "Panferno",
     },
     "shiny_released": false,
     "family": "Chimchar"
@@ -3620,6 +4020,7 @@ let pms = [
     "name": {
       "en": "Piplup",
       "zh": "波加曼",
+      "de": "Plinfa",
     },
     "shiny_released": false,
     "family": "Piplup"
@@ -3629,6 +4030,7 @@ let pms = [
     "name": {
       "en": "Prinplup",
       "zh": "波皇子",
+      "de": "Pliprin",
     },
     "shiny_released": false,
     "family": "Piplup"
@@ -3638,6 +4040,7 @@ let pms = [
     "name": {
       "en": "Empoleon",
       "zh": "帝王拿波",
+      "de": "Impoleon",
     },
     "shiny_released": false,
     "family": "Piplup"
@@ -3647,6 +4050,7 @@ let pms = [
     "name": {
       "en": "Starly",
       "zh": "姆克兒",
+      "de": "Staralili",
     },
     "shiny_released": false,
     "family": "Starly"
@@ -3656,6 +4060,7 @@ let pms = [
     "name": {
       "en": "Staravia",
       "zh": "姆克鳥",
+      "de": "Staravia",
     },
     "shiny_released": false,
     "family": "Starly"
@@ -3665,6 +4070,7 @@ let pms = [
     "name": {
       "en": "Staraptor",
       "zh": "姆克鷹",
+      "de": "Staraptor",
     },
     "shiny_released": false,
     "family": "Starly"
@@ -3674,6 +4080,7 @@ let pms = [
     "name": {
       "en": "Bidoof",
       "zh": "大牙狸",
+      "de": "Bidiza",
     },
     "shiny_released": false,
     "family": "Bidoof"
@@ -3683,6 +4090,7 @@ let pms = [
     "name": {
       "en": "Bibarel",
       "zh": "大尾狸",
+      "de": "Bidifas",
     },
     "shiny_released": false,
     "family": "Bidoof"
@@ -3692,6 +4100,7 @@ let pms = [
     "name": {
       "en": "Kricketot",
       "zh": "圓法師",
+      "de": "Zirpurze",
     },
     "shiny_released": false,
     "family": "Kricketot"
@@ -3701,6 +4110,7 @@ let pms = [
     "name": {
       "en": "Kricketune",
       "zh": "音箱蟀",
+      "de": "Zirpeise",
     },
     "shiny_released": false,
     "family": "Kricketot"
@@ -3710,6 +4120,7 @@ let pms = [
     "name": {
       "en": "Shinx",
       "zh": "小貓怪",
+      "de": "Sheinux",
     },
     "shiny_released": true,
     "family": "Shinx"
@@ -3719,6 +4130,7 @@ let pms = [
     "name": {
       "en": "Luxio",
       "zh": "勒克貓",
+      "de": "Luxio",
     },
     "shiny_released": true,
     "family": "Shinx"
@@ -3728,6 +4140,7 @@ let pms = [
     "name": {
       "en": "Luxray",
       "zh": "倫琴貓",
+      "de": "Luxtra",
     },
     "shiny_released": true,
     "family": "Shinx"
@@ -3737,6 +4150,7 @@ let pms = [
     "name": {
       "en": "Budew",
       "zh": "含羞苞",
+      "de": "Knospi",
     },
     "shiny_released": false,
     "family": "Roselia",
@@ -3747,6 +4161,7 @@ let pms = [
     "name": {
       "en": "Roserade",
       "zh": "羅絲雷朵",
+      "de": "Roserade",
     },
     "shiny_released": false,
     "family": "Roselia"
@@ -3756,6 +4171,7 @@ let pms = [
     "name": {
       "en": "Cranidos",
       "zh": "頭蓋龍",
+      "de": "Koknodon",
     },
     "shiny_released": false,
     "family": "Cranidos"
@@ -3765,6 +4181,7 @@ let pms = [
     "name": {
       "en": "Rampardos",
       "zh": "戰槌龍",
+      "de": "Rameidon",
     },
     "shiny_released": false,
     "family": "Cranidos"
@@ -3774,6 +4191,7 @@ let pms = [
     "name": {
       "en": "Shieldon",
       "zh": "盾甲龍",
+      "de": "Schilterus",
     },
     "shiny_released": false,
     "family": "Shieldon"
@@ -3783,6 +4201,7 @@ let pms = [
     "name": {
       "en": "Bastiodon",
       "zh": "護城龍",
+      "de": "Bollterus",
     },
     "shiny_released": false,
     "family": "Shieldon"
@@ -3792,6 +4211,7 @@ let pms = [
     "name": {
       "en": "Burmy",
       "zh": "結草兒",
+      "de": "Burmy",
     },
     "shiny_released": false,
     "family": "Burmy"
@@ -3801,6 +4221,7 @@ let pms = [
     "name": {
       "en": "Wormadam",
       "zh": "結草貴婦",
+      "de": "Burmadame",
     },
     "shiny_released": false,
     "family": "Burmy"
@@ -3810,6 +4231,7 @@ let pms = [
     "name": {
       "en": "Mothim",
       "zh": "紳士蛾",
+      "de": "Moterpel",
     },
     "shiny_released": false,
     "family": "Burmy"
@@ -3819,6 +4241,7 @@ let pms = [
     "name": {
       "en": "Combee",
       "zh": "三蜜蜂",
+      "de": "Wadribie",
     },
     "shiny_released": false,
     "family": "Combee"
@@ -3828,6 +4251,7 @@ let pms = [
     "name": {
       "en": "Vespiquen",
       "zh": "蜂后",
+      "de": "Honweisel",
     },
     "shiny_released": false,
     "family": "Combee"
@@ -3837,6 +4261,7 @@ let pms = [
     "name": {
       "en": "Pachirisu",
       "zh": "帕奇利茲",
+      "de": "Pachirisu",
     },
     "shiny_released": false,
     "family": "Pachirisu"
@@ -3846,6 +4271,7 @@ let pms = [
     "name": {
       "en": "Buizel",
       "zh": "泳氣鼬",
+      "de": "Bamelin",
     },
     "shiny_released": false,
     "family": "Floatzel"
@@ -3855,6 +4281,7 @@ let pms = [
     "name": {
       "en": "Floatzel",
       "zh": "浮潛鼬",
+      "de": "Bojelin",
     },
     "shiny_released": false,
     "family": "Floatzel"
@@ -3864,6 +4291,7 @@ let pms = [
     "name": {
       "en": "Cherubi",
       "zh": "櫻花寶",
+      "de": "Kikugi",
     },
     "shiny_released": false,
     "family": "Cherubi"
@@ -3873,6 +4301,7 @@ let pms = [
     "name": {
       "en": "Cherrim",
       "zh": "櫻花兒",
+      "de": "Kinoso",
     },
     "shiny_released": false,
     "family": "Cherubi"
@@ -3882,6 +4311,7 @@ let pms = [
     "name": {
       "en": "Shellos",
       "zh": "無殼海牛",
+      "de": "Schalellos",
     },
     "shiny_released": false,
     "family": "Shellos"
@@ -3891,6 +4321,7 @@ let pms = [
     "name": {
       "en": "Gastrodon",
       "zh": "海牛獸",
+      "de": "Gastrodon",
     },
     "shiny_released": false,
     "family": "Shellos"
@@ -3900,6 +4331,7 @@ let pms = [
     "name": {
       "en": "Ambipom",
       "zh": "雙尾怪手",
+      "de": "Ambidiffel",
     },
     "shiny_released": false,
     "family": "Aipom"
@@ -3909,6 +4341,7 @@ let pms = [
     "name": {
       "en": "Drifloon",
       "zh": "飄飄球",
+      "de": "Driftlon",
     },
     "shiny_released": false,
     "family": "Drifloon"
@@ -3918,6 +4351,7 @@ let pms = [
     "name": {
       "en": "Drifblim",
       "zh": "附和氣球",
+      "de": "Drifzepeli",
     },
     "shiny_released": false,
     "family": "Drifloon"
@@ -3927,6 +4361,7 @@ let pms = [
     "name": {
       "en": "Buneary",
       "zh": "捲捲耳",
+      "de": "Haspiror",
     },
     "shiny_released": false,
     "family": "Buneary"
@@ -3936,6 +4371,7 @@ let pms = [
     "name": {
       "en": "Lopunny",
       "zh": "長耳兔",
+      "de": "Schlapor",
     },
     "shiny_released": false,
     "family": "Buneary"
@@ -3945,6 +4381,7 @@ let pms = [
     "name": {
       "en": "Mismagius",
       "zh": "夢妖魔",
+      "de": "Traunmagil",
     },
     "shiny_released": false,
     "family": "Misdreavus"
@@ -3954,6 +4391,7 @@ let pms = [
     "name": {
       "en": "Honchkrow",
       "zh": "烏鴉頭頭",
+      "de": "Kramshef",
     },
     "shiny_released": false,
     "family": "Murkrow"
@@ -3963,6 +4401,7 @@ let pms = [
     "name": {
       "en": "Glameow",
       "zh": "魅力喵",
+      "de": "Charmian",
     },
     "shiny_released": false,
     "family": "Glameow"
@@ -3972,6 +4411,7 @@ let pms = [
     "name": {
       "en": "Purugly",
       "zh": "東施喵",
+      "de": "Shnurgarst",
     },
     "shiny_released": false,
     "family": "Glameow"
@@ -3981,6 +4421,7 @@ let pms = [
     "name": {
       "en": "Chingling",
       "zh": "鈴噹響",
+      "de": "Klingplim",
     },
     "shiny_released": false,
     "family": "Chimecho",
@@ -3991,6 +4432,7 @@ let pms = [
     "name": {
       "en": "Stunky",
       "zh": "臭鼬噗",
+      "de": "Skunkapuh",
     },
     "shiny_released": false,
     "family": "Stunky"
@@ -4000,6 +4442,7 @@ let pms = [
     "name": {
       "en": "Skuntank",
       "zh": "坦克臭鼬",
+      "de": "Skuntank",
     },
     "shiny_released": false,
     "family": "Stunky"
@@ -4009,6 +4452,7 @@ let pms = [
     "name": {
       "en": "Bronzor",
       "zh": "銅鏡怪",
+      "de": "Bronzel",
     },
     "shiny_released": false,
     "family": "Bronzor"
@@ -4018,6 +4462,7 @@ let pms = [
     "name": {
       "en": "Bronzong",
       "zh": "青銅鐘",
+      "de": "Bronzong",
     },
     "shiny_released": false,
     "family": "Bronzor"
@@ -4027,6 +4472,7 @@ let pms = [
     "name": {
       "en": "Bonsly",
       "zh": "愛哭樹",
+      "de": "Mobai",
     },
     "shiny_released": false,
     "family": "Sudowoodo"
@@ -4036,6 +4482,7 @@ let pms = [
     "name": {
       "en": "Mime Jr.",
       "zh": "魔尼尼",
+      "de": "Pantimimi",
     },
     "shiny_released": false,
     "family": "Mr Mime"
@@ -4045,6 +4492,7 @@ let pms = [
     "name": {
       "en": "Happiny",
       "zh": "好運蛋",
+      "de": "Wonneira",
     },
     "shiny_released": false,
     "family": "Chansey",
@@ -4055,6 +4503,7 @@ let pms = [
     "name": {
       "en": "Chatot",
       "zh": "聒噪鳥",
+      "de": "Plaudagei",
     },
     "shiny_released": false,
     "family": "Chatot"
@@ -4064,6 +4513,7 @@ let pms = [
     "name": {
       "en": "Spiritomb",
       "zh": "花岩怪",
+      "de": "Kryppuk",
     },
     "shiny_released": false,
     "family": "Spiritomb"
@@ -4073,6 +4523,7 @@ let pms = [
     "name": {
       "en": "Gible",
       "zh": "圓陸鯊",
+      "de": "Kaumalat",
     },
     "shiny_released": false,
     "family": "Gible"
@@ -4082,6 +4533,7 @@ let pms = [
     "name": {
       "en": "Gabite",
       "zh": "尖牙陸鯊",
+      "de": "Knarksel",
     },
     "shiny_released": false,
     "family": "Gible"
@@ -4091,6 +4543,7 @@ let pms = [
     "name": {
       "en": "Garchomp",
       "zh": "烈咬陸鯊",
+      "de": "Knakrack",
     },
     "shiny_released": false,
     "family": "Gible"
@@ -4100,6 +4553,7 @@ let pms = [
     "name": {
       "en": "Munchlax",
       "zh": "小卡比獸",
+      "de": "Mampfaxo",
     },
     "shiny_released": false,
     "family": "Snorlax",
@@ -4110,6 +4564,7 @@ let pms = [
     "name": {
       "en": "Riolu",
       "zh": "利歐路",
+      "de": "Riolu",
     },
     "shiny_released": false,
     "family": "Riolu"
@@ -4119,6 +4574,7 @@ let pms = [
     "name": {
       "en": "Lucario",
       "zh": "路卡利歐",
+      "de": "Lucario",
     },
     "shiny_released": false,
     "family": "Riolu"
@@ -4128,6 +4584,7 @@ let pms = [
     "name": {
       "en": "Hippopotas",
       "zh": "怪河馬",
+      "de": "Hippopotas",
     },
     "shiny_released": false,
     "family": "Hippowdon"
@@ -4137,6 +4594,7 @@ let pms = [
     "name": {
       "en": "Hippowdon",
       "zh": "河馬獸",
+      "de": "Hippowdon",
     },
     "shiny_released": false,
     "family": "Hippowdon"
@@ -4146,6 +4604,7 @@ let pms = [
     "name": {
       "en": "Skorupi",
       "zh": "紫天蠍",
+      "de": "Pionskora",
     },
     "shiny_released": false,
     "family": "Skorupi"
@@ -4155,6 +4614,7 @@ let pms = [
     "name": {
       "en": "Drapion",
       "zh": "龍王蠍",
+      "de": "Piondragi",
     },
     "shiny_released": false,
     "family": "Skorupi"
@@ -4164,6 +4624,7 @@ let pms = [
     "name": {
       "en": "Croagunk",
       "zh": "不良蛙",
+      "de": "Toxiquak",
     },
     "shiny_released": false,
     "family": "Croagunk"
@@ -4173,6 +4634,7 @@ let pms = [
     "name": {
       "en": "Toxicroak",
       "zh": "毒骷蛙",
+      "de": "Venuflibis",
     },
     "shiny_released": false,
     "family": "Croagunk"
@@ -4182,6 +4644,7 @@ let pms = [
     "name": {
       "en": "Carnivine",
       "zh": "尖牙籠",
+      "de": "Finneon",
     },
     "shiny_released": false,
     "family": "Carnivine"
@@ -4191,6 +4654,7 @@ let pms = [
     "name": {
       "en": "Finneon",
       "zh": "螢光魚",
+      "de": "Lumineon",
     },
     "shiny_released": false,
     "family": "Finneon"
@@ -4200,6 +4664,7 @@ let pms = [
     "name": {
       "en": "Lumineon",
       "zh": "霓虹魚",
+      "de": "Mantirps",
     },
     "shiny_released": false,
     "family": "Finneon"
@@ -4209,6 +4674,7 @@ let pms = [
     "name": {
       "en": "Mantyke",
       "zh": "小球飛魚",
+      "de": "Shnebedeck",
     },
     "shiny_released": false,
     "family": "Mantine"
@@ -4218,15 +4684,17 @@ let pms = [
     "name": {
       "en": "Snover",
       "zh": "雪笠怪",
+      "de": "Rexblisar",
     },
     "shiny_released": false,
-    "family": "xxxSnover"
+    "family": "Snover"
   },
   {
     "dex": 460,
     "name": {
       "en": "Abomasnow",
       "zh": "暴雪王",
+      "de": "Snibunna",
     },
     "shiny_released": false,
     "family": "Snover"
@@ -4236,6 +4704,7 @@ let pms = [
     "name": {
       "en": "Weavile",
       "zh": "瑪狃拉",
+      "de": "Snibunna",
     },
     "shiny_released": false,
     "family": "Sneasel"
@@ -4245,6 +4714,7 @@ let pms = [
     "name": {
       "en": "Magnezone",
       "zh": "自爆磁怪",
+      "de": "Magnezone",
     },
     "shiny_released": false,
     "family": "Magnemite"
@@ -4254,6 +4724,7 @@ let pms = [
     "name": {
       "en": "Lickilicky",
       "zh": "大舌舔",
+      "de": "Schlurplek",
     },
     "shiny_released": false,
     "family": "Lickitung"
@@ -4263,6 +4734,7 @@ let pms = [
     "name": {
       "en": "Rhyperior",
       "zh": "超鐵暴龍",
+      "de": "Rihornior",
     },
     "shiny_released": false,
     "family": "Rhyhorn"
@@ -4272,6 +4744,7 @@ let pms = [
     "name": {
       "en": "Tangrowth",
       "zh": "巨蔓藤",
+      "de": "Tangoloss",
     },
     "shiny_released": false,
     "family": "Tangela"
@@ -4281,6 +4754,7 @@ let pms = [
     "name": {
       "en": "Electivire",
       "zh": "電擊魔獸",
+      "de": "Elevoltek",
     },
     "shiny_released": false,
     "family": "Electabuzz"
@@ -4290,6 +4764,7 @@ let pms = [
     "name": {
       "en": "Magmortar",
       "zh": "鴨嘴焰龍",
+      "de": "Magbrant",
     },
     "shiny_released": false,
     "family": "Magmar"
@@ -4299,6 +4774,7 @@ let pms = [
     "name": {
       "en": "Togekiss",
       "zh": "波克基斯",
+      "de": "Togekiss",
     },
     "shiny_released": false,
     "family": "Togepi"
@@ -4308,6 +4784,7 @@ let pms = [
     "name": {
       "en": "Yanmega",
       "zh": "梅卡陽瑪",
+      "de": "Yanmega",
     },
     "shiny_released": false,
     "family": "Yanmega"
@@ -4317,6 +4794,7 @@ let pms = [
     "name": {
       "en": "Leafeon",
       "zh": "葉精靈",
+      "de": "Folipurba",
     },
     "shiny_released": false,
     "family": "Eevee"
@@ -4326,6 +4804,7 @@ let pms = [
     "name": {
       "en": "Glaceon",
       "zh": "冰精靈",
+      "de": "Glaziola",
     },
     "shiny_released": false,
     "family": "Eevee"
@@ -4335,6 +4814,7 @@ let pms = [
     "name": {
       "en": "Gliscor",
       "zh": "天蠍王",
+      "de": "Skorgro",
     },
     "shiny_released": false,
     "family": "Gligar"
@@ -4344,6 +4824,7 @@ let pms = [
     "name": {
       "en": "Mamoswine",
       "zh": "象牙豬",
+      "de": "Mamutel",
     },
     "shiny_released": false,
     "family": "Swinub"
@@ -4353,6 +4834,7 @@ let pms = [
     "name": {
       "en": "Porygon-Z",
       "zh": "3D龍Z",
+      "de": "Porygon-Z",
     },
     "shiny_released": false,
     "family": "Porygon"
@@ -4362,6 +4844,7 @@ let pms = [
     "name": {
       "en": "Gallade",
       "zh": "艾路雷朵",
+      "de": "Galagladi",
     },
     "shiny_released": false,
     "family": "xxx"
@@ -4371,6 +4854,7 @@ let pms = [
     "name": {
       "en": "Probopass",
       "zh": "大朝北鼻",
+      "de": "Voluminas",
     },
     "shiny_released": false,
     "family": "Nosepass"
@@ -4380,6 +4864,7 @@ let pms = [
     "name": {
       "en": "Dusknoir",
       "zh": "夜黑魔人",
+      "de": "Zwirrfinst",
     },
     "shiny_released": false,
     "family": "Dusknoir"
@@ -4389,6 +4874,7 @@ let pms = [
     "name": {
       "en": "Froslass",
       "zh": "雪妖女",
+      "de": "Frosdedje",
     },
     "shiny_released": false,
     "family": "Snorunt"
@@ -4398,6 +4884,7 @@ let pms = [
     "name": {
       "en": "Rotom",
       "zh": "洛托姆",
+      "de": "Rotom",
     },
     "shiny_released": false,
     "family": "Rotom"
@@ -4407,6 +4894,7 @@ let pms = [
     "name": {
       "en": "Uxie",
       "zh": "由克希",
+      "de": "Selfe",
     },
     "shiny_released": false,
     "family": "Uxie"
@@ -4416,6 +4904,7 @@ let pms = [
     "name": {
       "en": "Mesprit",
       "zh": "艾姆利多",
+      "de": "Vesprit",
     },
     "shiny_released": false,
     "family": "Mesprit"
@@ -4425,6 +4914,7 @@ let pms = [
     "name": {
       "en": "Azelf",
       "zh": "亞克諾姆",
+      "de": "Tobutz",
     },
     "shiny_released": false,
     "family": "Azelf"
@@ -4434,6 +4924,7 @@ let pms = [
     "name": {
       "en": "Dialga",
       "zh": "帝牙盧卡",
+      "de": "Dialga",
     },
     "shiny_released": false,
     "family": "Dialga"
@@ -4443,6 +4934,7 @@ let pms = [
     "name": {
       "en": "Palkia",
       "zh": "帕路奇犽",
+      "de": "Palkia",
     },
     "shiny_released": false,
     "family": "Palkia"
@@ -4452,6 +4944,7 @@ let pms = [
     "name": {
       "en": "Heatran",
       "zh": "席多藍恩",
+      "de": "Heatran",
     },
     "shiny_released": false,
     "family": "Heatran"
@@ -4461,6 +4954,7 @@ let pms = [
     "name": {
       "en": "Regigigas",
       "zh": "雷吉奇卡斯",
+      "de": "Regigigas",
     },
     "shiny_released": false,
     "family": "Regigigas"
@@ -4470,6 +4964,7 @@ let pms = [
     "name": {
       "en": "Giratina",
       "zh": "騎拉帝納",
+      "de": "Giratina",
     },
     "shiny_released": false,
     "family": "Giratina"
@@ -4479,6 +4974,7 @@ let pms = [
     "name": {
       "en": "Cresselia",
       "zh": "克雷色利亞",
+      "de": "Cresselia",
     },
     "shiny_released": false,
     "family": "Cresselia"
@@ -4488,6 +4984,7 @@ let pms = [
     "name": {
       "en": "Phione",
       "zh": "霏歐納",
+      "de": "Phione",
     },
     "shiny_released": false,
     "family": "Phione"
@@ -4497,6 +4994,7 @@ let pms = [
     "name": {
       "en": "Manaphy",
       "zh": "瑪納霏",
+      "de": "Manaphy",
     },
     "shiny_released": false,
     "family": "Manaphy"
@@ -4506,6 +5004,7 @@ let pms = [
     "name": {
       "en": "Darkrai",
       "zh": "達克萊伊",
+      "de": "Darkrai",
     },
     "shiny_released": false,
     "family": "Darkrai"
@@ -4515,6 +5014,7 @@ let pms = [
     "name": {
       "en": "Shaymin (Sky Forme)",
       "zh": "謝米",
+      "de": "Shaymin (Flug Form)",
     },
     "shiny_released": false,
     "family": "Shaymin"
@@ -4524,6 +5024,7 @@ let pms = [
     "name": {
       "en": "Arceus",
       "zh": "阿爾宙斯",
+      "de": "Arceus",
     },
     "shiny_released": false,
     "family": "Arceus"
