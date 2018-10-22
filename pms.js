@@ -4847,7 +4847,7 @@ let pms = [
       "de": "Galagladi",
     },
     "shiny_released": false,
-    "family": "xxx"
+    "family": "Ralts"
   },
   {
     "dex": 476,
