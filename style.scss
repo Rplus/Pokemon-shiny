@@ -689,6 +689,14 @@ button {
     --bgz: 110% 110%;
     --bgp: .05em -.03em;
   }
+  &[data-dex="425"] {
+    --bgz: 130% 130%;
+    --bgp: -.05em -.17em;
+  }
+  &[data-dex="426"] {
+    --bgz: 120% 120%;
+    --bgp: .05em -.08em;
+  }
 }
 
 [data-l10n]:not([data-l10n-done="1"]) {

@@ -5642,7 +5642,7 @@ let pms = [
       "kr": "흔들풍손",
       "zh": "飄飄球"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Drifloon"
   },
   {
@@ -5655,7 +5655,7 @@ let pms = [
       "kr": "둥실라이드",
       "zh": "隨風球"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Drifloon"
   },
   {
