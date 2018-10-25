@@ -436,6 +436,34 @@ let pms = [
     "family": "Pikachu_06"
   },
   {
+    "dex": 25,
+    "isotope": "_04",
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "jp": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "family": "Pikachu_04"
+  },
+  {
+    "dex": 26,
+    "name": {
+      "de": "Raichu",
+      "en": "Raichu",
+      "fr": "Raichu",
+      "jp": "ライチュウ",
+      "kr": "라이츄",
+      "zh": "雷丘"
+    },
+    "isotope": "_04",
+    "shiny_released": true,
+    "family": "Pikachu_04"
+  },
+  {
     "dex": 27,
     "name": {
       "de": "Sandan",
@@ -2348,6 +2376,21 @@ let pms = [
     "shiny_released": true,
     "order": -1,
     "family": "Pikachu_02"
+  },
+  {
+    "dex": 172,
+    "name": {
+      "de": "Pichu",
+      "en": "Pichu",
+      "fr": "Pichu",
+      "jp": "ピチュー",
+      "kr": "피츄",
+      "zh": "皮丘"
+    },
+    "isotope": "_04",
+    "shiny_released": true,
+    "order": -1,
+    "family": "Pikachu_04"
   },
   {
     "dex": 173,
