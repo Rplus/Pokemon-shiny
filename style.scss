@@ -141,8 +141,28 @@ $space-y: 8px;
 }
 
 .nickname {
-  padding: 3px 5px;
+  display: inline-block;
+  min-width: 3em;
+  padding: 3px 1em;
   font-size: larger;
+  border: unset;
+  color: #fff;
+  font-weight: 900;
+  background-color: rgba(#fff, .3);
+  text-align: left;
+
+  &:empty {
+    &::before {
+      content: 'Enter your ID';
+      font-weight: normal;
+      font-size: smaller;
+    }
+  }
+
+  &:not(:empty) {
+    background-color: transparent;
+    background-image: linear-gradient(rgba(#fff, .1) 90%, rgba(#fff, .5) 0);
+  }
 }
 
 .update {

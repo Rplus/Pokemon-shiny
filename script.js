@@ -46,6 +46,15 @@ function sortPM(a, b) {
 }
 
 
+function nickname(value) {
+  if (value) {
+    elm.nickname.innerText = value;
+  } else {
+    return elm.nickname.innerText;
+  }
+}
+
+
 let html = Object.values(pmsByFamily)
   .filter(family => family.pms[0].shiny_released)
   .map(family => {
@@ -133,7 +142,7 @@ let splitChar = '-';
 function updateState() {
   let para = new URLSearchParams({
     dex: getCheckedIndexArr().join(splitChar),
-    nickname: elm.nickname.value || '',
+    nickname: nickname() || '',
   });
   history.pushState(null, null, `?${para.toString()}`);
   elm.getShortUrl.removeAttribute('href');
@@ -144,8 +153,7 @@ function updateState() {
 function renderState() {
   let para = new URLSearchParams(location.search);
 
-  let _nickname = para.get('nickname');
-  elm.nickname.value = _nickname;
+  nickname(para.get('nickname'));
 
   let checkedDex = (para.get('dex') || '').split(splitChar);
 
@@ -206,9 +214,9 @@ function shareLink(url) {
   url = url || location.href;
   let title = 'Pokemon Shiny Checklist';
   let who = 'my';
-  if (elm.nickname.value) {
-    who = `${elm.nickname.value}'s`;
-    title = `${elm.nickname.value}'s ${title}`;
+  if (nickname()) {
+    who = `${nickname()}'s`;
+    title = `${nickname()}'s ${title}`;
   }
   if (!navigator.share) {
     window.prompt(getL10n('share-url-directly'), url);
@@ -271,7 +279,7 @@ function updateOutput(canvas) {
   window.cc = canvas;
   elm.outputImg.src = canvas.toDataURL('image/jpeg');
   elm.outputLink.href = canvas.toDataURL('image/jpeg');
-  elm.outputLink.download = `${elm.nickname.value || 'my'}-shiny-w${canvas.width}.jpg`;
+  elm.outputLink.download = `${nickname() || 'my'}-shiny-w${canvas.width}.jpg`;
   elm.outputLink.click();
 }
 
