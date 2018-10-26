@@ -1,6 +1,8 @@
 let elm = {};
 elm.body = document.querySelector('body');
-let pmsByFamily = pms.reduce((all, pm) => {
+let pmsByFamily = pms
+.filter(pm => pm.shiny_released)
+.reduce((all, pm) => {
   if (!all[pm.family]) {
     all[pm.family] = {
       key: pm.dex,
@@ -56,7 +58,6 @@ function nickname(value) {
 
 
 let html = Object.values(pmsByFamily)
-  .filter(family => family.pms[0].shiny_released)
   .map(family => {
     let pmDom = family.pms
     .sort(sortPM)
