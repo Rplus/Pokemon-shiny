@@ -168,7 +168,8 @@ let pms = [
       "kr": "캐터피",
       "zh": "綠毛蟲"
     },
-    "shiny_released": false,
+    // 11/02: new Field Research task Bug type
+    "shiny_released": new Date('2018/11/02') < new Date(),
     "family": "Caterpie"
   },
   {
@@ -181,7 +182,8 @@ let pms = [
       "kr": "단데기",
       "zh": "鐵甲蛹"
     },
-    "shiny_released": false,
+    // 11/02: new Field Research task Bug type
+    "shiny_released": new Date('2018/11/02') < new Date(),
     "family": "Caterpie"
   },
   {
@@ -194,7 +196,8 @@ let pms = [
       "kr": "버터플",
       "zh": "巴大蝶"
     },
-    "shiny_released": false,
+    // 11/02: new Field Research task Bug type
+    "shiny_released": new Date('2018/11/02') < new Date(),
     "family": "Caterpie"
   },
   {

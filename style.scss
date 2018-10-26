@@ -317,6 +317,18 @@ button {
     --bgz: 130% 130%;
     --bgp: .03em -.04em;
   }
+  &[data-dex="10"] {
+    --bgz: 150% 150%;
+    --bgp: -.12em -.3em;
+  }
+  &[data-dex="11"] {
+    --bgz: 150% 150%;
+    --bgp: -.12em -.27em;
+  }
+  &[data-dex="12"] {
+    --bgz: 130% 130%;
+    --bgp: .03em -.12em;
+  }
   &[data-dex="25"] {
     --bgz: 130% 130%;
     --bgp: 0em -.17em;
