@@ -125,6 +125,29 @@ function updateCheckedState(id) {
   );
 }
 
+function onCheckboxClick(event) {
+  let checkbox = event.target,
+    state = checkbox.dataset.state || '0';
+
+  if (state === '0') {
+    checkbox.dataset.state = '1';
+
+    checkbox.indeterminate = true;
+    checkbox.checked = true;
+  }
+  else if (state === '1') {
+    checkbox.dataset.state = '2';
+
+    checkbox.indeterminate = false;
+    checkbox.checked = true;
+  }
+  else {
+    checkbox.dataset.state = '0';
+
+    checkbox.indeterminate = false;
+    checkbox.checked = false;
+  }
+}
 
 let pmData = new Map();
 elm.checkboxs = [].slice.call(document.querySelectorAll('.pm-checkbox'));
@@ -135,6 +158,8 @@ elm.checkboxs = [].slice.call(document.querySelectorAll('.pm-checkbox'));
     checkbox,
     checked: checkbox.checked
   });
+
+  checkbox.addEventListener('click', onCheckboxClick);
 });
 
 
@@ -151,8 +176,14 @@ elm.nickname.addEventListener('input', (e) => {
 
 document.querySelector('.counter [data-total]').dataset.total = pmData.size;
 elm.counter = document.querySelector('.counter [data-counter]');
+elm.owns = document.querySelector('.counter [data-owns]');
+
 function updateShinyCounter() {
-  elm.counter.dataset.counter = getCheckedIndexArr(pmData).length;
+  let checked = getCheckedIndexArr(pmData).length,
+    indeterminate = getIndeterminateIndexArr(pmData).length;
+
+  elm.owns.dataset.owns = (checked - indeterminate);
+  elm.counter.dataset.counter = checked;
 }
 
 
@@ -160,10 +191,15 @@ function getCheckedIndexArr(_map) {
   return [...(_map || pmData).entries()].filter(i => i[1].checked).map(i => i[1].id);
 }
 
+function getIndeterminateIndexArr(_map) {
+  return [...(_map || pmData).entries()].filter(i => i[1].checkbox.indeterminate).map(i => i[1].id);
+}
+
 let splitChar = '-';
 function updateState() {
   let para = new URLSearchParams({
     dex: getCheckedIndexArr().join(splitChar),
+    reg: getIndeterminateIndexArr().join(splitChar),
     nickname: nickname() || '',
   });
   history.pushState(null, null, `?${para.toString()}`);
@@ -177,12 +213,23 @@ function renderState() {
 
   nickname(para.get('nickname'));
 
-  let checkedDex = (para.get('dex') || '').split(splitChar);
+  let checkedDex = (para.get('dex') || '').split(splitChar),
+    indeterminateDex = (para.get('reg') || '').split(splitChar);
 
   pmData.forEach((i) => {
-    let isChecked = (checkedDex.indexOf(i.id) !== -1);
+    let isChecked = (checkedDex.indexOf(i.id) !== -1),
+      isIndeterminate = (indeterminateDex.indexOf(i.id) !== -1);
+
     i.checkbox.checked = isChecked;
+    i.checkbox.indeterminate = isIndeterminate;
     i.checked = isChecked;
+
+    if (isIndeterminate && isChecked)
+      i.checkbox.dataset.state = '1';
+    else if (!isIndeterminate && isChecked)
+      i.checkbox.dataset.state = '2';
+    else
+      i.checkbox.dataset.state = '0';
   });
 
   updateShinyCounter();

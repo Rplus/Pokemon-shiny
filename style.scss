@@ -119,6 +119,12 @@ $space-y: 8px;
       opacity: 1;
     }
   }
+
+  .sr-only:indeterminate + & {
+    &::before {
+      opacity: 1;
+      border-style: dashed;
+    }
 }
 
 .counter {
@@ -131,12 +137,22 @@ $space-y: 8px;
     color: rgba(#fff, 1);
   }
 
-  [data-counter]::after {
-    content: attr(data-counter);
+  [data-counter]::after, 
+  [data-owns]::after {
     font-size: 1.3em;
     font-weight: bolder;
     color: rgba(#fff, 1);
   }
+
+  [data-counter]::after {
+    content: " " attr(data-counter);
+  }
+
+  [data-owns]::after {
+    content: " " attr(data-owns);
+  }
+
+
 }
 
 .header {
