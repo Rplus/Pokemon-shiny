@@ -1,20 +1,20 @@
 let elm = {};
 elm.body = document.querySelector('body');
 let pmsByFamily = pms
-.filter(pm => pm.shiny_released)
-.reduce((all, pm) => {
-  if (!all[pm.family]) {
-    all[pm.family] = {
-      key: pm.dex,
-      pms: [],
-      shiny: pm.shiny_released,
-      family: pm.family,
-    };
-  }
-  pm.id = `${pm.dex}${pm.isotope || ''}`;
-  all[pm.family].pms.push(pm);
-  return all;
-}, {});
+  .filter(pm => pm.shiny_released)
+  .reduce((all, pm) => {
+    if (!all[pm.family]) {
+      all[pm.family] = {
+        key: pm.dex,
+        pms: [],
+        shiny: pm.shiny_released,
+        family: pm.family,
+      };
+    }
+    pm.id = `${pm.dex}${pm.isotope || ''}`;
+    all[pm.family].pms.push(pm);
+    return all;
+  }, {});
 
 
 let lang = navigator.language.slice(0, 2).toLowerCase();
