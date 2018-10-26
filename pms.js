@@ -1344,7 +1344,8 @@ let pms = [
       "kr": "팬텀",
       "zh": "耿鬼"
     },
-    "shiny_released": false,
+    // 11-03: Special Raid Challenge with Gengar
+    "shiny_released": new Date('2018/11/03') < new Date(),
     "family": "Gastly"
   },
   {
