@@ -46,7 +46,7 @@
     bottom: 0;
     z-index: 2;
     border-radius: inherit;
-    border: 3px solid #dada0b;
+    border: 3px solid red;
     opacity: 0; }
   .pm-info::after {
     content: attr(data-name);
@@ -65,6 +65,11 @@
     background-color: #fff8f0; }
     .sr-only:checked + .pm-info::before {
       opacity: 1; }
+      .sr-only:indeterminate + .pm-info::before {
+        opacity: 1;
+        border-style: dashed; }
+     
+
 
 .counter {
   color: rgba(255, 255, 255, 0.6);
@@ -73,11 +78,15 @@
     content: attr(data-total);
     font-size: 1.3em;
     color: white; }
-  .counter [data-counter]::after {
-    content: attr(data-counter);
+  .counter [data-counter]::after,
+  .counter [data-owns]::after {
     font-size: 1.3em;
     font-weight: bolder;
     color: white; }
+  .counter [data-counter]::after {
+    content: " " attr(data-counter); }
+  .counter [data-owns]::after {
+    content: " " attr(data-owns); }
 
 .header {
   position: relative;
