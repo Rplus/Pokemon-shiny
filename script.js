@@ -216,7 +216,7 @@ function renderState() {
 
 function getImgUrl(dex, isotope) {
   let pokedex = `${dex}`.padStart(3, '0');
-  return `../PogoAssets/pokemon_icons/pokemon_icon_${pokedex}_00${isotope || ''}_shiny.png`;
+  return `//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_${pokedex}_00${isotope || ''}_shiny.png`;
 }
 
 

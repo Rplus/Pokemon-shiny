@@ -46,7 +46,7 @@
     bottom: 0;
     z-index: 2;
     border-radius: inherit;
-    border: 3px solid red;
+    border: 3px solid #dada0b;
     opacity: 0; }
   .pm-info::after {
     content: attr(data-name);
