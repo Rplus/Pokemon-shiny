@@ -9,6 +9,11 @@ let l10n = {
     "zh": "重置 ✨",
     "de": "Zurücksetzen ✨",
   },
+  "select-all": {
+    "en": "Select All",
+    "zh": "全選",
+    "de": "Wählen Sie Alle",
+  },
   "share-shiny-list": {
     "en": "Share shiny list",
     "zh": "分享個人色違清單",

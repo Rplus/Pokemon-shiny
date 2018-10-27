@@ -93,7 +93,6 @@ elm.checkList.innerHTML = html;
 elm.checkList.addEventListener('change', (e) => {
   let pm = e.target;
   let id = pm.dataset.id;
-  let dex = pm.dataset.dex;
   let checked = pm.checked;
 
   updateCheckedState(id, checked);
@@ -231,6 +230,22 @@ function shareLink(url) {
     url: url,
   });
 }
+
+
+elm.selectAll = document.querySelector('.select-all');
+elm.selectAll.addEventListener('click', (e) => {
+  e.preventDefault();
+
+  let targetState = !elm.selectAll.selected;
+
+  elm.checkboxs.forEach((checkbox) => {
+    checkbox.checked = targetState;
+    updateCheckedState(checkbox.dataset.id, targetState);
+  });
+  updateState();
+
+  elm.selectAll.selected = !elm.selectAll.selected;
+});
 
 
 elm.reset = document.querySelector('.reset');
