@@ -169,7 +169,8 @@ let pms = [
       "zh": "綠毛蟲"
     },
     // 11/02: new Field Research task Bug type
-    "shiny_released": new Date('2018/11/02') < new Date(),
+    "released_date": "2018/11/02",
+    "shiny_released": false,
     "family": "Caterpie"
   },
   {
@@ -183,7 +184,8 @@ let pms = [
       "zh": "鐵甲蛹"
     },
     // 11/02: new Field Research task Bug type
-    "shiny_released": new Date('2018/11/02') < new Date(),
+    "released_date": "2018/11/02",
+    "shiny_released": false,
     "family": "Caterpie"
   },
   {
@@ -197,7 +199,8 @@ let pms = [
       "zh": "巴大蝶"
     },
     // 11/02: new Field Research task Bug type
-    "shiny_released": new Date('2018/11/02') < new Date(),
+    "released_date": "2018/11/02",
+    "shiny_released": false,
     "family": "Caterpie"
   },
   {
@@ -1347,8 +1350,8 @@ let pms = [
       "kr": "팬텀",
       "zh": "耿鬼"
     },
-    // 11-03: Special Raid Challenge with Gengar
-    "shiny_released": new Date('2018/11/03') < new Date(),
+    "released_date": "2018/11/03",
+    "shiny_released": false,
     "family": "Gastly"
   },
   {
@@ -2142,7 +2145,8 @@ let pms = [
       "zh": "火球鼠"
     },
     // 11/10: Community Day with Cyndaquil
-    "shiny_released": new Date('2018/11/10') < new Date(),
+    "released_date": "2018/11/10",
+    "shiny_released": false,
     "family": "Cyndaquil"
   },
   {
@@ -2156,7 +2160,8 @@ let pms = [
       "zh": "火岩鼠"
     },
     // 11/10: Community Day with Cyndaquil
-    "shiny_released": new Date('2018/11/10') < new Date(),
+    "released_date": "2018/11/10",
+    "shiny_released": false,
     "family": "Cyndaquil"
   },
   {
@@ -2170,7 +2175,8 @@ let pms = [
       "zh": "火爆獸"
     },
     // 11/10: Community Day with Cyndaquil
-    "shiny_released": new Date('2018/11/10') < new Date(),
+    "released_date": "2018/11/10",
+    "shiny_released": false,
     "family": "Cyndaquil"
   },
   {
