@@ -54,9 +54,10 @@ function sortPM(a, b) {
 }
 
 
+let nicknameMaxLength = 20;
 function nickname(value) {
   if (value) {
-    elm.nickname.innerText = value;
+    elm.nickname.innerText = value.slice(0, nicknameMaxLength);
   } else {
     return elm.nickname.innerText;
   }
@@ -130,7 +131,14 @@ elm.checkboxs.forEach(checkbox => {
 
 
 elm.nickname = document.querySelector('.nickname');
-elm.nickname.addEventListener('input', updateState);
+elm.nickname.addEventListener('input', (e) => {
+  if (nickname().length > nicknameMaxLength) {
+    e.preventDefault();
+    alert('Nickname max limitation: 20');
+    nickname(elm.nickname.innerText);
+  }
+  updateState();
+});
 
 
 document.querySelector('.counter [data-total]').dataset.total = pmData.size;

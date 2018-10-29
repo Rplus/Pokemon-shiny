@@ -143,7 +143,9 @@ $space-y: 8px;
 .nickname {
   display: inline-block;
   min-width: 3em;
+  max-width: 70%;
   padding: 3px 1em;
+  vertical-align: middle;
   font-size: larger;
   border: unset;
   color: #fff;
