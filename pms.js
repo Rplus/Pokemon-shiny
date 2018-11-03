@@ -1773,7 +1773,7 @@ let pms = [
       "kr": "쁘사이저",
       "zh": "凱羅斯"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Pinsir"
   },
   {
