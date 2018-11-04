@@ -89,7 +89,8 @@
   color: #fff;
   font-family: sans-serif; }
   .header h1 {
-    margin-bottom: 1rem; }
+    margin-bottom: 1rem;
+    font-size: 2.5rem; }
 
 .nickname {
   display: inline-block;
@@ -702,6 +703,7 @@ button {
 [data-l10n]:not([data-l10n-done="1"]) {
   color: transparent; }
 
+body.print .github-corner,
 body.print aside,
 body.print footer {
   display: none; }
