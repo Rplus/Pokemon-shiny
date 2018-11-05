@@ -1123,7 +1123,7 @@ let pms = [
       "kr": "포니타",
       "zh": "小火馬"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Ponyta"
   },
   {
@@ -1136,7 +1136,7 @@ let pms = [
       "kr": "날쌩마",
       "zh": "烈焰馬"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Ponyta"
   },
   {
@@ -1474,7 +1474,7 @@ let pms = [
       "kr": "탕구리",
       "zh": "卡拉卡拉"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Cubone"
   },
   {
@@ -1487,7 +1487,7 @@ let pms = [
       "kr": "텅구리",
       "zh": "嘎啦嘎啦"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Cubone"
   },
   {
