@@ -17,7 +17,7 @@ let pmsByFamily = pms
         family: pm.family,
       };
     }
-    pm.id = `${pm.dex}${pm.isotope || ''}`;
+    pm.id = `${pm.dex}${pm.type || ''}${pm.isotope || ''}`;
     all[pm.family].pms.push(pm);
     return all;
   }, {});
@@ -84,8 +84,9 @@ let html = Object.values(pmsByFamily)
           />
           <div class="pm-info"
             data-dex="${pm.dex}"
+            data-id="${pm.id}"
             data-name="${name}"
-            style="background-image: url(${getImgUrl(pm.dex, pm.isotope)});"
+            style="background-image: url(${getImgUrl(pm)});"
           ></div>
         </label>`
       );
@@ -181,9 +182,9 @@ function renderState() {
 }
 
 
-function getImgUrl(dex, isotope) {
-  let pokedex = `${dex}`.padStart(3, '0');
-  return `//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_${pokedex}_00${isotope || ''}_shiny.png`;
+function getImgUrl(pm) {
+  let pokedex = `${pm.dex}`.padStart(3, '0');
+  return `//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_${pokedex}${pm.type || '_00'}${pm.isotope || ''}_shiny.png`;
 }
 
 
