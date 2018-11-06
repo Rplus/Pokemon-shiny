@@ -1491,6 +1491,20 @@ let pms = [
     "family": "Cubone"
   },
   {
+    "dex": 105,
+    "name": {
+      "de": "Knogga",
+      "en": "Marowak",
+      "fr": "Ossatueur",
+      "jp": "ガラガラ",
+      "kr": "텅구리",
+      "zh": "嘎啦嘎啦"
+    },
+    "type": "_61",
+    "shiny_released": true,
+    "family": "Cubone"
+  },
+  {
     "dex": 106,
     "name": {
       "de": "Kicklee",
