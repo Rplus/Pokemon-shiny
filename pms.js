@@ -5457,7 +5457,7 @@ let pms = [
       "kr": "꼬몽울",
       "zh": "含羞苞"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Roselia",
     "order": -1
   },
