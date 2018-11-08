@@ -42,7 +42,7 @@ function getName(pmNames) {
 }
 
 
-document.querySelectorAll('[data-l10n]').forEach(element => {
+[].slice.call(document.querySelectorAll('[data-l10n]')).forEach(element => {
   let l10nID = element.dataset.l10n;
   element.dataset.l10nDone = '1';
   element.innerText = getL10n(l10nID);
@@ -114,18 +114,21 @@ elm.checkList.addEventListener('change', (e) => {
 
 function updateCheckedState(id) {
   let _old = pmData.get(id);
-  pmData.set(id, {
-    ..._old,
-    ...{
-      checked: _old.checkbox.checked
-    }
-  });
+  // there are many browser compatibility issue with spread syntax...
+  pmData.set(
+    id,
+    Object.assign(
+      {},
+      _old,
+      { checked: _old.checkbox.checked }
+    )
+  );
 }
 
 
 let pmData = new Map();
-elm.checkboxs = document.querySelectorAll('.pm-checkbox');
-elm.checkboxs.forEach(checkbox => {
+elm.checkboxs = [].slice.call(document.querySelectorAll('.pm-checkbox'));
+[].slice.call(elm.checkboxs).forEach(checkbox => {
   let id = checkbox.dataset.id;
   pmData.set(id, {
     id,
