@@ -1319,6 +1319,7 @@ let pms = [
       "zh": "鬼斯"
     },
     "shiny_released": true,
+    "cachebuster": "?v1",
     "family": "Gastly"
   },
   {
