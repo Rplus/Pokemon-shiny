@@ -108,6 +108,7 @@ elm.checkList.addEventListener('change', (e) => {
 
   updateCheckedState(id, checked);
   updateState();
+  updateSelectedCounter();
 });
 
 
@@ -265,6 +266,15 @@ elm.selectAll.addEventListener('click', (e) => {
   elm.selectAll.selected = !elm.selectAll.selected;
 });
 
+
+function updateSelectedCounter() {
+  [].slice.call(document.querySelectorAll('.pm-group')).forEach(group => {
+    group.dataset.checked = group.querySelectorAll('input:checked').length;
+  });
+};
+
+elm.hideUnchecked = document.querySelector('#hide-unchecked');
+elm.hideUnchecked.addEventListener('change', updateSelectedCounter);
 
 elm.reset = document.querySelector('.reset');
 elm.reset.addEventListener('click', (e) => {

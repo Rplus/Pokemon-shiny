@@ -27,10 +27,15 @@
   border: 1px solid #ddd;
   cursor: pointer;
   overflow: hidden; }
-  .hide-unchecked:checked + .pm-checklist .pm {
-    display: none; }
-  .hide-unchecked:checked + .pm-checklist .pm-checkbox:checked + .pm {
-    display: unset; }
+
+.hide-unchecked:checked + .pm-checklist .pm-group[data-checked="0"] {
+  display: none; }
+
+.hide-unchecked:checked + .pm-checklist .pm {
+  display: none; }
+
+.hide-unchecked:checked + .pm-checklist .pm-checkbox:checked + .pm {
+  display: unset; }
 
 .pm-info {
   font-size: calc(5vmin + 70px);

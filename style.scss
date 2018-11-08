@@ -32,12 +32,18 @@ $space-y: 8px;
   border: 1px solid $bdc;
   cursor: pointer;
   overflow: hidden;
+}
 
-  .hide-unchecked:checked + .pm-checklist & {
+.hide-unchecked:checked + .pm-checklist {
+  .pm-group[data-checked="0"] {
     display: none;
   }
 
-  .hide-unchecked:checked + .pm-checklist .pm-checkbox:checked + & {
+  .pm {
+    display: none;
+  }
+
+  .pm-checkbox:checked + .pm {
     display: unset;
   }
 }
