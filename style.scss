@@ -32,6 +32,14 @@ $space-y: 8px;
   border: 1px solid $bdc;
   cursor: pointer;
   overflow: hidden;
+
+  .hide-unchecked:checked + .pm-checklist & {
+    display: none;
+  }
+
+  .hide-unchecked:checked + .pm-checklist .pm-checkbox:checked + & {
+    display: unset;
+  }
 }
 
 .pm-info {
@@ -54,7 +62,7 @@ $space-y: 8px;
     bottom: 0;
     z-index: 2;
     border-radius: inherit;
-    border: 3px solid hsl(60, 90%, 45%);
+    box-shadow: inset 0 0 0 3px hsl(60, 90%, 45%);
     opacity: 0;
   }
 
@@ -92,13 +100,13 @@ $space-y: 8px;
   }
 
   .pm:hover &,
-  .sr-only:focus + & {
+  .pm-checkbox:focus + .pm > & {
     &::before {
       opacity: 0.3;
     }
   }
 
-  .sr-only:checked + & {
+  .pm-checkbox:checked + .pm > & {
     background-color: hsl(33, 100%, 97%);
 
     &::before {
@@ -199,7 +207,7 @@ button {
   text-align: right;
 }
 
-.reset {
+.ctrl-1 {
   margin-bottom: 3em;
 }
 

@@ -14,6 +14,11 @@ let l10n = {
     "zh": "全選",
     "de": "Wählen Sie Alle",
   },
+  "hide-unselected": {
+    "en": "Hide unselected",
+    "zh": "隱藏未選者",
+    "de": "Nicht ausgewählt ausblenden",
+  },
   "share-shiny-list": {
     "en": "Share shiny list",
     "zh": "分享個人色違清單",

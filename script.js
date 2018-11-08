@@ -72,16 +72,19 @@ let html = Object.values(pmsByFamily)
       if (!pm.shiny_released) { return; }
       let name = getName(pm.name);
       return (
-        `<label
+        `
+        <input
+          type="checkbox"
+          class="sr-only pm-checkbox"
+          data-dex="${pm.dex}"
+          data-id="${pm.id}"
+          id="pm-${pm.id}"
+        />
+        <label
           class="pm"
+          for="pm-${pm.id}"
           title="#${pm.dex} ${name}"
         >
-          <input
-            type="checkbox"
-            class="sr-only pm-checkbox"
-            data-dex="${pm.dex}"
-            data-id="${pm.id}"
-          />
           <div class="pm-info"
             data-dex="${pm.dex}"
             data-id="${pm.id}"
