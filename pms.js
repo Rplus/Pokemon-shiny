@@ -2152,9 +2152,7 @@ let pms = [
       "kr": "브케인",
       "zh": "火球鼠"
     },
-    // 11/10: Community Day with Cyndaquil
-    "released_date": "2018/11/10",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Cyndaquil"
   },
   {
@@ -2167,9 +2165,7 @@ let pms = [
       "kr": "마그케인",
       "zh": "火岩鼠"
     },
-    // 11/10: Community Day with Cyndaquil
-    "released_date": "2018/11/10",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Cyndaquil"
   },
   {
@@ -2182,9 +2178,7 @@ let pms = [
       "kr": "블레이범",
       "zh": "火爆獸"
     },
-    // 11/10: Community Day with Cyndaquil
-    "released_date": "2018/11/10",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Cyndaquil"
   },
   {
