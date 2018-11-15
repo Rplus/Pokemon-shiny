@@ -370,6 +370,10 @@ button {
   --bgz: 150% 150%;
   --bgp: .07em -.27em; }
 
+.pm-info[data-dex="125"] {
+  --bgz: 120% 120%;
+  --bgp: .01em -.07em; }
+
 .pm-info[data-dex="126"] {
   --bgz: 120% 120%;
   --bgp: .06em -.07em; }
@@ -554,6 +558,10 @@ button {
   --bgz: 130% 130%;
   --bgp: -.04em -.12em; }
 
+.pm-info[data-dex="239"] {
+  --bgz: 140% 140%;
+  --bgp: -.06em -.32em; }
+
 .pm-info[data-dex="240"] {
   --bgz: 140% 140%;
   --bgp: -.06em -.32em; }
@@ -715,12 +723,16 @@ button {
   --bgp: -.06em -.23em; }
 
 .pm-info[data-dex="405"] {
-  --bgz: 110% 110%;
-  --bgp: .05em -.03em; }
+  --bgz: 120% 120%;
+  --bgp: -.01em -.06em; }
 
 .pm-info[data-dex="406"] {
   --bgz: 100% 100%;
   --bgp: .05em .02em; }
+
+.pm-info[data-dex="407"] {
+  --bgz: 130% 130%;
+  --bgp: 0em -.25em; }
 
 .pm-info[data-dex="425"] {
   --bgz: 130% 130%;
@@ -728,7 +740,27 @@ button {
 
 .pm-info[data-dex="426"] {
   --bgz: 120% 120%;
-  --bgp: .05em -.08em; }
+  --bgp: .05em -.15em; }
+
+.pm-info[data-dex="430"] {
+  --bgz: 150% 150%;
+  --bgp: -.15em -.4em; }
+
+.pm-info[data-dex="466"] {
+  --bgz: 140% 140%;
+  --bgp: -.05em -.2em; }
+
+.pm-info[data-dex="467"] {
+  --bgz: 120% 120%;
+  --bgp: .02em -.09em; }
+
+.pm-info[data-dex="468"] {
+  --bgz: 150% 150%;
+  --bgp: .01em -.2em; }
+
+.pm-info[data-dex="477"] {
+  --bgz: 140% 140%;
+  --bgp: -.15em -.2em; }
 
 .pm-info[data-dex="404"] {
   background-image: url("//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_404_01_shiny.png") !important; }

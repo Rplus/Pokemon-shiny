@@ -1762,7 +1762,7 @@ let pms = [
       "kr": "에레브",
       "zh": "電擊獸"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Electabuzz"
   },
   {
@@ -3278,7 +3278,7 @@ let pms = [
       "kr": "에레키드",
       "zh": "電擊怪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "order": -1,
     "family": "Electabuzz"
   },
@@ -5466,7 +5466,7 @@ let pms = [
       "kr": "로즈레이드",
       "zh": "羅絲雷朵"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Roselia"
   },
   {
@@ -5765,7 +5765,7 @@ let pms = [
       "kr": "돈크로우",
       "zh": "烏鴉頭頭"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Murkrow"
   },
   {
@@ -6236,7 +6236,7 @@ let pms = [
       "kr": "에레키블",
       "zh": "電擊魔獸"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Electabuzz"
   },
   {
@@ -6249,7 +6249,7 @@ let pms = [
       "kr": "마그마번",
       "zh": "鴨嘴炎獸"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Magmar"
   },
   {
@@ -6262,7 +6262,7 @@ let pms = [
       "kr": "토게키스",
       "zh": "波克基斯"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Togepi"
   },
   {
@@ -6379,8 +6379,8 @@ let pms = [
       "kr": "야느와르몽",
       "zh": "黑夜魔靈"
     },
-    "shiny_released": false,
-    "family": "Dusknoir"
+    "shiny_released": true,
+    "family": "Duskull"
   },
   {
     "dex": 478,
