@@ -106,11 +106,12 @@ $space-y: 8px;
     }
   }
 
-  .sr-only:indeterminate + & {
+  .sr-only:indeterminate + .pm & {
     &::before {
       opacity: 1;
       border-style: dashed;
     }
+  }
 }
 
 .counter {
