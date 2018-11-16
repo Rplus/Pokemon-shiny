@@ -68,7 +68,7 @@ let l10n = {
   "browser-notice": {
     "en": "Please use Chrome / Firefox to ensure working properly.",
     "zh": "請盡量使用 Chrome / Firefox 瀏覽，以確保功能 & 樣式正常運作",
-    "de": "Bitte benutze Chrome / Firefox damit die Seite wirklich funktioniert."
+    "de": "Bitte benutze Chrome / Firefox damit die Seite wirklich funktioniert.",
     "it": "Per ottimizzare la checklist si consiglia di usare Chrome o Firefox.",
   },
   "export": {
