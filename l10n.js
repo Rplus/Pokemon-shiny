@@ -41,17 +41,23 @@ let l10n = {
     "de": "Mit kurzer URL teilen:",
     "it": "Condividi tramite URL veloce",
   },
-  "collected": {
-    "en": "(collected) ",
-    "zh": "(已收集) ",
-    "de": "(gefangen) ",
-    "it": "(Catturati)",
+  "owns": {
+    "en": "Owns",
+    "zh": "現有",
+    "de": "Besitzt",
+    "it": "Possiede",
+  },
+  "registered": {
+    "en": "Registered",
+    "zh": "已開圖",
+    "de": "Eingetragen",
+    "it": "Registrato",
   },
   "released": {
-    "en": " (released)",
-    "zh": " (已釋出)",
-    "de": " (veröffentlicht)",
-    "it": "(Rilasciati)",
+    "en": "released",
+    "zh": "已釋出",
+    "de": "veröffentlicht",
+    "it": "Rilasciati",
   },
   "share-url-directly": {
     "en": "Please share URL directly :)",

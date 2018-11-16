@@ -34,6 +34,7 @@
 .hide-unchecked:checked + .pm-checklist .pm {
   display: none; }
 
+.hide-unchecked:checked + .pm-checklist .pm-checkbox:indeterminate + .pm,
 .hide-unchecked:checked + .pm-checklist .pm-checkbox:checked + .pm {
   display: unset; }
 
@@ -55,7 +56,8 @@
     bottom: 0;
     z-index: 2;
     border-radius: inherit;
-    box-shadow: inset 0 0 0 3px #dada0b;
+    color: #dada0b;
+    box-shadow: inset 0 0 0 3px;
     opacity: 0; }
   .pm-info::after {
     content: attr(data-name);
@@ -69,33 +71,37 @@
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.889) 11.2%, rgba(255, 255, 255, 0.856) 21%, rgba(255, 255, 255, 0.806) 29.6%, rgba(255, 255, 255, 0.742) 37.1%, rgba(255, 255, 255, 0.667) 43.7%, rgba(255, 255, 255, 0.583) 49.6%, rgba(255, 255, 255, 0.495) 55%, rgba(255, 255, 255, 0.405) 60%, rgba(255, 255, 255, 0.317) 64.8%, rgba(255, 255, 255, 0.233) 69.6%, rgba(255, 255, 255, 0.158) 74.6%, rgba(255, 255, 255, 0.094) 80%, rgba(255, 255, 255, 0.044) 85.9%, rgba(255, 255, 255, 0.011) 92.5%, rgba(255, 255, 255, 0) 100%); }
   .pm:hover .pm-info::before,
   .pm-checkbox:focus + .pm > .pm-info::before {
-    opacity: 0.3; }
+    opacity: .2; }
+  .pm-checkbox:indeterminate + .pm > .pm-info,
   .pm-checkbox:checked + .pm > .pm-info {
     background-color: #fff8f0; }
+    .pm-checkbox:indeterminate + .pm > .pm-info::before,
     .pm-checkbox:checked + .pm > .pm-info::before {
       opacity: 1; }
-      .sr-only:indeterminate + .pm-info::before {
-        opacity: 1;
-        border-style: dashed; }
-     
-
+  .pm-checkbox:checked + .pm > .pm-info::before {
+    background-image: linear-gradient(45deg, currentColor 50%, transparent 0);
+    background-size: 20% 20%;
+    background-repeat: no-repeat;
+    background-position: 0% 100%; }
 
 .counter {
   color: rgba(255, 255, 255, 0.6);
   padding-top: 1em; }
-  .counter [data-total]::before {
-    content: attr(data-total);
-    font-size: 1.3em;
-    color: white; }
-  .counter [data-counter]::after,
-  .counter [data-owns]::after {
-    font-size: 1.3em;
-    font-weight: bolder;
-    color: white; }
-  .counter [data-counter]::after {
-    content: " " attr(data-counter); }
-  .counter [data-owns]::after {
-    content: " " attr(data-owns); }
+  .counter .counter-owns,
+  .counter .counter-registered,
+  .counter .counter-total {
+    display: inline-block;
+    margin-left: .5em;
+    margin-right: .5em;
+    vertical-align: middle; }
+    .counter .counter-owns::before,
+    .counter .counter-registered::before,
+    .counter .counter-total::before {
+      content: attr(data-number);
+      display: block;
+      font-size: 1.3em;
+      font-weight: bolder;
+      color: #fff; }
 
 .header {
   position: relative;

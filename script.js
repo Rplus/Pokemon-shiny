@@ -104,15 +104,18 @@ elm.checkList.innerHTML = html;
 elm.checkList.addEventListener('change', (e) => {
   let pm = e.target;
   let id = pm.dataset.id;
-  let checked = pm.checked;
 
-  updateCheckedState(id, checked);
+  updateCheckboxState(pm, nextState[pm.dataset.state] || '1');
+
+  let state = pm.dataset.state;
+
+  updateCheckedState(id, state);
   updateState();
   updateSelectedCounter();
 });
 
 
-function updateCheckedState(id) {
+function updateCheckedState(id, state) {
   let _old = pmData.get(id);
   // there are many browser compatibility issue with spread syntax...
   pmData.set(
@@ -120,34 +123,38 @@ function updateCheckedState(id) {
     Object.assign(
       {},
       _old,
-      { checked: _old.checkbox.checked }
+      { state: state }
     )
   );
 }
 
-function onCheckboxClick(event) {
-  let checkbox = event.target,
-    state = checkbox.dataset.state || '0';
+const checkboxState = {
+  'none': {
+    indeterminate: false,
+    checked: false,
+  },
+  'registered': {
+    indeterminate: true,
+    checked: true,
+  },
+  'own': {
+    indeterminate: false,
+    checked: true,
+  },
 
-  if (state === '0') {
-    checkbox.dataset.state = '1';
+};
 
-    checkbox.indeterminate = true;
-    checkbox.checked = true;
-  }
-  else if (state === '1') {
-    checkbox.dataset.state = '2';
+const nextState = {
+  'none': 'registered',
+  'registered': 'own',
+  'own': 'none',
+};
 
-    checkbox.indeterminate = false;
-    checkbox.checked = true;
-  }
-  else {
-    checkbox.dataset.state = '0';
-
-    checkbox.indeterminate = false;
-    checkbox.checked = false;
-  }
-}
+function updateCheckboxState(checkbox, newState) {
+  checkbox.dataset.state = newState;
+  checkbox.indeterminate = checkboxState[newState].indeterminate;
+  checkbox.checked = checkboxState[newState].checked;
+};
 
 let pmData = new Map();
 elm.checkboxs = [].slice.call(document.querySelectorAll('.pm-checkbox'));
@@ -156,10 +163,8 @@ elm.checkboxs = [].slice.call(document.querySelectorAll('.pm-checkbox'));
   pmData.set(id, {
     id,
     checkbox,
-    checked: checkbox.checked
+    state: 'none',
   });
-
-  checkbox.addEventListener('click', onCheckboxClick);
 });
 
 
@@ -174,34 +179,55 @@ elm.nickname.addEventListener('input', (e) => {
 });
 
 
-document.querySelector('.counter [data-total]').dataset.total = pmData.size;
-elm.counter = document.querySelector('.counter [data-counter]');
-elm.owns = document.querySelector('.counter [data-owns]');
+document.querySelector('.counter-total').dataset.number = pmData.size;
+elm.registered = document.querySelector('.counter-registered');
+elm.owns = document.querySelector('.counter-owns');
 
 function updateShinyCounter() {
-  let checked = getCheckedIndexArr(pmData).length,
-    indeterminate = getIndeterminateIndexArr(pmData).length;
+  let own = getOwnIndexArr().length;
+  let registeredOnly = getRegisteredOnlyIndexArr().length;
 
-  elm.owns.dataset.owns = (checked - indeterminate);
-  elm.counter.dataset.counter = checked;
+  elm.owns.dataset.number = own;
+  elm.registered.dataset.number = registeredOnly + own;
 }
 
 
-function getCheckedIndexArr(_map) {
-  return [...(_map || pmData).entries()].filter(i => i[1].checked).map(i => i[1].id);
+function getIndexArr(map, type) {
+  return map.filter(i => (i[1].state === type)).map(i => i[1].id);
 }
 
-function getIndeterminateIndexArr(_map) {
-  return [...(_map || pmData).entries()].filter(i => i[1].checkbox.indeterminate).map(i => i[1].id);
+function getOwnIndexArr(_map) {
+  return getIndexArr([...(_map || pmData).entries()], 'own');
+}
+
+function getRegisteredOnlyIndexArr(_map) {
+  return getIndexArr([...(_map || pmData).entries()], 'registered');
+}
+
+function sortByNumber(a, b) {
+  return a - b;
+}
+
+function deleteEmptyProperty(obj) {
+  for (i in obj) {
+    if (!obj[i] && obj.hasOwnProperty(i)) {
+      delete obj[i];
+    }
+  }
+  return obj;
 }
 
 let splitChar = '-';
 function updateState() {
-  let para = new URLSearchParams({
-    dex: getCheckedIndexArr().join(splitChar),
-    reg: getIndeterminateIndexArr().join(splitChar),
+  let ownArray = getOwnIndexArr();
+  let registeredArray = getRegisteredOnlyIndexArr().concat(ownArray).sort(sortByNumber);
+
+  let para = new URLSearchParams(deleteEmptyProperty({
+    own: ownArray.join(splitChar),
+    dex: registeredArray.join(splitChar),
     nickname: nickname() || '',
-  });
+  }));
+
   history.pushState(null, null, `?${para.toString()}`);
   elm.getShortUrl.removeAttribute('href');
   updateShinyCounter();
@@ -213,23 +239,16 @@ function renderState() {
 
   nickname(para.get('nickname'));
 
-  let checkedDex = (para.get('dex') || '').split(splitChar),
-    indeterminateDex = (para.get('reg') || '').split(splitChar);
+  let ownDex = (para.get('own') || '').split(splitChar);
+  let registeredDex = (para.get('dex') || '').split(splitChar);
 
   pmData.forEach((i) => {
-    let isChecked = (checkedDex.indexOf(i.id) !== -1),
-      isIndeterminate = (indeterminateDex.indexOf(i.id) !== -1);
+    let isOwn = (ownDex.indexOf(i.id) !== -1);
+    let isRegistered = (registeredDex.indexOf(i.id) !== -1);
 
-    i.checkbox.checked = isChecked;
-    i.checkbox.indeterminate = isIndeterminate;
-    i.checked = isChecked;
+    i.state = !isRegistered ? 'none' : ( isOwn ? 'own' : 'registered' );
 
-    if (isIndeterminate && isChecked)
-      i.checkbox.dataset.state = '1';
-    else if (!isIndeterminate && isChecked)
-      i.checkbox.dataset.state = '2';
-    else
-      i.checkbox.dataset.state = '0';
+    updateCheckboxState(i.checkbox, i.state);
   });
 
   updateShinyCounter();
@@ -307,19 +326,25 @@ elm.selectAll.addEventListener('click', (e) => {
 
   let targetState = !elm.selectAll.selected;
 
-  elm.checkboxs.forEach((checkbox) => {
-    checkbox.checked = targetState;
-    updateCheckedState(checkbox.dataset.id, targetState);
+  pmData.forEach(pm => {
+    if (targetState) {
+      pm.state = (pm.state === 'none') ? 'registered' : pm.state;
+    } else {
+      pm.state = 'none';
+    }
   });
   updateState();
-
+  renderState();
   elm.selectAll.selected = !elm.selectAll.selected;
 });
 
 
 function updateSelectedCounter() {
   [].slice.call(document.querySelectorAll('.pm-group')).forEach(group => {
-    group.dataset.checked = group.querySelectorAll('input:checked').length;
+    group.dataset.checked = (
+      group.querySelectorAll('input:checked').length +
+      group.querySelectorAll('input:indeterminate').length
+    );
   });
 };
 
