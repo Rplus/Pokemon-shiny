@@ -1175,7 +1175,7 @@ let pms = [
       "kr": "코일",
       "zh": "小磁怪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Magnemite"
   },
   {
@@ -1188,7 +1188,7 @@ let pms = [
       "kr": "레어코일",
       "zh": "三合一磁怪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Magnemite"
   },
   {
