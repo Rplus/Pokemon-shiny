@@ -464,6 +464,20 @@ let pms = [
     "family": "Pikachu_04"
   },
   {
+    "dex": 26,
+    "name": {
+      "de": "Raichu",
+      "en": "Raichu",
+      "fr": "Raichu",
+      "jp": "ライチュウ",
+      "kr": "라이츄",
+      "zh": "雷丘"
+    },
+    "type": "_61",
+    "shiny_released": true,
+    "family": "Pikachu_61"
+  },
+  {
     "dex": 27,
     "name": {
       "de": "Sandan",
