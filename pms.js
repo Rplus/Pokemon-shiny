@@ -2784,7 +2784,7 @@ let pms = [
       "kr": "무우마",
       "zh": "夢妖"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Misdreavus"
   },
   {
@@ -5766,7 +5766,7 @@ let pms = [
       "kr": "무우마직",
       "zh": "夢妖魔"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Misdreavus"
   },
   {
