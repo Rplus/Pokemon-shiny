@@ -487,7 +487,7 @@ let pms = [
       "kr": "모래두지",
       "zh": "穿山鼠"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Sandshrew"
   },
   {
@@ -500,7 +500,7 @@ let pms = [
       "kr": "고지",
       "zh": "穿山王"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Sandshrew"
   },
   {
