@@ -252,6 +252,7 @@ function renderState() {
   });
 
   updateShinyCounter();
+  updateSelectedCounter();
 }
 
 
@@ -341,15 +342,14 @@ elm.selectAll.addEventListener('click', (e) => {
 
 function updateSelectedCounter() {
   [].slice.call(document.querySelectorAll('.pm-group')).forEach(group => {
-    group.dataset.checked = (
-      group.querySelectorAll('input:checked').length +
-      group.querySelectorAll('input:indeterminate').length
-    );
+    let all = group.querySelectorAll('input').length;
+    let checked = group.querySelectorAll('input:checked').length;
+    let indeterminate = group.querySelectorAll('input:indeterminate').length;
+    group.dataset.checked = checked + indeterminate;
+    group.dataset.unchecked = all - (checked + indeterminate);
   });
 };
 
-elm.hideUnchecked = document.querySelector('#hide-unchecked');
-elm.hideUnchecked.addEventListener('change', updateSelectedCounter);
 
 elm.reset = document.querySelector('.reset');
 elm.reset.addEventListener('click', (e) => {

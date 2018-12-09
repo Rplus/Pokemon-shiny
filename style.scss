@@ -34,11 +34,8 @@ $space-y: 8px;
   overflow: hidden;
 }
 
-.hide-unchecked:checked + .pm-checklist {
-  .pm-group[data-checked="0"] {
-    display: none;
-  }
-
+#show-selected:checked ~ .pm-checklist {
+  .pm-group[data-checked="0"],
   .pm {
     display: none;
   }
@@ -47,6 +44,29 @@ $space-y: 8px;
   .pm-checkbox:checked + .pm {
     display: unset;
   }
+}
+
+#show-unselected:checked ~ .pm-checklist {
+  .pm-group[data-unchecked="0"],
+  .pm-checkbox:indeterminate + .pm,
+  .pm-checkbox:checked + .pm {
+    display: none;
+  }
+}
+
+.ctrl-show {
+  label {
+    padding: 5px 10px 5px;
+    color: #aaa;
+    cursor: pointer;
+  }
+}
+
+#show-all:checked ~ .ctrl-1 label[for="show-all"],
+#show-selected:checked ~ .ctrl-1 label[for="show-selected"],
+#show-unselected:checked ~ .ctrl-1 label[for="show-unselected"] {
+  color: #9c27b0;
+  border-bottom: 1px dashed;
 }
 
 .pm-info {

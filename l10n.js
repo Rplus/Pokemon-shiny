@@ -17,11 +17,29 @@ let l10n = {
     "de": "Wählen Sie Alle",
     "it": "Seleziona Tutti",
   },
-  "hide-unselected": {
-    "en": "Hide unselected",
-    "zh": "隱藏未選者",
-    "de": "Nicht ausgewählt ausblenden",
-    "it": "Nascondi non selezionati",
+  "show": {
+    "en": "Show: ",
+    "zh": "顯示: ",
+    "de": "Show: ",
+    "it": "Show: ",
+  },
+  "show-all": {
+    "en": "All",
+    "zh": "全部",
+    "de": "Alles",
+    "it": "Tutti",
+  },
+  "show-selected": {
+    "en": "Selected",
+    "zh": "已選",
+    "de": "Ausgewählt",
+    "it": "Selezionato",
+  },
+  "show-unselected": {
+    "en": "Unselected",
+    "zh": "未選",
+    "de": "Nicht ausgewählt",
+    "it": "Non selezionato",
   },
   "share-shiny-list": {
     "en": "Share shiny list",

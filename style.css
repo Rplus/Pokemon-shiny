@@ -28,15 +28,29 @@
   cursor: pointer;
   overflow: hidden; }
 
-.hide-unchecked:checked + .pm-checklist .pm-group[data-checked="0"] {
+#show-selected:checked ~ .pm-checklist .pm-group[data-checked="0"],
+#show-selected:checked ~ .pm-checklist .pm {
   display: none; }
 
-.hide-unchecked:checked + .pm-checklist .pm {
-  display: none; }
-
-.hide-unchecked:checked + .pm-checklist .pm-checkbox:indeterminate + .pm,
-.hide-unchecked:checked + .pm-checklist .pm-checkbox:checked + .pm {
+#show-selected:checked ~ .pm-checklist .pm-checkbox:indeterminate + .pm,
+#show-selected:checked ~ .pm-checklist .pm-checkbox:checked + .pm {
   display: unset; }
+
+#show-unselected:checked ~ .pm-checklist .pm-group[data-unchecked="0"],
+#show-unselected:checked ~ .pm-checklist .pm-checkbox:indeterminate + .pm,
+#show-unselected:checked ~ .pm-checklist .pm-checkbox:checked + .pm {
+  display: none; }
+
+.ctrl-show label {
+  padding: 5px 10px 5px;
+  color: #aaa;
+  cursor: pointer; }
+
+#show-all:checked ~ .ctrl-1 label[for="show-all"],
+#show-selected:checked ~ .ctrl-1 label[for="show-selected"],
+#show-unselected:checked ~ .ctrl-1 label[for="show-unselected"] {
+  color: #9c27b0;
+  border-bottom: 1px dashed; }
 
 .pm-info {
   font-size: calc(5vmin + 70px);
