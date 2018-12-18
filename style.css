@@ -555,6 +555,14 @@ button {
   --bgz: 120% 120%;
   --bgp: .02em -.03em; }
 
+.pm-info[data-dex="183"] {
+  --bgz: 140% 140%;
+  --bgp: -.08em -.28em; }
+
+.pm-info[data-dex="184"] {
+  --bgz: 130% 130%;
+  --bgp: -.02em -.15em; }
+
 .pm-info[data-dex="191"] {
   --bgz: 150% 150%;
   --bgp: -.11em -.4em; }
@@ -666,6 +674,10 @@ button {
 .pm-info[data-dex="297"] {
   --bgz: 130% 130%;
   --bgp: -.08em -.09em; }
+
+.pm-info[data-dex="298"] {
+  --bgz: 130% 130%;
+  --bgp: -.05em -.15em; }
 
 .pm-info[data-dex="302"] {
   --bgz: 130% 130%;

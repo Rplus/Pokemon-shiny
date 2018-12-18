@@ -2563,7 +2563,7 @@ let pms = [
       "kr": "마릴",
       "zh": "瑪力露"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Marill"
   },
   {
@@ -2576,7 +2576,7 @@ let pms = [
       "kr": "마릴리",
       "zh": "瑪力露麗"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Marill"
   },
   {
@@ -4061,7 +4061,8 @@ let pms = [
       "kr": "루리리",
       "zh": "露力麗"
     },
-    "shiny_released": false,
+    "shiny_released": true,
+    "order": -1,
     "family": "Marill"
   },
   {
