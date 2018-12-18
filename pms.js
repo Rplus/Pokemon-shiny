@@ -3109,7 +3109,7 @@ let pms = [
       "kr": "딜리버드",
       "zh": "信使鳥"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Delibird"
   },
   {

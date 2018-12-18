@@ -603,6 +603,10 @@ button {
   --bgz: 110% 110%;
   --bgp: .02em -.02em; }
 
+.pm-info[data-dex="225"] {
+  --bgz: 130% 130%;
+  --bgp: -.02em -.15em; }
+
 .pm-info[data-dex="228"] {
   --bgz: 150% 150%;
   --bgp: -.2em -.35em; }
