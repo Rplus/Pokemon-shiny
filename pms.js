@@ -2234,6 +2234,7 @@ let pms = [
       "zh": "小鋸鱷"
     },
     "shiny_released": false,
+    "released_date": "2019/01/12",
     "family": "Totodile"
   },
   {
@@ -2247,6 +2248,7 @@ let pms = [
       "zh": "藍鱷"
     },
     "shiny_released": false,
+    "released_date": "2019/01/12",
     "family": "Totodile"
   },
   {
@@ -2260,6 +2262,7 @@ let pms = [
       "zh": "大力鱷"
     },
     "shiny_released": false,
+    "released_date": "2019/01/12",
     "family": "Totodile"
   },
   {

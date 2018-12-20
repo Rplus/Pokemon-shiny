@@ -523,6 +523,18 @@ button {
   --bgz: 100% 100%;
   --bgp: .14em .05em; }
 
+.pm-info[data-dex="158"] {
+  --bgz: 170% 170%;
+  --bgp: -.25em -.48em; }
+
+.pm-info[data-dex="159"] {
+  --bgz: 130% 130%;
+  --bgp: -.1em -.15em; }
+
+.pm-info[data-dex="160"] {
+  --bgz: 110% 110%;
+  --bgp: .08em .01em; }
+
 .pm-info[data-dex="172"] {
   --bgz: 130% 130%;
   --bgp: -.0em -.2em; }
