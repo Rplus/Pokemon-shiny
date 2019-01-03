@@ -28,30 +28,6 @@
   cursor: pointer;
   overflow: hidden; }
 
-#show-selected:checked ~ .pm-checklist .pm-group[data-checked="0"],
-#show-selected:checked ~ .pm-checklist .pm {
-  display: none; }
-
-#show-selected:checked ~ .pm-checklist .pm-checkbox:indeterminate + .pm,
-#show-selected:checked ~ .pm-checklist .pm-checkbox:checked + .pm {
-  display: unset; }
-
-#show-unselected:checked ~ .pm-checklist .pm-group[data-unchecked="0"],
-#show-unselected:checked ~ .pm-checklist .pm-checkbox:indeterminate + .pm,
-#show-unselected:checked ~ .pm-checklist .pm-checkbox:checked + .pm {
-  display: none; }
-
-.ctrl-show label {
-  padding: 5px 10px 5px;
-  color: #aaa;
-  cursor: pointer; }
-
-#show-all:checked ~ .ctrl-1 label[for="show-all"],
-#show-selected:checked ~ .ctrl-1 label[for="show-selected"],
-#show-unselected:checked ~ .ctrl-1 label[for="show-unselected"] {
-  color: #9c27b0;
-  border-bottom: 1px dashed; }
-
 .pm-info {
   font-size: calc(5vmin + 70px);
   width: 1em;
@@ -73,30 +49,25 @@
     color: #dada0b;
     box-shadow: inset 0 0 0 3px;
     opacity: 0; }
-  .pm-info::after {
-    content: attr(data-name);
-    position: relative;
-    z-index: 1;
-    display: block;
-    padding: 5px 8px 15px;
-    font-size: 14px;
-    color: #444;
-    text-shadow: 1px 1px 0px #eef;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.889) 11.2%, rgba(255, 255, 255, 0.856) 21%, rgba(255, 255, 255, 0.806) 29.6%, rgba(255, 255, 255, 0.742) 37.1%, rgba(255, 255, 255, 0.667) 43.7%, rgba(255, 255, 255, 0.583) 49.6%, rgba(255, 255, 255, 0.495) 55%, rgba(255, 255, 255, 0.405) 60%, rgba(255, 255, 255, 0.317) 64.8%, rgba(255, 255, 255, 0.233) 69.6%, rgba(255, 255, 255, 0.158) 74.6%, rgba(255, 255, 255, 0.094) 80%, rgba(255, 255, 255, 0.044) 85.9%, rgba(255, 255, 255, 0.011) 92.5%, rgba(255, 255, 255, 0) 100%); }
-  .pm:hover .pm-info::before,
-  .pm-checkbox:focus + .pm > .pm-info::before {
-    opacity: .2; }
-  .pm-checkbox:indeterminate + .pm > .pm-info,
-  .pm-checkbox:checked + .pm > .pm-info {
+  .pm-info[data-state="1"], .pm-info[data-state="2"] {
     background-color: #fff8f0; }
-    .pm-checkbox:indeterminate + .pm > .pm-info::before,
-    .pm-checkbox:checked + .pm > .pm-info::before {
+    .pm-info[data-state="1"]::before, .pm-info[data-state="2"]::before {
       opacity: 1; }
-  .pm-checkbox:checked + .pm > .pm-info::before {
+  .pm-info[data-state="2"]::before {
     background-image: linear-gradient(45deg, currentColor 50%, transparent 0);
     background-size: 20% 20%;
     background-repeat: no-repeat;
     background-position: 0% 100%; }
+
+.pm-name {
+  position: relative;
+  z-index: 1;
+  display: block;
+  padding: 5px 8px 15px;
+  font-size: 14px;
+  color: #444;
+  text-shadow: 1px 1px 0px #eef;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.889) 11.2%, rgba(255, 255, 255, 0.856) 21%, rgba(255, 255, 255, 0.806) 29.6%, rgba(255, 255, 255, 0.742) 37.1%, rgba(255, 255, 255, 0.667) 43.7%, rgba(255, 255, 255, 0.583) 49.6%, rgba(255, 255, 255, 0.495) 55%, rgba(255, 255, 255, 0.405) 60%, rgba(255, 255, 255, 0.317) 64.8%, rgba(255, 255, 255, 0.233) 69.6%, rgba(255, 255, 255, 0.158) 74.6%, rgba(255, 255, 255, 0.094) 80%, rgba(255, 255, 255, 0.044) 85.9%, rgba(255, 255, 255, 0.011) 92.5%, rgba(255, 255, 255, 0) 100%); }
 
 .counter {
   color: rgba(255, 255, 255, 0.6);
