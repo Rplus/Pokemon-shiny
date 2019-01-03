@@ -90,7 +90,7 @@ $space-y: 8px;
     z-index: 2;
     border-radius: inherit;
     color: hsl(60, 90%, 45%);
-    box-shadow: inset 0 0 0 3px;
+    border: 3px solid;
     opacity: 0;
   }
 
@@ -143,13 +143,13 @@ $space-y: 8px;
     }
   }
 
-  .pm-checkbox:checked + .pm > & {
-    &::before {
-      background-image: linear-gradient(45deg, currentColor 50%, transparent 0);
-      background-size: 20% 20%;
-      background-repeat: no-repeat;
-      background-position: 0% 100%;
-    }
+  .pm-checkbox:checked + .pm > & .pm-mark {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    border: .1em solid hsl(60, 90%, 45%);
+    border-top-color: transparent;
+    border-right-color: transparent;
   }
 }
 

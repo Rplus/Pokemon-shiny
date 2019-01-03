@@ -71,7 +71,7 @@
     z-index: 2;
     border-radius: inherit;
     color: #dada0b;
-    box-shadow: inset 0 0 0 3px;
+    border: 3px solid;
     opacity: 0; }
   .pm-info::after {
     content: attr(data-name);
@@ -92,11 +92,13 @@
     .pm-checkbox:indeterminate + .pm > .pm-info::before,
     .pm-checkbox:checked + .pm > .pm-info::before {
       opacity: 1; }
-  .pm-checkbox:checked + .pm > .pm-info::before {
-    background-image: linear-gradient(45deg, currentColor 50%, transparent 0);
-    background-size: 20% 20%;
-    background-repeat: no-repeat;
-    background-position: 0% 100%; }
+  .pm-checkbox:checked + .pm > .pm-info .pm-mark {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    border: 0.1em solid #dada0b;
+    border-top-color: transparent;
+    border-right-color: transparent; }
 
 .counter {
   color: rgba(255, 255, 255, 0.6);

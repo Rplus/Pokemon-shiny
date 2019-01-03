@@ -90,7 +90,7 @@ let html = Object.values(pmsByFamily)
             data-id="${pm.id}"
             data-name="${name}"
             style="background-image: url(${getImgUrl(pm)});"
-          ></div>
+          ><div class="pm-mark"></div></div>
         </label>`
       );
     }).join('');
