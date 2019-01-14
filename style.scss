@@ -192,8 +192,10 @@ $space-y: 8px;
   border: unset;
   color: #fff;
   font-weight: 900;
-  background-color: rgba(#fff, .3);
+  background-color: rgba(#fff, .1);
   text-align: left;
+  font-family: monospace;
+  border-bottom: 4px solid rgba(#fff, .3);
 
   &:empty {
     &::before {

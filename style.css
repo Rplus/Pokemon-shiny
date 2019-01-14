@@ -111,8 +111,10 @@
   border: unset;
   color: #fff;
   font-weight: 900;
-  background-color: rgba(255, 255, 255, 0.3);
-  text-align: left; }
+  background-color: rgba(255, 255, 255, 0.1);
+  text-align: left;
+  font-family: monospace;
+  border-bottom: 4px solid rgba(255, 255, 255, 0.3); }
   .nickname:empty::before {
     content: 'Enter your ID';
     font-weight: normal;
