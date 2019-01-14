@@ -29,14 +29,14 @@
 
       <label for="nickname">
         <span data-l10n="nickname">Nickname</span>:
-        <input class="nickname" type="text" v-model="name">
+        <input class="nickname" type="text" v-model="name" :size="name.length + 1">
         <!-- <span class="nickname" contenteditable="true">{{ name }}</span> -->
       </label>
 
       <div class="counter">
-        <span class="counter-owns" :data-number="count.owned.length" data-l10n="owns">owns</span>
+        <span class="counter-owns" :data-number="count.owned" data-l10n="owns">owns</span>
         /
-        <span class="counter-registered" :data-number="count.registered.length" data-l10n="registered">regsistered</span>
+        <span class="counter-registered" :data-number="count.registered" data-l10n="registered">regsistered</span>
         /
         <span class="counter-total" :data-number="countTotal" data-l10n="released">released</span>
       </div>

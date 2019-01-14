@@ -45,7 +45,8 @@ let pmsByFamily = pms
   }, {});
 
 
-  var allPM = Object.values(pmsByFamily).reduce((a, f) => a.concat(f.pms), []);
+var groupedPMs = Object.values(pmsByFamily);
+var allPM = groupedPMs.reduce((a, f) => a.concat(f.pms), []);
 
 
 Vue.component('pm', {
@@ -79,12 +80,6 @@ Vue.component('pm', {
 
 Vue.component('pm-group', {
   props: ['family'],
-  data () {
-    return {
-      // selected: 0,
-      // unselected: 0,
-    }
-  },
   computed: {
     selected () {
       var pms = this.family.pms;
@@ -110,20 +105,43 @@ var vm = new Vue({
 
   data: {
     name: '',
-    pmFamily: Object.values(pmsByFamily),
+    pmFamily: groupedPMs,
     printing: false,
     countTotal: allPM.length,
     countRegistered: 0,
     countOwned: 0,
+    url: '',
     count: {
-      owned: [],
-      registered: [],
+      owned: 0,
+      registered: 0,
       total: allPM.length,
     },
   },
 
-  updated: function () {
-    console.log(22111);
+  created: function () {
+    console.log('created');
+    let para = new URLSearchParams(location.search);
+    this.url = para.toString();
+    this.name = para.get('nickname');
+
+    let dexState = para.get('dex').split('-').reduce((output, dex) => {
+      let [d, s] = dex.split('.');
+      output[d] = s;
+      return output;
+    }, {});
+
+    console.log(dexState);
+
+    groupedPMs.forEach(group => {
+      group.pms.forEach(pm => {
+        let state = dexState[pm.id];
+        if (state) {
+          pm.state = state;
+        }
+      });
+    });
+
+    this.updateCount();
   },
 
   computed: {
@@ -140,12 +158,10 @@ var vm = new Vue({
     //   return 123;
     // },
   },
+
   watch: {
-    pmFamily: {
-      handler(cc) {
-        console.log(1111111111111, cc);
-      },
-      deep: true
+    name() {
+      this.updateUrl();
     },
   },
 
@@ -158,14 +174,34 @@ var vm = new Vue({
         targetFamily = this.pmFamily.find(f => f.family === pm.family);
       }
 
-      this.count.owned = calcState(this.pmFamily, 2);
-      this.count.registered = calcState(this.pmFamily, 1);
+      let targetPms = flattenDeep(this.pmFamily.map(f => f.pms)).filter(pm => pm.state);
+      let count = targetPms.reduce((out, pm) => {
+        out[pm.state] = (out[pm.state] || 0) + 1;
+        return out;
+      }, {})
+
+      this.count.owned = count[2] || 0;
+      this.count.registered = count[1] || 0;
 
       if (targetFamily) {
         targetFamily.selected = targetFamily.pms.filter(pm => pm.state > 0).length;
         targetFamily.unselected = targetFamily.pms.length - targetFamily.selected;
       }
+      this.updateUrl();
     },
+
+    updateUrl() {
+      console.log('updateUrl');
+      let targetPms = flattenDeep(this.pmFamily.map(f => f.pms)).filter(pm => pm.state);
+      console.log({targetPms});
+      this.url = new URLSearchParams({
+        nickname: this.name,
+        dex: targetPms.map(pm => `${pm.id}.${pm.state}`).join('-'),
+      }).toString();
+
+      history.pushState(null, null, `?${this.url}`);
+    },
+
     // saveAsImg: function () {
     //   updateOutput();
     //   this.printing = true;
