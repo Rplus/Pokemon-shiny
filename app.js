@@ -200,6 +200,22 @@ var vm = new Vue({
       history.pushState(null, null, `?${this.url}`);
     },
 
+    selectAll() {
+      console.log('selectAll', this.selectedAll);
+      this.pmFamily.forEach(group => {
+        group.pms.forEach(pm => {
+          if (this.selectedAll) {
+            pm.state = 0;
+          } else if (!pm.state) {
+            pm.state = 1;
+          }
+        });
+      });
+      this.selectedAll = !this.selectedAll;
+      this.$forceUpdate();
+      this.updateCount();
+    },
+
     // saveAsImg: function () {
     //   updateOutput();
     //   this.printing = true;

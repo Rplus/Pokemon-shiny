@@ -52,20 +52,20 @@
     <input type="radio" name="show-switcher" id="show-selected" class="sr-only" />
     <input type="radio" name="show-switcher" id="show-unselected" class="sr-only" />
 
-    <!--
     <aside class="ctrl-1">
-      <a href="###" class="select-all click-link" data-l10n="select-all">Select All</a>
+      <a href="###" class="select-all click-link" data-l10n="select-all" @click.prevent="selectAll()">Select All</a>
       /
       <a href="./" class="reset click-link" data-l10n="reset">Reset</a>
       <br>
+    <!--
       <div class="ctrl-show">
         <span data-l10n="show">Show: </span>
         <label for="show-all" data-l10n="show-all">all</label>/
         <label for="show-selected" data-l10n="show-selected">selected</label>/
         <label for="show-unselected" data-l10n="show-unselected">unselected</label>
       </div>
-    </aside>
     -->
+    </aside>
 
     <main class="pm-checklist">
       <pm-group
