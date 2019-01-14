@@ -2233,8 +2233,7 @@ let pms = [
       "kr": "리아코",
       "zh": "小鋸鱷"
     },
-    "shiny_released": false,
-    "released_date": "2019/01/12",
+    "shiny_released": true,
     "family": "Totodile"
   },
   {
@@ -2247,8 +2246,7 @@ let pms = [
       "kr": "엘리게이",
       "zh": "藍鱷"
     },
-    "shiny_released": false,
-    "released_date": "2019/01/12",
+    "shiny_released": true,
     "family": "Totodile"
   },
   {
@@ -2261,8 +2259,7 @@ let pms = [
       "kr": "장크로다일",
       "zh": "大力鱷"
     },
-    "shiny_released": false,
-    "released_date": "2019/01/12",
+    "shiny_released": true,
     "family": "Totodile"
   },
   {
@@ -4772,6 +4769,7 @@ let pms = [
       "zh": "醜醜魚"
     },
     "shiny_released": false,
+    "released_date": "2019/01/20",
     "family": "Feebas"
   },
   {
@@ -4785,6 +4783,7 @@ let pms = [
       "zh": "美納斯"
     },
     "shiny_released": false,
+    "released_date": "2019/01/20",
     "family": "Feebas"
   },
   {
