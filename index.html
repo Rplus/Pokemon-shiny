@@ -34,9 +34,9 @@
       </label>
 
       <div class="counter">
-        <span class="counter-owns" :data-number="countOwned" data-l10n="owns">owns</span>
+        <span class="counter-owns" :data-number="count.owned.length" data-l10n="owns">owns</span>
         /
-        <span class="counter-registered" :data-number="countRegistered" data-l10n="registered">regsistered</span>
+        <span class="counter-registered" :data-number="count.registered.length" data-l10n="registered">regsistered</span>
         /
         <span class="counter-total" :data-number="countTotal" data-l10n="released">released</span>
       </div>
@@ -72,7 +72,6 @@
         v-for="family in pmFamily"
         :family="family"
         :key="family.family"
-        v-on:update-count="updateCount"
       >
         <pm
           v-for="pm in family.pms"

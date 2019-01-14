@@ -115,6 +115,15 @@ var vm = new Vue({
     countTotal: allPM.length,
     countRegistered: 0,
     countOwned: 0,
+    count: {
+      owned: [],
+      registered: [],
+      total: allPM.length,
+    },
+  },
+
+  updated: function () {
+    console.log(22111);
   },
 
   computed: {
@@ -142,15 +151,15 @@ var vm = new Vue({
 
   methods: {
     updateCount (pm) {
-      console.log(1233, pm);
+      console.log(1233, 'updateCount', pm);
       var targetFamily;
       if (pm) {
         pm.state = ((pm.state || 0) + 1) % 3;
         targetFamily = this.pmFamily.find(f => f.family === pm.family);
       }
 
-      this.countOwned = calcState(this.pmFamily, 2);
-      this.countRegistered = calcState(this.pmFamily, 1) + this.countOwned;
+      this.count.owned = calcState(this.pmFamily, 2);
+      this.count.registered = calcState(this.pmFamily, 1);
 
       if (targetFamily) {
         targetFamily.selected = targetFamily.pms.filter(pm => pm.state > 0).length;
@@ -185,11 +194,21 @@ function getName(pmNames) {
 }
 
 function calcState(array, state) {
-  return array.reduce((sumAll, f) => {
-    return (
-      sumAll + f.pms.reduce((sum, pm) => sum + (pm.state === state ? 1 : 0), 0)
-    );
-  }, 0);
+  return array.reduce(
+    (sumArr, f) => (
+      sumArr.concat(
+        f.pms.reduce(
+          (sum, pm) => {
+            if (pm.state === state) {
+              sum.push(pm.id);
+            }
+            return sum;
+          }, []
+        )
+      )
+    ),
+    []
+  );
 }
 
 function getImgUrl(pm) {
@@ -197,6 +216,9 @@ function getImgUrl(pm) {
   return `//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_${pokedex}${pm.type || '_00'}${pm.isotope || ''}_shiny.png${pm.cachebuster || ''}`;
 }
 
+function flattenDeep(arr1) {
+  return arr1.reduce((acc, val) => Array.isArray(val) ? acc.concat(flattenDeep(val)) : acc.concat(val), []);
+}
 
 // var elm = {};
 // elm.workspace = document.querySelector('.workspace');
