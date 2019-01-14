@@ -4769,7 +4769,7 @@ let pms = [
       "zh": "醜醜魚"
     },
     "shiny_released": false,
-    "released_date": "2019/01/10",
+    "released_date": "2019/01/20",
     "family": "Feebas"
   },
   {
@@ -4783,7 +4783,7 @@ let pms = [
       "zh": "美納斯"
     },
     "shiny_released": false,
-    "released_date": "2019/01/10",
+    "released_date": "2019/01/20",
     "family": "Feebas"
   },
   {
