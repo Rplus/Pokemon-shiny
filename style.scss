@@ -184,7 +184,7 @@ $space-y: 8px;
 
 .nickname {
   display: inline-block;
-  min-width: 3em;
+  min-width: 5em;
   max-width: 70%;
   padding: 3px 1em;
   vertical-align: middle;
@@ -196,19 +196,6 @@ $space-y: 8px;
   text-align: left;
   font-family: monospace;
   border-bottom: 4px solid rgba(#fff, .3);
-
-  &:empty {
-    &::before {
-      content: 'Enter your ID';
-      font-weight: normal;
-      font-size: smaller;
-    }
-  }
-
-  &:not(:empty) {
-    background-color: transparent;
-    background-image: linear-gradient(rgba(#fff, .1) 90%, rgba(#fff, .5) 0);
-  }
 }
 
 .update {
