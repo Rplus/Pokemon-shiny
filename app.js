@@ -122,15 +122,13 @@ var vm = new Vue({
     console.log('created');
     let para = new URLSearchParams(location.search);
     this.url = para.toString();
-    this.name = para.get('nickname');
+    this.name = para.get('nickname') || '';
 
-    let dexState = para.get('dex').split('-').reduce((output, dex) => {
+    let dexState = (para.get('dex') || '').split('-').reduce((output, dex) => {
       let [d, s] = dex.split('.');
       output[d] = s;
       return output;
     }, {});
-
-    console.log(dexState);
 
     groupedPMs.forEach(group => {
       group.pms.forEach(pm => {
@@ -181,7 +179,7 @@ var vm = new Vue({
       }, {})
 
       this.count.owned = count[2] || 0;
-      this.count.registered = count[1] || 0;
+      this.count.registered = (count[1] + this.count.owned) || 0;
 
       if (targetFamily) {
         targetFamily.selected = targetFamily.pms.filter(pm => pm.state > 0).length;
@@ -193,11 +191,11 @@ var vm = new Vue({
     updateUrl() {
       console.log('updateUrl');
       let targetPms = flattenDeep(this.pmFamily.map(f => f.pms)).filter(pm => pm.state);
-      console.log({targetPms});
-      this.url = new URLSearchParams({
-        nickname: this.name,
+      let para = {
+        nickname: this.name || '',
         dex: targetPms.map(pm => `${pm.id}.${pm.state}`).join('-'),
-      }).toString();
+      };
+      this.url = new URLSearchParams(deleteEmptyProp(para)).toString();
 
       history.pushState(null, null, `?${this.url}`);
     },
@@ -254,6 +252,13 @@ function getImgUrl(pm) {
 
 function flattenDeep(arr1) {
   return arr1.reduce((acc, val) => Array.isArray(val) ? acc.concat(flattenDeep(val)) : acc.concat(val), []);
+}
+
+function deleteEmptyProp(obj) {
+  for (let i in obj) {
+    if(!obj[i]) { delete obj[i]; }
+  }
+  return obj;
 }
 
 // var elm = {};
