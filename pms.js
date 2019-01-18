@@ -3649,7 +3649,7 @@ let pms = [
       "kr": "지그제구리",
       "zh": "蛇紋熊"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Zigzagoon"
   },
   {
@@ -3662,7 +3662,7 @@ let pms = [
       "kr": "직구리",
       "zh": "直衝熊"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Zigzagoon"
   },
   {
@@ -3818,7 +3818,7 @@ let pms = [
       "kr": "테일로",
       "zh": "傲骨燕"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Taillow"
   },
   {
@@ -3831,7 +3831,7 @@ let pms = [
       "kr": "스왈로",
       "zh": "大王燕"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Taillow"
   },
   {
@@ -5213,7 +5213,7 @@ let pms = [
       "kr": "그란돈",
       "zh": "固拉多"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Groudon"
   },
   {
