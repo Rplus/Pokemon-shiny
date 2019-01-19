@@ -21,7 +21,7 @@ let l10n = {
     "en": "Show: ",
     "zh": "顯示: ",
     "de": "Show: ",
-    "it": "Show: ",
+    "it": "Mostra: ",
   },
   "show-all": {
     "en": "All",
@@ -33,13 +33,13 @@ let l10n = {
     "en": "Selected",
     "zh": "已選",
     "de": "Ausgewählt",
-    "it": "Selezionato",
+    "it": "Selezionati",
   },
   "show-unselected": {
     "en": "Unselected",
     "zh": "未選",
     "de": "Nicht ausgewählt",
-    "it": "Non selezionato",
+    "it": "Non selezionati",
   },
   "share-shiny-list": {
     "en": "Share shiny list",
@@ -63,13 +63,13 @@ let l10n = {
     "en": "Owns",
     "zh": "現有",
     "de": "Besitzt",
-    "it": "Possiede",
+    "it": "Posseduti",
   },
   "registered": {
     "en": "Registered",
     "zh": "已開圖",
     "de": "Eingetragen",
-    "it": "Registrato",
+    "it": "Registrati",
   },
   "released": {
     "en": "released",

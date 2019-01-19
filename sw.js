@@ -1,6 +1,5 @@
 var cacheName = 'shiny-list-v1.0';
 var urlsToCache = [
-	"./_pm-img-style.scss",
 	"./favicon.png",
 	"./icon.jpg",
 	"./index.html",
