@@ -3087,6 +3087,7 @@ let pms = [
       "kr": "꾸꾸리",
       "zh": "小山豬"
     },
+    "released_date": "2019-02-16",
     "shiny_released": false,
     "family": "Swinub"
   },
@@ -3100,6 +3101,7 @@ let pms = [
       "kr": "메꾸리",
       "zh": "長毛豬"
     },
+    "released_date": "2019-02-16",
     "shiny_released": false,
     "family": "Swinub"
   },
@@ -4768,8 +4770,7 @@ let pms = [
       "kr": "빈티나",
       "zh": "醜醜魚"
     },
-    "shiny_released": false,
-    "released_date": "2019/01/20",
+    "shiny_released": true,
     "family": "Feebas"
   },
   {
@@ -4782,8 +4783,7 @@ let pms = [
       "kr": "밀로틱",
       "zh": "美納斯"
     },
-    "shiny_released": false,
-    "released_date": "2019/01/20",
+    "shiny_released": true,
     "family": "Feebas"
   },
   {
@@ -6387,6 +6387,7 @@ let pms = [
       "kr": "맘모꾸리",
       "zh": "象牙豬"
     },
+    "released_date": "2019-02-16",
     "shiny_released": false,
     "family": "Swinub"
   },
