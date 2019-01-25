@@ -329,6 +329,14 @@ button {
   --bgz: 130% 130%;
   --bgp: .04em -.1em; }
 
+.pm-info[data-dex="54"] {
+  --bgz: 130% 130%;
+  --bgp: -.02em -.12em; }
+
+.pm-info[data-dex="55"] {
+  --bgz: 120% 120%;
+  --bgp: .02em -.05em; }
+
 .pm-info[data-dex="58"] {
   --bgz: 140% 140%;
   --bgp: -.1em -.23em; }

@@ -866,7 +866,7 @@ let pms = [
       "kr": "고라파덕",
       "zh": "可達鴨"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Psyduck"
   },
   {
@@ -879,7 +879,7 @@ let pms = [
       "kr": "골덕",
       "zh": "哥達鴨"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Psyduck"
   },
   {
