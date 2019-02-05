@@ -6453,7 +6453,7 @@ let pms = [
       "kr": "눈여아",
       "zh": "雪妖女"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Snorunt"
   },
   {

@@ -905,6 +905,10 @@ button {
   --bgz: 140% 140%;
   --bgp: -.15em -.2em; }
 
+.pm-info[data-dex="478"] {
+  --bgz: 120% 120%;
+  --bgp: .1em -.02em; }
+
 .pm-info[data-dex="404"] {
   background-image: url("//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_404_01_shiny.png") !important; }
 
