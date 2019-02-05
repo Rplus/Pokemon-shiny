@@ -4458,7 +4458,7 @@ let pms = [
       "kr": "피그점프",
       "zh": "跳跳豬"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Spoink"
   },
   {
@@ -4471,7 +4471,7 @@ let pms = [
       "kr": "피그킹",
       "zh": "噗噗豬"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Spoink"
   },
   {
