@@ -6651,4 +6651,30 @@ let pms = [
     "shiny_released": false,
     "family": "Arceus"
   },
+  {
+    "dex": 808,
+    "name": {
+      "de": "Meltan",
+      "en": "Meltan",
+      "fr": "Meltan",
+      "jp": "メルタン",
+      "kr": "멜탄",
+      "zh": "美錄坦",
+    },
+    "shiny_released": true,
+    "family": "Meltan"
+  },
+  {
+    "dex": 809,
+    "name": {
+      "de": "Melmetal",
+      "en": "Melmetal",
+      "fr": "Melmetal",
+      "jp": "メルメタル",
+      "kr": "멜메탈",
+      "zh": "美錄梅塔",
+    },
+    "shiny_released": true,
+    "family": "Meltan"
+  },
 ];
