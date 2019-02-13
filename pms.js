@@ -619,7 +619,7 @@ let pms = [
       "kr": "삐삐",
       "zh": "皮皮"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Clefairy"
   },
   {
@@ -632,7 +632,7 @@ let pms = [
       "kr": "픽시",
       "zh": "皮可西"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Clefairy"
   },
   {
@@ -2474,7 +2474,7 @@ let pms = [
       "kr": "삐",
       "zh": "皮寶寶"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "order": -1,
     "family": "Clefairy"
   },
