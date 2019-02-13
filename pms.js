@@ -1791,7 +1791,7 @@ let pms = [
       "kr": "루주라",
       "zh": "迷唇姐"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Jynx"
   },
   {
@@ -3323,7 +3323,7 @@ let pms = [
       "kr": "뽀뽀라",
       "zh": "迷唇娃"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "order": -1,
     "family": "Jynx"
   },
