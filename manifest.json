@@ -3,7 +3,7 @@
 	"short_name": "Shiny List",
 	"start_url": "https://rplus.github.io/Pokemon-shiny/",
 	"icons": [{
-		"src": "https://rplus.github.io/Pokemon-shiny/icon.jpg",
+		"src": "https://rplus.github.io/Pokemon-shiny/icon.png",
 		"sizes": "512x512",
 		"type": "image/png"
 	}],
