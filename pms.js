@@ -1508,6 +1508,20 @@ let pms = [
     "family": "Exeggcute"
   },
   {
+    "dex": 103,
+    "name": {
+      "de": "Kokowei",
+      "en": "Exeggutor",
+      "fr": "Noadkoko",
+      "jp": "ナッシー",
+      "kr": "나시",
+      "zh": "椰蛋樹"
+    },
+    "type": "_61",
+    "shiny_released": false,
+    "family": "Exeggcute"
+  },
+  {
     "dex": 104,
     "name": {
       "de": "Tragosso",
@@ -3297,6 +3311,7 @@ let pms = [
       "kr": "배루키",
       "zh": "無畏小子"
     },
+    "order": -1,
     "shiny_released": false,
     "family": "Tyrogue"
   },
@@ -5930,6 +5945,7 @@ let pms = [
       "kr": "꼬지지",
       "zh": "盆才怪"
     },
+    "order": -1,
     "shiny_released": false,
     "family": "Sudowoodo"
   },
@@ -5943,6 +5959,7 @@ let pms = [
       "kr": "흉내내",
       "zh": "魔尼尼"
     },
+    "order": -1,
     "shiny_released": false,
     "family": "Mr Mime"
   },
@@ -5958,7 +5975,7 @@ let pms = [
     },
     "shiny_released": false,
     "family": "Chansey",
-    "order": -1
+    "order": -1,
   },
   {
     "dex": 441,
@@ -6192,6 +6209,7 @@ let pms = [
       "kr": "타만타",
       "zh": "小球飛魚"
     },
+    "order": -1,
     "shiny_released": false,
     "family": "Mantine"
   },
@@ -6336,7 +6354,7 @@ let pms = [
       "zh": "遠古巨蜓"
     },
     "shiny_released": false,
-    "family": "Yanmega"
+    "family": "Yanma"
   },
   {
     "dex": 470,
