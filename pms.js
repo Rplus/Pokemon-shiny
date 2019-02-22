@@ -3101,8 +3101,7 @@ let pms = [
       "kr": "꾸꾸리",
       "zh": "小山豬"
     },
-    "released_date": "2019-02-16",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Swinub"
   },
   {
@@ -3115,8 +3114,7 @@ let pms = [
       "kr": "메꾸리",
       "zh": "長毛豬"
     },
-    "released_date": "2019-02-16",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Swinub"
   },
   {
@@ -6405,8 +6403,7 @@ let pms = [
       "kr": "맘모꾸리",
       "zh": "象牙豬"
     },
-    "released_date": "2019-02-16",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Swinub"
   },
   {
