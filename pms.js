@@ -5005,7 +5005,7 @@ let pms = [
       "kr": "진주몽",
       "zh": "珍珠貝"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Clamperl"
   },
   {
@@ -5018,7 +5018,7 @@ let pms = [
       "kr": "헌테일",
       "zh": "獵斑魚"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Clamperl"
   },
   {
@@ -5031,7 +5031,7 @@ let pms = [
       "kr": "분홍장이",
       "zh": "櫻花魚"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Clamperl"
   },
   {
