@@ -223,11 +223,13 @@ let splitChar = '-';
 function updateState() {
   let ownArray = getOwnIndexArr();
   let registeredArray = getRegisteredOnlyIndexArr().concat(ownArray).sort(sortByNumber);
+  let show = document.querySelector('[name="show-switcher"]:checked').value.split('-')[1];
 
   let para = new URLSearchParams(deleteEmptyProperty({
+    nickname: nickname() || '',
     own: ownArray.join(splitChar),
     dex: registeredArray.join(splitChar),
-    nickname: nickname() || '',
+    show: show,
   }));
 
   history.pushState(null, null, `?${para.toString()}`);
@@ -243,6 +245,11 @@ function renderState() {
 
   let ownDex = (para.get('own') || '').split(splitChar);
   let registeredDex = (para.get('dex') || '').split(splitChar);
+  let show = (para.get('show') || '');
+  let showTarget = document.querySelector(`#show-${show}`);
+  if (showTarget) {
+    document.querySelector(`#show-${show}`).checked = true
+  }
 
   pmData.forEach((i) => {
     let isOwn = (ownDex.indexOf(i.id) !== -1);
@@ -360,6 +367,12 @@ elm.reset.addEventListener('click', (e) => {
     location.href = './';
   }
 });
+
+
+[...document.querySelectorAll('[name="show-switcher"]')].forEach(e => {
+  e.addEventListener('change', updateState);
+});
+
 
 window.addEventListener('popstate', renderState);
 renderState();
