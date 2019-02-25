@@ -53,9 +53,11 @@ function sortPM(a, b) {
   return (a.order || a.dex) - (b.order || b.dex);
 }
 
-
+let oTitle = document.title;
 let nicknameMaxLength = 20;
 function nickname(value) {
+  var n = value || elm.nickname.innerText;
+  document.title = n ? `✨ ${n} | ${oTitle}` : oTitle;
   if (value) {
     elm.nickname.innerText = value.slice(0, nicknameMaxLength);
   } else {
