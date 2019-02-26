@@ -6480,6 +6480,20 @@ let pms = [
     "family": "Eevee"
   },
   {
+    "dex": 470,
+    "name": {
+      "de": "Folipurba",
+      "en": "Leafeon",
+      "fr": "Phyllali",
+      "jp": "リーフィア",
+      "kr": "리피아",
+      "zh": "葉伊布"
+    },
+    "shiny_released": false,
+    "isotope": "_07",
+    "family": "Eevee_07"
+  },
+  {
     "dex": 471,
     "name": {
       "de": "Glaziola",
@@ -6491,6 +6505,20 @@ let pms = [
     },
     "shiny_released": false,
     "family": "Eevee"
+  },
+  {
+    "dex": 471,
+    "name": {
+      "de": "Glaziola",
+      "en": "Glaceon",
+      "fr": "Givrali",
+      "jp": "グレイシア",
+      "kr": "글레이시아",
+      "zh": "冰伊布"
+    },
+    "shiny_released": false,
+    "isotope": "_07",
+    "family": "Eevee_07"
   },
   {
     "dex": 472,
