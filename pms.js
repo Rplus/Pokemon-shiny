@@ -492,6 +492,34 @@ let pms = [
     "family": "Pikachu_01"
   },
   {
+    "dex": 25,
+    "isotope": "_07",
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "jp": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "family": "Pikachu_07"
+  },
+  {
+    "dex": 26,
+    "isotope": "_07",
+    "name": {
+      "de": "Raichu",
+      "en": "Raichu",
+      "fr": "Raichu",
+      "jp": "ライチュウ",
+      "kr": "라이츄",
+      "zh": "雷丘"
+    },
+    "shiny_released": true,
+    "family": "Pikachu_07"
+  },
+  {
     "dex": 26,
     "name": {
       "de": "Raichu",
@@ -1926,6 +1954,20 @@ let pms = [
     "family": "Eevee"
   },
   {
+    "dex": 133,
+    "name": {
+      "de": "Evoli",
+      "en": "Eevee",
+      "fr": "Évoli",
+      "jp": "イーブイ",
+      "kr": "이브이",
+      "zh": "伊布"
+    },
+    "shiny_released": true,
+    "isotope": "_07",
+    "family": "Eevee_07"
+  },
+  {
     "dex": 134,
     "name": {
       "de": "Aquana",
@@ -1937,6 +1979,20 @@ let pms = [
     },
     "shiny_released": true,
     "family": "Eevee"
+  },
+  {
+    "dex": 134,
+    "name": {
+      "de": "Aquana",
+      "en": "Vaporeon",
+      "fr": "Aquali",
+      "jp": "シャワーズ",
+      "kr": "샤미드",
+      "zh": "水伊布"
+    },
+    "shiny_released": true,
+    "isotope": "_07",
+    "family": "Eevee_07"
   },
   {
     "dex": 135,
@@ -1952,6 +2008,20 @@ let pms = [
     "family": "Eevee"
   },
   {
+    "dex": 135,
+    "name": {
+      "de": "Blitza",
+      "en": "Jolteon",
+      "fr": "Voltali",
+      "jp": "サンダース",
+      "kr": "쥬피썬더",
+      "zh": "雷伊布"
+    },
+    "shiny_released": true,
+    "isotope": "_07",
+    "family": "Eevee_07"
+  },
+  {
     "dex": 136,
     "name": {
       "de": "Flamara",
@@ -1963,6 +2033,20 @@ let pms = [
     },
     "shiny_released": true,
     "family": "Eevee"
+  },
+  {
+    "dex": 136,
+    "name": {
+      "de": "Flamara",
+      "en": "Flareon",
+      "fr": "Pyroli",
+      "jp": "ブースター",
+      "kr": "부스터",
+      "zh": "火伊布"
+    },
+    "shiny_released": true,
+    "isotope": "_07",
+    "family": "Eevee_07"
   },
   {
     "dex": 137,
@@ -2793,6 +2877,20 @@ let pms = [
     "family": "Eevee"
   },
   {
+    "dex": 196,
+    "name": {
+      "de": "Psiana",
+      "en": "Espeon",
+      "fr": "Mentali",
+      "jp": "エーフィ",
+      "kr": "에브이",
+      "zh": "太陽伊布"
+    },
+    "shiny_released": true,
+    "isotope": "_07",
+    "family": "Eevee_07"
+  },
+  {
     "dex": 197,
     "name": {
       "de": "Nachtara",
@@ -2804,6 +2902,20 @@ let pms = [
     },
     "shiny_released": true,
     "family": "Eevee"
+  },
+  {
+    "dex": 197,
+    "name": {
+      "de": "Nachtara",
+      "en": "Umbreon",
+      "fr": "Noctali",
+      "jp": "ブラッキー",
+      "kr": "블래키",
+      "zh": "月亮伊布"
+    },
+    "shiny_released": true,
+    "isotope": "_07",
+    "family": "Eevee_07"
   },
   {
     "dex": 198,
