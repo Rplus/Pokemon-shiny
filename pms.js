@@ -246,7 +246,7 @@ let pms = [
       "kr": "구구",
       "zh": "波波"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Pidgey"
   },
   {
@@ -259,7 +259,7 @@ let pms = [
       "kr": "피죤",
       "zh": "比比鳥"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Pidgey"
   },
   {
@@ -272,7 +272,7 @@ let pms = [
       "kr": "피죤투",
       "zh": "大比鳥"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Pidgey"
   },
   {
@@ -285,7 +285,7 @@ let pms = [
       "kr": "꼬렛",
       "zh": "小拉達"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Rattata"
   },
   {
@@ -298,7 +298,7 @@ let pms = [
       "kr": "레트라",
       "zh": "拉達"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Rattata"
   },
   {
