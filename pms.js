@@ -3634,6 +3634,7 @@ let pms = [
       "zh": "木守宮"
     },
     "shiny_released": false,
+    "released_date": "2019/03/23",
     "family": "Treecko"
   },
   {
@@ -3647,6 +3648,7 @@ let pms = [
       "zh": "森林蜥蜴"
     },
     "shiny_released": false,
+    "released_date": "2019/03/23",
     "family": "Treecko"
   },
   {
@@ -3660,6 +3662,7 @@ let pms = [
       "zh": "蜥蜴王"
     },
     "shiny_released": false,
+    "released_date": "2019/03/23",
     "family": "Treecko"
   },
   {
