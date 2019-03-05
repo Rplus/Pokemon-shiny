@@ -920,7 +920,7 @@ let pms = [
       "kr": "망키",
       "zh": "猴怪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Mankey"
   },
   {
@@ -933,7 +933,7 @@ let pms = [
       "kr": "성원숭",
       "zh": "火爆猴"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Mankey"
   },
   {
@@ -1050,7 +1050,7 @@ let pms = [
       "kr": "알통몬",
       "zh": "腕力"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Machop"
   },
   {
@@ -1063,7 +1063,7 @@ let pms = [
       "kr": "근육몬",
       "zh": "豪力"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Machop"
   },
   {
@@ -1076,7 +1076,7 @@ let pms = [
       "kr": "괴력몬",
       "zh": "怪力"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Machop"
   },
   {
