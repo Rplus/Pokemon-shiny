@@ -95,7 +95,7 @@ $space-y: 8px;
   }
 
   // pm name
-  &::after {
+  .pm-name {
     content: attr(data-name);
     position: relative;
     z-index: 1;

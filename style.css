@@ -73,7 +73,7 @@
     color: #dada0b;
     border: 3px solid;
     opacity: 0; }
-  .pm-info::after {
+  .pm-info .pm-name {
     content: attr(data-name);
     position: relative;
     z-index: 1;
