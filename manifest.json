@@ -9,7 +9,7 @@
 	}],
 	"theme_color": "#ff5722",
 	"scope": "https://rplus.github.io/Pokemon-shiny/",
-	"background_color": "#ff5722",
+	"background_color": "#ffffff",
 	"display": "standalone",
 	"orientation": "any"
 }
