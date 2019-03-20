@@ -77,7 +77,14 @@ $space-y: 8px;
   background-size: var(--bgz, contain);
   background-position: var(--bgp, 100% 100%);
   background-repeat: no-repeat;
+  background-image: var(--bgi);
   text-align: left;
+  transition: background-image .5s;
+
+  .normal-style &,
+  &:hover {
+    background-image: var(--bgi-n);
+  }
 
   // storke box
   &::before {

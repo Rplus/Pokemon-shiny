@@ -90,7 +90,9 @@ let html = Object.values(pmsByFamily)
           <div class="pm-info"
             data-dex="${pm.dex}"
             data-id="${pm.id}"
-            style="background-image: url(${getImgUrl(pm)});"
+            style="
+              --bgi: url(${getImgUrl(pm)});
+              --bgi-n: url(${getImgUrl(pm, true)});"
           >
             <div class="pm-name">${name}</div>
             <div class="pm-mark"></div>
@@ -267,9 +269,13 @@ function renderState() {
 }
 
 
-function getImgUrl(pm) {
+function getImgUrl(pm, normal) {
   let pokedex = `${pm.dex}`.padStart(3, '0');
-  return `//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_${pokedex}${pm.type || '_00'}${pm.isotope || ''}_shiny.png${pm.cachebuster || ''}`;
+  let imgBasePath = 'raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_';
+  let number = `${pokedex}${pm.type || '_00'}${pm.isotope || ''}`;
+  let shiny = normal ? '' : '_shiny';
+
+  return `//images.weserv.nl/?w=200&il&url=${imgBasePath}${number}${shiny}.png${pm.cachebuster || ''}`;
 }
 
 
