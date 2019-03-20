@@ -335,12 +335,6 @@ button {
 
 @import "pm-img-style.scss";
 
-// FIXME: wait for shiny Luxio image issue is fixed
-// https://github.com/ZeChrales/PogoAssets/issues/16
-.pm-info[data-dex="404"] {
-  background-image: url('//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_404_01_shiny.png') !important;
-}
-
 [data-l10n]:not([data-l10n-done="1"]) {
   color: transparent;
 }
