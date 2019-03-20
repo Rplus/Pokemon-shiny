@@ -7,10 +7,12 @@
     max-width: unset; }
 
 .pm-group {
+  display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
   margin-left: 10px;
@@ -60,7 +62,12 @@
   background-size: var(--bgz, contain);
   background-position: var(--bgp, 100% 100%);
   background-repeat: no-repeat;
-  text-align: left; }
+  background-image: var(--bgi);
+  text-align: left;
+  -webkit-transition: background-image .5s;
+  transition: background-image .5s; }
+  .normal-style .pm-info, .pm-info:hover {
+    background-image: var(--bgi-n); }
   .pm-info::before {
     content: '';
     position: absolute;
@@ -82,6 +89,7 @@
     font-size: 14px;
     color: #444;
     text-shadow: 1px 1px 0px #eef;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.9)), color-stop(11.2%, rgba(255, 255, 255, 0.889)), color-stop(21%, rgba(255, 255, 255, 0.856)), color-stop(29.6%, rgba(255, 255, 255, 0.806)), color-stop(37.1%, rgba(255, 255, 255, 0.742)), color-stop(43.7%, rgba(255, 255, 255, 0.667)), color-stop(49.6%, rgba(255, 255, 255, 0.583)), color-stop(55%, rgba(255, 255, 255, 0.495)), color-stop(60%, rgba(255, 255, 255, 0.405)), color-stop(64.8%, rgba(255, 255, 255, 0.317)), color-stop(69.6%, rgba(255, 255, 255, 0.233)), color-stop(74.6%, rgba(255, 255, 255, 0.158)), color-stop(80%, rgba(255, 255, 255, 0.094)), color-stop(85.9%, rgba(255, 255, 255, 0.044)), color-stop(92.5%, rgba(255, 255, 255, 0.011)), to(rgba(255, 255, 255, 0)));
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.889) 11.2%, rgba(255, 255, 255, 0.856) 21%, rgba(255, 255, 255, 0.806) 29.6%, rgba(255, 255, 255, 0.742) 37.1%, rgba(255, 255, 255, 0.667) 43.7%, rgba(255, 255, 255, 0.583) 49.6%, rgba(255, 255, 255, 0.495) 55%, rgba(255, 255, 255, 0.405) 60%, rgba(255, 255, 255, 0.317) 64.8%, rgba(255, 255, 255, 0.233) 69.6%, rgba(255, 255, 255, 0.158) 74.6%, rgba(255, 255, 255, 0.094) 80%, rgba(255, 255, 255, 0.044) 85.9%, rgba(255, 255, 255, 0.011) 92.5%, rgba(255, 255, 255, 0) 100%); }
   .pm:hover .pm-info::before,
   .pm-checkbox:focus + .pm > .pm-info::before {
@@ -150,6 +158,7 @@
     font-size: smaller; }
   .nickname:not(:empty) {
     background-color: transparent;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(90%, rgba(255, 255, 255, 0.1)), color-stop(0, rgba(255, 255, 255, 0.5)));
     background-image: linear-gradient(rgba(255, 255, 255, 0.1) 90%, rgba(255, 255, 255, 0.5) 0); }
 
 .update {
@@ -197,8 +206,11 @@ button {
   white-space: pre; }
 
 .get-shorturl[href^="http"] {
+  display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column; }
   .get-shorturl[href^="http"] [data-l10n="get-short-url"] {
@@ -206,21 +218,40 @@ button {
   .get-shorturl[href^="http"] [data-l10n="share-with-short-url"] {
     display: block; }
   .get-shorturl[href^="http"]::after {
+    display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
     font-family: monospace;
     content: attr(href) " 🔗"; }
 
 .get-shorturl.is-fetching {
+  display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column; }
   .get-shorturl.is-fetching::after {
     content: '...';
     padding-left: .5em;
     padding-right: .5em;
+    -webkit-animation: waiting 1s infinite;
     animation: waiting 1s infinite; }
+
+@-webkit-keyframes waiting {
+  0%, 100% {
+    content: '.  '; }
+  16% {
+    content: '.. '; }
+  32% {
+    content: '...'; }
+  48% {
+    content: ' ..'; }
+  64% {
+    content: '  .'; }
+  80% {
+    content: '   '; } }
 
 @keyframes waiting {
   0%, 100% {
@@ -2005,9 +2036,6 @@ button {
   --bgz: 140% 140%;
   --bgp: -.1em -.15em; }
 
-.pm-info[data-dex="404"] {
-  background-image: url("//images.weserv.nl/?w=200&il&url=raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_404_01_shiny.png") !important; }
-
 [data-l10n]:not([data-l10n-done="1"]) {
   color: transparent; }
 
@@ -2048,6 +2076,7 @@ body.print .pm-checkbox:not(:checked) + .pm-info {
 *::after {
   margin: 0;
   padding: 0;
+  -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
 .workspace {
