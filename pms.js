@@ -4742,7 +4742,7 @@ let pms = [
       "kr": "루나톤",
       "zh": "月石"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Lunatone"
   },
   {
@@ -4755,7 +4755,7 @@ let pms = [
       "kr": "솔록",
       "zh": "太陽岩"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Solrock"
   },
   {
