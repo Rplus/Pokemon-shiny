@@ -67,7 +67,7 @@
   -webkit-transition: background-image .5s;
   transition: background-image .5s; }
   .normal-style .pm-info, .pm-info:hover {
-    background-image: var(--bgi-n); }
+    background-image: var(--bgi-n), var(--bgi); }
   .pm-info::before {
     content: '';
     position: absolute;

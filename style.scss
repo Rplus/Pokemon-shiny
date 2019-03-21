@@ -83,7 +83,7 @@ $space-y: 8px;
 
   .normal-style &,
   &:hover {
-    background-image: var(--bgi-n);
+    background-image: var(--bgi-n), var(--bgi);
   }
 
   // storke box
