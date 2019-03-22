@@ -3633,8 +3633,7 @@ let pms = [
       "kr": "나무지기",
       "zh": "木守宮"
     },
-    "shiny_released": false,
-    "released_date": "2019/03/23",
+    "shiny_released": true,
     "family": "Treecko"
   },
   {
@@ -3647,8 +3646,7 @@ let pms = [
       "kr": "나무돌이",
       "zh": "森林蜥蜴"
     },
-    "shiny_released": false,
-    "released_date": "2019/03/23",
+    "shiny_released": true,
     "family": "Treecko"
   },
   {
@@ -3661,8 +3659,7 @@ let pms = [
       "kr": "나무킹",
       "zh": "蜥蜴王"
     },
-    "shiny_released": false,
-    "released_date": "2019/03/23",
+    "shiny_released": true,
     "family": "Treecko"
   },
   {
@@ -3871,6 +3868,7 @@ let pms = [
       "zh": "蓮葉童子"
     },
     "shiny_released": false,
+    "released_date": "2019/03/30",
     "family": "Lotad"
   },
   {
@@ -3884,6 +3882,7 @@ let pms = [
       "zh": "蓮帽小童"
     },
     "shiny_released": false,
+    "released_date": "2019/03/30",
     "family": "Lotad"
   },
   {
@@ -3897,6 +3896,7 @@ let pms = [
       "zh": "樂天河童"
     },
     "shiny_released": false,
+    "released_date": "2019/03/30",
     "family": "Lotad"
   },
   {
