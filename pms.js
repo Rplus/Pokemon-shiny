@@ -4925,6 +4925,7 @@ let pms = [
       "zh": "飄浮泡泡"
     },
     "shiny_released": false,
+    "released_date": "2019/03/30",
     "family": "Castform"
   },
   {
