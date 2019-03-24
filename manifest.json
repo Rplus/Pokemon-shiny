@@ -7,7 +7,7 @@
 		"sizes": "512x512",
 		"type": "image/png"
 	}],
-	"theme_color": "#ff5722",
+	"theme_color": "#ffffcc",
 	"scope": "https://rplus.github.io/Pokemon-shiny/",
 	"background_color": "#ffffff",
 	"display": "standalone",
