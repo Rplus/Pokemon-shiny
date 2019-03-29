@@ -81,7 +81,6 @@
     border: 3px solid;
     opacity: 0; }
   .pm-info .pm-name {
-    content: attr(data-name);
     position: relative;
     z-index: 1;
     display: block;
