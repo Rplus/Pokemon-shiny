@@ -5187,6 +5187,7 @@ let pms = [
       "zh": "寶貝龍"
     },
     "shiny_released": false,
+    "released_date": "2019/04/13",
     "family": "Bagon"
   },
   {
@@ -5200,6 +5201,7 @@ let pms = [
       "zh": "甲殼龍"
     },
     "shiny_released": false,
+    "released_date": "2019/04/13",
     "family": "Bagon"
   },
   {
@@ -5213,6 +5215,7 @@ let pms = [
       "zh": "暴飛龍"
     },
     "shiny_released": false,
+    "released_date": "2019/04/13",
     "family": "Bagon"
   },
   {
