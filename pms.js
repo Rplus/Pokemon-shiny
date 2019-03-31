@@ -3867,8 +3867,7 @@ let pms = [
       "kr": "연꽃몬",
       "zh": "蓮葉童子"
     },
-    "shiny_released": false,
-    "released_date": "2019/03/30",
+    "shiny_released": true,
     "family": "Lotad"
   },
   {
@@ -3881,8 +3880,7 @@ let pms = [
       "kr": "로토스",
       "zh": "蓮帽小童"
     },
-    "shiny_released": false,
-    "released_date": "2019/03/30",
+    "shiny_released": true,
     "family": "Lotad"
   },
   {
@@ -3895,8 +3893,7 @@ let pms = [
       "kr": "로파파",
       "zh": "樂天河童"
     },
-    "shiny_released": false,
-    "released_date": "2019/03/30",
+    "shiny_released": true,
     "family": "Lotad"
   },
   {
@@ -4924,8 +4921,7 @@ let pms = [
       "kr": "캐스퐁",
       "zh": "飄浮泡泡"
     },
-    "shiny_released": false,
-    "released_date": "2019/03/30",
+    "shiny_released": true,
     "family": "Castform"
   },
   {
