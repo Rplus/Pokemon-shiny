@@ -138,6 +138,26 @@
   .header h1 {
     margin-bottom: 1rem;
     font-size: 2.5rem; }
+  .header::before, .header::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: .5em;
+    background-color: rgba(255, 255, 255, 0.2);
+    -webkit-transform: scaleX(var(--r));
+    transform: scaleX(var(--r));
+    -webkit-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    -webkit-transition: -webkit-transform .3s;
+    transition: -webkit-transform .3s;
+    transition: transform .3s;
+    transition: transform .3s, -webkit-transform .3s; }
+  .header::before {
+    --r: var(--rate-owns, 0); }
+  .header::after {
+    --r: var(--rate-registered, 0); }
 
 .nickname {
   display: inline-block;

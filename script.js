@@ -189,12 +189,17 @@ document.querySelector('.counter-total').dataset.number = pmData.size;
 elm.registered = document.querySelector('.counter-registered');
 elm.owns = document.querySelector('.counter-owns');
 
+elm.header = document.querySelector('.header');
 function updateShinyCounter() {
   let own = getOwnIndexArr().length;
   let registeredOnly = getRegisteredOnlyIndexArr().length;
+  let registered = registeredOnly + own;
+
+  elm.header.style.setProperty('--rate-owns', own / pmData.size);
+  elm.header.style.setProperty('--rate-registered', registered / pmData.size);
 
   elm.owns.dataset.number = own;
-  elm.registered.dataset.number = registeredOnly + own;
+  elm.registered.dataset.number = registered;
 }
 
 
