@@ -409,6 +409,34 @@ let pms = [
   },
   {
     "dex": 25,
+    "isotope": "_03",
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "jp": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "family": "Pikachu_03"
+  },
+  {
+    "dex": 26,
+    "isotope": "_03",
+    "name": {
+      "de": "Raichu",
+      "en": "Raichu",
+      "fr": "Raichu",
+      "jp": "ライチュウ",
+      "kr": "라이츄",
+      "zh": "雷丘"
+    },
+    "shiny_released": true,
+    "family": "Pikachu_03"
+  },
+  {
+    "dex": 25,
     "isotope": "_06",
     "name": {
       "de": "Pikachu",
