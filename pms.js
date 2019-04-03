@@ -1848,7 +1848,7 @@ let pms = [
       "kr": "스라크",
       "zh": "飛天螳螂"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Scyther"
   },
   {
@@ -3137,7 +3137,7 @@ let pms = [
       "kr": "핫삼",
       "zh": "巨鉗螳螂"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Scyther"
   },
   {
