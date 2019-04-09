@@ -5344,6 +5344,7 @@ let pms = [
       "zh": "拉帝歐斯"
     },
     "shiny_released": false,
+    "released_date": "2019/04/16",
     "family": "Latios"
   },
   {
