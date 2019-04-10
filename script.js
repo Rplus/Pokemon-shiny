@@ -66,6 +66,23 @@ function nickname(value) {
 }
 
 
+function imgHandler(pm) {
+  fetch(getImgUrl(pm), { mode: 'cors'})
+  .then((response) => response.blob())
+  .then((blob) => {
+    let imageUrl = URL.createObjectURL(blob);
+    elm.checkList.style.setProperty(`--bgi--${pm.id}`, `url(${imageUrl})`);
+  });
+
+  fetch(getImgUrl(pm, true), { mode: 'cors'})
+  .then((response) => response.blob())
+  .then((blob) => {
+    let imageUrl = URL.createObjectURL(blob);
+    elm.checkList.style.setProperty(`--bgi--${pm.id}-n`, `url(${imageUrl})`);
+  });
+}
+
+
 let html = Object.values(pmsByFamily)
   .map(family => {
     let pmDom = family.pms
@@ -73,6 +90,7 @@ let html = Object.values(pmsByFamily)
     .map(pm => {
       if (!pm.shiny_released) { return; }
       let name = getName(pm.name);
+      imgHandler(pm);
       return (
         `
         <input
@@ -91,8 +109,8 @@ let html = Object.values(pmsByFamily)
             data-dex="${pm.dex}"
             data-id="${pm.id}"
             style="
-              --bgi: url(${getImgUrl(pm)});
-              --bgi-n: url(${getImgUrl(pm, true)});"
+              --bgi: var(--bgi--${pm.id});
+              --bgi-n: var(--bgi--${pm.id}-n);"
           >
             <div class="pm-name">${name}</div>
             <div class="pm-mark"></div>
