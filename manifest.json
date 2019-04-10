@@ -1,14 +1,14 @@
 {
 	"name": "Pokémon Shiny",
 	"short_name": "Shiny List",
-	"start_url": "https://rplus.github.io/Pokemon-shiny/",
+	"start_url": "/Pokemon-shiny/",
 	"icons": [{
-		"src": "https://rplus.github.io/Pokemon-shiny/icon.png",
+		"src": "./icon.png",
 		"sizes": "512x512",
 		"type": "image/png"
 	}],
 	"theme_color": "#ffffcc",
-	"scope": "https://rplus.github.io/Pokemon-shiny/",
+	"scope": "/Pokemon-shiny/",
 	"background_color": "#ffffff",
 	"display": "standalone",
 	"orientation": "any"
