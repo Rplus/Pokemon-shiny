@@ -5944,6 +5944,7 @@ let pms = [
       "zh": "捲捲耳"
     },
     "shiny_released": false,
+    "released_date": "2019/04/16",
     "family": "Buneary"
   },
   {
@@ -5957,6 +5958,7 @@ let pms = [
       "zh": "長耳兔"
     },
     "shiny_released": false,
+    "released_date": "2019/04/16",
     "family": "Buneary"
   },
   {
