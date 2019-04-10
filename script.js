@@ -263,7 +263,7 @@ function updateState() {
     show: show,
   }));
 
-  history.pushState(null, null, `#${para.toString()}`);
+  history.pushState(null, null, `./#${para.toString()}`);
   elm.getShortUrl.removeAttribute('href');
   updateShinyCounter();
 }
@@ -272,7 +272,7 @@ function updateState() {
 function renderState() {
   if (location.search) {
     // translate old para urls to newer rule with hash
-    history.pushState(null, null, `#${location.search.replace(/^\?/, '')}`);
+    history.pushState(null, null, `./#${location.search.replace(/^\?/, '')}`);
   }
   let para = new URLSearchParams(location.hash.replace(/^#/, ''));
 
