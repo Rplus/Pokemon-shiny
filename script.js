@@ -67,19 +67,23 @@ function nickname(value) {
 
 
 function imgHandler(pm) {
-  fetch(getImgUrl(pm), { mode: 'cors'})
-  .then((response) => response.blob())
-  .then((blob) => {
-    let imageUrl = URL.createObjectURL(blob);
-    elm.checkList.style.setProperty(`--bgi--${pm.id}`, `url(${imageUrl})`);
-  });
+  setTimeout(() => {
+    fetch(getImgUrl(pm), { mode: 'cors'})
+    .then((response) => response.blob())
+    .then((blob) => {
+      let imageUrl = URL.createObjectURL(blob);
+      elm.checkList.style.setProperty(`--bgi--${pm.id}`, `url(${imageUrl})`);
+    });
+  }, pm.dex < 30 ? 0 : pm.dex * 3);
 
-  fetch(getImgUrl(pm, true), { mode: 'cors'})
-  .then((response) => response.blob())
-  .then((blob) => {
-    let imageUrl = URL.createObjectURL(blob);
-    elm.checkList.style.setProperty(`--bgi--${pm.id}-n`, `url(${imageUrl})`);
-  });
+  setTimeout(() => {
+    fetch(getImgUrl(pm, true), { mode: 'cors'})
+    .then((response) => response.blob())
+    .then((blob) => {
+      let imageUrl = URL.createObjectURL(blob);
+      elm.checkList.style.setProperty(`--bgi--${pm.id}-n`, `url(${imageUrl})`);
+    });
+  }, pm.dex < 30 ? 0 : pm.dex * 3);
 }
 
 
