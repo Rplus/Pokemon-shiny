@@ -58,7 +58,7 @@
   font-size: calc(5vmin + 70px);
   width: 1em;
   height: 1em;
-  border-radius: inherit;
+  border-radius: 8.5%;
   background-size: var(--bgz, contain);
   background-position: var(--bgp, 100% 100%);
   background-repeat: no-repeat;
