@@ -727,7 +727,7 @@ let pms = [
       "kr": "푸린",
       "zh": "胖丁"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Jigglypuff"
   },
   {
@@ -740,7 +740,7 @@ let pms = [
       "kr": "푸크린",
       "zh": "胖可丁"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Jigglypuff"
   },
   {
@@ -2614,7 +2614,7 @@ let pms = [
       "kr": "푸푸린",
       "zh": "寶寶丁"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "order": -1,
     "family": "Jigglypuff"
   },
