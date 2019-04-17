@@ -5210,8 +5210,7 @@ let pms = [
       "kr": "아공이",
       "zh": "寶貝龍"
     },
-    "shiny_released": false,
-    "released_date": "2019/04/13",
+    "shiny_released": true,
     "family": "Bagon"
   },
   {
@@ -5224,8 +5223,7 @@ let pms = [
       "kr": "쉘곤",
       "zh": "甲殼龍"
     },
-    "shiny_released": false,
-    "released_date": "2019/04/13",
+    "shiny_released": true,
     "family": "Bagon"
   },
   {
@@ -5238,8 +5236,7 @@ let pms = [
       "kr": "보만다",
       "zh": "暴飛龍"
     },
-    "shiny_released": false,
-    "released_date": "2019/04/13",
+    "shiny_released": true,
     "family": "Bagon"
   },
   {
@@ -5343,8 +5340,7 @@ let pms = [
       "kr": "라티오스",
       "zh": "拉帝歐斯"
     },
-    "shiny_released": false,
-    "released_date": "2019/04/16",
+    "shiny_released": true,
     "family": "Latios"
   },
   {
@@ -5943,8 +5939,7 @@ let pms = [
       "kr": "이어롤",
       "zh": "捲捲耳"
     },
-    "shiny_released": false,
-    "released_date": "2019/04/16",
+    "shiny_released": true,
     "family": "Buneary"
   },
   {
@@ -5957,8 +5952,7 @@ let pms = [
       "kr": "이어롭",
       "zh": "長耳兔"
     },
-    "shiny_released": false,
-    "released_date": "2019/04/16",
+    "shiny_released": true,
     "family": "Buneary"
   },
   {
