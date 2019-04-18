@@ -3701,6 +3701,7 @@ let pms = [
       "zh": "火稚雞"
     },
     "shiny_released": false,
+    "released_date": '2019/05/19',
     "family": "Torchic"
   },
   {
@@ -3714,6 +3715,7 @@ let pms = [
       "zh": "力壯雞"
     },
     "shiny_released": false,
+    "released_date": '2019/05/19',
     "family": "Torchic"
   },
   {
@@ -3727,6 +3729,7 @@ let pms = [
       "zh": "火焰雞"
     },
     "shiny_released": false,
+    "released_date": '2019/05/19',
     "family": "Torchic"
   },
   {
