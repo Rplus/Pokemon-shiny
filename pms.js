@@ -1952,7 +1952,7 @@ let pms = [
       "kr": "라프라스",
       "zh": "拉普拉斯"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Lapras"
   },
   {
@@ -3150,7 +3150,7 @@ let pms = [
       "kr": "단단지",
       "zh": "壺壺"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Shuckle"
   },
   {
