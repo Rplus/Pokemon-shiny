@@ -870,7 +870,7 @@ let pms = [
       "kr": "디그다",
       "zh": "地鼠"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Diglett"
   },
   {
@@ -883,7 +883,7 @@ let pms = [
       "kr": "닥트리오",
       "zh": "三地鼠"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Diglett"
   },
   {
