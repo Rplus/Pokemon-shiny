@@ -1338,7 +1338,7 @@ let pms = [
       "kr": "쥬쥬",
       "zh": "小海獅"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Seel"
   },
   {
@@ -1351,7 +1351,7 @@ let pms = [
       "kr": "쥬레곤",
       "zh": "白海獅"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Seel"
   },
   {
