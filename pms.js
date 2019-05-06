@@ -2823,7 +2823,7 @@ let pms = [
       "kr": "에이팜",
       "zh": "長尾怪手"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Aipom"
   },
   {
@@ -5903,7 +5903,7 @@ let pms = [
       "kr": "겟핸보숭",
       "zh": "雙尾怪手"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Aipom"
   },
   {
