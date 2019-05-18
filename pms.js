@@ -6061,7 +6061,7 @@ let pms = [
       "zh": "銅鏡怪"
     },
     "shiny_released": false,
-    "released_date": '2019/05/12',
+    "released_date": '2019/05/22',
     "family": "Bronzor"
   },
   {
@@ -6075,7 +6075,7 @@ let pms = [
       "zh": "青銅鐘"
     },
     "shiny_released": false,
-    "released_date": '2019/05/12',
+    "released_date": '2019/05/22',
     "family": "Bronzor"
   },
   {
