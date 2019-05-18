@@ -6405,7 +6405,7 @@ let pms = [
       "kr": "자포코일",
       "zh": "自爆磁怪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Magnemite"
   },
   {
@@ -6509,7 +6509,7 @@ let pms = [
       "kr": "리피아",
       "zh": "葉伊布"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Eevee"
   },
   {
@@ -6522,7 +6522,7 @@ let pms = [
       "kr": "리피아",
       "zh": "葉伊布"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "isotope": "_07",
     "family": "Eevee_07"
   },
@@ -6536,7 +6536,7 @@ let pms = [
       "kr": "글레이시아",
       "zh": "冰伊布"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Eevee"
   },
   {
@@ -6549,7 +6549,7 @@ let pms = [
       "kr": "글레이시아",
       "zh": "冰伊布"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "isotope": "_07",
     "family": "Eevee_07"
   },
