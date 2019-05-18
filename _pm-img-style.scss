@@ -1703,8 +1703,14 @@
   }
   &[data-dex="434"] {}
   &[data-dex="435"] {}
-  &[data-dex="436"] {}
-  &[data-dex="437"] {}
+  &[data-dex="436"] {
+    --bgz: 150% 150%;
+    --bgp: -.12em -.25em;
+  }
+  &[data-dex="437"] {
+    --bgz: 110% 110%;
+    --bgp: .1em -.02em;
+  }
   &[data-dex="438"] {
     --bgz: 120% 120%;
     --bgp: .02em -.15em;
