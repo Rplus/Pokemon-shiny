@@ -3700,8 +3700,7 @@ let pms = [
       "kr": "아차모",
       "zh": "火稚雞"
     },
-    "shiny_released": false,
-    "released_date": '2019/05/19',
+    "shiny_released": true,
     "family": "Torchic"
   },
   {
@@ -3714,8 +3713,7 @@ let pms = [
       "kr": "영치코",
       "zh": "力壯雞"
     },
-    "shiny_released": false,
-    "released_date": '2019/05/19',
+    "shiny_released": true,
     "family": "Torchic"
   },
   {
@@ -3728,8 +3726,7 @@ let pms = [
       "kr": "번치코",
       "zh": "火焰雞"
     },
-    "shiny_released": false,
-    "released_date": '2019/05/19',
+    "shiny_released": true,
     "family": "Torchic"
   },
   {
@@ -6060,8 +6057,7 @@ let pms = [
       "kr": "동미러",
       "zh": "銅鏡怪"
     },
-    "shiny_released": false,
-    "released_date": '2019/05/22',
+    "shiny_released": true,
     "family": "Bronzor"
   },
   {
@@ -6074,8 +6070,7 @@ let pms = [
       "kr": "동탁군",
       "zh": "青銅鐘"
     },
-    "shiny_released": false,
-    "released_date": '2019/05/22',
+    "shiny_released": true,
     "family": "Bronzor"
   },
   {
