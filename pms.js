@@ -4117,6 +4117,7 @@ let pms = [
       "zh": "懶人獺"
     },
     "shiny_released": false,
+    "released_date": '2019/06/08',
     "family": "Slakoth"
   },
   {
@@ -4130,6 +4131,7 @@ let pms = [
       "zh": "過動猿"
     },
     "shiny_released": false,
+    "released_date": '2019/06/08',
     "family": "Slakoth"
   },
   {
@@ -4143,6 +4145,7 @@ let pms = [
       "zh": "請假王"
     },
     "shiny_released": false,
+    "released_date": '2019/06/08',
     "family": "Slakoth"
   },
   {
