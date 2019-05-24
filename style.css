@@ -2087,6 +2087,10 @@ button {
   --bgz: 120% 120%;
   --bgp: .1em -.02em; }
 
+.pm-info[data-dex="488"] {
+  --bgz: 120% 120%;
+  --bgp: .03em -.07em; }
+
 .pm-info[data-dex="808"] {
   --bgz: 120% 120%;
   --bgp: -.0em -.07em; }

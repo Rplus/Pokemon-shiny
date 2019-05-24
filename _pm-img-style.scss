@@ -1833,7 +1833,10 @@
   &[data-dex="485"] {}
   &[data-dex="486"] {}
   &[data-dex="487"] {}
-  &[data-dex="488"] {}
+  &[data-dex="488"] {
+    --bgz: 120% 120%;
+    --bgp: .03em -.07em;
+  }
   &[data-dex="489"] {}
   &[data-dex="490"] {}
   &[data-dex="491"] {}
