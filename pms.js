@@ -1457,6 +1457,7 @@ let pms = [
       "zh": "大岩蛇"
     },
     "shiny_released": false,
+    "released_date": '2019-06-04T20:00Z',
     "family": "Onix"
   },
   {
@@ -3086,6 +3087,7 @@ let pms = [
       "zh": "大鋼蛇"
     },
     "shiny_released": false,
+    "released_date": '2019-06-04T20:00Z',
     "family": "Onix"
   },
   {
@@ -4875,6 +4877,7 @@ let pms = [
       "zh": "觸手百合"
     },
     "shiny_released": false,
+    "released_date": '2019-06-04T20:00Z',
     "family": "Lileep"
   },
   {
@@ -4888,6 +4891,7 @@ let pms = [
       "zh": "搖籃百合"
     },
     "shiny_released": false,
+    "released_date": '2019-06-04T20:00Z',
     "family": "Lileep"
   },
   {
@@ -4901,6 +4905,7 @@ let pms = [
       "zh": "太古羽蟲"
     },
     "shiny_released": false,
+    "released_date": '2019-06-04T20:00Z',
     "family": "Anorith"
   },
   {
@@ -4914,6 +4919,7 @@ let pms = [
       "zh": "太古盔甲"
     },
     "shiny_released": false,
+    "released_date": '2019-06-04T20:00Z',
     "family": "Anorith"
   },
   {
