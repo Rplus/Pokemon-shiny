@@ -6769,8 +6769,7 @@ let pms = [
       "kr": "크레세리아",
       "zh": "克雷色利亞"
     },
-    "shiny_released": false,
-    "released_date": '2019-05-27T20:00Z',
+    "shiny_released": true,
     "family": "Cresselia"
   },
   {
