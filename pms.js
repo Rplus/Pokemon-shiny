@@ -5,7 +5,7 @@ let pms = [
       "de": "Bisasam",
       "en": "Bulbasaur",
       "fr": "Bulbizarre",
-      "jp": "フシギダネ",
+      "ja": "フシギダネ",
       "kr": "이상해씨",
       "zh": "妙蛙種子"
     },
@@ -18,7 +18,7 @@ let pms = [
       "de": "Bisaknosp",
       "en": "Ivysaur",
       "fr": "Herbizarre",
-      "jp": "フシギソウ",
+      "ja": "フシギソウ",
       "kr": "이상해풀",
       "zh": "妙蛙草"
     },
@@ -31,7 +31,7 @@ let pms = [
       "de": "Bisaflor",
       "en": "Venusaur",
       "fr": "Florizarre",
-      "jp": "フシギバナ",
+      "ja": "フシギバナ",
       "kr": "이상해꽃",
       "zh": "妙蛙花"
     },
@@ -44,7 +44,7 @@ let pms = [
       "de": "Glumanda",
       "en": "Charmander",
       "fr": "Salamèche",
-      "jp": "ヒトカゲ",
+      "ja": "ヒトカゲ",
       "kr": "파이리",
       "zh": "小火龍"
     },
@@ -57,7 +57,7 @@ let pms = [
       "de": "Glutexo",
       "en": "Charmeleon",
       "fr": "Reptincel",
-      "jp": "リザード",
+      "ja": "リザード",
       "kr": "리자드",
       "zh": "火恐龍"
     },
@@ -70,7 +70,7 @@ let pms = [
       "de": "Glurak",
       "en": "Charizard",
       "fr": "Dracaufeu",
-      "jp": "リザードン",
+      "ja": "リザードン",
       "kr": "리자몽",
       "zh": "噴火龍"
     },
@@ -83,7 +83,7 @@ let pms = [
       "de": "Schiggy",
       "en": "Squirtle",
       "fr": "Carapuce",
-      "jp": "ゼニガメ",
+      "ja": "ゼニガメ",
       "kr": "꼬부기",
       "zh": "傑尼龜"
     },
@@ -96,7 +96,7 @@ let pms = [
       "de": "Schillok",
       "en": "Wartortle",
       "fr": "Carabaffe",
-      "jp": "カメール",
+      "ja": "カメール",
       "kr": "어니부기",
       "zh": "卡咪龜"
     },
@@ -109,7 +109,7 @@ let pms = [
       "de": "Turtok",
       "en": "Blastoise",
       "fr": "Tortank",
-      "jp": "カメックス",
+      "ja": "カメックス",
       "kr": "거북왕",
       "zh": "水箭龜"
     },
@@ -123,7 +123,7 @@ let pms = [
       "de": "Schiggy",
       "en": "Squirtle",
       "fr": "Carapuce",
-      "jp": "ゼニガメ",
+      "ja": "ゼニガメ",
       "kr": "꼬부기",
       "zh": "傑尼龜"
     },
@@ -136,7 +136,7 @@ let pms = [
       "de": "Schillok",
       "en": "Wartortle",
       "fr": "Carabaffe",
-      "jp": "カメール",
+      "ja": "カメール",
       "kr": "어니부기",
       "zh": "卡咪龜"
     },
@@ -150,7 +150,7 @@ let pms = [
       "de": "Turtok",
       "en": "Blastoise",
       "fr": "Tortank",
-      "jp": "カメックス",
+      "ja": "カメックス",
       "kr": "거북왕",
       "zh": "水箭龜"
     },
@@ -164,7 +164,7 @@ let pms = [
       "de": "Raupy",
       "en": "Caterpie",
       "fr": "Chenipan",
-      "jp": "キャタピー",
+      "ja": "キャタピー",
       "kr": "캐터피",
       "zh": "綠毛蟲"
     },
@@ -177,7 +177,7 @@ let pms = [
       "de": "Safcon",
       "en": "Metapod",
       "fr": "Chrysacier",
-      "jp": "トランセル",
+      "ja": "トランセル",
       "kr": "단데기",
       "zh": "鐵甲蛹"
     },
@@ -190,7 +190,7 @@ let pms = [
       "de": "Smettbo",
       "en": "Butterfree",
       "fr": "Papilusion",
-      "jp": "バタフリー",
+      "ja": "バタフリー",
       "kr": "버터플",
       "zh": "巴大蝶"
     },
@@ -203,7 +203,7 @@ let pms = [
       "de": "Hornliu",
       "en": "Weedle",
       "fr": "Aspicot",
-      "jp": "ビードル",
+      "ja": "ビードル",
       "kr": "뿔충이",
       "zh": "獨角蟲"
     },
@@ -216,7 +216,7 @@ let pms = [
       "de": "Kokuna",
       "en": "Kakuna",
       "fr": "Coconfort",
-      "jp": "コクーン",
+      "ja": "コクーン",
       "kr": "딱충이",
       "zh": "鐵殼蛹"
     },
@@ -229,7 +229,7 @@ let pms = [
       "de": "Bibor",
       "en": "Beedrill",
       "fr": "Dardargnan",
-      "jp": "スピアー",
+      "ja": "スピアー",
       "kr": "독침붕",
       "zh": "大針蜂"
     },
@@ -242,7 +242,7 @@ let pms = [
       "de": "Taubsi",
       "en": "Pidgey",
       "fr": "Roucool",
-      "jp": "ポッポ",
+      "ja": "ポッポ",
       "kr": "구구",
       "zh": "波波"
     },
@@ -255,7 +255,7 @@ let pms = [
       "de": "Tauboga",
       "en": "Pidgeotto",
       "fr": "Roucoups",
-      "jp": "ピジョン",
+      "ja": "ピジョン",
       "kr": "피죤",
       "zh": "比比鳥"
     },
@@ -268,7 +268,7 @@ let pms = [
       "de": "Tauboss",
       "en": "Pidgeot",
       "fr": "Roucarnage",
-      "jp": "ピジョット",
+      "ja": "ピジョット",
       "kr": "피죤투",
       "zh": "大比鳥"
     },
@@ -281,7 +281,7 @@ let pms = [
       "de": "Rattfratz",
       "en": "Rattata",
       "fr": "Rattata",
-      "jp": "コラッタ",
+      "ja": "コラッタ",
       "kr": "꼬렛",
       "zh": "小拉達"
     },
@@ -294,7 +294,7 @@ let pms = [
       "de": "Rattikarl",
       "en": "Raticate",
       "fr": "Rattatac",
-      "jp": "ラッタ",
+      "ja": "ラッタ",
       "kr": "레트라",
       "zh": "拉達"
     },
@@ -307,7 +307,7 @@ let pms = [
       "de": "Habitak",
       "en": "Spearow",
       "fr": "Piafabec",
-      "jp": "オニスズメ",
+      "ja": "オニスズメ",
       "kr": "깨비참",
       "zh": "烈雀"
     },
@@ -320,7 +320,7 @@ let pms = [
       "de": "Ibitak",
       "en": "Fearow",
       "fr": "Rapasdepic",
-      "jp": "オニドリル",
+      "ja": "オニドリル",
       "kr": "깨비드릴조",
       "zh": "大嘴雀"
     },
@@ -333,7 +333,7 @@ let pms = [
       "de": "Rettan",
       "en": "Ekans",
       "fr": "Abo",
-      "jp": "アーボ",
+      "ja": "アーボ",
       "kr": "아보",
       "zh": "阿柏蛇"
     },
@@ -346,7 +346,7 @@ let pms = [
       "de": "Arbok",
       "en": "Arbok",
       "fr": "Arbok",
-      "jp": "アーボック",
+      "ja": "アーボック",
       "kr": "아보크",
       "zh": "阿柏怪"
     },
@@ -359,7 +359,7 @@ let pms = [
       "de": "Pikachu",
       "en": "Pikachu",
       "fr": "Pikachu",
-      "jp": "ピカチュウ",
+      "ja": "ピカチュウ",
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
@@ -372,7 +372,7 @@ let pms = [
       "de": "Raichu",
       "en": "Raichu",
       "fr": "Raichu",
-      "jp": "ライチュウ",
+      "ja": "ライチュウ",
       "kr": "라이츄",
       "zh": "雷丘"
     },
@@ -386,7 +386,7 @@ let pms = [
       "de": "Pikachu",
       "en": "Pikachu",
       "fr": "Pikachu",
-      "jp": "ピカチュウ",
+      "ja": "ピカチュウ",
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
@@ -399,7 +399,7 @@ let pms = [
       "de": "Raichu",
       "en": "Raichu",
       "fr": "Raichu",
-      "jp": "ライチュウ",
+      "ja": "ライチュウ",
       "kr": "라이츄",
       "zh": "雷丘"
     },
@@ -414,7 +414,7 @@ let pms = [
       "de": "Pikachu",
       "en": "Pikachu",
       "fr": "Pikachu",
-      "jp": "ピカチュウ",
+      "ja": "ピカチュウ",
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
@@ -428,7 +428,7 @@ let pms = [
       "de": "Raichu",
       "en": "Raichu",
       "fr": "Raichu",
-      "jp": "ライチュウ",
+      "ja": "ライチュウ",
       "kr": "라이츄",
       "zh": "雷丘"
     },
@@ -442,7 +442,7 @@ let pms = [
       "de": "Pikachu",
       "en": "Pikachu",
       "fr": "Pikachu",
-      "jp": "ピカチュウ",
+      "ja": "ピカチュウ",
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
@@ -455,7 +455,7 @@ let pms = [
       "de": "Raichu",
       "en": "Raichu",
       "fr": "Raichu",
-      "jp": "ライチュウ",
+      "ja": "ライチュウ",
       "kr": "라이츄",
       "zh": "雷丘"
     },
@@ -470,7 +470,7 @@ let pms = [
       "de": "Pikachu",
       "en": "Pikachu",
       "fr": "Pikachu",
-      "jp": "ピカチュウ",
+      "ja": "ピカチュウ",
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
@@ -483,7 +483,7 @@ let pms = [
       "de": "Raichu",
       "en": "Raichu",
       "fr": "Raichu",
-      "jp": "ライチュウ",
+      "ja": "ライチュウ",
       "kr": "라이츄",
       "zh": "雷丘"
     },
@@ -498,7 +498,7 @@ let pms = [
       "de": "Pikachu",
       "en": "Pikachu",
       "fr": "Pikachu",
-      "jp": "ピカチュウ",
+      "ja": "ピカチュウ",
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
@@ -512,7 +512,7 @@ let pms = [
       "de": "Raichu",
       "en": "Raichu",
       "fr": "Raichu",
-      "jp": "ライチュウ",
+      "ja": "ライチュウ",
       "kr": "라이츄",
       "zh": "雷丘"
     },
@@ -526,7 +526,7 @@ let pms = [
       "de": "Pikachu",
       "en": "Pikachu",
       "fr": "Pikachu",
-      "jp": "ピカチュウ",
+      "ja": "ピカチュウ",
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
@@ -540,7 +540,7 @@ let pms = [
       "de": "Raichu",
       "en": "Raichu",
       "fr": "Raichu",
-      "jp": "ライチュウ",
+      "ja": "ライチュウ",
       "kr": "라이츄",
       "zh": "雷丘"
     },
@@ -553,7 +553,7 @@ let pms = [
       "de": "Raichu",
       "en": "Raichu",
       "fr": "Raichu",
-      "jp": "ライチュウ",
+      "ja": "ライチュウ",
       "kr": "라이츄",
       "zh": "雷丘"
     },
@@ -567,7 +567,7 @@ let pms = [
       "de": "Sandan",
       "en": "Sandshrew",
       "fr": "Sabelette",
-      "jp": "サンド",
+      "ja": "サンド",
       "kr": "모래두지",
       "zh": "穿山鼠"
     },
@@ -580,7 +580,7 @@ let pms = [
       "de": "Sandamer",
       "en": "Sandslash",
       "fr": "Sablaireau",
-      "jp": "サンドパン",
+      "ja": "サンドパン",
       "kr": "고지",
       "zh": "穿山王"
     },
@@ -593,7 +593,7 @@ let pms = [
       "de": "Nidoran♀",
       "en": "Nidoran♀",
       "fr": "Nidoran♀",
-      "jp": "ニドラン♀",
+      "ja": "ニドラン♀",
       "kr": "니드런♀",
       "zh": "尼多蘭"
     },
@@ -606,7 +606,7 @@ let pms = [
       "de": "Nidorina",
       "en": "Nidorina",
       "fr": "Nidorina",
-      "jp": "ニドリーナ",
+      "ja": "ニドリーナ",
       "kr": "니드리나",
       "zh": "尼多娜"
     },
@@ -619,7 +619,7 @@ let pms = [
       "de": "Nidoqueen",
       "en": "Nidoqueen",
       "fr": "Nidoqueen",
-      "jp": "ニドクイン",
+      "ja": "ニドクイン",
       "kr": "니드퀸",
       "zh": "尼多后"
     },
@@ -632,7 +632,7 @@ let pms = [
       "de": "Nidoran♂",
       "en": "Nidoran♂",
       "fr": "Nidoran♂",
-      "jp": "ニドラン♂",
+      "ja": "ニドラン♂",
       "kr": "니드런♂",
       "zh": "尼多朗"
     },
@@ -645,7 +645,7 @@ let pms = [
       "de": "Nidorino",
       "en": "Nidorino",
       "fr": "Nidorino",
-      "jp": "ニドリーノ",
+      "ja": "ニドリーノ",
       "kr": "니드리노",
       "zh": "尼多力諾"
     },
@@ -658,7 +658,7 @@ let pms = [
       "de": "Nidoking",
       "en": "Nidoking",
       "fr": "Nidoking",
-      "jp": "ニドキング",
+      "ja": "ニドキング",
       "kr": "니드킹",
       "zh": "尼多王"
     },
@@ -671,7 +671,7 @@ let pms = [
       "de": "Piepi",
       "en": "Clefairy",
       "fr": "Mélofée",
-      "jp": "ピッピ",
+      "ja": "ピッピ",
       "kr": "삐삐",
       "zh": "皮皮"
     },
@@ -684,7 +684,7 @@ let pms = [
       "de": "Pixi",
       "en": "Clefable",
       "fr": "Mélodelfe",
-      "jp": "ピクシー",
+      "ja": "ピクシー",
       "kr": "픽시",
       "zh": "皮可西"
     },
@@ -697,7 +697,7 @@ let pms = [
       "de": "Vulpix",
       "en": "Vulpix",
       "fr": "Goupix",
-      "jp": "ロコン",
+      "ja": "ロコン",
       "kr": "식스테일",
       "zh": "六尾"
     },
@@ -710,7 +710,7 @@ let pms = [
       "de": "Vulnona",
       "en": "Ninetales",
       "fr": "Feunard",
-      "jp": "キュウコン",
+      "ja": "キュウコン",
       "kr": "나인테일",
       "zh": "九尾"
     },
@@ -723,7 +723,7 @@ let pms = [
       "de": "Pummeluff",
       "en": "Jigglypuff",
       "fr": "Rondoudou",
-      "jp": "プリン",
+      "ja": "プリン",
       "kr": "푸린",
       "zh": "胖丁"
     },
@@ -736,7 +736,7 @@ let pms = [
       "de": "Knuddeluff",
       "en": "Wigglytuff",
       "fr": "Grodoudou",
-      "jp": "プクリン",
+      "ja": "プクリン",
       "kr": "푸크린",
       "zh": "胖可丁"
     },
@@ -749,7 +749,7 @@ let pms = [
       "de": "Zubat",
       "en": "Zubat",
       "fr": "Nosferapti",
-      "jp": "ズバット",
+      "ja": "ズバット",
       "kr": "주뱃",
       "zh": "超音蝠"
     },
@@ -762,7 +762,7 @@ let pms = [
       "de": "Golbat",
       "en": "Golbat",
       "fr": "Nosferalto",
-      "jp": "ゴルバット",
+      "ja": "ゴルバット",
       "kr": "골뱃",
       "zh": "大嘴蝠"
     },
@@ -775,7 +775,7 @@ let pms = [
       "de": "Myrapla",
       "en": "Oddish",
       "fr": "Mystherbe",
-      "jp": "ナゾノクサ",
+      "ja": "ナゾノクサ",
       "kr": "뚜벅쵸",
       "zh": "走路草"
     },
@@ -788,7 +788,7 @@ let pms = [
       "de": "Duflor",
       "en": "Gloom",
       "fr": "Ortide",
-      "jp": "クサイハナ",
+      "ja": "クサイハナ",
       "kr": "냄새꼬",
       "zh": "臭臭花"
     },
@@ -801,7 +801,7 @@ let pms = [
       "de": "Giflor",
       "en": "Vileplume",
       "fr": "Rafflesia",
-      "jp": "ラフレシア",
+      "ja": "ラフレシア",
       "kr": "라플레시아",
       "zh": "霸王花"
     },
@@ -814,7 +814,7 @@ let pms = [
       "de": "Paras",
       "en": "Paras",
       "fr": "Paras",
-      "jp": "パラス",
+      "ja": "パラス",
       "kr": "파라스",
       "zh": "派拉斯"
     },
@@ -827,7 +827,7 @@ let pms = [
       "de": "Parasek",
       "en": "Parasect",
       "fr": "Parasect",
-      "jp": "パラセクト",
+      "ja": "パラセクト",
       "kr": "파라섹트",
       "zh": "派拉斯特"
     },
@@ -840,7 +840,7 @@ let pms = [
       "de": "Bluzuk",
       "en": "Venonat",
       "fr": "Mimitoss",
-      "jp": "コンパン",
+      "ja": "コンパン",
       "kr": "콘팡",
       "zh": "毛球"
     },
@@ -853,7 +853,7 @@ let pms = [
       "de": "Omot",
       "en": "Venomoth",
       "fr": "Aéromite",
-      "jp": "モルフォン",
+      "ja": "モルフォン",
       "kr": "도나리",
       "zh": "摩魯蛾"
     },
@@ -866,7 +866,7 @@ let pms = [
       "de": "Digda",
       "en": "Diglett",
       "fr": "Taupiqueur",
-      "jp": "ディグダ",
+      "ja": "ディグダ",
       "kr": "디그다",
       "zh": "地鼠"
     },
@@ -879,7 +879,7 @@ let pms = [
       "de": "Digdri",
       "en": "Dugtrio",
       "fr": "Triopikeur",
-      "jp": "ダグトリオ",
+      "ja": "ダグトリオ",
       "kr": "닥트리오",
       "zh": "三地鼠"
     },
@@ -892,7 +892,7 @@ let pms = [
       "de": "Mauzi",
       "en": "Meowth",
       "fr": "Miaouss",
-      "jp": "ニャース",
+      "ja": "ニャース",
       "kr": "나옹",
       "zh": "喵喵"
     },
@@ -905,7 +905,7 @@ let pms = [
       "de": "Snobilikat",
       "en": "Persian",
       "fr": "Persian",
-      "jp": "ペルシアン",
+      "ja": "ペルシアン",
       "kr": "페르시온",
       "zh": "貓老大"
     },
@@ -918,7 +918,7 @@ let pms = [
       "de": "Enton",
       "en": "Psyduck",
       "fr": "Psykokwak",
-      "jp": "コダック",
+      "ja": "コダック",
       "kr": "고라파덕",
       "zh": "可達鴨"
     },
@@ -931,7 +931,7 @@ let pms = [
       "de": "Entoron",
       "en": "Golduck",
       "fr": "Akwakwak",
-      "jp": "ゴルダック",
+      "ja": "ゴルダック",
       "kr": "골덕",
       "zh": "哥達鴨"
     },
@@ -944,7 +944,7 @@ let pms = [
       "de": "Menki",
       "en": "Mankey",
       "fr": "Férosinge",
-      "jp": "マンキー",
+      "ja": "マンキー",
       "kr": "망키",
       "zh": "猴怪"
     },
@@ -957,7 +957,7 @@ let pms = [
       "de": "Rasaff",
       "en": "Primeape",
       "fr": "Colossinge",
-      "jp": "オコリザル",
+      "ja": "オコリザル",
       "kr": "성원숭",
       "zh": "火爆猴"
     },
@@ -970,7 +970,7 @@ let pms = [
       "de": "Fukano",
       "en": "Growlithe",
       "fr": "Caninos",
-      "jp": "ガーディ",
+      "ja": "ガーディ",
       "kr": "가디",
       "zh": "卡蒂狗"
     },
@@ -983,7 +983,7 @@ let pms = [
       "de": "Arkani",
       "en": "Arcanine",
       "fr": "Arcanin",
-      "jp": "ウインディ",
+      "ja": "ウインディ",
       "kr": "윈디",
       "zh": "風速狗"
     },
@@ -996,7 +996,7 @@ let pms = [
       "de": "Quapsel",
       "en": "Poliwag",
       "fr": "Ptitard",
-      "jp": "ニョロモ",
+      "ja": "ニョロモ",
       "kr": "발챙이",
       "zh": "蚊香蝌蚪"
     },
@@ -1009,7 +1009,7 @@ let pms = [
       "de": "Quaputzi",
       "en": "Poliwhirl",
       "fr": "Têtarte",
-      "jp": "ニョロゾ",
+      "ja": "ニョロゾ",
       "kr": "슈륙챙이",
       "zh": "蚊香君"
     },
@@ -1022,7 +1022,7 @@ let pms = [
       "de": "Quappo",
       "en": "Poliwrath",
       "fr": "Tartard",
-      "jp": "ニョロボン",
+      "ja": "ニョロボン",
       "kr": "강챙이",
       "zh": "蚊香泳士"
     },
@@ -1035,7 +1035,7 @@ let pms = [
       "de": "Abra",
       "en": "Abra",
       "fr": "Abra",
-      "jp": "ケーシィ",
+      "ja": "ケーシィ",
       "kr": "캐이시",
       "zh": "凱西"
     },
@@ -1048,7 +1048,7 @@ let pms = [
       "de": "Kadabra",
       "en": "Kadabra",
       "fr": "Kadabra",
-      "jp": "ユンゲラー",
+      "ja": "ユンゲラー",
       "kr": "윤겔라",
       "zh": "勇基拉"
     },
@@ -1061,7 +1061,7 @@ let pms = [
       "de": "Simsala",
       "en": "Alakazam",
       "fr": "Alakazam",
-      "jp": "フーディン",
+      "ja": "フーディン",
       "kr": "후딘",
       "zh": "胡地"
     },
@@ -1074,7 +1074,7 @@ let pms = [
       "de": "Machollo",
       "en": "Machop",
       "fr": "Machoc",
-      "jp": "ワンリキー",
+      "ja": "ワンリキー",
       "kr": "알통몬",
       "zh": "腕力"
     },
@@ -1087,7 +1087,7 @@ let pms = [
       "de": "Maschock",
       "en": "Machoke",
       "fr": "Machopeur",
-      "jp": "ゴーリキー",
+      "ja": "ゴーリキー",
       "kr": "근육몬",
       "zh": "豪力"
     },
@@ -1100,7 +1100,7 @@ let pms = [
       "de": "Machomei",
       "en": "Machamp",
       "fr": "Mackogneur",
-      "jp": "カイリキー",
+      "ja": "カイリキー",
       "kr": "괴력몬",
       "zh": "怪力"
     },
@@ -1113,7 +1113,7 @@ let pms = [
       "de": "Knofensa",
       "en": "Bellsprout",
       "fr": "Chétiflor",
-      "jp": "マダツボミ",
+      "ja": "マダツボミ",
       "kr": "모다피",
       "zh": "喇叭芽"
     },
@@ -1126,7 +1126,7 @@ let pms = [
       "de": "Ultrigaria",
       "en": "Weepinbell",
       "fr": "Boustiflor",
-      "jp": "ウツドン",
+      "ja": "ウツドン",
       "kr": "우츠동",
       "zh": "口呆花"
     },
@@ -1139,7 +1139,7 @@ let pms = [
       "de": "Sarzenia",
       "en": "Victreebel",
       "fr": "Empiflor",
-      "jp": "ウツボット",
+      "ja": "ウツボット",
       "kr": "우츠보트",
       "zh": "大食花"
     },
@@ -1152,7 +1152,7 @@ let pms = [
       "de": "Tentacha",
       "en": "Tentacool",
       "fr": "Tentacool",
-      "jp": "メノクラゲ",
+      "ja": "メノクラゲ",
       "kr": "왕눈해",
       "zh": "瑪瑙水母"
     },
@@ -1165,7 +1165,7 @@ let pms = [
       "de": "Tentoxa",
       "en": "Tentacruel",
       "fr": "Tentacruel",
-      "jp": "ドククラゲ",
+      "ja": "ドククラゲ",
       "kr": "독파리",
       "zh": "毒刺水母"
     },
@@ -1178,7 +1178,7 @@ let pms = [
       "de": "Kleinstein",
       "en": "Geodude",
       "fr": "Racaillou",
-      "jp": "イシツブテ",
+      "ja": "イシツブテ",
       "kr": "꼬마돌",
       "zh": "小拳石"
     },
@@ -1191,7 +1191,7 @@ let pms = [
       "de": "Georok",
       "en": "Graveler",
       "fr": "Gravalanch",
-      "jp": "ゴローン",
+      "ja": "ゴローン",
       "kr": "데구리",
       "zh": "隆隆石"
     },
@@ -1204,7 +1204,7 @@ let pms = [
       "de": "Geowaz",
       "en": "Golem",
       "fr": "Grolem",
-      "jp": "ゴローニャ",
+      "ja": "ゴローニャ",
       "kr": "딱구리",
       "zh": "隆隆岩"
     },
@@ -1217,7 +1217,7 @@ let pms = [
       "de": "Ponita",
       "en": "Ponyta",
       "fr": "Ponyta",
-      "jp": "ポニータ",
+      "ja": "ポニータ",
       "kr": "포니타",
       "zh": "小火馬"
     },
@@ -1230,7 +1230,7 @@ let pms = [
       "de": "Gallopa",
       "en": "Rapidash",
       "fr": "Galopa",
-      "jp": "ギャロップ",
+      "ja": "ギャロップ",
       "kr": "날쌩마",
       "zh": "烈焰馬"
     },
@@ -1243,7 +1243,7 @@ let pms = [
       "de": "Flegmon",
       "en": "Slowpoke",
       "fr": "Ramoloss",
-      "jp": "ヤドン",
+      "ja": "ヤドン",
       "kr": "야돈",
       "zh": "呆呆獸"
     },
@@ -1256,7 +1256,7 @@ let pms = [
       "de": "Lahmus",
       "en": "Slowbro",
       "fr": "Flagadoss",
-      "jp": "ヤドラン",
+      "ja": "ヤドラン",
       "kr": "야도란",
       "zh": "呆殼獸"
     },
@@ -1269,7 +1269,7 @@ let pms = [
       "de": "Magnetilo",
       "en": "Magnemite",
       "fr": "Magnéti",
-      "jp": "コイル",
+      "ja": "コイル",
       "kr": "코일",
       "zh": "小磁怪"
     },
@@ -1282,7 +1282,7 @@ let pms = [
       "de": "Magneton",
       "en": "Magneton",
       "fr": "Magnéton",
-      "jp": "レアコイル",
+      "ja": "レアコイル",
       "kr": "레어코일",
       "zh": "三合一磁怪"
     },
@@ -1295,7 +1295,7 @@ let pms = [
       "de": "Porenta",
       "en": "Farfetch’d",
       "fr": "Canarticho",
-      "jp": "カモネギ",
+      "ja": "カモネギ",
       "kr": "파오리",
       "zh": "大蔥鴨"
     },
@@ -1308,7 +1308,7 @@ let pms = [
       "de": "Dodu",
       "en": "Doduo",
       "fr": "Doduo",
-      "jp": "ドードー",
+      "ja": "ドードー",
       "kr": "두두",
       "zh": "嘟嘟"
     },
@@ -1321,7 +1321,7 @@ let pms = [
       "de": "Dodri",
       "en": "Dodrio",
       "fr": "Dodrio",
-      "jp": "ドードリオ",
+      "ja": "ドードリオ",
       "kr": "두트리오",
       "zh": "嘟嘟利"
     },
@@ -1334,7 +1334,7 @@ let pms = [
       "de": "Jurob",
       "en": "Seel",
       "fr": "Otaria",
-      "jp": "パウワウ",
+      "ja": "パウワウ",
       "kr": "쥬쥬",
       "zh": "小海獅"
     },
@@ -1347,7 +1347,7 @@ let pms = [
       "de": "Jugong",
       "en": "Dewgong",
       "fr": "Lamantine",
-      "jp": "ジュゴン",
+      "ja": "ジュゴン",
       "kr": "쥬레곤",
       "zh": "白海獅"
     },
@@ -1360,7 +1360,7 @@ let pms = [
       "de": "Sleima",
       "en": "Grimer",
       "fr": "Tadmorv",
-      "jp": "ベトベター",
+      "ja": "ベトベター",
       "kr": "질퍽이",
       "zh": "臭泥"
     },
@@ -1373,7 +1373,7 @@ let pms = [
       "de": "Sleimok",
       "en": "Muk",
       "fr": "Grotadmorv",
-      "jp": "ベトベトン",
+      "ja": "ベトベトン",
       "kr": "질뻐기",
       "zh": "臭臭泥"
     },
@@ -1386,7 +1386,7 @@ let pms = [
       "de": "Muschas",
       "en": "Shellder",
       "fr": "Kokiyas",
-      "jp": "シェルダー",
+      "ja": "シェルダー",
       "kr": "셀러",
       "zh": "大舌貝"
     },
@@ -1399,7 +1399,7 @@ let pms = [
       "de": "Austos",
       "en": "Cloyster",
       "fr": "Crustabri",
-      "jp": "パルシェン",
+      "ja": "パルシェン",
       "kr": "파르셀",
       "zh": "刺甲貝"
     },
@@ -1412,7 +1412,7 @@ let pms = [
       "de": "Nebulak",
       "en": "Gastly",
       "fr": "Fantominus",
-      "jp": "ゴース",
+      "ja": "ゴース",
       "kr": "고오스",
       "zh": "鬼斯"
     },
@@ -1426,7 +1426,7 @@ let pms = [
       "de": "Alpollo",
       "en": "Haunter",
       "fr": "Spectrum",
-      "jp": "ゴースト",
+      "ja": "ゴースト",
       "kr": "고우스트",
       "zh": "鬼斯通"
     },
@@ -1439,7 +1439,7 @@ let pms = [
       "de": "Gengar",
       "en": "Gengar",
       "fr": "Ectoplasma",
-      "jp": "ゲンガー",
+      "ja": "ゲンガー",
       "kr": "팬텀",
       "zh": "耿鬼"
     },
@@ -1452,7 +1452,7 @@ let pms = [
       "de": "Onix",
       "en": "Onix",
       "fr": "Onix",
-      "jp": "イワーク",
+      "ja": "イワーク",
       "kr": "롱스톤",
       "zh": "大岩蛇"
     },
@@ -1466,7 +1466,7 @@ let pms = [
       "de": "Traumato",
       "en": "Drowzee",
       "fr": "Soporifik",
-      "jp": "スリープ",
+      "ja": "スリープ",
       "kr": "슬리프",
       "zh": "催眠貘"
     },
@@ -1479,7 +1479,7 @@ let pms = [
       "de": "Hypno",
       "en": "Hypno",
       "fr": "Hypnomade",
-      "jp": "スリーパー",
+      "ja": "スリーパー",
       "kr": "슬리퍼",
       "zh": "引夢貘人"
     },
@@ -1492,7 +1492,7 @@ let pms = [
       "de": "Krabby",
       "en": "Krabby",
       "fr": "Krabby",
-      "jp": "クラブ",
+      "ja": "クラブ",
       "kr": "크랩",
       "zh": "大鉗蟹"
     },
@@ -1505,7 +1505,7 @@ let pms = [
       "de": "Kingler",
       "en": "Kingler",
       "fr": "Krabboss",
-      "jp": "キングラー",
+      "ja": "キングラー",
       "kr": "킹크랩",
       "zh": "巨鉗蟹"
     },
@@ -1518,7 +1518,7 @@ let pms = [
       "de": "Voltobal",
       "en": "Voltorb",
       "fr": "Voltorbe",
-      "jp": "ビリリダマ",
+      "ja": "ビリリダマ",
       "kr": "찌리리공",
       "zh": "霹靂電球"
     },
@@ -1531,7 +1531,7 @@ let pms = [
       "de": "Lektrobal",
       "en": "Electrode",
       "fr": "Électrode",
-      "jp": "マルマイン",
+      "ja": "マルマイン",
       "kr": "붐볼",
       "zh": "頑皮雷彈"
     },
@@ -1544,7 +1544,7 @@ let pms = [
       "de": "Owei",
       "en": "Exeggcute",
       "fr": "Noeunoeuf",
-      "jp": "タマタマ",
+      "ja": "タマタマ",
       "kr": "아라리",
       "zh": "蛋蛋"
     },
@@ -1557,7 +1557,7 @@ let pms = [
       "de": "Kokowei",
       "en": "Exeggutor",
       "fr": "Noadkoko",
-      "jp": "ナッシー",
+      "ja": "ナッシー",
       "kr": "나시",
       "zh": "椰蛋樹"
     },
@@ -1570,7 +1570,7 @@ let pms = [
       "de": "Kokowei",
       "en": "Exeggutor",
       "fr": "Noadkoko",
-      "jp": "ナッシー",
+      "ja": "ナッシー",
       "kr": "나시",
       "zh": "椰蛋樹"
     },
@@ -1584,7 +1584,7 @@ let pms = [
       "de": "Tragosso",
       "en": "Cubone",
       "fr": "Osselait",
-      "jp": "カラカラ",
+      "ja": "カラカラ",
       "kr": "탕구리",
       "zh": "卡拉卡拉"
     },
@@ -1597,7 +1597,7 @@ let pms = [
       "de": "Knogga",
       "en": "Marowak",
       "fr": "Ossatueur",
-      "jp": "ガラガラ",
+      "ja": "ガラガラ",
       "kr": "텅구리",
       "zh": "嘎啦嘎啦"
     },
@@ -1610,7 +1610,7 @@ let pms = [
       "de": "Knogga",
       "en": "Marowak",
       "fr": "Ossatueur",
-      "jp": "ガラガラ",
+      "ja": "ガラガラ",
       "kr": "텅구리",
       "zh": "嘎啦嘎啦"
     },
@@ -1624,7 +1624,7 @@ let pms = [
       "de": "Kicklee",
       "en": "Hitmonlee",
       "fr": "Kicklee",
-      "jp": "サワムラー",
+      "ja": "サワムラー",
       "kr": "시라소몬",
       "zh": "飛腿郎"
     },
@@ -1637,7 +1637,7 @@ let pms = [
       "de": "Nockchan",
       "en": "Hitmonchan",
       "fr": "Tygnon",
-      "jp": "エビワラー",
+      "ja": "エビワラー",
       "kr": "홍수몬",
       "zh": "快拳郎"
     },
@@ -1650,7 +1650,7 @@ let pms = [
       "de": "Schlurp",
       "en": "Lickitung",
       "fr": "Excelangue",
-      "jp": "ベロリンガ",
+      "ja": "ベロリンガ",
       "kr": "내루미",
       "zh": "大舌頭"
     },
@@ -1663,7 +1663,7 @@ let pms = [
       "de": "Smogon",
       "en": "Koffing",
       "fr": "Smogo",
-      "jp": "ドガース",
+      "ja": "ドガース",
       "kr": "또가스",
       "zh": "瓦斯彈"
     },
@@ -1676,7 +1676,7 @@ let pms = [
       "de": "Smogmog",
       "en": "Weezing",
       "fr": "Smogogo",
-      "jp": "マタドガス",
+      "ja": "マタドガス",
       "kr": "또도가스",
       "zh": "雙彈瓦斯"
     },
@@ -1689,7 +1689,7 @@ let pms = [
       "de": "Rihorn",
       "en": "Rhyhorn",
       "fr": "Rhinocorne",
-      "jp": "サイホーン",
+      "ja": "サイホーン",
       "kr": "뿔카노",
       "zh": "獨角犀牛"
     },
@@ -1702,7 +1702,7 @@ let pms = [
       "de": "Rizeros",
       "en": "Rhydon",
       "fr": "Rhinoferos",
-      "jp": "サイドン",
+      "ja": "サイドン",
       "kr": "코뿌리",
       "zh": "鑽角犀獸"
     },
@@ -1715,7 +1715,7 @@ let pms = [
       "de": "Chaneira",
       "en": "Chansey",
       "fr": "Leveinard",
-      "jp": "ラッキー",
+      "ja": "ラッキー",
       "kr": "럭키",
       "zh": "吉利蛋"
     },
@@ -1728,7 +1728,7 @@ let pms = [
       "de": "Tangela",
       "en": "Tangela",
       "fr": "Saquedeneu",
-      "jp": "モンジャラ",
+      "ja": "モンジャラ",
       "kr": "덩쿠리",
       "zh": "蔓藤怪"
     },
@@ -1741,7 +1741,7 @@ let pms = [
       "de": "Kangama",
       "en": "Kangaskhan",
       "fr": "Kangourex",
-      "jp": "ガルーラ",
+      "ja": "ガルーラ",
       "kr": "캥카",
       "zh": "袋獸"
     },
@@ -1754,7 +1754,7 @@ let pms = [
       "de": "Seeper",
       "en": "Horsea",
       "fr": "Hypotrempe",
-      "jp": "タッツー",
+      "ja": "タッツー",
       "kr": "쏘드라",
       "zh": "墨海馬"
     },
@@ -1767,7 +1767,7 @@ let pms = [
       "de": "Seemon",
       "en": "Seadra",
       "fr": "Hypocéan",
-      "jp": "シードラ",
+      "ja": "シードラ",
       "kr": "시드라",
       "zh": "海刺龍"
     },
@@ -1780,7 +1780,7 @@ let pms = [
       "de": "Goldini",
       "en": "Goldeen",
       "fr": "Poissirène",
-      "jp": "トサキント",
+      "ja": "トサキント",
       "kr": "콘치",
       "zh": "角金魚"
     },
@@ -1793,7 +1793,7 @@ let pms = [
       "de": "Golking",
       "en": "Seaking",
       "fr": "Poissoroy",
-      "jp": "アズマオウ",
+      "ja": "アズマオウ",
       "kr": "왕콘치",
       "zh": "金魚王"
     },
@@ -1806,7 +1806,7 @@ let pms = [
       "de": "Sterndu",
       "en": "Staryu",
       "fr": "Stari",
-      "jp": "ヒトデマン",
+      "ja": "ヒトデマン",
       "kr": "별가사리",
       "zh": "海星星"
     },
@@ -1819,7 +1819,7 @@ let pms = [
       "de": "Starmie",
       "en": "Starmie",
       "fr": "Staross",
-      "jp": "スターミー",
+      "ja": "スターミー",
       "kr": "아쿠스타",
       "zh": "寶石海星"
     },
@@ -1832,7 +1832,7 @@ let pms = [
       "de": "Pantimos",
       "en": "Mr. Mime",
       "fr": "M. Mime",
-      "jp": "バリヤード",
+      "ja": "バリヤード",
       "kr": "마임맨",
       "zh": "魔牆人偶"
     },
@@ -1845,7 +1845,7 @@ let pms = [
       "de": "Sichlor",
       "en": "Scyther",
       "fr": "Insécateur",
-      "jp": "ストライク",
+      "ja": "ストライク",
       "kr": "스라크",
       "zh": "飛天螳螂"
     },
@@ -1858,7 +1858,7 @@ let pms = [
       "de": "Rossana",
       "en": "Jynx",
       "fr": "Lippoutou",
-      "jp": "ルージュラ",
+      "ja": "ルージュラ",
       "kr": "루주라",
       "zh": "迷唇姐"
     },
@@ -1871,7 +1871,7 @@ let pms = [
       "de": "Elektek",
       "en": "Electabuzz",
       "fr": "Élektek",
-      "jp": "エレブー",
+      "ja": "エレブー",
       "kr": "에레브",
       "zh": "電擊獸"
     },
@@ -1884,7 +1884,7 @@ let pms = [
       "de": "Magmar",
       "en": "Magmar",
       "fr": "Magmar",
-      "jp": "ブーバー",
+      "ja": "ブーバー",
       "kr": "마그마",
       "zh": "鴨嘴火獸"
     },
@@ -1897,7 +1897,7 @@ let pms = [
       "de": "Pinsir",
       "en": "Pinsir",
       "fr": "Scarabrute",
-      "jp": "カイロス",
+      "ja": "カイロス",
       "kr": "쁘사이저",
       "zh": "凱羅斯"
     },
@@ -1910,7 +1910,7 @@ let pms = [
       "de": "Tauros",
       "en": "Tauros",
       "fr": "Tauros",
-      "jp": "ケンタロス",
+      "ja": "ケンタロス",
       "kr": "켄타로스",
       "zh": "肯泰羅"
     },
@@ -1923,7 +1923,7 @@ let pms = [
       "de": "Karpador",
       "en": "Magikarp",
       "fr": "Magicarpe",
-      "jp": "コイキング",
+      "ja": "コイキング",
       "kr": "잉어킹",
       "zh": "鯉魚王"
     },
@@ -1936,7 +1936,7 @@ let pms = [
       "de": "Garados",
       "en": "Gyarados",
       "fr": "Léviator",
-      "jp": "ギャラドス",
+      "ja": "ギャラドス",
       "kr": "갸라도스",
       "zh": "暴鯉龍"
     },
@@ -1949,7 +1949,7 @@ let pms = [
       "de": "Lapras",
       "en": "Lapras",
       "fr": "Lokhlass",
-      "jp": "ラプラス",
+      "ja": "ラプラス",
       "kr": "라프라스",
       "zh": "拉普拉斯"
     },
@@ -1962,7 +1962,7 @@ let pms = [
       "de": "Ditto",
       "en": "Ditto",
       "fr": "Métamorph",
-      "jp": "メタモン",
+      "ja": "メタモン",
       "kr": "메타몽",
       "zh": "百變怪"
     },
@@ -1975,7 +1975,7 @@ let pms = [
       "de": "Evoli",
       "en": "Eevee",
       "fr": "Évoli",
-      "jp": "イーブイ",
+      "ja": "イーブイ",
       "kr": "이브이",
       "zh": "伊布"
     },
@@ -1988,7 +1988,7 @@ let pms = [
       "de": "Evoli",
       "en": "Eevee",
       "fr": "Évoli",
-      "jp": "イーブイ",
+      "ja": "イーブイ",
       "kr": "이브이",
       "zh": "伊布"
     },
@@ -2002,7 +2002,7 @@ let pms = [
       "de": "Aquana",
       "en": "Vaporeon",
       "fr": "Aquali",
-      "jp": "シャワーズ",
+      "ja": "シャワーズ",
       "kr": "샤미드",
       "zh": "水伊布"
     },
@@ -2015,7 +2015,7 @@ let pms = [
       "de": "Aquana",
       "en": "Vaporeon",
       "fr": "Aquali",
-      "jp": "シャワーズ",
+      "ja": "シャワーズ",
       "kr": "샤미드",
       "zh": "水伊布"
     },
@@ -2029,7 +2029,7 @@ let pms = [
       "de": "Blitza",
       "en": "Jolteon",
       "fr": "Voltali",
-      "jp": "サンダース",
+      "ja": "サンダース",
       "kr": "쥬피썬더",
       "zh": "雷伊布"
     },
@@ -2042,7 +2042,7 @@ let pms = [
       "de": "Blitza",
       "en": "Jolteon",
       "fr": "Voltali",
-      "jp": "サンダース",
+      "ja": "サンダース",
       "kr": "쥬피썬더",
       "zh": "雷伊布"
     },
@@ -2056,7 +2056,7 @@ let pms = [
       "de": "Flamara",
       "en": "Flareon",
       "fr": "Pyroli",
-      "jp": "ブースター",
+      "ja": "ブースター",
       "kr": "부스터",
       "zh": "火伊布"
     },
@@ -2069,7 +2069,7 @@ let pms = [
       "de": "Flamara",
       "en": "Flareon",
       "fr": "Pyroli",
-      "jp": "ブースター",
+      "ja": "ブースター",
       "kr": "부스터",
       "zh": "火伊布"
     },
@@ -2083,7 +2083,7 @@ let pms = [
       "de": "Porygon",
       "en": "Porygon",
       "fr": "Porygon",
-      "jp": "ポリゴン",
+      "ja": "ポリゴン",
       "kr": "폴리곤",
       "zh": "多邊獸"
     },
@@ -2096,7 +2096,7 @@ let pms = [
       "de": "Amonitas",
       "en": "Omanyte",
       "fr": "Amonita",
-      "jp": "オムナイト",
+      "ja": "オムナイト",
       "kr": "암나이트",
       "zh": "菊石獸"
     },
@@ -2109,7 +2109,7 @@ let pms = [
       "de": "Amoroso",
       "en": "Omastar",
       "fr": "Amonistar",
-      "jp": "オムスター",
+      "ja": "オムスター",
       "kr": "암스타",
       "zh": "多刺菊石獸"
     },
@@ -2122,7 +2122,7 @@ let pms = [
       "de": "Kabuto",
       "en": "Kabuto",
       "fr": "Kabuto",
-      "jp": "カブト",
+      "ja": "カブト",
       "kr": "투구",
       "zh": "化石盔"
     },
@@ -2135,7 +2135,7 @@ let pms = [
       "de": "Kabutops",
       "en": "Kabutops",
       "fr": "Kabutops",
-      "jp": "カブトプス",
+      "ja": "カブトプス",
       "kr": "투구푸스",
       "zh": "鐮刀盔"
     },
@@ -2148,7 +2148,7 @@ let pms = [
       "de": "Aerodactyl",
       "en": "Aerodactyl",
       "fr": "Ptéra",
-      "jp": "プテラ",
+      "ja": "プテラ",
       "kr": "프테라",
       "zh": "化石翼龍"
     },
@@ -2161,7 +2161,7 @@ let pms = [
       "de": "Relaxo",
       "en": "Snorlax",
       "fr": "Ronflex",
-      "jp": "カビゴン",
+      "ja": "カビゴン",
       "kr": "잠만보",
       "zh": "卡比獸"
     },
@@ -2174,7 +2174,7 @@ let pms = [
       "de": "Arktos",
       "en": "Articuno",
       "fr": "Artikodin",
-      "jp": "フリーザー",
+      "ja": "フリーザー",
       "kr": "프리져",
       "zh": "急凍鳥"
     },
@@ -2187,7 +2187,7 @@ let pms = [
       "de": "Zapdos",
       "en": "Zapdos",
       "fr": "Électhor",
-      "jp": "サンダー",
+      "ja": "サンダー",
       "kr": "썬더",
       "zh": "閃電鳥"
     },
@@ -2200,7 +2200,7 @@ let pms = [
       "de": "Lavados",
       "en": "Moltres",
       "fr": "Sulfura",
-      "jp": "ファイヤー",
+      "ja": "ファイヤー",
       "kr": "파이어",
       "zh": "火焰鳥"
     },
@@ -2213,7 +2213,7 @@ let pms = [
       "de": "Dratini",
       "en": "Dratini",
       "fr": "Minidraco",
-      "jp": "ミニリュウ",
+      "ja": "ミニリュウ",
       "kr": "미뇽",
       "zh": "迷你龍"
     },
@@ -2226,7 +2226,7 @@ let pms = [
       "de": "Dragonir",
       "en": "Dragonair",
       "fr": "Draco",
-      "jp": "ハクリュー",
+      "ja": "ハクリュー",
       "kr": "신뇽",
       "zh": "哈克龍"
     },
@@ -2239,7 +2239,7 @@ let pms = [
       "de": "Dragoran",
       "en": "Dragonite",
       "fr": "Dracolosse",
-      "jp": "カイリュー",
+      "ja": "カイリュー",
       "kr": "망나뇽",
       "zh": "快龍"
     },
@@ -2252,7 +2252,7 @@ let pms = [
       "de": "Mewtu",
       "en": "Mewtwo",
       "fr": "Mewtwo",
-      "jp": "ミュウツー",
+      "ja": "ミュウツー",
       "kr": "뮤츠",
       "zh": "超夢"
     },
@@ -2265,7 +2265,7 @@ let pms = [
       "de": "Mew",
       "en": "Mew",
       "fr": "Mew",
-      "jp": "ミュウ",
+      "ja": "ミュウ",
       "kr": "뮤",
       "zh": "夢幻"
     },
@@ -2278,7 +2278,7 @@ let pms = [
       "de": "Endivie",
       "en": "Chikorita",
       "fr": "Germignon",
-      "jp": "チコリータ",
+      "ja": "チコリータ",
       "kr": "치코리타",
       "zh": "菊草葉"
     },
@@ -2291,7 +2291,7 @@ let pms = [
       "de": "Lorblatt",
       "en": "Bayleef",
       "fr": "Macronium",
-      "jp": "ベイリーフ",
+      "ja": "ベイリーフ",
       "kr": "베이리프",
       "zh": "月桂葉"
     },
@@ -2304,7 +2304,7 @@ let pms = [
       "de": "Meganie",
       "en": "Meganium",
       "fr": "Méganium",
-      "jp": "メガニウム",
+      "ja": "メガニウム",
       "kr": "메가니움",
       "zh": "大竺葵"
     },
@@ -2317,7 +2317,7 @@ let pms = [
       "de": "Feurigel",
       "en": "Cyndaquil",
       "fr": "Héricendre",
-      "jp": "ヒノアラシ",
+      "ja": "ヒノアラシ",
       "kr": "브케인",
       "zh": "火球鼠"
     },
@@ -2330,7 +2330,7 @@ let pms = [
       "de": "Igelavar",
       "en": "Quilava",
       "fr": "Feurisson",
-      "jp": "マグマラシ",
+      "ja": "マグマラシ",
       "kr": "마그케인",
       "zh": "火岩鼠"
     },
@@ -2343,7 +2343,7 @@ let pms = [
       "de": "Tornupto",
       "en": "Typhlosion",
       "fr": "Typhlosion",
-      "jp": "バクフーン",
+      "ja": "バクフーン",
       "kr": "블레이범",
       "zh": "火爆獸"
     },
@@ -2356,7 +2356,7 @@ let pms = [
       "de": "Karnimani",
       "en": "Totodile",
       "fr": "Kaiminus",
-      "jp": "ワニノコ",
+      "ja": "ワニノコ",
       "kr": "리아코",
       "zh": "小鋸鱷"
     },
@@ -2369,7 +2369,7 @@ let pms = [
       "de": "Tyracroc",
       "en": "Croconaw",
       "fr": "Crocrodil",
-      "jp": "アリゲイツ",
+      "ja": "アリゲイツ",
       "kr": "엘리게이",
       "zh": "藍鱷"
     },
@@ -2382,7 +2382,7 @@ let pms = [
       "de": "Impergator",
       "en": "Feraligatr",
       "fr": "Aligatueur",
-      "jp": "オーダイル",
+      "ja": "オーダイル",
       "kr": "장크로다일",
       "zh": "大力鱷"
     },
@@ -2395,7 +2395,7 @@ let pms = [
       "de": "Wiesor",
       "en": "Sentret",
       "fr": "Fouinette",
-      "jp": "オタチ",
+      "ja": "オタチ",
       "kr": "꼬리선",
       "zh": "尾立"
     },
@@ -2408,7 +2408,7 @@ let pms = [
       "de": "Wiesenior",
       "en": "Furret",
       "fr": "Fouinar",
-      "jp": "オオタチ",
+      "ja": "オオタチ",
       "kr": "다꼬리",
       "zh": "大尾立"
     },
@@ -2421,7 +2421,7 @@ let pms = [
       "de": "Hoothoot",
       "en": "Hoothoot",
       "fr": "Hoothoot",
-      "jp": "ホーホー",
+      "ja": "ホーホー",
       "kr": "부우부",
       "zh": "咕咕"
     },
@@ -2434,7 +2434,7 @@ let pms = [
       "de": "Noctuh",
       "en": "Noctowl",
       "fr": "Noarfang",
-      "jp": "ヨルノズク",
+      "ja": "ヨルノズク",
       "kr": "야부엉",
       "zh": "貓頭夜鷹"
     },
@@ -2447,7 +2447,7 @@ let pms = [
       "de": "Ledyba",
       "en": "Ledyba",
       "fr": "Coxy",
-      "jp": "レディバ",
+      "ja": "レディバ",
       "kr": "레디바",
       "zh": "芭瓢蟲"
     },
@@ -2460,7 +2460,7 @@ let pms = [
       "de": "Ledian",
       "en": "Ledian",
       "fr": "Coxyclaque",
-      "jp": "レディアン",
+      "ja": "レディアン",
       "kr": "레디안",
       "zh": "安瓢蟲"
     },
@@ -2473,7 +2473,7 @@ let pms = [
       "de": "Webarak",
       "en": "Spinarak",
       "fr": "Mimigal",
-      "jp": "イトマル",
+      "ja": "イトマル",
       "kr": "페이검",
       "zh": "圓絲蛛"
     },
@@ -2486,7 +2486,7 @@ let pms = [
       "de": "Ariados",
       "en": "Ariados",
       "fr": "Migalos",
-      "jp": "アリアドス",
+      "ja": "アリアドス",
       "kr": "아리아도스",
       "zh": "阿利多斯"
     },
@@ -2499,7 +2499,7 @@ let pms = [
       "de": "Iksbat",
       "en": "Crobat",
       "fr": "Nostenfer",
-      "jp": "クロバット",
+      "ja": "クロバット",
       "kr": "크로뱃",
       "zh": "叉字蝠"
     },
@@ -2512,7 +2512,7 @@ let pms = [
       "de": "Lampi",
       "en": "Chinchou",
       "fr": "Loupio",
-      "jp": "チョンチー",
+      "ja": "チョンチー",
       "kr": "초라기",
       "zh": "燈籠魚"
     },
@@ -2525,7 +2525,7 @@ let pms = [
       "de": "Lanturn",
       "en": "Lanturn",
       "fr": "Lanturn",
-      "jp": "ランターン",
+      "ja": "ランターン",
       "kr": "랜턴",
       "zh": "電燈怪"
     },
@@ -2538,7 +2538,7 @@ let pms = [
       "de": "Pichu",
       "en": "Pichu",
       "fr": "Pichu",
-      "jp": "ピチュー",
+      "ja": "ピチュー",
       "kr": "피츄",
       "zh": "皮丘"
     },
@@ -2552,7 +2552,7 @@ let pms = [
       "de": "Pichu",
       "en": "Pichu",
       "fr": "Pichu",
-      "jp": "ピチュー",
+      "ja": "ピチュー",
       "kr": "피츄",
       "zh": "皮丘"
     },
@@ -2567,7 +2567,7 @@ let pms = [
       "de": "Pichu",
       "en": "Pichu",
       "fr": "Pichu",
-      "jp": "ピチュー",
+      "ja": "ピチュー",
       "kr": "피츄",
       "zh": "皮丘"
     },
@@ -2582,7 +2582,7 @@ let pms = [
       "de": "Pichu",
       "en": "Pichu",
       "fr": "Pichu",
-      "jp": "ピチュー",
+      "ja": "ピチュー",
       "kr": "피츄",
       "zh": "皮丘"
     },
@@ -2597,7 +2597,7 @@ let pms = [
       "de": "Pii",
       "en": "Cleffa",
       "fr": "Mélo",
-      "jp": "ピィ",
+      "ja": "ピィ",
       "kr": "삐",
       "zh": "皮寶寶"
     },
@@ -2611,7 +2611,7 @@ let pms = [
       "de": "Fluffeluff",
       "en": "Igglybuff",
       "fr": "Toudoudou",
-      "jp": "ププリン",
+      "ja": "ププリン",
       "kr": "푸푸린",
       "zh": "寶寶丁"
     },
@@ -2625,7 +2625,7 @@ let pms = [
       "de": "Togepi",
       "en": "Togepi",
       "fr": "Togepi",
-      "jp": "トゲピー",
+      "ja": "トゲピー",
       "kr": "토게피",
       "zh": "波克比"
     },
@@ -2638,7 +2638,7 @@ let pms = [
       "de": "Togetic",
       "en": "Togetic",
       "fr": "Togetic",
-      "jp": "トゲチック",
+      "ja": "トゲチック",
       "kr": "토게틱",
       "zh": "波克基古"
     },
@@ -2651,7 +2651,7 @@ let pms = [
       "de": "Natu",
       "en": "Natu",
       "fr": "Natu",
-      "jp": "ネイティ",
+      "ja": "ネイティ",
       "kr": "네이티",
       "zh": "天然雀"
     },
@@ -2664,7 +2664,7 @@ let pms = [
       "de": "Xatu",
       "en": "Xatu",
       "fr": "Xatu",
-      "jp": "ネイティオ",
+      "ja": "ネイティオ",
       "kr": "네이티오",
       "zh": "天然鳥"
     },
@@ -2677,7 +2677,7 @@ let pms = [
       "de": "Voltilamm",
       "en": "Mareep",
       "fr": "Wattouat",
-      "jp": "メリープ",
+      "ja": "メリープ",
       "kr": "메리프",
       "zh": "咩利羊"
     },
@@ -2690,7 +2690,7 @@ let pms = [
       "de": "Waaty",
       "en": "Flaaffy",
       "fr": "Lainergie",
-      "jp": "モココ",
+      "ja": "モココ",
       "kr": "보송송",
       "zh": "茸茸羊"
     },
@@ -2703,7 +2703,7 @@ let pms = [
       "de": "Ampharos",
       "en": "Ampharos",
       "fr": "Pharamp",
-      "jp": "デンリュウ",
+      "ja": "デンリュウ",
       "kr": "전룡",
       "zh": "電龍"
     },
@@ -2716,7 +2716,7 @@ let pms = [
       "de": "Blubella",
       "en": "Bellossom",
       "fr": "Joliflor",
-      "jp": "キレイハナ",
+      "ja": "キレイハナ",
       "kr": "아르코",
       "zh": "美麗花"
     },
@@ -2729,7 +2729,7 @@ let pms = [
       "de": "Marill",
       "en": "Marill",
       "fr": "Marill",
-      "jp": "マリル",
+      "ja": "マリル",
       "kr": "마릴",
       "zh": "瑪力露"
     },
@@ -2742,7 +2742,7 @@ let pms = [
       "de": "Azumarill",
       "en": "Azumarill",
       "fr": "Azumarill",
-      "jp": "マリルリ",
+      "ja": "マリルリ",
       "kr": "마릴리",
       "zh": "瑪力露麗"
     },
@@ -2755,7 +2755,7 @@ let pms = [
       "de": "Mogelbaum",
       "en": "Sudowoodo",
       "fr": "Simularbre",
-      "jp": "ウソッキー",
+      "ja": "ウソッキー",
       "kr": "꼬지모",
       "zh": "樹才怪"
     },
@@ -2768,7 +2768,7 @@ let pms = [
       "de": "Quaxo",
       "en": "Politoed",
       "fr": "Tarpaud",
-      "jp": "ニョロトノ",
+      "ja": "ニョロトノ",
       "kr": "왕구리",
       "zh": "蚊香蛙皇"
     },
@@ -2781,7 +2781,7 @@ let pms = [
       "de": "Hoppspross",
       "en": "Hoppip",
       "fr": "Granivol",
-      "jp": "ハネッコ",
+      "ja": "ハネッコ",
       "kr": "통통코",
       "zh": "毽子草"
     },
@@ -2794,7 +2794,7 @@ let pms = [
       "de": "Hubelupf",
       "en": "Skiploom",
       "fr": "Floravol",
-      "jp": "ポポッコ",
+      "ja": "ポポッコ",
       "kr": "두코",
       "zh": "毽子花"
     },
@@ -2807,7 +2807,7 @@ let pms = [
       "de": "Papungha",
       "en": "Jumpluff",
       "fr": "Cotovol",
-      "jp": "ワタッコ",
+      "ja": "ワタッコ",
       "kr": "솜솜코",
       "zh": "毽子棉"
     },
@@ -2820,7 +2820,7 @@ let pms = [
       "de": "Griffel",
       "en": "Aipom",
       "fr": "Capumain",
-      "jp": "エイパム",
+      "ja": "エイパム",
       "kr": "에이팜",
       "zh": "長尾怪手"
     },
@@ -2833,7 +2833,7 @@ let pms = [
       "de": "Sonnkern",
       "en": "Sunkern",
       "fr": "Tournegrin",
-      "jp": "ヒマナッツ",
+      "ja": "ヒマナッツ",
       "kr": "해너츠",
       "zh": "向日種子"
     },
@@ -2846,7 +2846,7 @@ let pms = [
       "de": "Sonnflora",
       "en": "Sunflora",
       "fr": "Héliatronc",
-      "jp": "キマワリ",
+      "ja": "キマワリ",
       "kr": "해루미",
       "zh": "向日花怪"
     },
@@ -2859,7 +2859,7 @@ let pms = [
       "de": "Yanma",
       "en": "Yanma",
       "fr": "Yanma",
-      "jp": "ヤンヤンマ",
+      "ja": "ヤンヤンマ",
       "kr": "왕자리",
       "zh": "蜻蜻蜓"
     },
@@ -2872,7 +2872,7 @@ let pms = [
       "de": "Felino",
       "en": "Wooper",
       "fr": "Axoloto",
-      "jp": "ウパー",
+      "ja": "ウパー",
       "kr": "우파",
       "zh": "烏波"
     },
@@ -2885,7 +2885,7 @@ let pms = [
       "de": "Morlord",
       "en": "Quagsire",
       "fr": "Maraiste",
-      "jp": "ヌオー",
+      "ja": "ヌオー",
       "kr": "누오",
       "zh": "沼王"
     },
@@ -2898,7 +2898,7 @@ let pms = [
       "de": "Psiana",
       "en": "Espeon",
       "fr": "Mentali",
-      "jp": "エーフィ",
+      "ja": "エーフィ",
       "kr": "에브이",
       "zh": "太陽伊布"
     },
@@ -2911,7 +2911,7 @@ let pms = [
       "de": "Psiana",
       "en": "Espeon",
       "fr": "Mentali",
-      "jp": "エーフィ",
+      "ja": "エーフィ",
       "kr": "에브이",
       "zh": "太陽伊布"
     },
@@ -2925,7 +2925,7 @@ let pms = [
       "de": "Nachtara",
       "en": "Umbreon",
       "fr": "Noctali",
-      "jp": "ブラッキー",
+      "ja": "ブラッキー",
       "kr": "블래키",
       "zh": "月亮伊布"
     },
@@ -2938,7 +2938,7 @@ let pms = [
       "de": "Nachtara",
       "en": "Umbreon",
       "fr": "Noctali",
-      "jp": "ブラッキー",
+      "ja": "ブラッキー",
       "kr": "블래키",
       "zh": "月亮伊布"
     },
@@ -2952,7 +2952,7 @@ let pms = [
       "de": "Kramurx",
       "en": "Murkrow",
       "fr": "Cornèbre",
-      "jp": "ヤミカラス",
+      "ja": "ヤミカラス",
       "kr": "니로우",
       "zh": "黑暗鴉"
     },
@@ -2965,7 +2965,7 @@ let pms = [
       "de": "Laschoking",
       "en": "Slowking",
       "fr": "Roigada",
-      "jp": "ヤドキング",
+      "ja": "ヤドキング",
       "kr": "야도킹",
       "zh": "呆呆王"
     },
@@ -2978,7 +2978,7 @@ let pms = [
       "de": "Traunfugil",
       "en": "Misdreavus",
       "fr": "Feuforêve",
-      "jp": "ムウマ",
+      "ja": "ムウマ",
       "kr": "무우마",
       "zh": "夢妖"
     },
@@ -2991,7 +2991,7 @@ let pms = [
       "de": "Icognito",
       "en": "Unown",
       "fr": "Zarbi",
-      "jp": "アンノーン",
+      "ja": "アンノーン",
       "kr": "안농",
       "zh": "未知圖騰"
     },
@@ -3004,7 +3004,7 @@ let pms = [
       "de": "Woingenau",
       "en": "Wobbuffet",
       "fr": "Qulbutoké",
-      "jp": "ソーナンス",
+      "ja": "ソーナンス",
       "kr": "마자용",
       "zh": "果然翁"
     },
@@ -3017,7 +3017,7 @@ let pms = [
       "de": "Girafarig",
       "en": "Girafarig",
       "fr": "Girafarig",
-      "jp": "キリンリキ",
+      "ja": "キリンリキ",
       "kr": "키링키",
       "zh": "麒麟奇"
     },
@@ -3030,7 +3030,7 @@ let pms = [
       "de": "Tannza",
       "en": "Pineco",
       "fr": "Pomdepik",
-      "jp": "クヌギダマ",
+      "ja": "クヌギダマ",
       "kr": "피콘",
       "zh": "榛果球"
     },
@@ -3043,7 +3043,7 @@ let pms = [
       "de": "Forstellka",
       "en": "Forretress",
       "fr": "Foretress",
-      "jp": "フォレトス",
+      "ja": "フォレトス",
       "kr": "쏘콘",
       "zh": "佛烈托斯"
     },
@@ -3056,7 +3056,7 @@ let pms = [
       "de": "Dummisel",
       "en": "Dunsparce",
       "fr": "Insolourdo",
-      "jp": "ノコッチ",
+      "ja": "ノコッチ",
       "kr": "노고치",
       "zh": "土龍弟弟"
     },
@@ -3069,7 +3069,7 @@ let pms = [
       "de": "Skorgla",
       "en": "Gligar",
       "fr": "Scorplane",
-      "jp": "グライガー",
+      "ja": "グライガー",
       "kr": "글라이거",
       "zh": "天蠍"
     },
@@ -3082,7 +3082,7 @@ let pms = [
       "de": "Stahlos",
       "en": "Steelix",
       "fr": "Steelix",
-      "jp": "ハガネール",
+      "ja": "ハガネール",
       "kr": "강철톤",
       "zh": "大鋼蛇"
     },
@@ -3096,7 +3096,7 @@ let pms = [
       "de": "Snubbull",
       "en": "Snubbull",
       "fr": "Snubbull",
-      "jp": "ブルー",
+      "ja": "ブルー",
       "kr": "블루",
       "zh": "布魯"
     },
@@ -3109,7 +3109,7 @@ let pms = [
       "de": "Granbull",
       "en": "Granbull",
       "fr": "Granbull",
-      "jp": "グランブル",
+      "ja": "グランブル",
       "kr": "그랑블루",
       "zh": "布魯皇"
     },
@@ -3122,7 +3122,7 @@ let pms = [
       "de": "Baldorfish",
       "en": "Qwilfish",
       "fr": "Qwilfish",
-      "jp": "ハリーセン",
+      "ja": "ハリーセン",
       "kr": "침바루",
       "zh": "千針魚"
     },
@@ -3135,7 +3135,7 @@ let pms = [
       "de": "Scherox",
       "en": "Scizor",
       "fr": "Cizayox",
-      "jp": "ハッサム",
+      "ja": "ハッサム",
       "kr": "핫삼",
       "zh": "巨鉗螳螂"
     },
@@ -3148,7 +3148,7 @@ let pms = [
       "de": "Pottrott",
       "en": "Shuckle",
       "fr": "Caratroc",
-      "jp": "ツボツボ",
+      "ja": "ツボツボ",
       "kr": "단단지",
       "zh": "壺壺"
     },
@@ -3161,7 +3161,7 @@ let pms = [
       "de": "Skaraborn",
       "en": "Heracross",
       "fr": "Scarhino",
-      "jp": "ヘラクロス",
+      "ja": "ヘラクロス",
       "kr": "헤라크로스",
       "zh": "赫拉克羅斯"
     },
@@ -3174,7 +3174,7 @@ let pms = [
       "de": "Sniebel",
       "en": "Sneasel",
       "fr": "Farfuret",
-      "jp": "ニューラ",
+      "ja": "ニューラ",
       "kr": "포푸니",
       "zh": "狃拉"
     },
@@ -3187,7 +3187,7 @@ let pms = [
       "de": "Teddiursa",
       "en": "Teddiursa",
       "fr": "Teddiursa",
-      "jp": "ヒメグマ",
+      "ja": "ヒメグマ",
       "kr": "깜지곰",
       "zh": "熊寶寶"
     },
@@ -3200,7 +3200,7 @@ let pms = [
       "de": "Ursaring",
       "en": "Ursaring",
       "fr": "Ursaring",
-      "jp": "リングマ",
+      "ja": "リングマ",
       "kr": "링곰",
       "zh": "圈圈熊"
     },
@@ -3213,7 +3213,7 @@ let pms = [
       "de": "Schneckmag",
       "en": "Slugma",
       "fr": "Limagma",
-      "jp": "マグマッグ",
+      "ja": "マグマッグ",
       "kr": "마그마그",
       "zh": "熔岩蟲"
     },
@@ -3226,7 +3226,7 @@ let pms = [
       "de": "Magcargo",
       "en": "Magcargo",
       "fr": "Volcaropod",
-      "jp": "マグカルゴ",
+      "ja": "マグカルゴ",
       "kr": "마그카르고",
       "zh": "熔岩蝸牛"
     },
@@ -3239,7 +3239,7 @@ let pms = [
       "de": "Quiekel",
       "en": "Swinub",
       "fr": "Marcacrin",
-      "jp": "ウリムー",
+      "ja": "ウリムー",
       "kr": "꾸꾸리",
       "zh": "小山豬"
     },
@@ -3252,7 +3252,7 @@ let pms = [
       "de": "Keifel",
       "en": "Piloswine",
       "fr": "Cochignon",
-      "jp": "イノムー",
+      "ja": "イノムー",
       "kr": "메꾸리",
       "zh": "長毛豬"
     },
@@ -3265,7 +3265,7 @@ let pms = [
       "de": "Corasonn",
       "en": "Corsola",
       "fr": "Corayon",
-      "jp": "サニーゴ",
+      "ja": "サニーゴ",
       "kr": "코산호",
       "zh": "太陽珊瑚"
     },
@@ -3278,7 +3278,7 @@ let pms = [
       "de": "Remoraid",
       "en": "Remoraid",
       "fr": "Rémoraid",
-      "jp": "テッポウオ",
+      "ja": "テッポウオ",
       "kr": "총어",
       "zh": "鐵炮魚"
     },
@@ -3291,7 +3291,7 @@ let pms = [
       "de": "Octillery",
       "en": "Octillery",
       "fr": "Octillery",
-      "jp": "オクタン",
+      "ja": "オクタン",
       "kr": "대포무노",
       "zh": "章魚桶"
     },
@@ -3304,7 +3304,7 @@ let pms = [
       "de": "Botogel",
       "en": "Delibird",
       "fr": "Cadoizo",
-      "jp": "デリバード",
+      "ja": "デリバード",
       "kr": "딜리버드",
       "zh": "信使鳥"
     },
@@ -3317,7 +3317,7 @@ let pms = [
       "de": "Mantax",
       "en": "Mantine",
       "fr": "Démanta",
-      "jp": "マンタイン",
+      "ja": "マンタイン",
       "kr": "만타인",
       "zh": "巨翅飛魚"
     },
@@ -3330,7 +3330,7 @@ let pms = [
       "de": "Panzaeron",
       "en": "Skarmory",
       "fr": "Airmure",
-      "jp": "エアームド",
+      "ja": "エアームド",
       "kr": "무장조",
       "zh": "盔甲鳥"
     },
@@ -3343,7 +3343,7 @@ let pms = [
       "de": "Hunduster",
       "en": "Houndour",
       "fr": "Malosse",
-      "jp": "デルビル",
+      "ja": "デルビル",
       "kr": "델빌",
       "zh": "戴魯比"
     },
@@ -3356,7 +3356,7 @@ let pms = [
       "de": "Hundemon",
       "en": "Houndoom",
       "fr": "Démolosse",
-      "jp": "ヘルガー",
+      "ja": "ヘルガー",
       "kr": "헬가",
       "zh": "黑魯加"
     },
@@ -3369,7 +3369,7 @@ let pms = [
       "de": "Seedraking",
       "en": "Kingdra",
       "fr": "Hyporoi",
-      "jp": "キングドラ",
+      "ja": "キングドラ",
       "kr": "킹드라",
       "zh": "刺龍王"
     },
@@ -3382,7 +3382,7 @@ let pms = [
       "de": "Phanpy",
       "en": "Phanpy",
       "fr": "Phanpy",
-      "jp": "ゴマゾウ",
+      "ja": "ゴマゾウ",
       "kr": "코코리",
       "zh": "小小象"
     },
@@ -3395,7 +3395,7 @@ let pms = [
       "de": "Donphan",
       "en": "Donphan",
       "fr": "Donphan",
-      "jp": "ドンファン",
+      "ja": "ドンファン",
       "kr": "코리갑",
       "zh": "頓甲"
     },
@@ -3408,7 +3408,7 @@ let pms = [
       "de": "Porygon2",
       "en": "Porygon2",
       "fr": "Porygon2",
-      "jp": "ポリゴン２",
+      "ja": "ポリゴン２",
       "kr": "폴리곤2",
       "zh": "多邊獸Ⅱ"
     },
@@ -3421,7 +3421,7 @@ let pms = [
       "de": "Damhirplex",
       "en": "Stantler",
       "fr": "Cerfrousse",
-      "jp": "オドシシ",
+      "ja": "オドシシ",
       "kr": "노라키",
       "zh": "驚角鹿"
     },
@@ -3434,7 +3434,7 @@ let pms = [
       "de": "Farbeagle",
       "en": "Smeargle",
       "fr": "Queulorior",
-      "jp": "ドーブル",
+      "ja": "ドーブル",
       "kr": "루브도",
       "zh": "圖圖犬"
     },
@@ -3447,7 +3447,7 @@ let pms = [
       "de": "Rabauz",
       "en": "Tyrogue",
       "fr": "Debugant",
-      "jp": "バルキー",
+      "ja": "バルキー",
       "kr": "배루키",
       "zh": "無畏小子"
     },
@@ -3461,7 +3461,7 @@ let pms = [
       "de": "Kapoera",
       "en": "Hitmontop",
       "fr": "Kapoera",
-      "jp": "カポエラー",
+      "ja": "カポエラー",
       "kr": "카포에라",
       "zh": "戰舞郎"
     },
@@ -3474,7 +3474,7 @@ let pms = [
       "de": "Kussilla",
       "en": "Smoochum",
       "fr": "Lippouti",
-      "jp": "ムチュール",
+      "ja": "ムチュール",
       "kr": "뽀뽀라",
       "zh": "迷唇娃"
     },
@@ -3488,7 +3488,7 @@ let pms = [
       "de": "Elekid",
       "en": "Elekid",
       "fr": "Élekid",
-      "jp": "エレキッド",
+      "ja": "エレキッド",
       "kr": "에레키드",
       "zh": "電擊怪"
     },
@@ -3502,7 +3502,7 @@ let pms = [
       "de": "Magby",
       "en": "Magby",
       "fr": "Magby",
-      "jp": "ブビィ",
+      "ja": "ブビィ",
       "kr": "마그비",
       "zh": "鴨嘴寶寶"
     },
@@ -3516,7 +3516,7 @@ let pms = [
       "de": "Miltank",
       "en": "Miltank",
       "fr": "Écrémeuh",
-      "jp": "ミルタンク",
+      "ja": "ミルタンク",
       "kr": "밀탱크",
       "zh": "大奶罐"
     },
@@ -3529,7 +3529,7 @@ let pms = [
       "de": "Heiteira",
       "en": "Blissey",
       "fr": "Leuphorie",
-      "jp": "ハピナス",
+      "ja": "ハピナス",
       "kr": "해피너스",
       "zh": "幸福蛋"
     },
@@ -3542,7 +3542,7 @@ let pms = [
       "de": "Raikou",
       "en": "Raikou",
       "fr": "Raikou",
-      "jp": "ライコウ",
+      "ja": "ライコウ",
       "kr": "라이코",
       "zh": "雷公"
     },
@@ -3555,7 +3555,7 @@ let pms = [
       "de": "Entei",
       "en": "Entei",
       "fr": "Entei",
-      "jp": "エンテイ",
+      "ja": "エンテイ",
       "kr": "앤테이",
       "zh": "炎帝"
     },
@@ -3568,7 +3568,7 @@ let pms = [
       "de": "Suicune",
       "en": "Suicune",
       "fr": "Suicune",
-      "jp": "スイクン",
+      "ja": "スイクン",
       "kr": "스이쿤",
       "zh": "水君"
     },
@@ -3581,7 +3581,7 @@ let pms = [
       "de": "Larvitar",
       "en": "Larvitar",
       "fr": "Embrylex",
-      "jp": "ヨーギラス",
+      "ja": "ヨーギラス",
       "kr": "애버라스",
       "zh": "幼基拉斯"
     },
@@ -3594,7 +3594,7 @@ let pms = [
       "de": "Pupitar",
       "en": "Pupitar",
       "fr": "Ymphect",
-      "jp": "サナギラス",
+      "ja": "サナギラス",
       "kr": "데기라스",
       "zh": "沙基拉斯"
     },
@@ -3607,7 +3607,7 @@ let pms = [
       "de": "Despotar",
       "en": "Tyranitar",
       "fr": "Tyranocif",
-      "jp": "バンギラス",
+      "ja": "バンギラス",
       "kr": "마기라스",
       "zh": "班基拉斯"
     },
@@ -3620,7 +3620,7 @@ let pms = [
       "de": "Lugia",
       "en": "Lugia",
       "fr": "Lugia",
-      "jp": "ルギア",
+      "ja": "ルギア",
       "kr": "루기아",
       "zh": "洛奇亞"
     },
@@ -3633,7 +3633,7 @@ let pms = [
       "de": "Ho-Oh",
       "en": "Ho-Oh",
       "fr": "Ho-Oh",
-      "jp": "ホウオウ",
+      "ja": "ホウオウ",
       "kr": "칠색조",
       "zh": "鳳王"
     },
@@ -3646,7 +3646,7 @@ let pms = [
       "de": "Celebi",
       "en": "Celebi",
       "fr": "Celebi",
-      "jp": "セレビィ",
+      "ja": "セレビィ",
       "kr": "세레비",
       "zh": "時拉比"
     },
@@ -3659,7 +3659,7 @@ let pms = [
       "de": "Geckarbor",
       "en": "Treecko",
       "fr": "Arcko",
-      "jp": "キモリ",
+      "ja": "キモリ",
       "kr": "나무지기",
       "zh": "木守宮"
     },
@@ -3672,7 +3672,7 @@ let pms = [
       "de": "Reptain",
       "en": "Grovyle",
       "fr": "Massko",
-      "jp": "ジュプトル",
+      "ja": "ジュプトル",
       "kr": "나무돌이",
       "zh": "森林蜥蜴"
     },
@@ -3685,7 +3685,7 @@ let pms = [
       "de": "Gewaldro",
       "en": "Sceptile",
       "fr": "Jungko",
-      "jp": "ジュカイン",
+      "ja": "ジュカイン",
       "kr": "나무킹",
       "zh": "蜥蜴王"
     },
@@ -3698,7 +3698,7 @@ let pms = [
       "de": "Flemmli",
       "en": "Torchic",
       "fr": "Poussifeu",
-      "jp": "アチャモ",
+      "ja": "アチャモ",
       "kr": "아차모",
       "zh": "火稚雞"
     },
@@ -3711,7 +3711,7 @@ let pms = [
       "de": "Jungglut",
       "en": "Combusken",
       "fr": "Galifeu",
-      "jp": "ワカシャモ",
+      "ja": "ワカシャモ",
       "kr": "영치코",
       "zh": "力壯雞"
     },
@@ -3724,7 +3724,7 @@ let pms = [
       "de": "Lohgock",
       "en": "Blaziken",
       "fr": "Braségali",
-      "jp": "バシャーモ",
+      "ja": "バシャーモ",
       "kr": "번치코",
       "zh": "火焰雞"
     },
@@ -3737,7 +3737,7 @@ let pms = [
       "de": "Hydropi",
       "en": "Mudkip",
       "fr": "Gobou",
-      "jp": "ミズゴロウ",
+      "ja": "ミズゴロウ",
       "kr": "물짱이",
       "zh": "水躍魚"
     },
@@ -3750,7 +3750,7 @@ let pms = [
       "de": "Moorabbel",
       "en": "Marshtomp",
       "fr": "Flobio",
-      "jp": "ヌマクロー",
+      "ja": "ヌマクロー",
       "kr": "늪짱이",
       "zh": "沼躍魚"
     },
@@ -3763,7 +3763,7 @@ let pms = [
       "de": "Sumpex",
       "en": "Swampert",
       "fr": "Laggron",
-      "jp": "ラグラージ",
+      "ja": "ラグラージ",
       "kr": "대짱이",
       "zh": "巨沼怪"
     },
@@ -3776,7 +3776,7 @@ let pms = [
       "de": "Fiffyen",
       "en": "Poochyena",
       "fr": "Medhyèna",
-      "jp": "ポチエナ",
+      "ja": "ポチエナ",
       "kr": "포챠나",
       "zh": "土狼犬"
     },
@@ -3789,7 +3789,7 @@ let pms = [
       "de": "Magnayen",
       "en": "Mightyena",
       "fr": "Grahyèna",
-      "jp": "グラエナ",
+      "ja": "グラエナ",
       "kr": "그라에나",
       "zh": "大狼犬"
     },
@@ -3802,7 +3802,7 @@ let pms = [
       "de": "Zigzachs",
       "en": "Zigzagoon",
       "fr": "Zigzaton",
-      "jp": "ジグザグマ",
+      "ja": "ジグザグマ",
       "kr": "지그제구리",
       "zh": "蛇紋熊"
     },
@@ -3815,7 +3815,7 @@ let pms = [
       "de": "Geradaks",
       "en": "Linoone",
       "fr": "Linéon",
-      "jp": "マッスグマ",
+      "ja": "マッスグマ",
       "kr": "직구리",
       "zh": "直衝熊"
     },
@@ -3828,7 +3828,7 @@ let pms = [
       "de": "Waumpel",
       "en": "Wurmple",
       "fr": "Chenipotte",
-      "jp": "ケムッソ",
+      "ja": "ケムッソ",
       "kr": "개무소",
       "zh": "刺尾蟲"
     },
@@ -3841,7 +3841,7 @@ let pms = [
       "de": "Schaloko",
       "en": "Silcoon",
       "fr": "Armulys",
-      "jp": "カラサリス",
+      "ja": "カラサリス",
       "kr": "실쿤",
       "zh": "甲殼繭"
     },
@@ -3854,7 +3854,7 @@ let pms = [
       "de": "Papinella",
       "en": "Beautifly",
       "fr": "Charmillon",
-      "jp": "アゲハント",
+      "ja": "アゲハント",
       "kr": "뷰티플라이",
       "zh": "狩獵鳳蝶"
     },
@@ -3867,7 +3867,7 @@ let pms = [
       "de": "Panekon",
       "en": "Cascoon",
       "fr": "Blindalys",
-      "jp": "マユルド",
+      "ja": "マユルド",
       "kr": "카스쿤",
       "zh": "盾甲繭"
     },
@@ -3880,7 +3880,7 @@ let pms = [
       "de": "Pudox",
       "en": "Dustox",
       "fr": "Papinox",
-      "jp": "ドクケイル",
+      "ja": "ドクケイル",
       "kr": "독케일",
       "zh": "毒粉蛾"
     },
@@ -3893,7 +3893,7 @@ let pms = [
       "de": "Loturzel",
       "en": "Lotad",
       "fr": "Nénupiot",
-      "jp": "ハスボー",
+      "ja": "ハスボー",
       "kr": "연꽃몬",
       "zh": "蓮葉童子"
     },
@@ -3906,7 +3906,7 @@ let pms = [
       "de": "Lombrero",
       "en": "Lombre",
       "fr": "Lombre",
-      "jp": "ハスブレロ",
+      "ja": "ハスブレロ",
       "kr": "로토스",
       "zh": "蓮帽小童"
     },
@@ -3919,7 +3919,7 @@ let pms = [
       "de": "Kappalores",
       "en": "Ludicolo",
       "fr": "Ludicolo",
-      "jp": "ルンパッパ",
+      "ja": "ルンパッパ",
       "kr": "로파파",
       "zh": "樂天河童"
     },
@@ -3932,7 +3932,7 @@ let pms = [
       "de": "Samurzel",
       "en": "Seedot",
       "fr": "Grainipiot",
-      "jp": "タネボー",
+      "ja": "タネボー",
       "kr": "도토링",
       "zh": "橡實果"
     },
@@ -3945,7 +3945,7 @@ let pms = [
       "de": "Blanas",
       "en": "Nuzleaf",
       "fr": "Pifeuil",
-      "jp": "コノハナ",
+      "ja": "コノハナ",
       "kr": "잎새코",
       "zh": "長鼻葉"
     },
@@ -3958,7 +3958,7 @@ let pms = [
       "de": "Tengulist",
       "en": "Shiftry",
       "fr": "Tengalice",
-      "jp": "ダーテング",
+      "ja": "ダーテング",
       "kr": "다탱구",
       "zh": "狡猾天狗"
     },
@@ -3971,7 +3971,7 @@ let pms = [
       "de": "Schwalbini",
       "en": "Taillow",
       "fr": "Nirondelle",
-      "jp": "スバメ",
+      "ja": "スバメ",
       "kr": "테일로",
       "zh": "傲骨燕"
     },
@@ -3984,7 +3984,7 @@ let pms = [
       "de": "Schwalboss",
       "en": "Swellow",
       "fr": "Hélédelle",
-      "jp": "オオスバメ",
+      "ja": "オオスバメ",
       "kr": "스왈로",
       "zh": "大王燕"
     },
@@ -3997,7 +3997,7 @@ let pms = [
       "de": "Wingull",
       "en": "Wingull",
       "fr": "Goélise",
-      "jp": "キャモメ",
+      "ja": "キャモメ",
       "kr": "갈모매",
       "zh": "長翅鷗"
     },
@@ -4010,7 +4010,7 @@ let pms = [
       "de": "Pelipper",
       "en": "Pelipper",
       "fr": "Bekipan",
-      "jp": "ペリッパー",
+      "ja": "ペリッパー",
       "kr": "패리퍼",
       "zh": "大嘴鷗"
     },
@@ -4023,7 +4023,7 @@ let pms = [
       "de": "Trasla",
       "en": "Ralts",
       "fr": "Tarsal",
-      "jp": "ラルトス",
+      "ja": "ラルトス",
       "kr": "랄토스",
       "zh": "拉魯拉絲"
     },
@@ -4036,7 +4036,7 @@ let pms = [
       "de": "Kirlia",
       "en": "Kirlia",
       "fr": "Kirlia",
-      "jp": "キルリア",
+      "ja": "キルリア",
       "kr": "킬리아",
       "zh": "奇魯莉安"
     },
@@ -4049,7 +4049,7 @@ let pms = [
       "de": "Guardevoir",
       "en": "Gardevoir",
       "fr": "Gardevoir",
-      "jp": "サーナイト",
+      "ja": "サーナイト",
       "kr": "가디안",
       "zh": "沙奈朵"
     },
@@ -4062,7 +4062,7 @@ let pms = [
       "de": "Gehweiher",
       "en": "Surskit",
       "fr": "Arakdo",
-      "jp": "アメタマ",
+      "ja": "アメタマ",
       "kr": "비구술",
       "zh": "溜溜糖球"
     },
@@ -4075,7 +4075,7 @@ let pms = [
       "de": "Maskeregen",
       "en": "Masquerain",
       "fr": "Maskadra",
-      "jp": "アメモース",
+      "ja": "アメモース",
       "kr": "비나방",
       "zh": "雨翅蛾"
     },
@@ -4088,7 +4088,7 @@ let pms = [
       "de": "Knilz",
       "en": "Shroomish",
       "fr": "Balignon",
-      "jp": "キノココ",
+      "ja": "キノココ",
       "kr": "버섯꼬",
       "zh": "蘑蘑菇"
     },
@@ -4101,7 +4101,7 @@ let pms = [
       "de": "Kapilz",
       "en": "Breloom",
       "fr": "Chapignon",
-      "jp": "キノガッサ",
+      "ja": "キノガッサ",
       "kr": "버섯모",
       "zh": "斗笠菇"
     },
@@ -4114,7 +4114,7 @@ let pms = [
       "de": "Bummelz",
       "en": "Slakoth",
       "fr": "Parecool",
-      "jp": "ナマケロ",
+      "ja": "ナマケロ",
       "kr": "게을로",
       "zh": "懶人獺"
     },
@@ -4128,7 +4128,7 @@ let pms = [
       "de": "Muntier",
       "en": "Vigoroth",
       "fr": "Vigoroth",
-      "jp": "ヤルキモノ",
+      "ja": "ヤルキモノ",
       "kr": "발바로",
       "zh": "過動猿"
     },
@@ -4142,7 +4142,7 @@ let pms = [
       "de": "Letarking",
       "en": "Slaking",
       "fr": "Monaflèmit",
-      "jp": "ケッキング",
+      "ja": "ケッキング",
       "kr": "게을킹",
       "zh": "請假王"
     },
@@ -4156,7 +4156,7 @@ let pms = [
       "de": "Nincada",
       "en": "Nincada",
       "fr": "Ningale",
-      "jp": "ツチニン",
+      "ja": "ツチニン",
       "kr": "토중몬",
       "zh": "土居忍士"
     },
@@ -4169,7 +4169,7 @@ let pms = [
       "de": "Ninjask",
       "en": "Ninjask",
       "fr": "Ninjask",
-      "jp": "テッカニン",
+      "ja": "テッカニン",
       "kr": "아이스크",
       "zh": "鐵面忍者"
     },
@@ -4182,7 +4182,7 @@ let pms = [
       "de": "Ninjatom",
       "en": "Shedinja",
       "fr": "Munja",
-      "jp": "ヌケニン",
+      "ja": "ヌケニン",
       "kr": "껍질몬",
       "zh": "脫殼忍者"
     },
@@ -4195,7 +4195,7 @@ let pms = [
       "de": "Flurmel",
       "en": "Whismur",
       "fr": "Chuchmur",
-      "jp": "ゴニョニョ",
+      "ja": "ゴニョニョ",
       "kr": "소곤룡",
       "zh": "咕妞妞"
     },
@@ -4208,7 +4208,7 @@ let pms = [
       "de": "Krakeelo",
       "en": "Loudred",
       "fr": "Ramboum",
-      "jp": "ドゴーム",
+      "ja": "ドゴーム",
       "kr": "노공룡",
       "zh": "吼爆彈"
     },
@@ -4221,7 +4221,7 @@ let pms = [
       "de": "Krawumms",
       "en": "Exploud",
       "fr": "Brouhabam",
-      "jp": "バクオング",
+      "ja": "バクオング",
       "kr": "폭음룡",
       "zh": "爆音怪"
     },
@@ -4234,7 +4234,7 @@ let pms = [
       "de": "Makuhita",
       "en": "Makuhita",
       "fr": "Makuhita",
-      "jp": "マクノシタ",
+      "ja": "マクノシタ",
       "kr": "마크탕",
       "zh": "幕下力士"
     },
@@ -4247,7 +4247,7 @@ let pms = [
       "de": "Hariyama",
       "en": "Hariyama",
       "fr": "Hariyama",
-      "jp": "ハリテヤマ",
+      "ja": "ハリテヤマ",
       "kr": "하리뭉",
       "zh": "鐵掌力士"
     },
@@ -4260,7 +4260,7 @@ let pms = [
       "de": "Azurill",
       "en": "Azurill",
       "fr": "Azurill",
-      "jp": "ルリリ",
+      "ja": "ルリリ",
       "kr": "루리리",
       "zh": "露力麗"
     },
@@ -4274,7 +4274,7 @@ let pms = [
       "de": "Nasgnet",
       "en": "Nosepass",
       "fr": "Tarinor",
-      "jp": "ノズパス",
+      "ja": "ノズパス",
       "kr": "코코파스",
       "zh": "朝北鼻"
     },
@@ -4287,7 +4287,7 @@ let pms = [
       "de": "Eneco",
       "en": "Skitty",
       "fr": "Skitty",
-      "jp": "エネコ",
+      "ja": "エネコ",
       "kr": "에나비",
       "zh": "向尾喵"
     },
@@ -4300,7 +4300,7 @@ let pms = [
       "de": "Enekoro",
       "en": "Delcatty",
       "fr": "Delcatty",
-      "jp": "エネコロロ",
+      "ja": "エネコロロ",
       "kr": "델케티",
       "zh": "優雅貓"
     },
@@ -4313,7 +4313,7 @@ let pms = [
       "de": "Zobiris",
       "en": "Sableye",
       "fr": "Ténéfix",
-      "jp": "ヤミラミ",
+      "ja": "ヤミラミ",
       "kr": "깜까미",
       "zh": "勾魂眼"
     },
@@ -4326,7 +4326,7 @@ let pms = [
       "de": "Flunkifer",
       "en": "Mawile",
       "fr": "Mysdibule",
-      "jp": "クチート",
+      "ja": "クチート",
       "kr": "입치트",
       "zh": "大嘴娃"
     },
@@ -4339,7 +4339,7 @@ let pms = [
       "de": "Stollunior",
       "en": "Aron",
       "fr": "Galekid",
-      "jp": "ココドラ",
+      "ja": "ココドラ",
       "kr": "가보리",
       "zh": "可可多拉"
     },
@@ -4352,7 +4352,7 @@ let pms = [
       "de": "Stollrak",
       "en": "Lairon",
       "fr": "Galegon",
-      "jp": "コドラ",
+      "ja": "コドラ",
       "kr": "갱도라",
       "zh": "可多拉"
     },
@@ -4365,7 +4365,7 @@ let pms = [
       "de": "Stolloss",
       "en": "Aggron",
       "fr": "Galeking",
-      "jp": "ボスゴドラ",
+      "ja": "ボスゴドラ",
       "kr": "보스로라",
       "zh": "波士可多拉"
     },
@@ -4378,7 +4378,7 @@ let pms = [
       "de": "Meditie",
       "en": "Meditite",
       "fr": "Méditikka",
-      "jp": "アサナン",
+      "ja": "アサナン",
       "kr": "요가랑",
       "zh": "瑪沙那"
     },
@@ -4391,7 +4391,7 @@ let pms = [
       "de": "Meditalis",
       "en": "Medicham",
       "fr": "Charmina",
-      "jp": "チャーレム",
+      "ja": "チャーレム",
       "kr": "요가램",
       "zh": "恰雷姆"
     },
@@ -4404,7 +4404,7 @@ let pms = [
       "de": "Frizelbliz",
       "en": "Electrike",
       "fr": "Dynavolt",
-      "jp": "ラクライ",
+      "ja": "ラクライ",
       "kr": "썬더라이",
       "zh": "落雷獸"
     },
@@ -4417,7 +4417,7 @@ let pms = [
       "de": "Voltenso",
       "en": "Manectric",
       "fr": "Élecsprint",
-      "jp": "ライボルト",
+      "ja": "ライボルト",
       "kr": "썬더볼트",
       "zh": "雷電獸"
     },
@@ -4430,7 +4430,7 @@ let pms = [
       "de": "Plusle",
       "en": "Plusle",
       "fr": "Posipi",
-      "jp": "プラスル",
+      "ja": "プラスル",
       "kr": "플러시",
       "zh": "正電拍拍"
     },
@@ -4443,7 +4443,7 @@ let pms = [
       "de": "Minun",
       "en": "Minun",
       "fr": "Négapi",
-      "jp": "マイナン",
+      "ja": "マイナン",
       "kr": "마이농",
       "zh": "負電拍拍"
     },
@@ -4456,7 +4456,7 @@ let pms = [
       "de": "Volbeat",
       "en": "Volbeat",
       "fr": "Muciole",
-      "jp": "バルビート",
+      "ja": "バルビート",
       "kr": "볼비트",
       "zh": "電螢蟲"
     },
@@ -4469,7 +4469,7 @@ let pms = [
       "de": "Illumise",
       "en": "Illumise",
       "fr": "Lumivole",
-      "jp": "イルミーゼ",
+      "ja": "イルミーゼ",
       "kr": "네오비트",
       "zh": "甜甜螢"
     },
@@ -4482,7 +4482,7 @@ let pms = [
       "de": "Roselia",
       "en": "Roselia",
       "fr": "Rosélia",
-      "jp": "ロゼリア",
+      "ja": "ロゼリア",
       "kr": "로젤리아",
       "zh": "毒薔薇"
     },
@@ -4495,7 +4495,7 @@ let pms = [
       "de": "Schluppuck",
       "en": "Gulpin",
       "fr": "Gloupti",
-      "jp": "ゴクリン",
+      "ja": "ゴクリン",
       "kr": "꼴깍몬",
       "zh": "溶食獸"
     },
@@ -4508,7 +4508,7 @@ let pms = [
       "de": "Schlukwech",
       "en": "Swalot",
       "fr": "Avaltout",
-      "jp": "マルノーム",
+      "ja": "マルノーム",
       "kr": "꿀꺽몬",
       "zh": "吞食獸"
     },
@@ -4521,7 +4521,7 @@ let pms = [
       "de": "Kanivanha",
       "en": "Carvanha",
       "fr": "Carvanha",
-      "jp": "キバニア",
+      "ja": "キバニア",
       "kr": "샤프니아",
       "zh": "利牙魚"
     },
@@ -4534,7 +4534,7 @@ let pms = [
       "de": "Tohaido",
       "en": "Sharpedo",
       "fr": "Sharpedo",
-      "jp": "サメハダー",
+      "ja": "サメハダー",
       "kr": "샤크니아",
       "zh": "巨牙鯊"
     },
@@ -4547,7 +4547,7 @@ let pms = [
       "de": "Wailmer",
       "en": "Wailmer",
       "fr": "Wailmer",
-      "jp": "ホエルコ",
+      "ja": "ホエルコ",
       "kr": "고래왕자",
       "zh": "吼吼鯨"
     },
@@ -4560,7 +4560,7 @@ let pms = [
       "de": "Wailord",
       "en": "Wailord",
       "fr": "Wailord",
-      "jp": "ホエルオー",
+      "ja": "ホエルオー",
       "kr": "고래왕",
       "zh": "吼鯨王"
     },
@@ -4573,7 +4573,7 @@ let pms = [
       "de": "Camaub",
       "en": "Numel",
       "fr": "Chamallot",
-      "jp": "ドンメル",
+      "ja": "ドンメル",
       "kr": "둔타",
       "zh": "呆火駝"
     },
@@ -4586,7 +4586,7 @@ let pms = [
       "de": "Camerupt",
       "en": "Camerupt",
       "fr": "Camérupt",
-      "jp": "バクーダ",
+      "ja": "バクーダ",
       "kr": "폭타",
       "zh": "噴火駝"
     },
@@ -4599,7 +4599,7 @@ let pms = [
       "de": "Qurtel",
       "en": "Torkoal",
       "fr": "Chartor",
-      "jp": "コータス",
+      "ja": "コータス",
       "kr": "코터스",
       "zh": "煤炭龜"
     },
@@ -4612,7 +4612,7 @@ let pms = [
       "de": "Spoink",
       "en": "Spoink",
       "fr": "Spoink",
-      "jp": "バネブー",
+      "ja": "バネブー",
       "kr": "피그점프",
       "zh": "跳跳豬"
     },
@@ -4625,7 +4625,7 @@ let pms = [
       "de": "Groink",
       "en": "Grumpig",
       "fr": "Groret",
-      "jp": "ブーピッグ",
+      "ja": "ブーピッグ",
       "kr": "피그킹",
       "zh": "噗噗豬"
     },
@@ -4638,7 +4638,7 @@ let pms = [
       "de": "Pandir",
       "en": "Spinda",
       "fr": "Spinda",
-      "jp": "パッチール",
+      "ja": "パッチール",
       "kr": "얼루기",
       "zh": "晃晃斑"
     },
@@ -4651,7 +4651,7 @@ let pms = [
       "de": "Knacklion",
       "en": "Trapinch",
       "fr": "Kraknoix",
-      "jp": "ナックラー",
+      "ja": "ナックラー",
       "kr": "톱치",
       "zh": "大顎蟻"
     },
@@ -4664,7 +4664,7 @@ let pms = [
       "de": "Vibrava",
       "en": "Vibrava",
       "fr": "Vibraninf",
-      "jp": "ビブラーバ",
+      "ja": "ビブラーバ",
       "kr": "비브라바",
       "zh": "超音波幼蟲"
     },
@@ -4677,7 +4677,7 @@ let pms = [
       "de": "Libelldra",
       "en": "Flygon",
       "fr": "Libégon",
-      "jp": "フライゴン",
+      "ja": "フライゴン",
       "kr": "플라이곤",
       "zh": "沙漠蜻蜓"
     },
@@ -4690,7 +4690,7 @@ let pms = [
       "de": "Tuska",
       "en": "Cacnea",
       "fr": "Cacnea",
-      "jp": "サボネア",
+      "ja": "サボネア",
       "kr": "선인왕",
       "zh": "刺球仙人掌"
     },
@@ -4703,7 +4703,7 @@ let pms = [
       "de": "Noktuska",
       "en": "Cacturne",
       "fr": "Cacturne",
-      "jp": "ノクタス",
+      "ja": "ノクタス",
       "kr": "밤선인",
       "zh": "夢歌仙人掌"
     },
@@ -4716,7 +4716,7 @@ let pms = [
       "de": "Wablu",
       "en": "Swablu",
       "fr": "Tylton",
-      "jp": "チルット",
+      "ja": "チルット",
       "kr": "파비코",
       "zh": "青綿鳥"
     },
@@ -4729,7 +4729,7 @@ let pms = [
       "de": "Altaria",
       "en": "Altaria",
       "fr": "Altaria",
-      "jp": "チルタリス",
+      "ja": "チルタリス",
       "kr": "파비코리",
       "zh": "七夕青鳥"
     },
@@ -4742,7 +4742,7 @@ let pms = [
       "de": "Sengo",
       "en": "Zangoose",
       "fr": "Mangriff",
-      "jp": "ザングース",
+      "ja": "ザングース",
       "kr": "쟝고",
       "zh": "貓鼬斬"
     },
@@ -4755,7 +4755,7 @@ let pms = [
       "de": "Vipitis",
       "en": "Seviper",
       "fr": "Séviper",
-      "jp": "ハブネーク",
+      "ja": "ハブネーク",
       "kr": "세비퍼",
       "zh": "飯匙蛇"
     },
@@ -4768,7 +4768,7 @@ let pms = [
       "de": "Lunastein",
       "en": "Lunatone",
       "fr": "Séléroc",
-      "jp": "ルナトーン",
+      "ja": "ルナトーン",
       "kr": "루나톤",
       "zh": "月石"
     },
@@ -4781,7 +4781,7 @@ let pms = [
       "de": "Sonnfel",
       "en": "Solrock",
       "fr": "Solaroc",
-      "jp": "ソルロック",
+      "ja": "ソルロック",
       "kr": "솔록",
       "zh": "太陽岩"
     },
@@ -4794,7 +4794,7 @@ let pms = [
       "de": "Schmerbe",
       "en": "Barboach",
       "fr": "Barloche",
-      "jp": "ドジョッチ",
+      "ja": "ドジョッチ",
       "kr": "미꾸리",
       "zh": "泥泥鰍"
     },
@@ -4807,7 +4807,7 @@ let pms = [
       "de": "Welsar",
       "en": "Whiscash",
       "fr": "Barbicha",
-      "jp": "ナマズン",
+      "ja": "ナマズン",
       "kr": "메깅",
       "zh": "鯰魚王"
     },
@@ -4820,7 +4820,7 @@ let pms = [
       "de": "Krebscorps",
       "en": "Corphish",
       "fr": "Écrapince",
-      "jp": "ヘイガニ",
+      "ja": "ヘイガニ",
       "kr": "가재군",
       "zh": "龍蝦小兵"
     },
@@ -4833,7 +4833,7 @@ let pms = [
       "de": "Krebutack",
       "en": "Crawdaunt",
       "fr": "Colhomard",
-      "jp": "シザリガー",
+      "ja": "シザリガー",
       "kr": "가재장군",
       "zh": "鐵螯龍蝦"
     },
@@ -4846,7 +4846,7 @@ let pms = [
       "de": "Puppance",
       "en": "Baltoy",
       "fr": "Balbuto",
-      "jp": "ヤジロン",
+      "ja": "ヤジロン",
       "kr": "오뚝군",
       "zh": "天秤偶"
     },
@@ -4859,7 +4859,7 @@ let pms = [
       "de": "Lepumentas",
       "en": "Claydol",
       "fr": "Kaorine",
-      "jp": "ネンドール",
+      "ja": "ネンドール",
       "kr": "점토도리",
       "zh": "念力土偶"
     },
@@ -4872,7 +4872,7 @@ let pms = [
       "de": "Liliep",
       "en": "Lileep",
       "fr": "Lilia",
-      "jp": "リリーラ",
+      "ja": "リリーラ",
       "kr": "릴링",
       "zh": "觸手百合"
     },
@@ -4886,7 +4886,7 @@ let pms = [
       "de": "Wielie",
       "en": "Cradily",
       "fr": "Vacilys",
-      "jp": "ユレイドル",
+      "ja": "ユレイドル",
       "kr": "릴리요",
       "zh": "搖籃百合"
     },
@@ -4900,7 +4900,7 @@ let pms = [
       "de": "Anorith",
       "en": "Anorith",
       "fr": "Anorith",
-      "jp": "アノプス",
+      "ja": "アノプス",
       "kr": "아노딥스",
       "zh": "太古羽蟲"
     },
@@ -4914,7 +4914,7 @@ let pms = [
       "de": "Armaldo",
       "en": "Armaldo",
       "fr": "Armaldo",
-      "jp": "アーマルド",
+      "ja": "アーマルド",
       "kr": "아말도",
       "zh": "太古盔甲"
     },
@@ -4928,7 +4928,7 @@ let pms = [
       "de": "Barschwa",
       "en": "Feebas",
       "fr": "Barpau",
-      "jp": "ヒンバス",
+      "ja": "ヒンバス",
       "kr": "빈티나",
       "zh": "醜醜魚"
     },
@@ -4941,7 +4941,7 @@ let pms = [
       "de": "Milotic",
       "en": "Milotic",
       "fr": "Milobellus",
-      "jp": "ミロカロス",
+      "ja": "ミロカロス",
       "kr": "밀로틱",
       "zh": "美納斯"
     },
@@ -4954,7 +4954,7 @@ let pms = [
       "de": "Formeo",
       "en": "Castform",
       "fr": "Morphéo",
-      "jp": "ポワルン",
+      "ja": "ポワルン",
       "kr": "캐스퐁",
       "zh": "飄浮泡泡"
     },
@@ -4967,7 +4967,7 @@ let pms = [
       "de": "Kecleon",
       "en": "Kecleon",
       "fr": "Kecleon",
-      "jp": "カクレオン",
+      "ja": "カクレオン",
       "kr": "켈리몬",
       "zh": "變隱龍"
     },
@@ -4980,7 +4980,7 @@ let pms = [
       "de": "Shuppet",
       "en": "Shuppet",
       "fr": "Polichombr",
-      "jp": "カゲボウズ",
+      "ja": "カゲボウズ",
       "kr": "어둠대신",
       "zh": "怨影娃娃"
     },
@@ -4993,7 +4993,7 @@ let pms = [
       "de": "Banette",
       "en": "Banette",
       "fr": "Branette",
-      "jp": "ジュペッタ",
+      "ja": "ジュペッタ",
       "kr": "다크펫",
       "zh": "詛咒娃娃"
     },
@@ -5006,7 +5006,7 @@ let pms = [
       "de": "Zwirrlicht",
       "en": "Duskull",
       "fr": "Skelénox",
-      "jp": "ヨマワル",
+      "ja": "ヨマワル",
       "kr": "해골몽",
       "zh": "夜巡靈"
     },
@@ -5019,7 +5019,7 @@ let pms = [
       "de": "Zwirrklop",
       "en": "Dusclops",
       "fr": "Téraclope",
-      "jp": "サマヨール",
+      "ja": "サマヨール",
       "kr": "미라몽",
       "zh": "彷徨夜靈"
     },
@@ -5032,7 +5032,7 @@ let pms = [
       "de": "Tropius",
       "en": "Tropius",
       "fr": "Tropius",
-      "jp": "トロピウス",
+      "ja": "トロピウス",
       "kr": "트로피우스",
       "zh": "熱帶龍"
     },
@@ -5045,7 +5045,7 @@ let pms = [
       "de": "Palimpalim",
       "en": "Chimecho",
       "fr": "Éoko",
-      "jp": "チリーン",
+      "ja": "チリーン",
       "kr": "치렁",
       "zh": "風鈴鈴"
     },
@@ -5058,7 +5058,7 @@ let pms = [
       "de": "Absol",
       "en": "Absol",
       "fr": "Absol",
-      "jp": "アブソル",
+      "ja": "アブソル",
       "kr": "앱솔",
       "zh": "阿勃梭魯"
     },
@@ -5071,7 +5071,7 @@ let pms = [
       "de": "Isso",
       "en": "Wynaut",
       "fr": "Okéoké",
-      "jp": "ソーナノ",
+      "ja": "ソーナノ",
       "kr": "마자",
       "zh": "小果然"
     },
@@ -5085,7 +5085,7 @@ let pms = [
       "de": "Schneppke",
       "en": "Snorunt",
       "fr": "Stalgamin",
-      "jp": "ユキワラシ",
+      "ja": "ユキワラシ",
       "kr": "눈꼬마",
       "zh": "雪童子"
     },
@@ -5098,7 +5098,7 @@ let pms = [
       "de": "Firnontor",
       "en": "Glalie",
       "fr": "Oniglali",
-      "jp": "オニゴーリ",
+      "ja": "オニゴーリ",
       "kr": "얼음귀신",
       "zh": "冰鬼護"
     },
@@ -5111,7 +5111,7 @@ let pms = [
       "de": "Seemops",
       "en": "Spheal",
       "fr": "Obalie",
-      "jp": "タマザラシ",
+      "ja": "タマザラシ",
       "kr": "대굴레오",
       "zh": "海豹球"
     },
@@ -5124,7 +5124,7 @@ let pms = [
       "de": "Seejong",
       "en": "Sealeo",
       "fr": "Phogleur",
-      "jp": "トドグラー",
+      "ja": "トドグラー",
       "kr": "씨레오",
       "zh": "海魔獅"
     },
@@ -5137,7 +5137,7 @@ let pms = [
       "de": "Walraisa",
       "en": "Walrein",
       "fr": "Kaimorse",
-      "jp": "トドゼルガ",
+      "ja": "トドゼルガ",
       "kr": "씨카이저",
       "zh": "帝牙海獅"
     },
@@ -5150,7 +5150,7 @@ let pms = [
       "de": "Perlu",
       "en": "Clamperl",
       "fr": "Coquiperl",
-      "jp": "パールル",
+      "ja": "パールル",
       "kr": "진주몽",
       "zh": "珍珠貝"
     },
@@ -5163,7 +5163,7 @@ let pms = [
       "de": "Aalabyss",
       "en": "Huntail",
       "fr": "Serpang",
-      "jp": "ハンテール",
+      "ja": "ハンテール",
       "kr": "헌테일",
       "zh": "獵斑魚"
     },
@@ -5176,7 +5176,7 @@ let pms = [
       "de": "Saganabyss",
       "en": "Gorebyss",
       "fr": "Rosabyss",
-      "jp": "サクラビス",
+      "ja": "サクラビス",
       "kr": "분홍장이",
       "zh": "櫻花魚"
     },
@@ -5189,7 +5189,7 @@ let pms = [
       "de": "Relicanth",
       "en": "Relicanth",
       "fr": "Relicanth",
-      "jp": "ジーランス",
+      "ja": "ジーランス",
       "kr": "시라칸",
       "zh": "古空棘魚"
     },
@@ -5202,7 +5202,7 @@ let pms = [
       "de": "Liebiskus",
       "en": "Luvdisc",
       "fr": "Lovdisc",
-      "jp": "ラブカス",
+      "ja": "ラブカス",
       "kr": "사랑동이",
       "zh": "愛心魚"
     },
@@ -5215,7 +5215,7 @@ let pms = [
       "de": "Kindwurm",
       "en": "Bagon",
       "fr": "Draby",
-      "jp": "タツベイ",
+      "ja": "タツベイ",
       "kr": "아공이",
       "zh": "寶貝龍"
     },
@@ -5228,7 +5228,7 @@ let pms = [
       "de": "Draschel",
       "en": "Shelgon",
       "fr": "Drackhaus",
-      "jp": "コモルー",
+      "ja": "コモルー",
       "kr": "쉘곤",
       "zh": "甲殼龍"
     },
@@ -5241,7 +5241,7 @@ let pms = [
       "de": "Brutalanda",
       "en": "Salamence",
       "fr": "Drattak",
-      "jp": "ボーマンダ",
+      "ja": "ボーマンダ",
       "kr": "보만다",
       "zh": "暴飛龍"
     },
@@ -5254,7 +5254,7 @@ let pms = [
       "de": "Tanhel",
       "en": "Beldum",
       "fr": "Terhal",
-      "jp": "ダンバル",
+      "ja": "ダンバル",
       "kr": "메탕",
       "zh": "鐵啞鈴"
     },
@@ -5267,7 +5267,7 @@ let pms = [
       "de": "Metang",
       "en": "Metang",
       "fr": "Métang",
-      "jp": "メタング",
+      "ja": "メタング",
       "kr": "메탕구",
       "zh": "金屬怪"
     },
@@ -5280,7 +5280,7 @@ let pms = [
       "de": "Metagross",
       "en": "Metagross",
       "fr": "Métalosse",
-      "jp": "メタグロス",
+      "ja": "メタグロス",
       "kr": "메타그로스",
       "zh": "巨金怪"
     },
@@ -5293,7 +5293,7 @@ let pms = [
       "de": "Regirock",
       "en": "Regirock",
       "fr": "Regirock",
-      "jp": "レジロック",
+      "ja": "レジロック",
       "kr": "레지락",
       "zh": "雷吉洛克"
     },
@@ -5306,7 +5306,7 @@ let pms = [
       "de": "Regice",
       "en": "Regice",
       "fr": "Regice",
-      "jp": "レジアイス",
+      "ja": "レジアイス",
       "kr": "레지아이스",
       "zh": "雷吉艾斯"
     },
@@ -5319,7 +5319,7 @@ let pms = [
       "de": "Registeel",
       "en": "Registeel",
       "fr": "Registeel",
-      "jp": "レジスチル",
+      "ja": "レジスチル",
       "kr": "레지스틸",
       "zh": "雷吉斯奇魯"
     },
@@ -5332,7 +5332,7 @@ let pms = [
       "de": "Latias",
       "en": "Latias",
       "fr": "Latias",
-      "jp": "ラティアス",
+      "ja": "ラティアス",
       "kr": "라티아스",
       "zh": "拉帝亞斯"
     },
@@ -5345,7 +5345,7 @@ let pms = [
       "de": "Latios",
       "en": "Latios",
       "fr": "Latios",
-      "jp": "ラティオス",
+      "ja": "ラティオス",
       "kr": "라티오스",
       "zh": "拉帝歐斯"
     },
@@ -5358,7 +5358,7 @@ let pms = [
       "de": "Kyogre",
       "en": "Kyogre",
       "fr": "Kyogre",
-      "jp": "カイオーガ",
+      "ja": "カイオーガ",
       "kr": "가이오가",
       "zh": "蓋歐卡"
     },
@@ -5371,7 +5371,7 @@ let pms = [
       "de": "Groudon",
       "en": "Groudon",
       "fr": "Groudon",
-      "jp": "グラードン",
+      "ja": "グラードン",
       "kr": "그란돈",
       "zh": "固拉多"
     },
@@ -5384,7 +5384,7 @@ let pms = [
       "de": "Rayquaza",
       "en": "Rayquaza",
       "fr": "Rayquaza",
-      "jp": "レックウザ",
+      "ja": "レックウザ",
       "kr": "레쿠쟈",
       "zh": "烈空坐"
     },
@@ -5397,7 +5397,7 @@ let pms = [
       "de": "Jirachi",
       "en": "Jirachi",
       "fr": "Jirachi",
-      "jp": "ジラーチ",
+      "ja": "ジラーチ",
       "kr": "지라치",
       "zh": "基拉祈"
     },
@@ -5410,7 +5410,7 @@ let pms = [
       "de": "Deoxys",
       "en": "Deoxys",
       "fr": "Deoxys",
-      "jp": "デオキシス",
+      "ja": "デオキシス",
       "kr": "테오키스",
       "zh": "代歐奇希斯"
     },
@@ -5423,7 +5423,7 @@ let pms = [
       "de": "Chelast",
       "en": "Turtwig",
       "fr": "Tortipouss",
-      "jp": "ナエトル",
+      "ja": "ナエトル",
       "kr": "모부기",
       "zh": "草苗龜"
     },
@@ -5436,7 +5436,7 @@ let pms = [
       "de": "Chelcarain",
       "en": "Grotle",
       "fr": "Boskara",
-      "jp": "ハヤシガメ",
+      "ja": "ハヤシガメ",
       "kr": "수풀부기",
       "zh": "樹林龜"
     },
@@ -5449,7 +5449,7 @@ let pms = [
       "de": "Chelterrar",
       "en": "Torterra",
       "fr": "Torterra",
-      "jp": "ドダイトス",
+      "ja": "ドダイトス",
       "kr": "토대부기",
       "zh": "土台龜"
     },
@@ -5462,7 +5462,7 @@ let pms = [
       "de": "Panflam",
       "en": "Chimchar",
       "fr": "Ouisticram",
-      "jp": "ヒコザル",
+      "ja": "ヒコザル",
       "kr": "불꽃숭이",
       "zh": "小火焰猴"
     },
@@ -5475,7 +5475,7 @@ let pms = [
       "de": "Panpyro",
       "en": "Monferno",
       "fr": "Chimpenfeu",
-      "jp": "モウカザル",
+      "ja": "モウカザル",
       "kr": "파이숭이",
       "zh": "猛火猴"
     },
@@ -5488,7 +5488,7 @@ let pms = [
       "de": "Panferno",
       "en": "Infernape",
       "fr": "Simiabraz",
-      "jp": "ゴウカザル",
+      "ja": "ゴウカザル",
       "kr": "초염몽",
       "zh": "烈焰猴"
     },
@@ -5501,7 +5501,7 @@ let pms = [
       "de": "Plinfa",
       "en": "Piplup",
       "fr": "Tiplouf",
-      "jp": "ポッチャマ",
+      "ja": "ポッチャマ",
       "kr": "팽도리",
       "zh": "波加曼"
     },
@@ -5514,7 +5514,7 @@ let pms = [
       "de": "Pliprin",
       "en": "Prinplup",
       "fr": "Prinplouf",
-      "jp": "ポッタイシ",
+      "ja": "ポッタイシ",
       "kr": "팽태자",
       "zh": "波皇子"
     },
@@ -5527,7 +5527,7 @@ let pms = [
       "de": "Impoleon",
       "en": "Empoleon",
       "fr": "Pingoléon",
-      "jp": "エンペルト",
+      "ja": "エンペルト",
       "kr": "엠페르트",
       "zh": "帝王拿波"
     },
@@ -5540,7 +5540,7 @@ let pms = [
       "de": "Staralili",
       "en": "Starly",
       "fr": "Étourmi",
-      "jp": "ムックル",
+      "ja": "ムックル",
       "kr": "찌르꼬",
       "zh": "姆克兒"
     },
@@ -5553,7 +5553,7 @@ let pms = [
       "de": "Staravia",
       "en": "Staravia",
       "fr": "Étourvol",
-      "jp": "ムクバード",
+      "ja": "ムクバード",
       "kr": "찌르버드",
       "zh": "姆克鳥"
     },
@@ -5566,7 +5566,7 @@ let pms = [
       "de": "Staraptor",
       "en": "Staraptor",
       "fr": "Étouraptor",
-      "jp": "ムクホーク",
+      "ja": "ムクホーク",
       "kr": "찌르호크",
       "zh": "姆克鷹"
     },
@@ -5579,7 +5579,7 @@ let pms = [
       "de": "Bidiza",
       "en": "Bidoof",
       "fr": "Keunotor",
-      "jp": "ビッパ",
+      "ja": "ビッパ",
       "kr": "비버니",
       "zh": "大牙狸"
     },
@@ -5592,7 +5592,7 @@ let pms = [
       "de": "Bidifas",
       "en": "Bibarel",
       "fr": "Castorno",
-      "jp": "ビーダル",
+      "ja": "ビーダル",
       "kr": "비버통",
       "zh": "大尾狸"
     },
@@ -5605,7 +5605,7 @@ let pms = [
       "de": "Zirpurze",
       "en": "Kricketot",
       "fr": "Crikzik",
-      "jp": "コロボーシ",
+      "ja": "コロボーシ",
       "kr": "귀뚤뚜기",
       "zh": "圓法師"
     },
@@ -5618,7 +5618,7 @@ let pms = [
       "de": "Zirpeise",
       "en": "Kricketune",
       "fr": "Mélokrik",
-      "jp": "コロトック",
+      "ja": "コロトック",
       "kr": "귀뚤톡크",
       "zh": "音箱蟀"
     },
@@ -5631,7 +5631,7 @@ let pms = [
       "de": "Sheinux",
       "en": "Shinx",
       "fr": "Lixy",
-      "jp": "コリンク",
+      "ja": "コリンク",
       "kr": "꼬링크",
       "zh": "小貓怪"
     },
@@ -5644,7 +5644,7 @@ let pms = [
       "de": "Luxio",
       "en": "Luxio",
       "fr": "Luxio",
-      "jp": "ルクシオ",
+      "ja": "ルクシオ",
       "kr": "럭시오",
       "zh": "勒克貓"
     },
@@ -5657,7 +5657,7 @@ let pms = [
       "de": "Luxtra",
       "en": "Luxray",
       "fr": "Luxray",
-      "jp": "レントラー",
+      "ja": "レントラー",
       "kr": "렌트라",
       "zh": "倫琴貓"
     },
@@ -5670,7 +5670,7 @@ let pms = [
       "de": "Knospi",
       "en": "Budew",
       "fr": "Rozbouton",
-      "jp": "スボミー",
+      "ja": "スボミー",
       "kr": "꼬몽울",
       "zh": "含羞苞"
     },
@@ -5684,7 +5684,7 @@ let pms = [
       "de": "Roserade",
       "en": "Roserade",
       "fr": "Roserade",
-      "jp": "ロズレイド",
+      "ja": "ロズレイド",
       "kr": "로즈레이드",
       "zh": "羅絲雷朵"
     },
@@ -5697,7 +5697,7 @@ let pms = [
       "de": "Koknodon",
       "en": "Cranidos",
       "fr": "Kranidos",
-      "jp": "ズガイドス",
+      "ja": "ズガイドス",
       "kr": "두개도스",
       "zh": "頭蓋龍"
     },
@@ -5710,7 +5710,7 @@ let pms = [
       "de": "Rameidon",
       "en": "Rampardos",
       "fr": "Charkos",
-      "jp": "ラムパルド",
+      "ja": "ラムパルド",
       "kr": "램펄드",
       "zh": "戰槌龍"
     },
@@ -5723,7 +5723,7 @@ let pms = [
       "de": "Schilterus",
       "en": "Shieldon",
       "fr": "Dinoclier",
-      "jp": "タテトプス",
+      "ja": "タテトプス",
       "kr": "방패톱스",
       "zh": "盾甲龍"
     },
@@ -5736,7 +5736,7 @@ let pms = [
       "de": "Bollterus",
       "en": "Bastiodon",
       "fr": "Bastiodon",
-      "jp": "トリデプス",
+      "ja": "トリデプス",
       "kr": "바리톱스",
       "zh": "護城龍"
     },
@@ -5749,7 +5749,7 @@ let pms = [
       "de": "Burmy",
       "en": "Burmy",
       "fr": "Cheniti",
-      "jp": "ミノムッチ",
+      "ja": "ミノムッチ",
       "kr": "도롱충이",
       "zh": "結草兒"
     },
@@ -5762,7 +5762,7 @@ let pms = [
       "de": "Burmadame",
       "en": "Wormadam",
       "fr": "Cheniselle",
-      "jp": "ミノマダム",
+      "ja": "ミノマダム",
       "kr": "도롱마담",
       "zh": "結草貴婦"
     },
@@ -5775,7 +5775,7 @@ let pms = [
       "de": "Moterpel",
       "en": "Mothim",
       "fr": "Papilord",
-      "jp": "ガーメイル",
+      "ja": "ガーメイル",
       "kr": "나메일",
       "zh": "紳士蛾"
     },
@@ -5788,7 +5788,7 @@ let pms = [
       "de": "Wadribie",
       "en": "Combee",
       "fr": "Apitrini",
-      "jp": "ミツハニー",
+      "ja": "ミツハニー",
       "kr": "세꿀버리",
       "zh": "三蜜蜂"
     },
@@ -5801,7 +5801,7 @@ let pms = [
       "de": "Honweisel",
       "en": "Vespiquen",
       "fr": "Apireine",
-      "jp": "ビークイン",
+      "ja": "ビークイン",
       "kr": "비퀸",
       "zh": "蜂女王"
     },
@@ -5814,7 +5814,7 @@ let pms = [
       "de": "Pachirisu",
       "en": "Pachirisu",
       "fr": "Pachirisu",
-      "jp": "パチリス",
+      "ja": "パチリス",
       "kr": "파치리스",
       "zh": "帕奇利茲"
     },
@@ -5827,7 +5827,7 @@ let pms = [
       "de": "Bamelin",
       "en": "Buizel",
       "fr": "Mustébouée",
-      "jp": "ブイゼル",
+      "ja": "ブイゼル",
       "kr": "브이젤",
       "zh": "泳圈鼬"
     },
@@ -5840,7 +5840,7 @@ let pms = [
       "de": "Bojelin",
       "en": "Floatzel",
       "fr": "Mustéflott",
-      "jp": "フローゼル",
+      "ja": "フローゼル",
       "kr": "플로젤",
       "zh": "浮潛鼬"
     },
@@ -5853,7 +5853,7 @@ let pms = [
       "de": "Kikugi",
       "en": "Cherubi",
       "fr": "Ceribou",
-      "jp": "チェリンボ",
+      "ja": "チェリンボ",
       "kr": "체리버",
       "zh": "櫻花寶"
     },
@@ -5866,7 +5866,7 @@ let pms = [
       "de": "Kinoso",
       "en": "Cherrim",
       "fr": "Ceriflor",
-      "jp": "チェリム",
+      "ja": "チェリム",
       "kr": "체리꼬",
       "zh": "櫻花兒"
     },
@@ -5879,7 +5879,7 @@ let pms = [
       "de": "Schalellos",
       "en": "Shellos",
       "fr": "Sancoki",
-      "jp": "カラナクシ",
+      "ja": "カラナクシ",
       "kr": "깝질무",
       "zh": "無殼海兔"
     },
@@ -5892,7 +5892,7 @@ let pms = [
       "de": "Gastrodon",
       "en": "Gastrodon",
       "fr": "Tritosor",
-      "jp": "トリトドン",
+      "ja": "トリトドン",
       "kr": "트리토돈",
       "zh": "海兔獸"
     },
@@ -5905,7 +5905,7 @@ let pms = [
       "de": "Ambidiffel",
       "en": "Ambipom",
       "fr": "Capidextre",
-      "jp": "エテボース",
+      "ja": "エテボース",
       "kr": "겟핸보숭",
       "zh": "雙尾怪手"
     },
@@ -5918,7 +5918,7 @@ let pms = [
       "de": "Driftlon",
       "en": "Drifloon",
       "fr": "Baudrive",
-      "jp": "フワンテ",
+      "ja": "フワンテ",
       "kr": "흔들풍손",
       "zh": "飄飄球"
     },
@@ -5931,7 +5931,7 @@ let pms = [
       "de": "Drifzepeli",
       "en": "Drifblim",
       "fr": "Grodrive",
-      "jp": "フワライド",
+      "ja": "フワライド",
       "kr": "둥실라이드",
       "zh": "隨風球"
     },
@@ -5944,7 +5944,7 @@ let pms = [
       "de": "Haspiror",
       "en": "Buneary",
       "fr": "Laporeille",
-      "jp": "ミミロル",
+      "ja": "ミミロル",
       "kr": "이어롤",
       "zh": "捲捲耳"
     },
@@ -5957,7 +5957,7 @@ let pms = [
       "de": "Schlapor",
       "en": "Lopunny",
       "fr": "Lockpin",
-      "jp": "ミミロップ",
+      "ja": "ミミロップ",
       "kr": "이어롭",
       "zh": "長耳兔"
     },
@@ -5970,7 +5970,7 @@ let pms = [
       "de": "Traunmagil",
       "en": "Mismagius",
       "fr": "Magirêve",
-      "jp": "ムウマージ",
+      "ja": "ムウマージ",
       "kr": "무우마직",
       "zh": "夢妖魔"
     },
@@ -5983,7 +5983,7 @@ let pms = [
       "de": "Kramshef",
       "en": "Honchkrow",
       "fr": "Corboss",
-      "jp": "ドンカラス",
+      "ja": "ドンカラス",
       "kr": "돈크로우",
       "zh": "烏鴉頭頭"
     },
@@ -5996,7 +5996,7 @@ let pms = [
       "de": "Charmian",
       "en": "Glameow",
       "fr": "Chaglam",
-      "jp": "ニャルマー",
+      "ja": "ニャルマー",
       "kr": "나옹마",
       "zh": "魅力喵"
     },
@@ -6009,7 +6009,7 @@ let pms = [
       "de": "Shnurgarst",
       "en": "Purugly",
       "fr": "Chaffreux",
-      "jp": "ブニャット",
+      "ja": "ブニャット",
       "kr": "몬냥이",
       "zh": "東施喵"
     },
@@ -6022,7 +6022,7 @@ let pms = [
       "de": "Klingplim",
       "en": "Chingling",
       "fr": "Korillon",
-      "jp": "リーシャン",
+      "ja": "リーシャン",
       "kr": "랑딸랑",
       "zh": "鈴鐺響"
     },
@@ -6036,7 +6036,7 @@ let pms = [
       "de": "Skunkapuh",
       "en": "Stunky",
       "fr": "Moufouette",
-      "jp": "スカンプー",
+      "ja": "スカンプー",
       "kr": "스컹뿡",
       "zh": "臭鼬噗"
     },
@@ -6049,7 +6049,7 @@ let pms = [
       "de": "Skuntank",
       "en": "Skuntank",
       "fr": "Moufflair",
-      "jp": "スカタンク",
+      "ja": "スカタンク",
       "kr": "스컹탱크",
       "zh": "坦克臭鼬"
     },
@@ -6062,7 +6062,7 @@ let pms = [
       "de": "Bronzel",
       "en": "Bronzor",
       "fr": "Archéomire",
-      "jp": "ドーミラー",
+      "ja": "ドーミラー",
       "kr": "동미러",
       "zh": "銅鏡怪"
     },
@@ -6075,7 +6075,7 @@ let pms = [
       "de": "Bronzong",
       "en": "Bronzong",
       "fr": "Archéodong",
-      "jp": "ドータクン",
+      "ja": "ドータクン",
       "kr": "동탁군",
       "zh": "青銅鐘"
     },
@@ -6088,7 +6088,7 @@ let pms = [
       "de": "Mobai",
       "en": "Bonsly",
       "fr": "Manzaï",
-      "jp": "ウソハチ",
+      "ja": "ウソハチ",
       "kr": "꼬지지",
       "zh": "盆才怪"
     },
@@ -6102,7 +6102,7 @@ let pms = [
       "de": "Pantimimi",
       "en": "Mime Jr.",
       "fr": "Mime Jr.",
-      "jp": "マネネ",
+      "ja": "マネネ",
       "kr": "흉내내",
       "zh": "魔尼尼"
     },
@@ -6116,7 +6116,7 @@ let pms = [
       "de": "Wonneira",
       "en": "Happiny",
       "fr": "Ptiravi",
-      "jp": "ピンプク",
+      "ja": "ピンプク",
       "kr": "핑복",
       "zh": "小福蛋"
     },
@@ -6130,7 +6130,7 @@ let pms = [
       "de": "Plaudagei",
       "en": "Chatot",
       "fr": "Pijako",
-      "jp": "ペラップ",
+      "ja": "ペラップ",
       "kr": "페라페",
       "zh": "聒噪鳥"
     },
@@ -6143,7 +6143,7 @@ let pms = [
       "de": "Kryppuk",
       "en": "Spiritomb",
       "fr": "Spiritomb",
-      "jp": "ミカルゲ",
+      "ja": "ミカルゲ",
       "kr": "화강돌",
       "zh": "花岩怪"
     },
@@ -6156,7 +6156,7 @@ let pms = [
       "de": "Kaumalat",
       "en": "Gible",
       "fr": "Griknot",
-      "jp": "フカマル",
+      "ja": "フカマル",
       "kr": "딥상어동",
       "zh": "圓陸鯊"
     },
@@ -6169,7 +6169,7 @@ let pms = [
       "de": "Knarksel",
       "en": "Gabite",
       "fr": "Carmache",
-      "jp": "ガバイト",
+      "ja": "ガバイト",
       "kr": "한바이트",
       "zh": "尖牙陸鯊"
     },
@@ -6182,7 +6182,7 @@ let pms = [
       "de": "Knakrack",
       "en": "Garchomp",
       "fr": "Carchacrok",
-      "jp": "ガブリアス",
+      "ja": "ガブリアス",
       "kr": "한카리아스",
       "zh": "烈咬陸鯊"
     },
@@ -6195,7 +6195,7 @@ let pms = [
       "de": "Mampfaxo",
       "en": "Munchlax",
       "fr": "Goinfrex",
-      "jp": "ゴンベ",
+      "ja": "ゴンベ",
       "kr": "먹고자",
       "zh": "小卡比獸"
     },
@@ -6209,7 +6209,7 @@ let pms = [
       "de": "Riolu",
       "en": "Riolu",
       "fr": "Riolu",
-      "jp": "リオル",
+      "ja": "リオル",
       "kr": "리오르",
       "zh": "利歐路"
     },
@@ -6222,7 +6222,7 @@ let pms = [
       "de": "Lucario",
       "en": "Lucario",
       "fr": "Lucario",
-      "jp": "ルカリオ",
+      "ja": "ルカリオ",
       "kr": "루카리오",
       "zh": "路卡利歐"
     },
@@ -6235,7 +6235,7 @@ let pms = [
       "de": "Hippopotas",
       "en": "Hippopotas",
       "fr": "Hippopotas",
-      "jp": "ヒポポタス",
+      "ja": "ヒポポタス",
       "kr": "히포포타스",
       "zh": "沙河馬"
     },
@@ -6248,7 +6248,7 @@ let pms = [
       "de": "Hippoterus",
       "en": "Hippowdon",
       "fr": "Hippodocus",
-      "jp": "カバルドン",
+      "ja": "カバルドン",
       "kr": "하마돈",
       "zh": "河馬獸"
     },
@@ -6261,7 +6261,7 @@ let pms = [
       "de": "Pionskora",
       "en": "Skorupi",
       "fr": "Rapion",
-      "jp": "スコルピ",
+      "ja": "スコルピ",
       "kr": "스콜피",
       "zh": "鉗尾蠍"
     },
@@ -6274,7 +6274,7 @@ let pms = [
       "de": "Piondragi",
       "en": "Drapion",
       "fr": "Drascore",
-      "jp": "ドラピオン",
+      "ja": "ドラピオン",
       "kr": "드래피온",
       "zh": "龍王蠍"
     },
@@ -6287,7 +6287,7 @@ let pms = [
       "de": "Glibunkel",
       "en": "Croagunk",
       "fr": "Cradopaud",
-      "jp": "グレッグル",
+      "ja": "グレッグル",
       "kr": "삐딱구리",
       "zh": "不良蛙"
     },
@@ -6300,7 +6300,7 @@ let pms = [
       "de": "Toxiquak",
       "en": "Toxicroak",
       "fr": "Coatox",
-      "jp": "ドクロッグ",
+      "ja": "ドクロッグ",
       "kr": "독개굴",
       "zh": "毒骷蛙"
     },
@@ -6313,7 +6313,7 @@ let pms = [
       "de": "Venuflibis",
       "en": "Carnivine",
       "fr": "Vortente",
-      "jp": "マスキッパ",
+      "ja": "マスキッパ",
       "kr": "무스틈니",
       "zh": "尖牙籠"
     },
@@ -6326,7 +6326,7 @@ let pms = [
       "de": "Finneon",
       "en": "Finneon",
       "fr": "Écayon",
-      "jp": "ケイコウオ",
+      "ja": "ケイコウオ",
       "kr": "형광어",
       "zh": "螢光魚"
     },
@@ -6339,7 +6339,7 @@ let pms = [
       "de": "Lumineon",
       "en": "Lumineon",
       "fr": "Luminéon",
-      "jp": "ネオラント",
+      "ja": "ネオラント",
       "kr": "네오라이트",
       "zh": "霓虹魚"
     },
@@ -6352,7 +6352,7 @@ let pms = [
       "de": "Mantirps",
       "en": "Mantyke",
       "fr": "Babimanta",
-      "jp": "タマンタ",
+      "ja": "タマンタ",
       "kr": "타만타",
       "zh": "小球飛魚"
     },
@@ -6366,7 +6366,7 @@ let pms = [
       "de": "Shnebedeck",
       "en": "Snover",
       "fr": "Blizzi",
-      "jp": "ユキカブリ",
+      "ja": "ユキカブリ",
       "kr": "눈쓰개",
       "zh": "雪笠怪"
     },
@@ -6379,7 +6379,7 @@ let pms = [
       "de": "Rexblisar",
       "en": "Abomasnow",
       "fr": "Blizzaroi",
-      "jp": "ユキノオー",
+      "ja": "ユキノオー",
       "kr": "눈설왕",
       "zh": "暴雪王"
     },
@@ -6392,7 +6392,7 @@ let pms = [
       "de": "Snibunna",
       "en": "Weavile",
       "fr": "Dimoret",
-      "jp": "マニューラ",
+      "ja": "マニューラ",
       "kr": "포푸니라",
       "zh": "瑪狃拉"
     },
@@ -6405,7 +6405,7 @@ let pms = [
       "de": "Magnezone",
       "en": "Magnezone",
       "fr": "Magnézone",
-      "jp": "ジバコイル",
+      "ja": "ジバコイル",
       "kr": "자포코일",
       "zh": "自爆磁怪"
     },
@@ -6418,7 +6418,7 @@ let pms = [
       "de": "Schlurplek",
       "en": "Lickilicky",
       "fr": "Coudlangue",
-      "jp": "ベロベルト",
+      "ja": "ベロベルト",
       "kr": "내룸벨트",
       "zh": "大舌舔"
     },
@@ -6431,7 +6431,7 @@ let pms = [
       "de": "Rihornior",
       "en": "Rhyperior",
       "fr": "Rhinastoc",
-      "jp": "ドサイドン",
+      "ja": "ドサイドン",
       "kr": "거대코뿌리",
       "zh": "超甲狂犀"
     },
@@ -6444,7 +6444,7 @@ let pms = [
       "de": "Tangoloss",
       "en": "Tangrowth",
       "fr": "Bouldeneu",
-      "jp": "モジャンボ",
+      "ja": "モジャンボ",
       "kr": "덩쿠림보",
       "zh": "巨蔓藤"
     },
@@ -6457,7 +6457,7 @@ let pms = [
       "de": "Elevoltek",
       "en": "Electivire",
       "fr": "Élekable",
-      "jp": "エレキブル",
+      "ja": "エレキブル",
       "kr": "에레키블",
       "zh": "電擊魔獸"
     },
@@ -6470,7 +6470,7 @@ let pms = [
       "de": "Magbrant",
       "en": "Magmortar",
       "fr": "Maganon",
-      "jp": "ブーバーン",
+      "ja": "ブーバーン",
       "kr": "마그마번",
       "zh": "鴨嘴炎獸"
     },
@@ -6483,7 +6483,7 @@ let pms = [
       "de": "Togekiss",
       "en": "Togekiss",
       "fr": "Togekiss",
-      "jp": "トゲキッス",
+      "ja": "トゲキッス",
       "kr": "토게키스",
       "zh": "波克基斯"
     },
@@ -6496,7 +6496,7 @@ let pms = [
       "de": "Yanmega",
       "en": "Yanmega",
       "fr": "Yanméga",
-      "jp": "メガヤンマ",
+      "ja": "メガヤンマ",
       "kr": "메가자리",
       "zh": "遠古巨蜓"
     },
@@ -6509,7 +6509,7 @@ let pms = [
       "de": "Folipurba",
       "en": "Leafeon",
       "fr": "Phyllali",
-      "jp": "リーフィア",
+      "ja": "リーフィア",
       "kr": "리피아",
       "zh": "葉伊布"
     },
@@ -6522,7 +6522,7 @@ let pms = [
       "de": "Folipurba",
       "en": "Leafeon",
       "fr": "Phyllali",
-      "jp": "リーフィア",
+      "ja": "リーフィア",
       "kr": "리피아",
       "zh": "葉伊布"
     },
@@ -6536,7 +6536,7 @@ let pms = [
       "de": "Glaziola",
       "en": "Glaceon",
       "fr": "Givrali",
-      "jp": "グレイシア",
+      "ja": "グレイシア",
       "kr": "글레이시아",
       "zh": "冰伊布"
     },
@@ -6549,7 +6549,7 @@ let pms = [
       "de": "Glaziola",
       "en": "Glaceon",
       "fr": "Givrali",
-      "jp": "グレイシア",
+      "ja": "グレイシア",
       "kr": "글레이시아",
       "zh": "冰伊布"
     },
@@ -6563,7 +6563,7 @@ let pms = [
       "de": "Skorgro",
       "en": "Gliscor",
       "fr": "Scorvol",
-      "jp": "グライオン",
+      "ja": "グライオン",
       "kr": "글라이온",
       "zh": "天蠍王"
     },
@@ -6576,7 +6576,7 @@ let pms = [
       "de": "Mamutel",
       "en": "Mamoswine",
       "fr": "Mammochon",
-      "jp": "マンムー",
+      "ja": "マンムー",
       "kr": "맘모꾸리",
       "zh": "象牙豬"
     },
@@ -6589,7 +6589,7 @@ let pms = [
       "de": "Porygon-Z",
       "en": "Porygon-Z",
       "fr": "Porygon-Z",
-      "jp": "ポリゴンＺ",
+      "ja": "ポリゴンＺ",
       "kr": "폴리곤Z",
       "zh": "多邊獸Ｚ"
     },
@@ -6602,7 +6602,7 @@ let pms = [
       "de": "Galagladi",
       "en": "Gallade",
       "fr": "Gallame",
-      "jp": "エルレイド",
+      "ja": "エルレイド",
       "kr": "엘레이드",
       "zh": "艾路雷朵"
     },
@@ -6615,7 +6615,7 @@ let pms = [
       "de": "Voluminas",
       "en": "Probopass",
       "fr": "Tarinorme",
-      "jp": "ダイノーズ",
+      "ja": "ダイノーズ",
       "kr": "대코파스",
       "zh": "大朝北鼻"
     },
@@ -6628,7 +6628,7 @@ let pms = [
       "de": "Zwirrfinst",
       "en": "Dusknoir",
       "fr": "Noctunoir",
-      "jp": "ヨノワール",
+      "ja": "ヨノワール",
       "kr": "야느와르몽",
       "zh": "黑夜魔靈"
     },
@@ -6641,7 +6641,7 @@ let pms = [
       "de": "Frosdedje",
       "en": "Froslass",
       "fr": "Momartik",
-      "jp": "ユキメノコ",
+      "ja": "ユキメノコ",
       "kr": "눈여아",
       "zh": "雪妖女"
     },
@@ -6654,7 +6654,7 @@ let pms = [
       "de": "Rotom",
       "en": "Rotom",
       "fr": "Motisma",
-      "jp": "ロトム",
+      "ja": "ロトム",
       "kr": "로토무",
       "zh": "洛托姆"
     },
@@ -6667,7 +6667,7 @@ let pms = [
       "de": "Selfe",
       "en": "Uxie",
       "fr": "Créhelf",
-      "jp": "ユクシー",
+      "ja": "ユクシー",
       "kr": "유크시",
       "zh": "由克希"
     },
@@ -6680,7 +6680,7 @@ let pms = [
       "de": "Vesprit",
       "en": "Mesprit",
       "fr": "Créfollet",
-      "jp": "エムリット",
+      "ja": "エムリット",
       "kr": "엠라이트",
       "zh": "艾姆利多"
     },
@@ -6693,7 +6693,7 @@ let pms = [
       "de": "Tobutz",
       "en": "Azelf",
       "fr": "Créfadet",
-      "jp": "アグノム",
+      "ja": "アグノム",
       "kr": "아그놈",
       "zh": "亞克諾姆"
     },
@@ -6706,7 +6706,7 @@ let pms = [
       "de": "Dialga",
       "en": "Dialga",
       "fr": "Dialga",
-      "jp": "ディアルガ",
+      "ja": "ディアルガ",
       "kr": "디아루가",
       "zh": "帝牙盧卡"
     },
@@ -6719,7 +6719,7 @@ let pms = [
       "de": "Palkia",
       "en": "Palkia",
       "fr": "Palkia",
-      "jp": "パルキア",
+      "ja": "パルキア",
       "kr": "펄기아",
       "zh": "帕路奇亞"
     },
@@ -6732,7 +6732,7 @@ let pms = [
       "de": "Heatran",
       "en": "Heatran",
       "fr": "Heatran",
-      "jp": "ヒードラン",
+      "ja": "ヒードラン",
       "kr": "히드런",
       "zh": "席多藍恩"
     },
@@ -6745,7 +6745,7 @@ let pms = [
       "de": "Regigigas",
       "en": "Regigigas",
       "fr": "Regigigas",
-      "jp": "レジギガス",
+      "ja": "レジギガス",
       "kr": "레지기가스",
       "zh": "雷吉奇卡斯"
     },
@@ -6758,7 +6758,7 @@ let pms = [
       "de": "Giratina",
       "en": "Giratina",
       "fr": "Giratina",
-      "jp": "ギラティナ",
+      "ja": "ギラティナ",
       "kr": "기라티나",
       "zh": "騎拉帝納"
     },
@@ -6771,7 +6771,7 @@ let pms = [
       "de": "Cresselia",
       "en": "Cresselia",
       "fr": "Cresselia",
-      "jp": "クレセリア",
+      "ja": "クレセリア",
       "kr": "크레세리아",
       "zh": "克雷色利亞"
     },
@@ -6784,7 +6784,7 @@ let pms = [
       "de": "Phione",
       "en": "Phione",
       "fr": "Phione",
-      "jp": "フィオネ",
+      "ja": "フィオネ",
       "kr": "피오네",
       "zh": "霏歐納"
     },
@@ -6797,7 +6797,7 @@ let pms = [
       "de": "Manaphy",
       "en": "Manaphy",
       "fr": "Manaphy",
-      "jp": "マナフィ",
+      "ja": "マナフィ",
       "kr": "마나피",
       "zh": "瑪納霏"
     },
@@ -6810,7 +6810,7 @@ let pms = [
       "de": "Darkrai",
       "en": "Darkrai",
       "fr": "Darkrai",
-      "jp": "ダークライ",
+      "ja": "ダークライ",
       "kr": "다크라이",
       "zh": "達克萊伊"
     },
@@ -6823,7 +6823,7 @@ let pms = [
       "de": "Shaymin",
       "en": "Shaymin",
       "fr": "Shaymin",
-      "jp": "シェイミ",
+      "ja": "シェイミ",
       "kr": "쉐이미",
       "zh": "謝米"
     },
@@ -6836,7 +6836,7 @@ let pms = [
       "de": "Arceus",
       "en": "Arceus",
       "fr": "Arceus",
-      "jp": "アルセウス",
+      "ja": "アルセウス",
       "kr": "아르세우스",
       "zh": "阿爾宙斯"
     },
@@ -6849,7 +6849,7 @@ let pms = [
       "de": "Meltan",
       "en": "Meltan",
       "fr": "Meltan",
-      "jp": "メルタン",
+      "ja": "メルタン",
       "kr": "멜탄",
       "zh": "美錄坦",
     },
@@ -6862,7 +6862,7 @@ let pms = [
       "de": "Melmetal",
       "en": "Melmetal",
       "fr": "Melmetal",
-      "jp": "メルメタル",
+      "ja": "メルメタル",
       "kr": "멜메탈",
       "zh": "美錄梅塔",
     },
