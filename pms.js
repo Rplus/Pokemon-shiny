@@ -1758,7 +1758,7 @@ let pms = [
       "kr": "쏘드라",
       "zh": "墨海馬"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Horsea"
   },
   {
@@ -1771,7 +1771,7 @@ let pms = [
       "kr": "시드라",
       "zh": "海刺龍"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Horsea"
   },
   {
@@ -3373,7 +3373,7 @@ let pms = [
       "kr": "킹드라",
       "zh": "刺龍王"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Horsea"
   },
   {
