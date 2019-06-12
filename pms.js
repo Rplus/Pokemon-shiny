@@ -1456,8 +1456,7 @@ let pms = [
       "kr": "롱스톤",
       "zh": "大岩蛇"
     },
-    "shiny_released": false,
-    "released_date": '2019-06-04T20:00Z',
+    "shiny_released": true,
     "family": "Onix"
   },
   {
@@ -3086,8 +3085,7 @@ let pms = [
       "kr": "강철톤",
       "zh": "大鋼蛇"
     },
-    "shiny_released": false,
-    "released_date": '2019-06-04T20:00Z',
+    "shiny_released": true,
     "family": "Onix"
   },
   {
@@ -4118,8 +4116,7 @@ let pms = [
       "kr": "게을로",
       "zh": "懶人獺"
     },
-    "shiny_released": false,
-    "released_date": '2019/06/08',
+    "shiny_released": true,
     "family": "Slakoth"
   },
   {
@@ -4132,8 +4129,7 @@ let pms = [
       "kr": "발바로",
       "zh": "過動猿"
     },
-    "shiny_released": false,
-    "released_date": '2019/06/08',
+    "shiny_released": true,
     "family": "Slakoth"
   },
   {
@@ -4146,8 +4142,7 @@ let pms = [
       "kr": "게을킹",
       "zh": "請假王"
     },
-    "shiny_released": false,
-    "released_date": '2019/06/08',
+    "shiny_released": true,
     "family": "Slakoth"
   },
   {
@@ -4876,8 +4871,7 @@ let pms = [
       "kr": "릴링",
       "zh": "觸手百合"
     },
-    "shiny_released": false,
-    "released_date": '2019-06-04T20:00Z',
+    "shiny_released": true,
     "family": "Lileep"
   },
   {
@@ -4890,8 +4884,7 @@ let pms = [
       "kr": "릴리요",
       "zh": "搖籃百合"
     },
-    "shiny_released": false,
-    "released_date": '2019-06-04T20:00Z',
+    "shiny_released": true,
     "family": "Lileep"
   },
   {
@@ -4904,8 +4897,7 @@ let pms = [
       "kr": "아노딥스",
       "zh": "太古羽蟲"
     },
-    "shiny_released": false,
-    "released_date": '2019-06-04T20:00Z',
+    "shiny_released": true,
     "family": "Anorith"
   },
   {
@@ -4918,8 +4910,7 @@ let pms = [
       "kr": "아말도",
       "zh": "太古盔甲"
     },
-    "shiny_released": false,
-    "released_date": '2019-06-04T20:00Z',
+    "shiny_released": true,
     "family": "Anorith"
   },
   {
