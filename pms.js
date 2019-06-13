@@ -1039,7 +1039,7 @@ let pms = [
       "kr": "캐이시",
       "zh": "凱西"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Abra"
   },
   {
@@ -1052,7 +1052,7 @@ let pms = [
       "kr": "윤겔라",
       "zh": "勇基拉"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Abra"
   },
   {
@@ -1065,7 +1065,7 @@ let pms = [
       "kr": "후딘",
       "zh": "胡地"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Abra"
   },
   {
