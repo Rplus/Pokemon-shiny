@@ -310,7 +310,7 @@ function getImgUrl(pm, normal) {
   let number = `${pokedex}${pm.type || '_00'}${pm.isotope || ''}`;
   let shiny = normal ? '' : '_shiny';
 
-  return `//images.weserv.nl/?w=200&il&url=${imgBasePath}${number}${shiny}.png${pm.cachebuster || ''}`;
+  return `https://images.weserv.nl/?w=200&il&url=${imgBasePath}${number}${shiny}.png${pm.cachebuster || ''}`;
 }
 
 
