@@ -1,12 +1,12 @@
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js');
 
-workbox.setConfig({ debug: location.hostname === 'localhost' });
+var nPrefix = (cache) => `pm-shiny-cache--${cache}`;
 
 // html
 workbox.routing.registerRoute(
   new RegExp('.*\.html$'),
-  new workbox.strategies.NetworkFirst({
-    cacheName: 'pm-shiny-cache--html'
+  new workbox.strategies.StaleWhileRevalidate({
+    cacheName: nPrefix('html'),
   })
 );
 
@@ -15,7 +15,7 @@ workbox.routing.registerRoute(
   // new RegExp('.\/html2canvas\/'),
   /.*\/(html2canvas.min.js|polyfill.min.js)$/,
   new workbox.strategies.CacheFirst({
-    cacheName: 'pm-shiny-cache--vendor'
+    cacheName: nPrefix('vendor'),
   })
 );
 
@@ -23,7 +23,7 @@ workbox.routing.registerRoute(
 workbox.routing.registerRoute(
   /.*\.js$/,
   new workbox.strategies.StaleWhileRevalidate({
-    cacheName: 'pm-shiny-cache--js'
+    cacheName: nPrefix('js'),
   })
 );
 
@@ -31,7 +31,7 @@ workbox.routing.registerRoute(
 workbox.routing.registerRoute(
   /\.css$/,
   new workbox.strategies.StaleWhileRevalidate({
-    cacheName: 'pm-shiny-cache--css'
+    cacheName: nPrefix('css'),
   })
 );
 
@@ -40,7 +40,7 @@ workbox.routing.registerRoute(
   /\.(?:png|jpg|jpeg|svg|gif)$/,
   // new RegExp('.\/assets\/regular\/.*\.(?:png|jpg|jpeg|svg|gif)'),
   new workbox.strategies.CacheFirst({
-    cacheName: 'pm-shiny-cache--image',
+    cacheName: nPrefix('image'),
   })
 );
 
@@ -48,13 +48,13 @@ workbox.routing.registerRoute(
 workbox.routing.registerRoute(
   /.*weserv.*\.(?:png|jpg|jpeg|svg|gif)$/,
   new workbox.strategies.CacheFirst({
-    cacheName: 'pm-shiny-cache--cdn-image',
+    cacheName: nPrefix('cdn-image'),
     plugins: [
       new workbox.cacheableResponse.Plugin({
         statuses: [0, 200],
       }),
       new workbox.expiration.Plugin({
-        // Cache only 20 images.
+        // Cache only 1000 images.
         maxEntries: 1000,
         // Cache for a maximum of a month.
         maxAgeSeconds: 7 * 24 * 60 * 60 * 30,
