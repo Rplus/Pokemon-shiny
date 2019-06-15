@@ -159,6 +159,35 @@ $space-y: 8px;
   }
 }
 
+.pm-img-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+}
+
+.pm-img {
+  position: absolute;
+  width: var(--bgw, 100%);
+  height: var(--bgw, 100%);
+  margin-left: var(--bgml, unset);
+  margin-top: var(--bgmt, unset);
+
+}
+
+.pm-img--normal {
+  opacity: 0;
+  transition: opacity .3s;
+
+  .pm-info:hover & {
+    opacity: 1;
+  }
+}
+
+
+
 .counter {
   color: rgba(#fff, .6);
   padding-top: 1em;

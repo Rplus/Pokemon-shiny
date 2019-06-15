@@ -83,27 +83,6 @@ function nickname(value) {
 }
 
 
-function imgHandler(pm) {
-  setTimeout(() => {
-    fetch(getImgUrl(pm), { mode: 'cors'})
-    .then((response) => response.blob())
-    .then((blob) => {
-      let imageUrl = URL.createObjectURL(blob);
-      elm.checkList.style.setProperty(`--bgi--${pm.id}`, `url(${imageUrl})`);
-    });
-  }, pm.dex < 30 ? 0 : pm.dex * 3);
-
-  setTimeout(() => {
-    fetch(getImgUrl(pm, true), { mode: 'cors'})
-    .then((response) => response.blob())
-    .then((blob) => {
-      let imageUrl = URL.createObjectURL(blob);
-      elm.checkList.style.setProperty(`--bgi--${pm.id}-n`, `url(${imageUrl})`);
-    });
-  }, pm.dex < 30 ? 0 : pm.dex * 3);
-}
-
-
 let html = Object.values(pmsByFamily)
   .map(family => {
     let pmDom = family.pms
@@ -111,7 +90,6 @@ let html = Object.values(pmsByFamily)
     .map(pm => {
       if (!pm.shiny_released) { return; }
       let name = getName(pm.name);
-      imgHandler(pm);
       return (
         `
         <input
@@ -129,10 +107,19 @@ let html = Object.values(pmsByFamily)
           <div class="pm-info"
             data-dex="${pm.dex}"
             data-id="${pm.id}"
-            style="
-              --bgi: var(--bgi--${pm.id});
-              --bgi-n: var(--bgi--${pm.id}-n);"
           >
+            <div class="pm-img-box">
+              <img
+                class="pm-img pm-img--shiny"
+                crossorigin="anonymous" importance="low" decoding="async"
+                src="${getImgUrl(pm)}"
+              >
+              <img
+                class="pm-img pm-img--normal"
+                crossorigin="anonymous" importance="low" decoding="async"
+                src="${getImgUrl(pm, true)}"
+              >
+            </div>
             <div class="pm-name">${name}</div>
             <div class="pm-mark"></div>
           </div>
