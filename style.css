@@ -457,7 +457,9 @@ button {
   --bgmt: -.2em; }
 
 .pm-info[data-dex="27"] {
-  --bgw: 150%; }
+  --bgw: 150%;
+  --bgml: -.05em;
+  --bgmt: -.35em; }
 
 .pm-info[data-dex="28"] {
   --bgw: 140%;
