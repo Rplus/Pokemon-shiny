@@ -3544,7 +3544,7 @@ let pms = [
       "kr": "라이코",
       "zh": "雷公"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Raikou"
   },
   {
