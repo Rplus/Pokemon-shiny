@@ -11,13 +11,14 @@
   <meta property="og:description" content="Share your Shiny pokemon with url">
   <link rel="shortcut icon" href="./favicon.png" />
   <link rel="stylesheet" href="./style.css">
+  <script>if (/\/$/.test(location.pathname)) { location.pathname += 'index.html'; }</script>
+  <script>if('serviceWorker' in navigator){window.addEventListener('DOMContentLoaded',function(){navigator.serviceWorker.register('./sw.js').then(function(registration){console.log('ServiceWorker registration successful with scope: ',registration.scope)},function(err){console.log('ServiceWorker registration failed: ',err);register()})})}</script>
   <script src="https://polyfill.io/v3/polyfill.min.js" crossorigin="anonymous"></script>
   <script defer src="./pms.js"></script>
   <script defer src="./l10n.js"></script>
   <script defer src="./script.js"></script>
   <link rel="manifest" href="./manifest.json">
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js" integrity="sha256-w6/1B0uwkpR3uX0YUw3k2zzHnq6xDNdVZHLIdz8xV6I=" crossorigin="anonymous"></script>
-  <script>if('serviceWorker' in navigator){window.addEventListener('DOMContentLoaded',function(){navigator.serviceWorker.register('./sw.js').then(function(registration){console.log('ServiceWorker registration successful with scope: ',registration.scope)},function(err){console.log('ServiceWorker registration failed: ',err);register()})})}</script>
 </head>
 <body>
   <div class="workspace">

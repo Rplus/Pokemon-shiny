@@ -1,7 +1,7 @@
 {
 	"name": "Pokémon Shiny",
 	"short_name": "Shiny List",
-	"start_url": "/Pokemon-shiny/",
+	"start_url": "/Pokemon-shiny/index.html",
 	"icons": [{
 		"src": "./icon.png",
 		"sizes": "512x512",
