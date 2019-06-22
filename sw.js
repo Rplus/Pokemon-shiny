@@ -74,7 +74,7 @@ workbox.routing.registerRoute(
 workbox.precaching.precacheAndRoute([
   {
     "url": "index.html",
-    "revision": "0a448d801e1f776198616192fd45bfb6"
+    "revision": "75d85c5e739d39f783a7e1e484367cc4"
   }
 ], {
   // Ignore all URL parameters.
