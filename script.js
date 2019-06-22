@@ -267,18 +267,18 @@ function updateState() {
     show: show,
   }));
 
-  history.pushState(null, null, `./index.html#${para.toString()}`);
+  history.pushState(null, null, `?${para.toString()}`);
   elm.getShortUrl.removeAttribute('href');
   updateShinyCounter();
 }
 
 
 function renderState() {
-  if (location.search) {
-    // translate old para urls to newer rule with hash
-    history.pushState(null, null, `./index.html#${location.search.replace(/^\?/, '')}`);
+  // fix older para format
+  if (!location.search && location.hash) {
+    history.pushState(null, null, `?${location.hash.replace(/^\#/, '')}`);
   }
-  let para = new URLSearchParams(location.hash.replace(/^#/, ''));
+  let para = new URLSearchParams(location.search);
 
   nickname(para.get('nickname'));
 
@@ -348,7 +348,7 @@ elm.getShortUrl.addEventListener('click', (e) => {
 });
 
 function getShortedUrl() {
-  return fetch(`https://script.google.com/macros/s/AKfycbzpbnnYoIv28lkcezbaj170ot7nNkHZMUvI7FI5UBUaQrdD3Kw/exec?url=${encodeURIComponent(location.href.replace('/#', '/?'))}`).then(d => d.text());
+  return fetch(`https://script.google.com/macros/s/AKfycbzpbnnYoIv28lkcezbaj170ot7nNkHZMUvI7FI5UBUaQrdD3Kw/exec?url=${encodeURIComponent(location.href)}`).then(d => d.text());
 }
 
 function shareLink(url) {
