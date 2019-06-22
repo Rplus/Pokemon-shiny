@@ -4638,6 +4638,7 @@ let pms = [
       "zh": "晃晃斑"
     },
     "shiny_released": false,
+    "released_date": '2019-07-01T20:00Z',
     "family": "Spinda"
   },
   {
