@@ -71,12 +71,4 @@ workbox.routing.registerRoute(
   })
 );
 // precache
-workbox.precaching.precacheAndRoute([
-  {
-    "url": "index.html",
-    "revision": "0a448d801e1f776198616192fd45bfb6"
-  }
-], {
-  // Ignore all URL parameters.
-  ignoreURLParametersMatching: [/.*/]
-});
+workbox.precaching.precacheAndRoute([]);
