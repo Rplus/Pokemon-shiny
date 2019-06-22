@@ -278,6 +278,10 @@ $space-y: 8px;
   color: rgba(#fff, .5);
   font-size: smaller;
   font-family: monospace;
+
+  &::before {
+    content: 'update: ' attr(data-updatetime);
+  }
 }
 
 .click-link {

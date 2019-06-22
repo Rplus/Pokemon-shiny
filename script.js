@@ -373,6 +373,12 @@ function shareLink(url) {
 }
 
 
+// update time
+fetch('./manifest.json').then(r => r.json()).then(r => {
+  console.log(r);
+  document.querySelector('.update').dataset.updatetime = r.update;
+});
+
 elm.selectAll = document.querySelector('.select-all');
 elm.selectAll.addEventListener('click', (e) => {
   e.preventDefault();
