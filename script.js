@@ -375,7 +375,6 @@ function shareLink(url) {
 
 // update time
 fetch('./manifest.json').then(r => r.json()).then(r => {
-  console.log(r);
   document.querySelector('.update').dataset.updatetime = r.update;
 });
 
