@@ -348,7 +348,7 @@ elm.getShortUrl.addEventListener('click', (e) => {
 });
 
 function getShortedUrl() {
-  return fetch(`https://script.google.com/macros/s/AKfycbzpbnnYoIv28lkcezbaj170ot7nNkHZMUvI7FI5UBUaQrdD3Kw/exec?url=${encodeURIComponent(location.href)}`).then(d => d.text());
+  return fetch(`https://cors-anywhere.herokuapp.com/http://tinyurl.com/api-create.php?url=${location.href}`).then(d => d.text());
 }
 
 function shareLink(url) {
