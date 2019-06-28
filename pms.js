@@ -302,6 +302,34 @@ let pms = [
     "family": "Rattata"
   },
   {
+    "dex": 19,
+    "name": {
+      "de": "Rattfratz",
+      "en": "Rattata",
+      "fr": "Rattata",
+      "ja": "コラッタ",
+      "kr": "꼬렛",
+      "zh": "小拉達"
+    },
+    "type": "_61",
+    "shiny_released": true,
+    "family": "Rattata_61"
+  },
+  {
+    "dex": 20,
+    "name": {
+      "de": "Rattikarl",
+      "en": "Raticate",
+      "fr": "Rattatac",
+      "ja": "ラッタ",
+      "kr": "레트라",
+      "zh": "拉達"
+    },
+    "type": "_61",
+    "shiny_released": true,
+    "family": "Rattata_61"
+  },
+  {
     "dex": 21,
     "name": {
       "de": "Habitak",
@@ -588,6 +616,34 @@ let pms = [
     "family": "Sandshrew"
   },
   {
+    "dex": 27,
+    "name": {
+      "de": "Sandan",
+      "en": "Sandshrew",
+      "fr": "Sabelette",
+      "ja": "サンド",
+      "kr": "모래두지",
+      "zh": "穿山鼠"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Sandshrew_61"
+  },
+  {
+    "dex": 28,
+    "name": {
+      "de": "Sandamer",
+      "en": "Sandslash",
+      "fr": "Sablaireau",
+      "ja": "サンドパン",
+      "kr": "고지",
+      "zh": "穿山王"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Sandshrew_61"
+  },
+  {
     "dex": 29,
     "name": {
       "de": "Nidoran♀",
@@ -716,6 +772,34 @@ let pms = [
     },
     "shiny_released": false,
     "family": "Vulpix"
+  },
+  {
+    "dex": 37,
+    "name": {
+      "de": "Vulpix",
+      "en": "Vulpix",
+      "fr": "Goupix",
+      "ja": "ロコン",
+      "kr": "식스테일",
+      "zh": "六尾"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Vulpix_61"
+  },
+  {
+    "dex": 38,
+    "name": {
+      "de": "Vulnona",
+      "en": "Ninetales",
+      "fr": "Feunard",
+      "ja": "キュウコン",
+      "kr": "나인테일",
+      "zh": "九尾"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Vulpix_61"
   },
   {
     "dex": 39,
@@ -887,6 +971,34 @@ let pms = [
     "family": "Diglett"
   },
   {
+    "dex": 50,
+    "name": {
+      "de": "Digda",
+      "en": "Diglett",
+      "fr": "Taupiqueur",
+      "ja": "ディグダ",
+      "kr": "디그다",
+      "zh": "地鼠"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Diglett_61"
+  },
+  {
+    "dex": 51,
+    "name": {
+      "de": "Digdri",
+      "en": "Dugtrio",
+      "fr": "Triopikeur",
+      "ja": "ダグトリオ",
+      "kr": "닥트리오",
+      "zh": "三地鼠"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Diglett_61"
+  },
+  {
     "dex": 52,
     "name": {
       "de": "Mauzi",
@@ -911,6 +1023,34 @@ let pms = [
     },
     "shiny_released": false,
     "family": "Meowth"
+  },
+  {
+    "dex": 52,
+    "name": {
+      "de": "Mauzi",
+      "en": "Meowth",
+      "fr": "Miaouss",
+      "ja": "ニャース",
+      "kr": "나옹",
+      "zh": "喵喵"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Meowth_61"
+  },
+  {
+    "dex": 53,
+    "name": {
+      "de": "Snobilikat",
+      "en": "Persian",
+      "fr": "Persian",
+      "ja": "ペルシアン",
+      "kr": "페르시온",
+      "zh": "貓老大"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Meowth_61"
   },
   {
     "dex": 54,
@@ -1212,6 +1352,48 @@ let pms = [
     "family": "Geodude"
   },
   {
+    "dex": 74,
+    "name": {
+      "de": "Kleinstein",
+      "en": "Geodude",
+      "fr": "Racaillou",
+      "ja": "イシツブテ",
+      "kr": "꼬마돌",
+      "zh": "小拳石"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Geodude_61"
+  },
+  {
+    "dex": 75,
+    "name": {
+      "de": "Georok",
+      "en": "Graveler",
+      "fr": "Gravalanch",
+      "ja": "ゴローン",
+      "kr": "데구리",
+      "zh": "隆隆石"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Geodude_61"
+  },
+  {
+    "dex": 76,
+    "name": {
+      "de": "Geowaz",
+      "en": "Golem",
+      "fr": "Grolem",
+      "ja": "ゴローニャ",
+      "kr": "딱구리",
+      "zh": "隆隆岩"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Geodude_61"
+  },
+  {
     "dex": 77,
     "name": {
       "de": "Ponita",
@@ -1379,6 +1561,34 @@ let pms = [
     },
     "shiny_released": true,
     "family": "Grimer"
+  },
+  {
+    "dex": 88,
+    "name": {
+      "de": "Sleima",
+      "en": "Grimer",
+      "fr": "Tadmorv",
+      "ja": "ベトベター",
+      "kr": "질퍽이",
+      "zh": "臭泥"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Grimer_61"
+  },
+  {
+    "dex": 89,
+    "name": {
+      "de": "Sleimok",
+      "en": "Muk",
+      "fr": "Grotadmorv",
+      "ja": "ベトベトン",
+      "kr": "질뻐기",
+      "zh": "臭臭泥"
+    },
+    "shiny_released": true,
+    "type": "_61",
+    "family": "Grimer_61"
   },
   {
     "dex": 90,
@@ -1574,7 +1784,7 @@ let pms = [
       "zh": "椰蛋樹"
     },
     "type": "_61",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Exeggcute"
   },
   {
