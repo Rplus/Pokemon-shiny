@@ -520,6 +520,14 @@
     --bgmt: -.2em;
   }
   &[data-id="103_61"] {
+    --bgw: 150%;
+    --bgml: -0.12em;
+    --bgmt: -0.35em;
+  }
+  &[data-id="103_61"] img {
+    transition: .3s;
+  }
+  &[data-id="103_61"]:hover {
     --bgw: 130%;
     --bgml: -.02em;
     --bgmt: -.0em;

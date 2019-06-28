@@ -844,6 +844,15 @@ button {
   --bgmt: -.2em; }
 
 .pm-info[data-id="103_61"] {
+  --bgw: 150%;
+  --bgml: -0.12em;
+  --bgmt: -0.35em; }
+
+.pm-info[data-id="103_61"] img {
+  -webkit-transition: .3s;
+  transition: .3s; }
+
+.pm-info[data-id="103_61"]:hover {
   --bgw: 130%;
   --bgml: -.02em;
   --bgmt: -.0em; }
