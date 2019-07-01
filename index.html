@@ -5,8 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Pokemon Shiny Checklist</title>
-  <meta property="og:image" content="https://rplus.github.io/Pokemon-shiny/screenshot2.png">
   <meta name="theme-color" content="#ffffcc" id="themecolor">
+  <meta name="description" content="Share your Shiny pokemon with url">
+  <meta property="og:image" content="https://rplus.github.io/Pokemon-shiny/screenshot2.png">
   <meta property="og:title" content="✨ Pokemon Shiny Checklist">
   <meta property="og:description" content="Share your Shiny pokemon with url">
   <link rel="shortcut icon" href="./favicon.png" />
@@ -24,7 +25,7 @@
 
     <header class="header" data-owns="0" data-registered="0">
       <h1>
-        <img src="./favicon.png" width="36" height="36">
+        <img src="./favicon.png" width="36" height="36" alt="">
         Shiny Checklist
       </h1>
 
@@ -76,10 +77,12 @@
 
         <fieldset class="output-wrap">
           <button id="set-output-width" data-l10n="set-width">Set width: </button>
-          <input class="ta-r" id="output-width" type="number"
-            min="200" max="3000" pattern="[0-9]+" step="5"
-            value="900"
-          /> px / 
+          <label>
+            <input class="ta-r" id="output-width" type="number"
+              min="200" max="3000" pattern="[0-9]+" step="5"
+              value="900"
+            /> px / 
+          </label>
           <button type="reset" id="reset-output-width" data-l10n="reset-width">Reset width</button>
 
           <br>

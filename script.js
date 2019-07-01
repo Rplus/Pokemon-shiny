@@ -113,11 +113,13 @@ let html = Object.values(pmsByFamily)
                 class="pm-img pm-img--shiny"
                 crossorigin="anonymous" importance="low" decoding="async"
                 src="${getImgUrl(pm)}"
+                alt="#${pm.dex} ${name}"
               >
               <img
                 class="pm-img pm-img--normal"
                 crossorigin="anonymous" importance="low" decoding="async"
                 src="${getImgUrl(pm, true)}"
+                alt="#${pm.dex} ${name}"
               >
             </div>
             <div class="pm-name">${name}</div>
