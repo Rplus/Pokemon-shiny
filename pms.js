@@ -4848,7 +4848,20 @@ let pms = [
       "zh": "晃晃斑"
     },
     "shiny_released": false,
-    "released_date": '2019-07-01T20:00Z',
+    "family": "Spinda"
+  },
+  {
+    "dex": 327,
+    "name": {
+      "de": "Pandir",
+      "en": "Spinda",
+      "fr": "Spinda",
+      "ja": "パッチール",
+      "kr": "얼루기",
+      "zh": "晃晃斑"
+    },
+    "type": "_18",
+    "shiny_released": true,
     "family": "Spinda"
   },
   {
