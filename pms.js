@@ -3770,7 +3770,7 @@ let pms = [
       "kr": "앤테이",
       "zh": "炎帝"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Entei"
   },
   {
