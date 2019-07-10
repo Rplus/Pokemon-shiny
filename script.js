@@ -1,3 +1,9 @@
+//Obtaining data from LocalStorage to redirect the user
+let savedpath = localStorage.getItem("path")
+if savedpath != null {
+  window.replace(savedpath)
+}
+
 let elm = {};
 let today = new Date();
 elm.body = document.querySelector('body');
@@ -82,6 +88,10 @@ function nickname(value) {
   }
 }
 
+function setlocalstorage() {
+  localStorage.setItem("path",window.location.href);
+}
+
 
 let html = Object.values(pmsByFamily)
   .map(family => {
@@ -142,6 +152,9 @@ elm.checkList.addEventListener('change', (e) => {
   updateCheckboxState(pm, nextState[pm.dataset.state] || '1');
 
   let state = pm.dataset.state;
+
+  //Setting current path in LocalStorage
+  setlocalstorage()
 
   updateCheckedState(id, state);
   updateState();
