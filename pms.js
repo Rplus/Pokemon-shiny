@@ -693,7 +693,6 @@ let pms = [
       "zh": "尼多朗"
     },
     "shiny_released": true,
-    "released_date": "2019-07-04T08:00Z",
     "family": "Nidoran Male"
   },
   {
@@ -707,7 +706,6 @@ let pms = [
       "zh": "尼多力諾"
     },
     "shiny_released": true,
-    "released_date": "2019-07-04T08:00Z",
     "family": "Nidoran Male"
   },
   {
@@ -721,7 +719,6 @@ let pms = [
       "zh": "尼多王"
     },
     "shiny_released": true,
-    "released_date": "2019-07-04T08:00Z",
     "family": "Nidoran Male"
   },
   {
