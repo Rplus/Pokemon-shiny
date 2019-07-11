@@ -692,8 +692,7 @@ let pms = [
       "kr": "니드런♂",
       "zh": "尼多朗"
     },
-    "shiny_released": false,
-    "released_date": "2019-07-04T08:00Z",
+    "shiny_released": true,
     "family": "Nidoran Male"
   },
   {
@@ -706,8 +705,7 @@ let pms = [
       "kr": "니드리노",
       "zh": "尼多力諾"
     },
-    "shiny_released": false,
-    "released_date": "2019-07-04T08:00Z",
+    "shiny_released": true,
     "family": "Nidoran Male"
   },
   {
@@ -720,8 +718,7 @@ let pms = [
       "kr": "니드킹",
       "zh": "尼多王"
     },
-    "shiny_released": false,
-    "released_date": "2019-07-04T08:00Z",
+    "shiny_released": true,
     "family": "Nidoran Male"
   },
   {
