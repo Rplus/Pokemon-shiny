@@ -3949,7 +3949,7 @@ let pms = [
       "kr": "물짱이",
       "zh": "水躍魚"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Mudkip"
   },
   {
@@ -3962,7 +3962,7 @@ let pms = [
       "kr": "늪짱이",
       "zh": "沼躍魚"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Mudkip"
   },
   {
@@ -3975,7 +3975,7 @@ let pms = [
       "kr": "대짱이",
       "zh": "巨沼怪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Mudkip"
   },
   {
