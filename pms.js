@@ -576,6 +576,20 @@ let pms = [
     "family": "Pikachu_07"
   },
   {
+    "dex": 25,
+    "isotope": "_10",
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "family": "Pikachu_10"
+  },
+  {
     "dex": 26,
     "name": {
       "de": "Raichu",
