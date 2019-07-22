@@ -11,10 +11,10 @@
   display: -ms-inline-flexbox;
   display: inline-flex;
   -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+      flex-wrap: wrap;
   -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 20px;
@@ -169,9 +169,9 @@
     height: .5em;
     background-color: rgba(255, 255, 255, 0.2);
     -webkit-transform: scaleX(var(--r));
-    transform: scaleX(var(--r));
+            transform: scaleX(var(--r));
     -webkit-transform-origin: 0 50%;
-    transform-origin: 0 50%;
+            transform-origin: 0 50%;
     -webkit-transition: -webkit-transform .3s;
     transition: -webkit-transform .3s;
     transition: transform .3s;
@@ -254,8 +254,8 @@ button {
   display: inline-flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column; }
+      -ms-flex-direction: column;
+          flex-direction: column; }
   .get-shorturl[href^="http"] [data-l10n="get-short-url"] {
     display: none; }
   .get-shorturl[href^="http"] [data-l10n="share-with-short-url"] {
@@ -273,14 +273,14 @@ button {
   display: inline-flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column; }
+      -ms-flex-direction: column;
+          flex-direction: column; }
   .get-shorturl.is-fetching::after {
     content: '...';
     padding-left: .5em;
     padding-right: .5em;
     -webkit-animation: waiting 1s infinite;
-    animation: waiting 1s infinite; }
+            animation: waiting 1s infinite; }
 
 @-webkit-keyframes waiting {
   0%, 100% {
@@ -2623,7 +2623,7 @@ body.print .pm-checkbox:not(:checked) + .pm-info {
   margin: 0;
   padding: 0;
   -webkit-box-sizing: border-box;
-  box-sizing: border-box; }
+          box-sizing: border-box; }
 
 .workspace {
   background-color: inherit; }

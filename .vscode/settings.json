@@ -1,0 +1,10 @@
+{
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.formats":[
+    {
+        "format": "nested",
+        "extensionName": ".css",
+        "savePath": null
+    }
+  ]
+}
