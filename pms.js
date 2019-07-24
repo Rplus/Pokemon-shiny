@@ -4250,6 +4250,7 @@ let pms = [
       "zh": "拉魯拉絲"
     },
     "shiny_released": false,
+    "released_date": '2019/08/03',
     "family": "Ralts"
   },
   {
@@ -4263,6 +4264,7 @@ let pms = [
       "zh": "奇魯莉安"
     },
     "shiny_released": false,
+    "released_date": '2019/08/03',
     "family": "Ralts"
   },
   {
@@ -4276,6 +4278,7 @@ let pms = [
       "zh": "沙奈朵"
     },
     "shiny_released": false,
+    "released_date": '2019/08/03',
     "family": "Ralts"
   },
   {
