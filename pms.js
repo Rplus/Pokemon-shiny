@@ -6839,6 +6839,7 @@ let pms = [
       "zh": "艾路雷朵"
     },
     "shiny_released": false,
+    "released_date": '2019/08/03',
     "family": "Ralts"
   },
   {
