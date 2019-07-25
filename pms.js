@@ -365,7 +365,7 @@ let pms = [
       "kr": "아보",
       "zh": "阿柏蛇"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Ekans"
   },
   {
@@ -378,7 +378,7 @@ let pms = [
       "kr": "아보크",
       "zh": "阿柏怪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Ekans"
   },
   {
@@ -1890,7 +1890,7 @@ let pms = [
       "kr": "또가스",
       "zh": "瓦斯彈"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Koffing"
   },
   {
@@ -1903,7 +1903,7 @@ let pms = [
       "kr": "또도가스",
       "zh": "雙彈瓦斯"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Koffing"
   },
   {
