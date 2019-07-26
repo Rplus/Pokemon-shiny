@@ -851,7 +851,7 @@ let pms = [
       "kr": "주뱃",
       "zh": "超音蝠"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Zubat"
   },
   {
@@ -864,7 +864,7 @@ let pms = [
       "kr": "골뱃",
       "zh": "大嘴蝠"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Zubat"
   },
   {
@@ -2726,7 +2726,7 @@ let pms = [
       "kr": "크로뱃",
       "zh": "叉字蝠"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Zubat"
   },
   {
@@ -3400,7 +3400,7 @@ let pms = [
       "kr": "포푸니",
       "zh": "狃拉"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Sneasel"
   },
   {
@@ -6628,7 +6628,7 @@ let pms = [
       "kr": "포푸니라",
       "zh": "瑪狃拉"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Sneasel"
   },
   {
