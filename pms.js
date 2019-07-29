@@ -5621,6 +5621,7 @@ let pms = [
       "zh": "烈空坐"
     },
     "shiny_released": false,
+    "released_date": '2019-07-31T21:00Z',
     "family": "Rayquaza"
   },
   {
