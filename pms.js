@@ -2982,7 +2982,7 @@ let pms = [
       "kr": "꼬지모",
       "zh": "樹才怪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Sudowoodo"
   },
   {
@@ -6326,7 +6326,7 @@ let pms = [
       "zh": "盆才怪"
     },
     "order": -1,
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Sudowoodo"
   },
   {
