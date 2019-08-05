@@ -1154,7 +1154,7 @@ let pms = [
       "kr": "발챙이",
       "zh": "蚊香蝌蚪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Poliwag"
   },
   {
@@ -1167,7 +1167,7 @@ let pms = [
       "kr": "슈륙챙이",
       "zh": "蚊香君"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Poliwag"
   },
   {
@@ -1180,7 +1180,7 @@ let pms = [
       "kr": "강챙이",
       "zh": "蚊香泳士"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Poliwag"
   },
   {
@@ -2995,7 +2995,7 @@ let pms = [
       "kr": "왕구리",
       "zh": "蚊香蛙皇"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Poliwag"
   },
   {
