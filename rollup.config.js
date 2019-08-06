@@ -27,6 +27,10 @@ export default {
         postcss: {
           plugins: [
             require('autoprefixer')(),
+            require('postcss-import')({
+            	path: ['src/style'],
+            }),
+            require('postcss-nested'),
           ]
         },
       }),

@@ -1,10 +1,7 @@
-import App from './App.html';
+import App from './App.html'
 
 const app = new App({
-	target: document.body,
-	props: {
-		name: 'world'
-	}
-});
+    target: document.body
+})
 
-export default app;
+export default app
