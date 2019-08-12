@@ -2794,6 +2794,21 @@ let pms = [
       "kr": "피츄",
       "zh": "皮丘"
     },
+    "isotope": "_03",
+    "shiny_released": true,
+    "order": -1,
+    "family": "Pikachu_03"
+  },
+  {
+    "dex": 172,
+    "name": {
+      "de": "Pichu",
+      "en": "Pichu",
+      "fr": "Pichu",
+      "ja": "ピチュー",
+      "kr": "피츄",
+      "zh": "皮丘"
+    },
     "isotope": "_04",
     "shiny_released": true,
     "order": -1,
