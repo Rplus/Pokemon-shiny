@@ -1,28 +1,79 @@
 <script>
-  import { createEventDispatcher } from 'svelte';
-  const dispatch = createEventDispatcher();
+import { createEventDispatcher } from 'svelte';
+const dispatch = createEventDispatcher();
 
-  // import { historeUrls, savedUrl } from '../stores.js';
-  // import { getPmName, urlCoCoCo, getPM } from './u.js';
+import {
+  searchStr,
+  lang,
+  show,
+  nickname,
+  dex,
+} from '../stores.js';
 
-  function applyUrl(p) {
-    dispatch('apply', {
-      url: p,
-    });
+import {
+  saveItem,
+  getItem,
+  getISOFormatedTime,
+} from '../u.js';
+
+let urls = getItem('urls') || {};
+
+$: urls;
+
+function save() {
+  console.log('save', $searchStr);
+
+  window.getItem = getItem;
+  let _searchObj = new URLSearchParams($searchStr);
+  let title = _searchObj.get('nickname') || '';
+
+  urls[title] = {
+    value: _searchObj.toString(),
+    time: getISOFormatedTime(),
+  };
+  updateUrl();
+}
+
+function remove(savedItem) {
+  if (urls[savedItem]) {
+    urls[savedItem] = {};
+    delete urls[savedItem];
+    updateUrl();
   }
+}
 
-  function itemTitle(url) {
-    let o = urlCoCoCo(url);
-    let n = getPmName(getPM(o.uid).ddex, o.lang);
-    return [n, ...url.split('&')].map(i => {
-      let ii = i.split('=').reverse();
+function updateUrl() {
+  saveItem({
+    key: 'urls',
+    value: urls,
+  });
+}
 
-      return `<span class="i ib">
-        <sup>${ii[1] || ''}</sup>
-        ${ii[0] || ''}
-      </span>`
-    }).join('')
-  }
+function apply(urlStr) {
+  let urlP = new URLSearchParams(urlStr);
+  $lang = urlP.get('lang');
+  $show = urlP.get('show');
+  $nickname = urlP.get('nickname');
+  // $dex = urlP.get('dex');
+  // $own = urlP.get('own');
+}
+
 </script>
 
 urlss~~~
+<button on:click={ save }>Save</button>
+
+
+{#each Object.keys(urls) as savedItem}
+  <div class="saved-item">
+    <button on:click|preventDefault={ remove.bind(this, savedItem) }>x</button>
+    <a
+      href="./?{ urls[savedItem].value }"
+      class:active={ savedItem === $nickname }
+      on:click|preventDefault={ apply.bind(this, urls[savedItem].value) }
+    >{ savedItem }</a>
+    <code>{ urls[savedItem].value }</code>
+  </div>
+  <hr>
+{/each}
+

@@ -1,6 +1,6 @@
 <script>
 import { getPM } from '../pms.js';
-import { lang, langs, tags, search } from '../stores.js';
+import { lang, langs, show, shows, dex } from '../stores.js';
 
 let pmsByFamily = [];
 
@@ -19,7 +19,7 @@ let updateStatus = () => {
   pmsByFamily.status = {};
   pmsByFamily.forEach(calcStatus);
   // console.log('pmsByFamily.status', pmsByFamily.status);
-  getDexSearchParams(pmsByFamily.status);
+  updateSearchParams(pmsByFamily.status);
 };
 
 function calcStatus(f) {
@@ -45,17 +45,17 @@ function calcAllStatus(_status, _id) {
   pmsByFamily.status[_status].push(_id);
 };
 
-function getDexSearchParams(status) {
+function updateSearchParams(status) {
   // 0: pokedex
   // 1: registered
   // 2: in packages
   let props = [1, 2];
-  let _search = {};
+  let _dex = {};
   for (let index in props) {
     let key = props[index];
-    _search[key] = status[key] ? status[key].join('-') : null;
+    _dex[key] = status[key] ? status[key].join('-') : null;
   }
-  $search = { ...$search, ..._search };
+  $dex = { ...$dex, ..._dex };
 };
 
 $: {
@@ -67,13 +67,13 @@ $: {
 <div>
 Counter:
 {#each Object.entries(pmsByFamily.status) as sAll}
-【 { tags[sAll[0]] }/{ sAll[1].length } 】
+【 { shows[sAll[0]] }/{ sAll[1].length } 】
 {/each}
 </div>
 
 <hr>
 
-<div class="pm-list">
+<div class="pm-list" data-show="{ $show }">
   {#each pmsByFamily as pmGroup, pmGroupIndex}
   <div class="pm-group"
     data-family="{ pmGroup.family }"
