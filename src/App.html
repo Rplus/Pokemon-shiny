@@ -16,15 +16,15 @@ var s = 'nickname=Rplus&own=1-4-6-9-12-18-172-25-25_02-26_06-25_04-25_01-173-174
 
 $: gg = qs.parse(s);
 
-console.log(qs.parse(s));
+// console.log(qs.parse(s));
 
 $: x = [123, 234, 345];
 
 </script>
 
-<h1>svelte-spa-router example</h1>
 <!-- Navigation links, using the "link" action -->
 <!-- Also, use the "active" action to add the "active" CSS class when the URL matches -->
+<!--
 <ul class="navigation-links">
   <li><a href="/" use:link use:active>Home</a></li>
   <li><a href="/brand" use:link><p>Brand</p></a></li>
@@ -33,23 +33,21 @@ $: x = [123, 234, 345];
 </ul>
 
 { gg.show }
-<!-- Navigate with buttons -->
 <p class="navigation-buttons">
   <button on:click={() => push('/wild/something')}>Visit /wild/something</button>
   <button on:click={() => pop()}>Go back</button>
   <button on:click={() => replace('/wild/replaced')}>Replace current page</button>
 </p>
 
-<!-- Query string -->           
 <a href="/hello/svelte?quantity=100" use:link use:active={'/hello/*'}>Querystring args</a>
+-->
+<!--
+// Query string
 <hr>
 {#each x as i}
 <br>
 <a href="/hello/svelte?quantity={i}" use:link use:active={'/hello/*'}>{ i }</a>
 {/each}
-
-
-<!-- Show the current path -->
 <p>
   Current path: <code id="currentpath">{$location}</code>
   <br/>
@@ -58,6 +56,7 @@ $: x = [123, 234, 345];
   <br>
   { qs.parse($querystring).quantity }
 </p>
+-->
 
 <!-- Show the router -->
 <Router {routes}/>
