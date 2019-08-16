@@ -3809,7 +3809,7 @@ let pms = [
       "kr": "스이쿤",
       "zh": "水君"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Suicune"
   },
   {
