@@ -54,7 +54,7 @@ workbox.routing.registerRoute(
 
 // cdn images
 workbox.routing.registerRoute(
-  /.*weserv.*\.(?:png|jpg|jpeg|svg|gif)$/,
+  /.*PogoAssets.*\.(?:png|jpg|jpeg|svg|gif)$/,
   new workbox.strategies.CacheFirst({
     cacheName: nPrefix('cdn-image'),
     plugins: [
