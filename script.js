@@ -114,12 +114,14 @@ let html = Object.values(pmsByFamily)
                 crossorigin="anonymous" importance="low" decoding="async"
                 src="${getImgUrl(pm)}"
                 alt="#${pm.dex} ${name}"
+                loading="lazy"
               >
               <img
                 class="pm-img pm-img--normal"
                 crossorigin="anonymous" importance="low" decoding="async"
                 src="${getImgUrl(pm, true)}"
                 alt="#${pm.dex} ${name}"
+                loading="lazy"
               >
             </div>
             <div class="pm-name">${name}</div>
