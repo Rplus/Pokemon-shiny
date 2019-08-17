@@ -4,3 +4,8 @@
 a.active {
   color: red;
 }
+
+body {
+  background-color: #fff;
+  color: #000;
+}

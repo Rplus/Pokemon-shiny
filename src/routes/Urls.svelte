@@ -5,6 +5,7 @@ const dispatch = createEventDispatcher();
 import {
   searchStr,
   lang,
+  shows,
   show,
   nickname,
   dex,
@@ -16,33 +17,59 @@ import {
   getISOFormatedTime,
 } from '../u.js';
 
-let urls = getItem('urls') || {};
+let urls = getItem('urls') || [];
 
-$: urls;
+const defaultOptions = {
+  lang: 'en',
+  show: 'all',
+  nickname: '?',
+};
+
+if (location.search) {
+  apply(location.search.slice(1));
+  history.pushState({}, null, './');
+} else if (urls.length > 0) {
+  sortUrls();
+  console.log(1111111111, urls[0].value);
+  apply(urls[0].value);
+}
 
 function save() {
-  console.log('save', $searchStr);
-
-  window.getItem = getItem;
   let _searchObj = new URLSearchParams($searchStr);
-  let title = _searchObj.get('nickname') || '';
+  let _title = _searchObj.get('nickname') || '';
 
-  urls[title] = {
+  let newItem = {
+    title: _title,
     value: _searchObj.toString(),
-    time: getISOFormatedTime(),
+    time: +new Date(),
   };
+
+  let index = findIndexByTitle(_title);
+
+  if (index === -1) {
+    index = urls.length;
+  }
+  urls[index] = newItem;
+
   updateUrl();
 }
 
 function remove(savedItem) {
-  if (urls[savedItem]) {
-    urls[savedItem] = {};
-    delete urls[savedItem];
+  let index = findIndexByTitle(savedItem);
+  console.log('savedItem', savedItem, index);
+  if (index !== -1) {
+    urls.splice(index, 1);
+    urls._trigger = null;
     updateUrl();
   }
 }
 
+function findIndexByTitle(title) {
+  return urls.findIndex(url => url.title === title);
+}
+
 function updateUrl() {
+  sortUrls();
   saveItem({
     key: 'urls',
     value: urls,
@@ -51,28 +78,37 @@ function updateUrl() {
 
 function apply(urlStr) {
   let urlP = new URLSearchParams(urlStr);
-  $lang = urlP.get('lang');
-  $show = urlP.get('show');
-  $nickname = urlP.get('nickname');
-  // $dex = urlP.get('dex');
-  // $own = urlP.get('own');
+  $lang = urlP.get('lang') || defaultOptions.lang;
+  $show = urlP.get('show') || defaultOptions.show;
+  $nickname = urlP.get('nickname') || defaultOptions.nickname;
+
+  $dex = shows.reduce((all, i) => {
+    all[i] = urlP.get(i);
+    return all;
+  }, {});
 }
 
+function sortUrls() {
+  urls.sort((a, b) => {
+    return b.time - a.time;
+  });
+}
 </script>
 
 urlss~~~
 <button on:click={ save }>Save</button>
 
 
-{#each Object.keys(urls) as savedItem}
+{#each urls as savedItem (savedItem.time)}
   <div class="saved-item">
-    <button on:click|preventDefault={ remove.bind(this, savedItem) }>x</button>
+    <button on:click|preventDefault={ remove.bind(this, savedItem.title) }>x</button>
     <a
-      href="./?{ urls[savedItem].value }"
+      href="./?{ savedItem.value }"
       class:active={ savedItem === $nickname }
-      on:click|preventDefault={ apply.bind(this, urls[savedItem].value) }
-    >{ savedItem }</a>
-    <code>{ urls[savedItem].value }</code>
+      on:click|preventDefault={ apply.bind(this, savedItem.value) }
+    >{ savedItem.title }</a>
+    <code>{ savedItem.value }</code>
+    <time datatime={ getISOFormatedTime(savedItem.time) }>{ getISOFormatedTime(savedItem.time).slice(0, 10) }</time>
   </div>
   <hr>
 {/each}

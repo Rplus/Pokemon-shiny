@@ -46,11 +46,18 @@ $: {
 <br>
 
   <a href="###" on:click|preventDefault={ selectAll }>select all</a>
-  <a href="./">reset</a>
+  <a href="./?1">reset</a>
 
 <br>
-【{ $searchStr }】
+
+<input class="ggg" type="text" value={ $searchStr }>
 
 <hr>
 <hr>
 <hr>
+
+<style>
+.ggg {
+  width: 100%;
+}
+</style>

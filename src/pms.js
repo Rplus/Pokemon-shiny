@@ -31,6 +31,17 @@ function groupByFamily(pms) {
     f[1].pms.sort(sortPM);
     return f[1];
   });
+  pmsByFamily.map = {};
+
+  pmsByFamily.forEach((f, fi) => {
+    f.pms.forEach((p, pi) => {
+      pmsByFamily.map[p.id] = {
+        fi,
+        pi,
+      };
+    });
+  });
+
   return pmsByFamily;
 };
 
