@@ -4264,8 +4264,7 @@ let pms = [
       "kr": "랄토스",
       "zh": "拉魯拉絲"
     },
-    "shiny_released": false,
-    "released_date": '2019/08/03',
+    "shiny_released": true,
     "family": "Ralts"
   },
   {
@@ -4278,8 +4277,7 @@ let pms = [
       "kr": "킬리아",
       "zh": "奇魯莉安"
     },
-    "shiny_released": false,
-    "released_date": '2019/08/03',
+    "shiny_released": true,
     "family": "Ralts"
   },
   {
@@ -4292,8 +4290,7 @@ let pms = [
       "kr": "가디안",
       "zh": "沙奈朵"
     },
-    "shiny_released": false,
-    "released_date": '2019/08/03',
+    "shiny_released": true,
     "family": "Ralts"
   },
   {
@@ -5639,8 +5636,7 @@ let pms = [
       "kr": "레쿠쟈",
       "zh": "烈空坐"
     },
-    "shiny_released": false,
-    "released_date": '2019-07-31T21:00Z',
+    "shiny_released": true,
     "family": "Rayquaza"
   },
   {
@@ -6858,8 +6854,7 @@ let pms = [
       "kr": "엘레이드",
       "zh": "艾路雷朵"
     },
-    "shiny_released": false,
-    "released_date": '2019/08/03',
+    "shiny_released": true,
     "family": "Ralts"
   },
   {
