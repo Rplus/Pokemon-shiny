@@ -310,11 +310,15 @@ function renderState() {
 
 function getImgUrl(pm, normal) {
   let pokedex = `${pm.dex}`.padStart(3, '0');
-  let imgBasePath = 'raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_';
+  let imgBasePath = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_';
+  // // for dev
+  // let imgBasePath = './PogoAssets/pokemon_icons/pokemon_icon_';
+
   let number = `${pokedex}${pm.type || '_00'}${pm.isotope || ''}`;
   let shiny = normal ? '' : '_shiny';
 
-  return `https://images.weserv.nl/?w=200&il&url=${imgBasePath}${number}${shiny}.png${pm.cachebuster || ''}`;
+  // return `https://images.weserv.nl/?w=200&il&url=${imgBasePath}${number}${shiny}.png${pm.cachebuster || ''}`;
+  return `${imgBasePath}${number}${shiny}.png${pm.cachebuster || ''}`;
 }
 
 
