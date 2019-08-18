@@ -4,7 +4,16 @@ import { saveItem, getItem } from './u.js';
 export const nickname = writable('?');
 
 export const langs = ['de', 'en', 'fr', 'ja', 'kr', 'zh'];
-export const lang = writable(langs[5]);
+
+let _langIndex = langs.indexOf(
+  navigator.language && navigator.language.split('-').shift()
+);
+
+if (_langIndex === -1) {
+  _langIndex = 1;
+}
+
+export const lang = writable(langs[_langIndex]);
 
 export const shows = ['all', 'dex', 'own', 'offer'];
 export const show = writable(shows[0]);
