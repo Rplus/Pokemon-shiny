@@ -1,64 +1,7 @@
 <script>
-// Import the router component
-import * as qs from 'qs';
-
-import Router from 'svelte-spa-router'
-// Import the "link" action and the methods to control history programmatically from the same module, as well as the location store
-import {link, push, pop, replace, location, querystring} from 'svelte-spa-router'
-
-// Import the "active" action
-import active from 'svelte-spa-router/active'
-
-// Import the list of routes
-import routes from './routes'
-
-var s = 'nickname=Rplus&own=1-4-6-9-12-18-172-25-25_02-26_06-25_04-25_01-173-174-50-51-54-55-57-58-59-68-76-77-78-90-91-93-94-95-208-97-99-105-230-212-240-127-129-130-131-133-134-135-136-196-197-470-471-133_07-139-141-142-144-145-146-147-152-154-155-157-158-160-175-178-179-190-424-191-192-430-360-205-210-213-473-225-229-246-248-249-250-252-254-255-257-262-270-272-278-279-287-289-297-303-306-307-308-311-312-406-407-320-321-326-333-345-346-348-349-350-351-353-354-355-477-359-361-366-367-368-370-371-374-376-380-381-382-383-403-425-427-428-437-808-809&dex=1-2-3-4-5-6-7-8-9-10-11-12-16-17-18-25-26-25_06-26_04-50-54-56-57-59-66-67-74-75-76-78-91-92-94-96-97-98-99-104-116-117-123-138-140-148-149-153-156-159-172-177-180-181-198-204-209-220-221-228-247-253-256-261-271-288-296-304-305-315-325-347-356-372-373-375-436-25_02-26_06-25_04-25_01-51-55-58-68-77-90-93-95-105-127-129-130-131-133-134-135-136-173-174-196-197-208-212-230-240-470-471-133_07-139-141-142-144-145-146-147-152-154-155-157-158-160-175-178-179-190-191-192-205-210-213-225-229-246-248-249-250-252-254-255-257-262-270-272-278-279-287-289-297-303-306-307-308-311-312-320-321-326-333-345-346-348-349-350-351-353-354-355-359-360-361-366-367-368-370-371-374-376-380-381-382-383-403-406-407-424-425-427-428-430-437-473-477-808-809&show=all';
-
-$: gg = qs.parse(s);
-
-// console.log(qs.parse(s));
-
-$: x = [123, 234, 345];
-
+import Home from './routes/Home.svelte'
 </script>
 
-<!-- Navigation links, using the "link" action -->
-<!-- Also, use the "active" action to add the "active" CSS class when the URL matches -->
-<!--
-<ul class="navigation-links">
-  <li><a href="/" use:link use:active>Home</a></li>
-  <li><a href="/brand" use:link><p>Brand</p></a></li>
-  <li><a href="/hello/svelte" use:link use:active={'/hello/*', 'active'}>Say hi!</a></li>
-  <li><a href="/does/not/exist" use:link>Not found</a></li>
-</ul>
-
-{ gg.show }
-<p class="navigation-buttons">
-  <button on:click={() => push('/wild/something')}>Visit /wild/something</button>
-  <button on:click={() => pop()}>Go back</button>
-  <button on:click={() => replace('/wild/replaced')}>Replace current page</button>
-</p>
-
-<a href="/hello/svelte?quantity=100" use:link use:active={'/hello/*'}>Querystring args</a>
--->
-<!--
-// Query string
-<hr>
-{#each x as i}
-<br>
-<a href="/hello/svelte?quantity={i}" use:link use:active={'/hello/*'}>{ i }</a>
-{/each}
-<p>
-  Current path: <code id="currentpath">{$location}</code>
-  <br/>
-  Querystring: <code id="currentqs">{$querystring}</code>
-
-  <br>
-  { qs.parse($querystring).quantity }
-</p>
--->
-
-<!-- Show the router -->
-<Router {routes}/>
-
 <style src="./style/main.css" global></style>
+
+<Home />
