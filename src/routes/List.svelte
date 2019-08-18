@@ -21,8 +21,7 @@ getPM()
   $dex.trigger = null;
   delete $dex.trigger;
 
-  window.pmsByFamily = pmsByFamily;
-  console.log('got data', $dex);
+  // window.pmsByFamily = pmsByFamily;
 });
 
 function click(pmGroupIndex, pmIndex) {
@@ -63,20 +62,22 @@ function calcAllStatus(_status, _id) {
 
 function updateSearchParams() {
   if (!gotData) { return; }
+
   let status = pmsByFamily.status;
   let _dex = {};
-  console.log(showsIndex);
+
   for (let index in showsIndex) {
     if (index === '0') { continue; } // skip 'all: 0' status
 
     let key = showsIndex[index];
     _dex[shows[index]] = status[key] ? status[key].join('-') : null;
   }
+
   $dex = { ...$dex, ..._dex };
 };
 
 function applyDex(_dex) {
-  console.log('applyDex', _dex);
+  // console.log('applyDex', _dex);
   if (!gotData) { return; }
 
   let _map = {};

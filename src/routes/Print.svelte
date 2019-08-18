@@ -65,7 +65,6 @@ $: {
 <fieldset>
   <legend data-l10n="export">Export</legend>
 
-
   Width:
   <label>
     <input type="number"

@@ -25,12 +25,12 @@ const defaultOptions = {
   nickname: '?',
 };
 
+// init with location.search or storage
 if (location.search) {
   apply(location.search.slice(1));
   history.pushState({}, null, './');
 } else if (urls.length > 0) {
   sortUrls();
-  console.log(1111111111, urls[0].value);
   apply(urls[0].value);
 }
 
