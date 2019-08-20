@@ -22,6 +22,8 @@ export const showUnregistered = writable(false);
 export const dex = writable({});
 export const pmTotalStatus = writable({});
 
+export const compareImg = writable(false);
+
 export const searchStr = derived(
   [dex, nickname, lang, show],
   ([$dex, $nickname, $lang, $show]) => genSearchStr({

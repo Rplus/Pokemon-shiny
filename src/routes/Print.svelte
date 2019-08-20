@@ -48,10 +48,12 @@ function generateImg(argument) {
 }
 
 function setWidth() {
+  printTarget.classList.add('overwrite-width');
   printTarget.style.width = `${exportWidth}.px`;
 }
 
 function resetWidth() {
+  printTarget.classList.remove('overwrite-width');
   printTarget.style.width = 'unset';
   exportWidthDefault = printTarget.clientWidth;
   exportImgSrc = defaultImgSrc;
@@ -159,5 +161,9 @@ $: {
 legend {
   border: 1px dotted #000;
   padding: .35em 1em;
+}
+
+.overwrite-width .pm-list {
+  max-width: unset;
 }
 </style>

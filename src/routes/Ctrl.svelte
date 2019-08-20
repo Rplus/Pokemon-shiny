@@ -12,13 +12,17 @@ import {
 import GitHubCorner from './Github-icon.html';
 import Share from './Share.html';
 
-function selectAll(argument) {
+function selectAll() {
+  if (!$pmTotalStatus[0]) {
+    return;
+  }
+
   $dex = {
     ...$dex,
     ...{
-      dex: $dex.dex.concat($pmTotalStatus[0].join('-')),
+      dex: `${$dex.dex}-${$pmTotalStatus[0].join('-')}`,
     },
-  }
+  };
 }
 
 $: {
@@ -43,11 +47,20 @@ let counter = {
   },
 };
 
+window.counter=  counter;
+
 let shadowNicename;
 let nicknameWidth;
+let defaultStatus = {
+  0: [],
+  1: [],
+  2: [],
+  3: [],
+};
 
 $: {
-  let allCount = Object.values($pmTotalStatus).map(i => i.length);
+  let _status = { ...defaultStatus, ...$pmTotalStatus }
+  let allCount = Object.values(_status).map(i => i.length);
   counterLabel.forEach((i, idx) => {
     counter[i] = allCount.slice(idx).reduce((all, i) => all + i, 0);
   });
@@ -58,7 +71,6 @@ $: {
 
 let switcher = {
   ctrl: false,
-  ctrl: true,
 };
 
 </script>
@@ -122,8 +134,7 @@ let switcher = {
 
   <GitHubCorner />
 </header>
-
-<section class="ctrlor hide-for-print">
+ <section class="ctrlor hide-for-print">
 
   <input type="checkbox" id="switcher--ctrl" bind:checked={ switcher.ctrl } class="sr-only" />
 
@@ -136,7 +147,6 @@ let switcher = {
   </label>
 
   <div class="ctrl-content" class:active={ switcher.ctrl }>
-    <!-- <label for="list-lock" class="button list-lock-label hide-for-print">🔒</label> -->
 
     <div>
       <div class="mb-1">
@@ -306,7 +316,7 @@ let switcher = {
     top: 0;
     left: 0;
     bottom: 0;
-    z-index: 5;
+    z-index: 11;
     max-width: 90%;
     visibility: hidden;
     padding: 2em 2em 5em 2em;
@@ -329,7 +339,7 @@ let switcher = {
     top: 0;
     left: 0;
     bottom: 0;
-    z-index: 1;
+    z-index: 10;
     width: 1rem;
     background-color: rgba(0, 0, 0, .4);
     opacity: .2;

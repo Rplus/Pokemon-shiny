@@ -2,8 +2,6 @@
   import { _ } from 'svelte-i18n';
   export let searchStr;
 
-  console.log($searchStr);
-
   let url;
   let shortUrlLink = '';
   let isFetching = false;
@@ -30,6 +28,11 @@
   $: url = `${location.origin}${location.pathname}?${$searchStr}`;
 </script>
 
+
+<!-- =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  ===== -->
+
+
+
 <button class=""
   on:click|preventDefault={ getShortUrl }
 >
@@ -45,11 +48,16 @@
   href={ shortUrlLink ? shortUrlLink : url }
 >
   { $_('share.shiny.list') }
+
   {#if shortUrlLink}
     <br>
+    <span class="url-str">{ shortUrlLink }</span>
   {/if}
-  { shortUrlLink }
 </a>
+
+
+
+<!-- =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  ===== -->
 
 
 
@@ -64,6 +72,11 @@
     &.is-fetching::after {
       animation: waiting 1s infinite alternate-reverse;
     }
+  }
+
+  .url-str {
+    font-family: monospace;
+    font-size: 1.2rem;
   }
 
   @keyframes waiting {

@@ -126,7 +126,7 @@ body.print .show-for-print {
   bottom: 1.5rem;
   width: 2em;
   margin: unset;
-  z-index: 10;
+  z-index: 15;
   font-size: 1.5rem;
   /* opacity: var(--btn-opacity, .7); */
   color: #999;

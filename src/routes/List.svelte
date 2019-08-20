@@ -6,6 +6,7 @@ import {
   show, shows, showUnregistered,
   dex,
   pmTotalStatus,
+  compareImg,
 } from '../stores.js';
 
 let pmsByFamily = [];
@@ -21,6 +22,10 @@ let showsIndex = shows.map((i, idx) => idx);
 let showsLen = shows.length;
 const defaultShowsCount = shows.map(i => 0);
 
+window.$pmTotalStatus = () => {
+  window.cc = $pmTotalStatus;
+  console.log(cc);
+};
 
 getPM()
 .then(data => {
@@ -30,7 +35,7 @@ getPM()
   $dex.trigger = null;
   delete $dex.trigger;
 
-  // window.pmsByFamily = pmsByFamily;
+  window.pmsByFamily = pmsByFamily;
 });
 
 
@@ -44,8 +49,6 @@ function updateStatus() {
   // reset status
   $pmTotalStatus = {};
 
-  console.log($pmTotalStatus);
-
   pmsByFamily.forEach(calcStatus);
 
   updateSearchParams();
@@ -56,18 +59,6 @@ function sumArray(arr) {
 }
 
 function calcStatus(f) {
-  // f.status = f.pms.reduce((all, pm) => {
-  //   let _status = pm.status;
-
-  //   calcAllStatus(_status, pm.id);
-
-  //   if (!all[_status]) {
-  //     all[_status] = 0;
-  //   }
-  //   all[pm.status] += 1;
-  //   return all;
-  // }, {});
-
   f.status = f.pms.reduce((arr, pm) => {
     calcAllStatus(pm.status, pm.id);
     arr[pm.status] += 1;
@@ -78,17 +69,6 @@ function calcStatus(f) {
     all[idx] = sumArray(f.status.slice(idx));
     return all;
   }, []);
-
-  // console.log(f.status);
-  // f.status = {...{ 0: 0, 1: 0, 2: 0, 3: 0 }, ...f.status};
-  // console.log(Object.values(f.status));
-
-  // f.statusCount = Object.entries(f.status).reduce((all, i) => {
-  //   shows[i[0]]
-  // }, {});
-
-  // f.registered = (f.status[1] || 0) + (f.status[2] || 0);
-  // f.remain = f.pms.length - f.registered;
 };
 
 
@@ -149,6 +129,10 @@ $: {
   updateStatus(pmsByFamily);
 }
 
+function getImgSrc(fn, custom, normal) {
+  return custom || `./PogoAssets/master/pokemon_icons/pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
+}
+
 </script>
 
 
@@ -156,22 +140,15 @@ $: {
 <!-- =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  ===== -->
 
 
-<!--
-<div>
-Counter:
-{#each Object.entries($pmTotalStatus) as sAll}
-【 { shows[sAll[0]] }/{ sAll[1].length } 】
-{/each}
-</div>
--->
-
 
 <input type="checkbox" id="list-lock" class="list-lock sr-only">
+
 <label
   for="list-lock"
   class="button footer-button list-lock-label hide-for-print"
   title={ $_('lock.list') }
 />
+
 <div class="pm-list" data-show="{ $show }" class:show-unregistered={ $showUnregistered }>
   {#each pmsByFamily as pmGroup, pmGroupIndex}
     <div class="pm-group"
@@ -182,12 +159,21 @@ Counter:
       data-count-offer={ pmGroup.statusCount[3] }
     >
       {#each pmGroup.pms as pm, pmIndex}
-      <div class="pm"
-        data-status={ pm.status }
-        on:click={ click.bind(pm, pmGroupIndex, pmIndex) }
-      >
-        { pm.status } x { pm.id } x { pm.fn } { pm.name[$lang] }
-      </div>
+        <div class="pm"
+          data-id={ pm.id }
+          data-dex={ pm.dex }
+          data-status={ pm.status }
+          title={ `#${pm.dex}` }
+          on:click={ click.bind(pm, pmGroupIndex, pmIndex) }
+        >
+          <div class="pm-img-box">
+            <img class="pm-img" alt="" src={ getImgSrc(pm.fn, pm.cfn1) }>
+            {#if $compareImg}
+              <img class="pm-img pm-img-n" alt="" src={ getImgSrc(pm.fn, pm.cfn0, true) }>
+            {/if}
+          </div>
+          <div class="pm-name" data-dex={ pm.dex }>{ pm.name[$lang] }</div>
+        </div>
       {/each}
 
     </div>
@@ -260,34 +246,149 @@ Counter:
   margin-bottom: 20px;
   font-size: 14px;
   font-size: 16px;
-
-  outline: 1px solid #aaa;
 }
 
 .pm {
   --pm-display-defalut: block;
+  --bgc-a: 1;
 
   position: relative;
   display: var(--pm-display, var(--pm-display-defalut));
   width: 5em;
   height: 5em;
+  width: 1em;
+  height: 1em;
   margin-left: 3px;
   margin-right: 3px;
   margin-bottom: 5px;
-  border-radius: 10%;
+  font-size: 8rem;
+  border-radius: .1em;
+  border: 1px solid #ddd;
+  background-color: hsla(33, 100%, 97%, var(--bgc-a));
 
-  outline: 1px solid #aaa;
+  /* border */
+  &::before {
+    content: '';
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    right: -1px;
+    bottom: -1px;
+    z-index: 5;
+    border-radius: inherit;
+    border: 3px solid;
+    color: var(--bdc, transparent);
+    pointer-events: none;
+  }
 
-  &[data-status="0"] { display: var(--pm-display-all, var(--pm-display-defalut)); }
-  &[data-status="1"] { display: var(--pm-display-dex, var(--pm-display-defalut)); }
-  &[data-status="2"] { display: var(--pm-display-own, var(--pm-display-defalut)); }
-  &[data-status="3"] { display: var(--pm-display-offer, var(--pm-display-defalut)); }
+  /* marker */
+  &::after {
+    content: var(--marker, '');
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    height: 20%;
+    font-size: .17em;
+    color: rgba(0, 0, 0, .4);
+    background-image:
+      linear-gradient(
+        45deg,
+        var(--bdc) 50%,
+        transparent 0
+      );
+    border-bottom-left-radius: inherit;
+    pointer-events: none;
+    opacity: var(--mark-a, 0);
+  }
+
+  &:not([data-status="0"]) {
+    --bdc: #dada0b;
+  }
+
+  &[data-status="0"] {
+    display: var(--pm-display-all, var(--pm-display-defalut));
+    --bgc-a: 0;
+  }
+
+  &[data-status="1"] {
+    display: var(--pm-display-dex, var(--pm-display-defalut));
+  }
+
+  &[data-status="2"] {
+    display: var(--pm-display-own, var(--pm-display-defalut));
+    --mark-a: 1;
+  }
+
+  &[data-status="3"] {
+    display: var(--pm-display-offer, var(--pm-display-defalut));
+    --mark-a: 1;
+    --marker: '🡵';
+    --marker: '⥯';
+  }
 }
 
-.saved-item {
-  white-space: nowrap;
+.pm-img-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 3;
+  overflow: hidden;
+  border-radius: inherit;
+  pointer-events: none;
+  font-size: 1rem;
 }
 
+.pm-img {
+  position: absolute;
+  left: var(--l, unset);
+  top: var(--t, unset);
+  width: var(--w, 100%);
+  height: var(--w, 100%);
+  user-select: none;
+}
+
+.pm-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 4;
+  padding: 5px 8px 15px;
+  text-align: left;
+  border-radius: inherit;
+  font-size: .9rem;
+  text-shadow: 1px 1px 0px #eef;
+  color: #444;
+
+  /* gradients tool: https://larsenwork.com/easing-gradients/ */
+  background-image:
+    linear-gradient(
+      to bottom,
+      hsla(0, 0%, 100%, 0.9) 0%,
+      hsla(0, 0%, 100%, 0.889) 11.2%,
+      hsla(0, 0%, 100%, 0.856) 21%,
+      hsla(0, 0%, 100%, 0.806) 29.6%,
+      hsla(0, 0%, 100%, 0.742) 37.1%,
+      hsla(0, 0%, 100%, 0.667) 43.7%,
+      hsla(0, 0%, 100%, 0.583) 49.6%,
+      hsla(0, 0%, 100%, 0.495) 55%,
+      hsla(0, 0%, 100%, 0.405) 60%,
+      hsla(0, 0%, 100%, 0.317) 64.8%,
+      hsla(0, 0%, 100%, 0.233) 69.6%,
+      hsla(0, 0%, 100%, 0.158) 74.6%,
+      hsla(0, 0%, 100%, 0.094) 80%,
+      hsla(0, 0%, 100%, 0.044) 85.9%,
+      hsla(0, 0%, 100%, 0.011) 92.5%,
+      hsla(0, 0%, 100%, 0) 100%
+    );
+}
 
 .list-lock-label {
   left: 7.5rem;
