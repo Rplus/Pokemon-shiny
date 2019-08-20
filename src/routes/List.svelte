@@ -149,7 +149,10 @@ function getImgSrc(fn, custom, normal) {
   title={ $_('lock.list') }
 />
 
-<div class="pm-list" data-show="{ $show }" class:show-unregistered={ $showUnregistered }>
+<div class="pm-list"
+  data-show="{ $show }"
+  class:show-unregistered={ $showUnregistered }
+>
   {#each pmsByFamily as pmGroup, pmGroupIndex}
     <div class="pm-group"
       data-family="{ pmGroup.family }"
@@ -352,6 +355,15 @@ function getImgSrc(fn, custom, normal) {
   width: var(--w, 100%);
   height: var(--w, 100%);
   user-select: none;
+
+  + .pm-img {
+    opacity: 0;
+    transition: opacity .3s;
+
+    .pm:hover & {
+      opacity: 1;
+    }
+  }
 }
 
 .pm-name {

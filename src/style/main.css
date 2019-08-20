@@ -62,14 +62,6 @@ input {
   max-width: 9em;
 }
 
-.mb-1 {
-  margin-bottom: 1rem;
-}
-
-.m-0 {
-  margin: 0;
-}
-
 .clickable {
   display: inline-block;
   text-decoration: none;
@@ -87,6 +79,26 @@ input {
 
 .db {
   display: block;
+}
+
+.df {
+  display: flex;
+}
+
+.ai-c {
+  align-items: center;
+}
+
+.ml-a {
+  margin-left: auto;
+}
+
+.mb-1 {
+  margin-bottom: 1rem;
+}
+
+.m-0 {
+  margin: 0;
 }
 
 .workspace {

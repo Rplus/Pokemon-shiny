@@ -8,6 +8,7 @@ import {
   searchStr,
   nickname,
   pmTotalStatus,
+  compareImg,
 } from '../stores.js';
 import GitHubCorner from './Github-icon.html';
 import Share from './Share.html';
@@ -149,10 +150,17 @@ let switcher = {
   <div class="ctrl-content" class:active={ switcher.ctrl }>
 
     <div>
-      <div class="mb-1">
+      <div class="mb-1 df ai-c">
+        <div>
         <a class="clickable" href="#" on:click|preventDefault={ selectAll }>{ $_('select.all') }</a>
         /
         <a class="clickable" href={ `./?1&lang=${$lang}` }>{ $_('reset') }</a>
+        </div>
+
+        <label class="ml-a clickable">
+          <input type="checkbox" bind:checked={ $compareImg }>
+          { $_('compare.image') }
+        </label>
       </div>
 
       <hr>

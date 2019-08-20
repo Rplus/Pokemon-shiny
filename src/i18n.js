@@ -90,6 +90,12 @@ let _words = {
     'de': 'Shinyliste teilen',
     'it': 'Condividi Shiny Checklist',
   },
+  'compare.image': {
+    'en': 'Compare images?',
+    'zh': '比對圖片?',
+    'de': 'Bilder vergleichen?',
+    'it': 'Confronta le immagini?',
+  },
   'get.short.url': {
     'en': 'Get short url',
     'zh': '取得短網址',
