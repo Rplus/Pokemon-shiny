@@ -1,63 +1,350 @@
 <script>
+import { _ } from 'svelte-i18n';
+import Urls from './Urls.svelte';
 import {
   lang, langs,
-  show, shows,
-  // tag, tags,
-  // dex,
+  show, shows, showUnregistered,
+  dex,
   searchStr,
   nickname,
+  pmTotalStatus,
 } from '../stores.js';
+import GitHubCorner from './Github-icon.html';
+import Share from './Share.html';
 
 function selectAll(argument) {
-  console.log('#TODO selectAll');
+  $dex = {
+    ...$dex,
+    ...{
+      dex: $dex.dex.concat($pmTotalStatus[0].join('-')),
+    },
+  }
 }
 
 $: {
   document.title = `✨ ${$nickname} | Pokemon Shiny Checklist`;
 }
 
+let lockPmList = false;
+
+let counterLabel = [
+  'released',
+  'registered',
+  'owns',
+];
+
+let counter = {
+  released: 0,
+  registered: 0,
+  owns: 0,
+  rate: {
+    owns: 0,
+    registered: 0,
+  },
+};
+
+let shadowNicename;
+let nicknameWidth;
+
+$: {
+  let allCount = Object.values($pmTotalStatus).map(i => i.length);
+  counterLabel.forEach((i, idx) => {
+    counter[i] = allCount.slice(idx).reduce((all, i) => all + i, 0);
+  });
+
+  counter.rate.owns = (counter.owns / counter.released).toFixed(5);
+  counter.rate.registered = (counter.registered / counter.released).toFixed(5);
+}
+
+let switcher = {
+  ctrl: false,
+  ctrl: true,
+};
+
 </script>
 
-  <label>
-  nicename: <input type="text" name="title" id="title" bind:value={ $nickname }>
+
+
+<!-- =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  ===== -->
+
+
+
+<header
+  class="header"
+  style={ `--rate-owns: ${counter.rate.owns}; --rate-registered: ${counter.rate.registered};` }
+>
+
+  <h1>
+    <img src="./favicon.png" width="36" height="36" alt="">
+    Shiny Checklist
+  </h1>
+
+  <label class="db">
+    { $_('nickname') }:
+    <input class="nickname" type="text"
+      id="title"
+      style={ `min-width: ${ nicknameWidth }px` } 
+      size={ $nickname.length || 8 }
+      placeholder="Enter your ID"
+      bind:value={ $nickname }
+    >
+    <span class="nickname nickname-shadow"
+      bind:this={ shadowNicename }
+      bind:offsetWidth={ nicknameWidth }
+    >
+      { $nickname }
+    </span>
   </label>
 
-<br>
 
-  <label>
-  lang:
-  <select bind:value={ $lang }>
-    {#each langs as lang}
-    <option value="{ lang }">{ lang }</option>
-    {/each}
-  </select>
+  <div class="counter">
+    <span class="counter-item">
+      { $_('owns') }
+      <span class="counter-number">
+        { counter.owns }
+      </span>
+    </span>
+
+    <span class="counter-item">
+      { $_('registered') }
+      <span class="counter-number">
+        { counter.registered }
+      </span>
+    </span>
+
+    <span class="counter-item">
+      { $_('released') }
+      <span class="counter-number">
+        { counter.released }
+      </span>
+    </span>
+  </div>
+
+  <GitHubCorner />
+</header>
+
+<section class="ctrlor hide-for-print">
+
+  <input type="checkbox" id="switcher--ctrl" bind:checked={ switcher.ctrl } class="sr-only" />
+
+  <label
+    for="switcher--ctrl"
+    class="button footer-button switcher switcher--ctrl"
+    title={ $_('ctrl.switcher') }
+  >
+    ⚙️
   </label>
 
-<br>
+  <div class="ctrl-content" class:active={ switcher.ctrl }>
+    <!-- <label for="list-lock" class="button list-lock-label hide-for-print">🔒</label> -->
 
-  show:
-  {#each shows as _show}
-  <label>
-    <input type="radio" name="shows" bind:group={$show} value={ _show } />
-    { _show } /
-  </label>
-  {/each}
+    <div>
+      <div class="mb-1">
+        <a class="clickable" href="#" on:click|preventDefault={ selectAll }>{ $_('select.all') }</a>
+        /
+        <a class="clickable" href={ `./?1&lang=${$lang}` }>{ $_('reset') }</a>
+      </div>
 
-<br>
+      <hr>
 
-  <a href="###" on:click|preventDefault={ selectAll }>select all</a>
-  <a href="./?1">reset</a>
+      <div class="mb-1">
+        <label>
+          { $_('lang') }:
+          <br>
+          <select class="lang-ctrl" bind:value={ $lang }>
+            {#each langs as lang}
+            <option value="{ lang }">{ lang }</option>
+            {/each}
+          </select>
+        </label>
+      </div>
 
-<br>
+      <div class="ctrl-show mb-1">
+        { $_('show') }:
+        <br>
+        {#each shows as _show}
+          <label class="clickable-xxx">
+            <input class="sr-only" type="radio" name="shows" bind:group={$show} value={ _show } disabled={ $showUnregistered } />
+            <span class="clickable">
+              { $_(`show.${_show}`) }
+            </span>
+          </label>
+          / 
+        {/each}
 
-<input class="ggg" type="text" value={ $searchStr }>
+        <label>
+          <span class="clickable">
+            <input class="m-0" type="checkbox" bind:checked={ $showUnregistered } />
+            { $_('show.unregistered') }
+          </span>
+        </label>
+      </div>
 
-<hr>
-<hr>
-<hr>
+    </div>
 
-<style>
-.ggg {
-  width: 100%;
-}
+    <hr>
+    <Share searchStr={ searchStr } />
+    <hr>
+
+    <Urls/>
+  </div>
+
+  <label class="ctrl-content-overlay" for="switcher--ctrl"></label>
+</section>
+
+
+
+<!-- =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  ===== -->
+
+
+
+<style global>
+  .header {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    background-image: linear-gradient(-230deg, #9e9e9e, #ff5722);
+    background-color: #d35fa0;
+    color: #fff;
+    font-family: sans-serif;
+
+    h1 {
+      margin-bottom: 1rem;
+      font-size: 2.5rem;
+    }
+
+    &::before,
+    &::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: .5em;
+      width: calc(100% * var(--r));
+      background-color: rgba(255, 255, 255, .2);
+    }
+
+    &::before { --r: var(--rate-owns, 0); }
+    &::after { --r: var(--rate-registered, 0); }
+
+    > * {
+      margin-bottom: 1rem;
+    }
+  }
+
+  .nickname {
+    display: inline-block;
+    min-width: 3em;
+    max-width: 15em;
+    padding: 3px 1em;
+    vertical-align: middle;
+    border: unset;
+    color: #fff;
+    text-align: center;
+    font-size: larger;
+    font-weight: 900;
+    background: none;
+    background-color: rgba(255, 255, 255, .1);
+    box-shadow: inset 0 -.2em rgba(255, 255, 255, .5);
+    border-radius: 0;
+
+    &::placeholder {
+      color: inherit;
+      font-weight: normal;
+      font-size: smaller;
+    }
+
+    &.nickname-shadow {
+      position: absolute;
+      top: 0;
+      left: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      pointer-events: none;
+      visibility: hidden;
+    }
+  }
+
+  .counter-item {
+    position: relative;
+    display: inline-flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    margin-left: .7em;
+    margin-right: .7em;
+    vertical-align: middle;
+    color: rgba(255, 255, 255, .6);
+
+    .counter-number {
+      display: block;
+      font-size: 1.3em;
+      font-weight: bolder;
+      color: #fff;
+    }
+
+    + .counter-item {
+      &::before {
+        content: '/';
+        position: absolute;
+        left: -1em;
+      }
+    }
+  }
+
+  .lang-ctrl {
+    padding: 3px 10px;
+    text-transform: uppercase;
+    font-family: monospace;
+    text-align: center;
+    font-size: 1.2em;
+  }
+
+  .ctrl-content {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 5;
+    max-width: 90%;
+    visibility: hidden;
+    padding: 2em 2em 5em 2em;
+    text-align: left;
+    box-shadow: 0 0 1em rgba(0, 0, 0, .5);
+    background-color: #fff;
+    /* overflow-y: scroll; */
+    /* opacity: 0; */
+
+    &.active {
+      /* display: block; */
+      visibility: visible;
+      overflow: auto;
+      /* opacity: 1; */
+    }
+  }
+
+  .ctrl-content-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+    width: 1rem;
+    background-color: rgba(0, 0, 0, .4);
+    opacity: .2;
+
+    .ctrl-content.active + & {
+      width: 100%;
+      opacity: 1;
+      backdrop-filter: blur(3px);
+    }
+  }
+
+  input[name="shows"][disabled] + .clickable {
+    text-decoration: line-through;
+    filter: blur(1px) opacity(.75);
+    pointer-events: none;
+  }
+
 </style>

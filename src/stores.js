@@ -3,7 +3,7 @@ import { saveItem, getItem } from './u.js';
 
 export const nickname = writable('?');
 
-export const langs = ['de', 'en', 'fr', 'ja', 'kr', 'zh'];
+export const langs = ['de', 'en', 'it', 'fr', 'ja', 'kr', 'zh'];
 
 let _langIndex = langs.indexOf(
   navigator.language && navigator.language.split('-').shift()
@@ -17,8 +17,10 @@ export const lang = writable(langs[_langIndex]);
 
 export const shows = ['all', 'dex', 'own', 'offer'];
 export const show = writable(shows[0]);
+export const showUnregistered = writable(false);
 
 export const dex = writable({});
+export const pmTotalStatus = writable({});
 
 export const searchStr = derived(
   [dex, nickname, lang, show],

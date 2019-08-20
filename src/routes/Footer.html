@@ -1,0 +1,123 @@
+<script>
+import { _ } from 'svelte-i18n';
+
+function initFaceookLikeBtn() {
+  // https://developers.facebook.com/docs/plugins/like-button
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'))
+}
+
+</script>
+
+
+
+<!-- =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  ===== -->
+
+
+
+
+<a class="source show-for-print" href="https://Rplus.github.io/Pokemon-shiny/" data-title="source">
+</a>
+
+<footer class="footer hide-for-print">
+
+  <ul class="info">
+    <li>
+      image from: <a href="https://github.com/ZeChrales/PogoAssets">PogoAssets</a> repo.
+    </li>
+    <li>
+      design style from: <a href="https://leekduck.com/shinylist/">Leek Duck</a>
+    </li>
+    <li>
+      create an issue in <a href="https://github.com/rplus/Pokemon-shiny/issues">GitHub repo</a>
+    </li>
+    <li>
+      <details class="fb-like-details">
+        <summary on:click|once={ initFaceookLikeBtn }>Give a 👍️ with Facebook?</summary>
+        <div class="fb-like"
+          data-href="https://rplus.github.io/Pokemon-shiny/"
+          data-layout="button_count"
+          data-action="like"
+          data-share="true">
+        </div>
+      </details>
+    </li>
+  </ul>
+
+  <mark class="browser-notice">
+    { $_('browser.notice') }
+  </mark>
+
+</footer>
+
+
+
+<!-- =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  ===== -->
+
+
+
+<style global>
+.footer {
+  margin-top: auto;
+}
+
+.info {
+  float: right;
+  right: 0;
+  text-align: left;
+  margin-bottom: 1em;
+  padding: 2em 1em 1em;
+  font-size: .85em;
+  font-style: italic;
+  font-family: serif;
+  opacity: .75;
+
+  a {
+    color: inherit;
+  }
+}
+
+.browser-notice {
+  display: block;
+  clear: both;
+  background-color: #ccc;
+  color: #333;
+  padding: .5em 1em;
+  font-family: monospace;
+}
+
+.source {
+  display: none;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 1.5em;
+  text-align: right;
+
+  margin-top: auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-right: 1em;
+  text-shadow: .1em .1em rgba(#999, .1);
+  font-family: monospace;
+
+  &::before {
+    content: attr(data-title);
+    display: block;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    color: #eedeef;
+  }
+
+  &::after {
+    content: attr(href);
+    color: #dcc7e3;
+  }
+}
+</style>

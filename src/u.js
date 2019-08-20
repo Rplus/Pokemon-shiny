@@ -21,15 +21,6 @@ export function getISOFormatedTime() {
   return new Date(+now - now.getTimezoneOffset() * 60000).toISOString().slice(0, -1);
 }
 
-// export function objToUrl(argument) {
-//   return new URLSearchParams(deleteEmptyProp(params)).toString();
-// }
-
-// function deleteEmptyProp(obj) {
-//   for (let prop in obj) {
-//     if (!obj[prop]) {
-//       delete obj[prop];
-//     }
-//   }
-//   return obj;
-// }
+export function isDev() {
+  return location.hostname === 'localhost';
+}

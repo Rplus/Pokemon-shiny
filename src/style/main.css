@@ -1,11 +1,142 @@
 @import "ui.css";
 @import "pm.css";
 
-a.active {
-  color: red;
+:root {
+  --link-color: #9c27b0;
+  --link-color-inactive: #aaa;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
+  text-align: center;
+  overflow-y: scroll;
+}
+
+.button,
+input, button, select, textarea {
+  font-family: inherit;
+  font-size: inherit;
+  padding: .2em .4em;
+  margin: 0 0 .5em 0;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+input:disabled {
+  color: #ccc;
+}
+
+input[type="range"] {
+  height: 0;
+}
+
+.button,
+button {
+  background-color: #f4f4f4;
+  outline: none;
+}
+
+button:active {
+  background-color: #ddd;
+}
+
+button:focus {
+  border-color: #666;
+}
+
+hr {
+  width: 100%;
+  margin: 1.5rem 0;
+  border: 1px dashed rgba(0, 0, 0, .1);
+}
+
+input {
+  max-width: 9em;
+}
+
+.mb-1 {
+  margin-bottom: 1rem;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.clickable {
+  display: inline-block;
+  text-decoration: none;
+  padding: .25em .5em .25em;
+  color: var(--link-color);
+  cursor: pointer;
+  border-bottom: 1px dashed;
+  margin-left: .25em;
+  margin-right: .25em;
+
+  input:not(:checked) + & {
+    color: var(--link-color-inactive);
+  }
+}
+
+.db {
+  display: block;
+}
+
+.workspace {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
   background-color: #fff;
-  color: #000;
+}
+
+body.print .hide-for-print {
+  display: none !important;
+}
+
+body.print .show-for-print {
+  display: initial !important;
+}
+
+.sr-only {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.footer-button {
+  position: fixed;
+  top: unset;
+  left: .5rem;
+  bottom: 1.5rem;
+  width: 2em;
+  margin: unset;
+  z-index: 10;
+  font-size: 1.5rem;
+  /* opacity: var(--btn-opacity, .7); */
+  color: #999;
+
+  &:hover {
+    /* --btn-opacity: 1; */
+    color: inherit;
+  }
+}
+
+.icon {
+  font-weight: normal;
 }

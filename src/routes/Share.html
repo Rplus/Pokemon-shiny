@@ -1,0 +1,76 @@
+<script>
+  import { _ } from 'svelte-i18n';
+  export let searchStr;
+
+  console.log($searchStr);
+
+  let url;
+  let shortUrlLink = '';
+  let isFetching = false;
+
+  function getShortUrl() {
+    if (isFetching) {
+      alert('')
+      return;
+    }
+
+    isFetching = true;
+    fetch(`https://cors-anywhere.herokuapp.com/http://tinyurl.com/api-create.php?url=${url}`)
+      .then(d => d.text())
+      .then(d => {
+        shortUrlLink = d;
+        isFetching = false;
+      })
+      .catch(error => {
+        console.error(error);
+        isFetching = false;
+      })
+  }
+
+  $: url = `${location.origin}${location.pathname}?${$searchStr}`;
+</script>
+
+<button class=""
+  on:click|preventDefault={ getShortUrl }
+>
+  { $_('get.short.url') }
+</button>
+
+<br>
+
+<a
+  class="share clickable"
+  class:is-fetching={ isFetching }
+  data-shorturl={ shortUrlLink }
+  href={ shortUrlLink ? shortUrlLink : url }
+>
+  { $_('share.shiny.list') }
+  {#if shortUrlLink}
+    <br>
+  {/if}
+  { shortUrlLink }
+</a>
+
+
+
+<style global>
+  .share {
+    &::after {
+      content: ' 🔗';
+      white-space: pre;
+      font-family: monospace;
+    }
+
+    &.is-fetching::after {
+      animation: waiting 1s infinite alternate-reverse;
+    }
+  }
+
+  @keyframes waiting {
+    0%  { content: '.  '; }
+    25% { content: '.. '; }
+    50% { content: '...'; }
+    75% { content: ' ..'; }
+    100% { content: '  .'; }
+  }
+</style>

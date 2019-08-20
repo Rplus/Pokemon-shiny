@@ -1,3 +1,4 @@
+import './i18n.js';
 import App from './App.html';
 
 const app = new App({

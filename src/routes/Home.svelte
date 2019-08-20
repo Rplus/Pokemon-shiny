@@ -1,18 +1,12 @@
 <script>
-  import Urls from './Urls.svelte';
-  import List from './List.svelte';
   import Ctrl from './Ctrl.svelte';
+  import List from './List.svelte';
   import Print from './Print.svelte';
-
+  import Footer from './Footer.html';
 </script>
 
-<h2 class="routetitle">Home!</h2>
-
 <Ctrl />
-
-<Urls />
-
 <List />
-
-
 <Print />
+
+<Footer />

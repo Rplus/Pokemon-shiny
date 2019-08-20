@@ -20,7 +20,8 @@
     "svelte-preprocess": "^2.14.3"
   },
   "dependencies": {
-    "sirv-cli": "^0.4.4"
+    "sirv-cli": "^0.4.4",
+    "svelte-i18n": "^1.1.2-beta"
   },
   "scripts": {
     "build": "rollup -c",
