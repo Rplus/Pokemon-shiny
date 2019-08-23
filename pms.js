@@ -4760,7 +4760,7 @@ let pms = [
       "zh": "利牙魚"
     },
     "shiny_released": false,
-    "released_date": '2019-08-24T21:00Z',
+    "released_date": '2019-08-23T20:00Z',
     "family": "Carvanha"
   },
   {
@@ -4774,7 +4774,7 @@ let pms = [
       "zh": "巨牙鯊"
     },
     "shiny_released": false,
-    "released_date": '2019-08-24T21:00Z',
+    "released_date": '2019-08-23T20:00Z',
     "family": "Carvanha"
   },
   {
@@ -5049,7 +5049,7 @@ let pms = [
       "zh": "泥泥鰍"
     },
     "shiny_released": false,
-    "released_date": '2019-08-24T21:00Z',
+    "released_date": '2019-08-23T20:00Z',
     "family": "Barboach"
   },
   {
@@ -5063,7 +5063,7 @@ let pms = [
       "zh": "鯰魚王"
     },
     "shiny_released": false,
-    "released_date": '2019-08-24T21:00Z',
+    "released_date": '2019-08-23T20:00Z',
     "family": "Barboach"
   },
   {
