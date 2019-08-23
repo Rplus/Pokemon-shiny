@@ -1,5 +1,5 @@
 deploy: build build-sw
-	sh deploy.sh
+	npm run deploy
 
 build: copy-assets
 	npm run build;
