@@ -212,10 +212,11 @@ window.addEventListener('beforeunload', function (e) {
   height: 1.5em;
   flex-shrink: 0;
   color: #f99;
-  /* border: 0px; */
+  border-color: transparent;
   box-shadow: 0 0 1px;
   background-color: transparent;
   font-weight: 900;
+  cursor: pointer;
 }
 
 </style>

@@ -17,6 +17,7 @@
 body {
   text-align: center;
   overflow-y: scroll;
+  background-color: #fff4fa;
 }
 
 .button,
@@ -107,7 +108,7 @@ input {
   min-height: 100vh;
   margin-left: auto;
   margin-right: auto;
-  background-color: #fff;
+  background-color: inherit;
 }
 
 body.print .hide-for-print {

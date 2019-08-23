@@ -33,8 +33,8 @@ function generateImg(argument) {
     printTarget, {
       width: exportWidth,
       // ignoreElements: null,
-      // scale: 1,
-      // useCORS: true,
+      scale: 2,
+      useCORS: true,
     }
   )
   .then(canvas => {

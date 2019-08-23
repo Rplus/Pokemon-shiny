@@ -129,8 +129,14 @@ $: {
   updateStatus(pmsByFamily);
 }
 
+
+
 function getImgSrc(fn, custom, normal) {
-  return custom || `./PogoAssets/master/pokemon_icons/pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
+  if (location.hash === '#dev') {
+    return custom || `./PogoAssets/master/pokemon_icons/pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
+  }
+  let imgBasePath = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_';
+  return custom || `https://images.weserv.nl/?w=200&il&url=${imgBasePath}${fn}${normal ? '' : '_shiny'}.png`;
 }
 
 </script>
@@ -195,7 +201,6 @@ function getImgSrc(fn, custom, normal) {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #fff;
 
   &[data-show="all"] {
   }
@@ -282,11 +287,13 @@ function getImgSrc(fn, custom, normal) {
     border: 3px solid;
     color: var(--bdc, transparent);
     pointer-events: none;
+    background: var(--bgi, none) no-repeat 5% 95% / 13% 13%;
   }
 
   /* marker */
   &::after {
-    content: var(--marker, '');
+    /* content: var(--marker, ''); */
+    content: '';
     position: absolute;
     left: 0;
     bottom: 0;
@@ -294,23 +301,17 @@ function getImgSrc(fn, custom, normal) {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 20%;
-    height: 20%;
-    font-size: .17em;
-    color: rgba(0, 0, 0, .4);
-    background-image:
-      linear-gradient(
-        45deg,
-        var(--bdc) 50%,
-        transparent 0
-      );
+    color: var(--bdc);
+    border: .95rem solid;
+    border-top-color: transparent;
+    border-right-color: transparent;
     border-bottom-left-radius: inherit;
     pointer-events: none;
     opacity: var(--mark-a, 0);
   }
 
   &:not([data-status="0"]) {
-    --bdc: #dada0b;
+    --bdc: hsl(60, 90%, 45%);
   }
 
   &[data-status="0"] {
@@ -330,8 +331,12 @@ function getImgSrc(fn, custom, normal) {
   &[data-status="3"] {
     display: var(--pm-display-offer, var(--pm-display-defalut));
     --mark-a: 1;
-    --marker: '🡵';
-    --marker: '⥯';
+    /* icon author: Freepik
+       licenses: CC 3.0 BY
+       https://www.flaticon.com/authors/freepik
+     */
+    --bgi: url('data:image/svg+xml,%3Csvg height="683" viewBox="0 0 512 512" width="683" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath fill="%23CC471F" d="M20 512c-11 0-20-9-20-20v-32a326 326 0 0 1 328-328V40c0-16 10-31 25-37s32-3 43 9l98 97a60 60 0 0 1 0 85l-98 98a40 40 0 0 1-68-28v-22a20 20 0 0 1 40 0v22l98-98a20 20 0 0 0 0-28l-98-98v92c0 22-18 40-40 40A288 288 0 0 0 40 460v32c0 11-9 20-20 20zm348-248zm0 0"/%3E%3C/svg%3E');
+    --cc: #fb5a28;
   }
 }
 
