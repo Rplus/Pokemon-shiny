@@ -4642,7 +4642,7 @@ let pms = [
       "kr": "썬더라이",
       "zh": "落雷獸"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Electrike"
   },
   {
@@ -4655,7 +4655,7 @@ let pms = [
       "kr": "썬더볼트",
       "zh": "雷電獸"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Electrike"
   },
   {
