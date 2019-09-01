@@ -4884,12 +4884,26 @@ let pms = [
   {
     "dex": 327,
     "name": {
-      "de": "Pandir",
-      "en": "Spinda",
-      "fr": "Spinda",
-      "ja": "パッチール",
-      "kr": "얼루기",
-      "zh": "晃晃斑"
+      "de": "Pandir #3",
+      "en": "Spinda #3",
+      "fr": "Spinda #3",
+      "ja": "パッチール #3",
+      "kr": "얼루기 #3",
+      "zh": "晃晃斑 #3"
+    },
+    "type": "_13",
+    "shiny_released": true,
+    "family": "Spinda"
+  },
+  {
+    "dex": 327,
+    "name": {
+      "de": "Pandir #8",
+      "en": "Spinda #8",
+      "fr": "Spinda #8",
+      "ja": "パッチール #8",
+      "kr": "얼루기 #8",
+      "zh": "晃晃斑 #8"
     },
     "type": "_18",
     "shiny_released": true,
