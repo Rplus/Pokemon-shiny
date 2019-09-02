@@ -2622,7 +2622,7 @@ let pms = [
       "kr": "꼬리선",
       "zh": "尾立"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Sentret"
   },
   {
@@ -2635,7 +2635,7 @@ let pms = [
       "kr": "다꼬리",
       "zh": "大尾立"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Sentret"
   },
   {
@@ -3311,7 +3311,7 @@ let pms = [
       "kr": "글라이거",
       "zh": "天蠍"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Gligar"
   },
   {
@@ -6829,7 +6829,7 @@ let pms = [
       "kr": "글라이온",
       "zh": "天蠍王"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Gligar"
   },
   {
