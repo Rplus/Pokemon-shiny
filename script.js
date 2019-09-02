@@ -308,17 +308,19 @@ function renderState() {
 }
 
 
-function getImgUrl(pm, normal) {
+function getImgUrl(pm, normal, weserv = true, dev = false) {
+  let weservPath = `https://images.weserv.nl/?w=200&il&url=`;
   let pokedex = `${pm.dex}`.padStart(3, '0');
   let imgBasePath = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_';
-  // // for dev
-  // let imgBasePath = './PogoAssets/pokemon_icons/pokemon_icon_';
+  if (dev) {
+    imgBasePath = './PogoAssets/pokemon_icons/pokemon_icon_';
+  }
 
   let number = `${pokedex}${pm.type || '_00'}${pm.isotope || ''}`;
   let shiny = normal ? '' : '_shiny';
+  let url = `${imgBasePath}${number}${shiny}.png${pm.cachebuster || ''}`;
 
-  // return `https://images.weserv.nl/?w=200&il&url=${imgBasePath}${number}${shiny}.png${pm.cachebuster || ''}`;
-  return `${imgBasePath}${number}${shiny}.png${pm.cachebuster || ''}`;
+  return (weserv && !dev) ? `${weservPath}${url}` : url;
 }
 
 
