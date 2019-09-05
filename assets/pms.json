@@ -2622,7 +2622,7 @@
       "kr": "꼬리선",
       "zh": "尾立"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Sentret"
   },
   {
@@ -2635,7 +2635,7 @@
       "kr": "다꼬리",
       "zh": "大尾立"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Sentret"
   },
   {
@@ -2783,6 +2783,21 @@
     "shiny_released": true,
     "order": -1,
     "family": "Pikachu_02"
+  },
+  {
+    "dex": 172,
+    "name": {
+      "de": "Pichu",
+      "en": "Pichu",
+      "fr": "Pichu",
+      "ja": "ピチュー",
+      "kr": "피츄",
+      "zh": "皮丘"
+    },
+    "isotope": "_03",
+    "shiny_released": true,
+    "order": -1,
+    "family": "Pikachu_03"
   },
   {
     "dex": 172,
@@ -3296,7 +3311,7 @@
       "kr": "글라이거",
       "zh": "天蠍"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Gligar"
   },
   {
@@ -3794,7 +3809,7 @@
       "kr": "스이쿤",
       "zh": "水君"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Suicune"
   },
   {
@@ -4249,8 +4264,7 @@
       "kr": "랄토스",
       "zh": "拉魯拉絲"
     },
-    "shiny_released": false,
-    "released_date": "2019/08/03",
+    "shiny_released": true,
     "family": "Ralts"
   },
   {
@@ -4263,8 +4277,7 @@
       "kr": "킬리아",
       "zh": "奇魯莉安"
     },
-    "shiny_released": false,
-    "released_date": "2019/08/03",
+    "shiny_released": true,
     "family": "Ralts"
   },
   {
@@ -4277,8 +4290,7 @@
       "kr": "가디안",
       "zh": "沙奈朵"
     },
-    "shiny_released": false,
-    "released_date": "2019/08/03",
+    "shiny_released": true,
     "family": "Ralts"
   },
   {
@@ -4630,7 +4642,7 @@
       "kr": "썬더라이",
       "zh": "落雷獸"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Electrike"
   },
   {
@@ -4643,7 +4655,7 @@
       "kr": "썬더볼트",
       "zh": "雷電獸"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Electrike"
   },
   {
@@ -4747,7 +4759,7 @@
       "kr": "샤프니아",
       "zh": "利牙魚"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Carvanha"
   },
   {
@@ -4760,7 +4772,7 @@
       "kr": "샤크니아",
       "zh": "巨牙鯊"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Carvanha"
   },
   {
@@ -4870,12 +4882,26 @@
   {
     "dex": 327,
     "name": {
-      "de": "Pandir",
-      "en": "Spinda",
-      "fr": "Spinda",
-      "ja": "パッチール",
-      "kr": "얼루기",
-      "zh": "晃晃斑"
+      "de": "Pandir #3",
+      "en": "Spinda #3",
+      "fr": "Spinda #3",
+      "ja": "パッチール #3",
+      "kr": "얼루기 #3",
+      "zh": "晃晃斑 #3"
+    },
+    "type": "_13",
+    "shiny_released": true,
+    "family": "Spinda"
+  },
+  {
+    "dex": 327,
+    "name": {
+      "de": "Pandir #8",
+      "en": "Spinda #8",
+      "fr": "Spinda #8",
+      "ja": "パッチール #8",
+      "kr": "얼루기 #8",
+      "zh": "晃晃斑 #8"
     },
     "type": "_18",
     "shiny_released": true,
@@ -5034,7 +5060,7 @@
       "kr": "미꾸리",
       "zh": "泥泥鰍"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Barboach"
   },
   {
@@ -5047,7 +5073,7 @@
       "kr": "메깅",
       "zh": "鯰魚王"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Barboach"
   },
   {
@@ -5620,8 +5646,7 @@
       "kr": "레쿠쟈",
       "zh": "烈空坐"
     },
-    "shiny_released": false,
-    "released_date": "2019-07-31T21:00Z",
+    "shiny_released": true,
     "family": "Rayquaza"
   },
   {
@@ -6800,7 +6825,7 @@
       "kr": "글라이온",
       "zh": "天蠍王"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Gligar"
   },
   {
@@ -6839,8 +6864,7 @@
       "kr": "엘레이드",
       "zh": "艾路雷朵"
     },
-    "shiny_released": false,
-    "released_date": "2019/08/03",
+    "shiny_released": true,
     "family": "Ralts"
   },
   {
