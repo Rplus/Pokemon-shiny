@@ -111,6 +111,11 @@ window.addEventListener('beforeunload', function (e) {
   }
 });
 
+
+function getItemTitle(item) {
+  return `${getISOFormatedTime(item.time)}\x0A\x0A${decodeURIComponent(item.value).split('&').join('\x0A')}`;
+}
+
 </script>
 
 
@@ -150,7 +155,7 @@ window.addEventListener('beforeunload', function (e) {
             class="saved-item__link"
             class:active={ savedItem.title === $nickname }
             on:click|preventDefault={ apply.bind(this, savedItem.value) }
-            title={ `${getISOFormatedTime(savedItem.time)}\x0A\x0A${savedItem.value.split('&').join('\x0A')}` }
+            title={ getItemTitle(savedItem) }
           >
             { savedItem.title }
           </a>
