@@ -288,7 +288,7 @@ function getImgSrc(fn, custom, normal) {
     border: 3px solid;
     color: var(--bdc, transparent);
     pointer-events: none;
-    background: var(--bgi, none) no-repeat 5% 95% / 13% 13%;
+    /* background: var(--bgi, none) no-repeat 5% 95% / 13% 13%; */
   }
 
   /* marker */
@@ -299,13 +299,10 @@ function getImgSrc(fn, custom, normal) {
     left: 0;
     bottom: 0;
     z-index: 4;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--bdc);
-    border: .95rem solid;
-    border-top-color: transparent;
-    border-right-color: transparent;
+    width: 1.9rem;
+    height: 1.9rem;
+    background-image: linear-gradient(45deg, var(--marker-color, var(--bdc)) 50%, transparent 0%);
+    background-repeat: no-repeat;
     border-bottom-left-radius: inherit;
     pointer-events: none;
     opacity: var(--mark-a, 0);
@@ -336,8 +333,8 @@ function getImgSrc(fn, custom, normal) {
        licenses: CC 3.0 BY
        https://www.flaticon.com/authors/freepik
      */
-    --bgi: url('data:image/svg+xml,%3Csvg height="683" viewBox="0 0 512 512" width="683" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath fill="%23CC471F" d="M20 512c-11 0-20-9-20-20v-32a326 326 0 0 1 328-328V40c0-16 10-31 25-37s32-3 43 9l98 97a60 60 0 0 1 0 85l-98 98a40 40 0 0 1-68-28v-22a20 20 0 0 1 40 0v22l98-98a20 20 0 0 0 0-28l-98-98v92c0 22-18 40-40 40A288 288 0 0 0 40 460v32c0 11-9 20-20 20zm348-248zm0 0"/%3E%3C/svg%3E');
-    --cc: #fb5a28;
+    /* --bgi: url('data:image/svg+xml,%3Csvg height="683" viewBox="0 0 512 512" width="683" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath fill="%23CC471F" d="M20 512c-11 0-20-9-20-20v-32a326 326 0 0 1 328-328V40c0-16 10-31 25-37s32-3 43 9l98 97a60 60 0 0 1 0 85l-98 98a40 40 0 0 1-68-28v-22a20 20 0 0 1 40 0v22l98-98a20 20 0 0 0 0-28l-98-98v92c0 22-18 40-40 40A288 288 0 0 0 40 460v32c0 11-9 20-20 20zm348-248zm0 0"/%3E%3C/svg%3E'); */
+    --marker-color: hsla(60, 80%, 35%, 1);
   }
 }
 
