@@ -109,7 +109,6 @@ let switcher = {
     </span>
   </label>
 
-
   <div class="counter">
     <span class="counter-item">
       { $_('owns') }
@@ -135,7 +134,10 @@ let switcher = {
 
   <GitHubCorner />
 </header>
- <section class="ctrlor hide-for-print">
+
+
+
+<section class="ctrlor hide-for-print">
 
   <input type="checkbox" id="switcher--ctrl" bind:checked={ switcher.ctrl } class="sr-only" />
 
@@ -321,11 +323,11 @@ let switcher = {
 
   .ctrl-content {
     position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
+    top: 1rem;
+    left: 1rem;
+    bottom: 1rem;
     z-index: 11;
-    max-width: 90%;
+    max-width: calc(100% - 2rem);
     visibility: hidden;
     padding: 2em 2em 5em 2em;
     text-align: left;
