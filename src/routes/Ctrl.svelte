@@ -54,7 +54,7 @@ let counter = {
 
 window.counter=  counter;
 
-let shadowNicename;
+let shadowNickname;
 let nicknameWidth;
 let defaultStatus = {
   0: [],
@@ -106,7 +106,7 @@ let switcher = {
       bind:value={ $nickname }
     >
     <span class="nickname nickname-shadow"
-      bind:this={ shadowNicename }
+      bind:this={ shadowNickname }
       bind:offsetWidth={ nicknameWidth }
     >
       { $nickname }
