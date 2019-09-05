@@ -132,11 +132,12 @@ $: {
 
 
 function getImgSrc(fn, custom, normal) {
-  if (location.hash === '#dev') {
-    return custom || `./PogoAssets/master/pokemon_icons/pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
+  let _fn = `pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
+  let sourcePath = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/';
+  if (location.hash.indexOf('#dev=') === 0) {
+    return `${location.hash.split('=').pop()}${_fn}`;
   }
-  let imgBasePath = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_';
-  return custom || `https://images.weserv.nl/?w=200&il&url=${imgBasePath}${fn}${normal ? '' : '_shiny'}.png`;
+  return custom || `https://images.weserv.nl/?w=200&il&url=${sourcePath}${_fn}`;
 }
 
 </script>
@@ -176,9 +177,9 @@ function getImgSrc(fn, custom, normal) {
           on:click={ click.bind(pm, pmGroupIndex, pmIndex) }
         >
           <div class="pm-img-box">
-            <img class="pm-img" alt="" src={ getImgSrc(pm.fn, pm.cfn1) }>
+            <img class="pm-img" alt="" src={ getImgSrc(pm.fn, pm.cfn1) } loading="lazy" width="200" height="200" intrinsicsize="120x120">
             {#if $compareImg}
-              <img class="pm-img pm-img-n" alt="" src={ getImgSrc(pm.fn, pm.cfn0, true) }>
+              <img class="pm-img pm-img-n" alt="" src={ getImgSrc(pm.fn, pm.cfn0, true) } loading="lazy" width="200" height="200" intrinsicsize="120x120">
             {/if}
           </div>
           <div class="pm-name" data-dex={ pm.dex }>{ pm.name[$lang] }</div>
