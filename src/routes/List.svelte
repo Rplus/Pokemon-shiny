@@ -405,6 +405,15 @@ function getImgSrc(fn, custom, normal) {
       hsla(0, 0%, 100%, 0.011) 92.5%,
       hsla(0, 0%, 100%, 0) 100%
     );
+
+  &::before {
+    position: absolute;
+    top: 1.4rem;
+    content: '#' attr(data-dex);
+    font-size: xx-small;
+    color: #000;
+    opacity: .2;
+  }
 }
 
 .list-lock-label {
