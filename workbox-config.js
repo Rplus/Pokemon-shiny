@@ -13,7 +13,7 @@ module.exports = {
     urlPattern: /.*PogoAssets.*\.(?:png)$/,
     handler: 'CacheFirst',
     options: {
-      cacheName: 'pm-shiny-cdn-image',
+      cacheName: 'pm-shiny-cache--cdn-image',
       expiration: {
         maxEntries: 1000,
       },
