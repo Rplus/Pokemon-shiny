@@ -7,13 +7,22 @@
 	<title>Svelte app</title>
 
   <link rel="manifest" href="./manifest.json">
-	<link rel='icon' type='image/png' href='/favicon.png'>
+	<link rel='icon' type='image/png' href='./favicon.png'>
 	<link rel='stylesheet' href='/bundle.css'>
   <link rel="prefetch" href="./pms.json">
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js" integrity="sha256-w6/1B0uwkpR3uX0YUw3k2zzHnq6xDNdVZHLIdz8xV6I=" crossorigin="anonymous"></script>
+  <script defer src="./html2canvas.min.js"></script>
+  <script defer src='./bundle.js'></script>
+  <script>
+    // Check that service workers are supported
+    if ('serviceWorker' in navigator) {
+      // Use the window load event to keep the page load performant
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js');
+      });
+    }
+  </script>
 </head>
 
 <body>
-	<script src='/bundle.js'></script>
 </body>
 </html>

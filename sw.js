@@ -27,15 +27,19 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "bundle.css",
-    "revision": "9f57f57621f529c999dc30ec5a52789b"
+    "revision": "77762fdbd403b9c125762b63a491b299"
   },
   {
     "url": "bundle.js",
-    "revision": "3820c4a452ae32404628b091ccc3d04b"
+    "revision": "75f3ba273198de32364735ecfe0bc9c7"
   },
   {
     "url": "favicon.png",
     "revision": "c8f26ae99b1a32a101924c83781a87a9"
+  },
+  {
+    "url": "html2canvas.min.js",
+    "revision": "07dfafa027eb2f5e81f234eeaa30ec16"
   },
   {
     "url": "icon.png",
@@ -43,7 +47,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "41301fc1e1a31ad1e6383c2355f658f0"
+    "revision": "7683f33b47d42a199718818fc8f04cf5"
   },
   {
     "url": "manifest.json",
@@ -52,10 +56,8 @@ self.__precacheManifest = [
   {
     "url": "pms.json",
     "revision": "248289634ab5cac5ead7642c28362cba"
-  },
-  {
-    "url": "screenshot2.png",
-    "revision": "48818a4fa95ad571f1a7b4603473eb14"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
+
+workbox.routing.registerRoute(/.*PogoAssets.*\.(?:png)$/, new workbox.strategies.CacheFirst({ "cacheName":"pm-shiny-cdn-image", plugins: [new workbox.expiration.Plugin({ maxEntries: 1000, purgeOnQuotaError: false })] }), 'GET');
