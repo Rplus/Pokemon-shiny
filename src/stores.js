@@ -22,7 +22,15 @@ export const showUnregistered = writable(false);
 export const dex = writable({});
 export const pmTotalStatus = writable({});
 
-export const compareImg = writable(false);
+
+export const compareImg = writable(getItem('config.compareImg'));
+
+export const saveConfigForCompareImg = (value) => {
+  saveItem({
+    key: 'config.compareImg',
+    value: !!value,
+  });
+};
 
 export const searchStr = derived(
   [dex, nickname, lang, show],

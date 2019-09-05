@@ -8,7 +8,7 @@ import {
   searchStr,
   nickname,
   pmTotalStatus,
-  compareImg,
+  compareImg, saveConfigForCompareImg,
 } from '../stores.js';
 import GitHubCorner from './Github-icon.html';
 import Share from './Share.html';
@@ -28,6 +28,10 @@ function selectAll() {
 
 $: {
   document.title = `✨ ${$nickname} | Pokemon Shiny Checklist`;
+}
+
+$: {
+  saveConfigForCompareImg($compareImg);
 }
 
 let lockPmList = false;
