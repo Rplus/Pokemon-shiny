@@ -55,10 +55,10 @@ let _words = {
     'it': 'Selezionati',
   },
   'show.offer': {
-    'en': 'Selected',
+    'en': 'Tradable',
     'zh': '可交換',
-    'de': 'Ausgewählt',
-    'it': 'Selezionati',
+    'de': 'Handelbar',
+    'it': 'Negoziabili',
   },
   'show.unregistered': {
     'en': 'Unregistered',
