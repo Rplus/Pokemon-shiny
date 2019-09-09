@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "bundle.css",
-    "revision": "549339cc3c8b22ebf05fcaa043cac7e9"
+    "revision": "b2a128afab03322f5bfca38ccecc7445"
   },
   {
     "url": "bundle.js",
-    "revision": "d12d28e2e03e7c1923a6aa042ffad87a"
+    "revision": "3db81543e8ffbd2e3555d493a6d9cd9f"
   },
   {
     "url": "favicon.png",
