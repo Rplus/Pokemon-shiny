@@ -33,7 +33,7 @@ function generateImg(argument) {
     printTarget, {
       width: exportWidth,
       // ignoreElements: null,
-      scale: 2,
+      // scale: 2,
       useCORS: true,
     }
   )
