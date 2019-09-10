@@ -166,6 +166,12 @@ let _words = {
     'de': 'Breite',
     'it': 'larghezza',
   },
+  'scale': {
+    'en': 'Scale',
+    'zh': '縮放比',
+    'de': 'Rahmen',
+    'it': 'Scala',
+  },
   'set.width': {
     'en': 'Set',
     'zh': '設置',

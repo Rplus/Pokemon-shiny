@@ -6,6 +6,7 @@ import { nickname } from '../stores.js';
 let printTarget;
 let exportWidthDefault;
 let exportWidth;
+let exportScale = 1;
 const exportWidthMax = 3000;
 const exportWidthMin = 200;
 let defaultImgSrc = './favicon.png';
@@ -33,7 +34,7 @@ function generateImg(argument) {
     printTarget, {
       width: exportWidth,
       // ignoreElements: null,
-      // scale: 2,
+      scale: exportScale,
       useCORS: true,
     }
   )
@@ -78,8 +79,8 @@ $: {
 <fieldset class="output-wrap hide-for-print">
   <legend>{ $_('export') }</legend>
 
-  { $_('width') }:
   <label class="output-width">
+    { $_('width') }:
     <input type="number"
       min={ exportWidthMin }
       max={ exportWidthMax }
@@ -87,6 +88,19 @@ $: {
       step="5"
       bind:value={ exportWidth }
     /> px
+  </label>
+  <br>
+
+  <label class="output-width">
+    { $_('scale') }:
+    x
+    <input type="number"
+      min=".5"
+      max="3"
+      pattern="[0-9]+"
+      step=".1"
+      bind:value={ exportScale }
+    />
   </label>
 
   <details open>
