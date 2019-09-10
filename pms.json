@@ -1495,7 +1495,7 @@
       "kr": "파오리",
       "zh": "大蔥鴨"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Farfetchd"
   },
   {
@@ -1968,7 +1968,7 @@
       "kr": "캥카",
       "zh": "袋獸"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Kangaskhan"
   },
   {
@@ -2059,7 +2059,7 @@
       "kr": "마임맨",
       "zh": "魔牆人偶"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Mr Mime"
   },
   {
@@ -2137,7 +2137,7 @@
       "kr": "켄타로스",
       "zh": "肯泰羅"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Tauros"
   },
   {
