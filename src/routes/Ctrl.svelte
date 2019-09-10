@@ -34,6 +34,8 @@ $: {
   saveConfigForCompareImg($compareImg);
 }
 
+$: updateTime = document.querySelector('meta[name="update-time"]').content;
+
 let lockPmList = false;
 
 let counterLabel = [
@@ -134,9 +136,11 @@ let switcher = {
         { counter.released }
       </span>
     </span>
+
   </div>
 
   <GitHubCorner />
+  <time class="update-time">{ updateTime }</time>
 </header>
 
 
@@ -369,6 +373,18 @@ let switcher = {
     text-decoration: line-through;
     filter: blur(1px) opacity(.75);
     pointer-events: none;
+  }
+
+  .update-time {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    color: rgba(0, 0, 0, .3);
+    font-family: monospace;
+
+    &:not(:empty)::before {
+      content: 'update: ';
+    }
   }
 
 </style>
