@@ -111,6 +111,10 @@ input {
   background-color: inherit;
 }
 
+body.print {
+  pointer-events: none;
+}
+
 body.print .workspace {
   min-height: unset;
 }
