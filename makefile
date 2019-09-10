@@ -5,7 +5,7 @@ build: copy-assets
 	npm run build;
 
 build-sw:
-	workbox generateSW workbox-config.js;
+	npm run build:sw
 
 copy-assets:
 	cp -r ./assets/* ./public/

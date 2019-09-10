@@ -18,7 +18,8 @@
     "rollup-plugin-svelte": "^5.0.3",
     "rollup-plugin-terser": "^4.0.4",
     "svelte": "^3.0.0",
-    "svelte-preprocess": "^2.14.3"
+    "svelte-preprocess": "^2.14.3",
+    "workbox-cli": "^4.3.1"
   },
   "dependencies": {
     "sirv-cli": "^0.4.4",
@@ -27,6 +28,7 @@
   "scripts": {
     "deploy": "gh-pages -d public",
     "build": "rollup -c",
+    "build:sw": "workbox generateSW workbox-config.js",
     "autobuild": "rollup -c -w",
     "dev": "run-p start:dev autobuild",
     "start": "sirv public --single",
