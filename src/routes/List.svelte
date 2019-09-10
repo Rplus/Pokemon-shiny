@@ -274,6 +274,7 @@ function getImgSrc(fn, custom, normal) {
   border-radius: .1em;
   border: 1px solid #ddd;
   background-color: hsla(33, 100%, 97%, var(--bgc-a));
+  overflow: hidden;
 
   /* border */
   &::before {
@@ -301,11 +302,11 @@ function getImgSrc(fn, custom, normal) {
     z-index: 4;
     width: 1.9rem;
     height: 1.9rem;
-    background-image: linear-gradient(45deg, var(--marker-color, var(--bdc)) 50%, transparent 0%);
-    background-repeat: no-repeat;
-    border-bottom-left-radius: inherit;
+    background-color: var(--marker-color, var(--bdc));
     pointer-events: none;
     opacity: var(--mark-a, 0);
+    transform: rotate(45deg) scaleX(1.5);
+    transform-origin: 0% 0%;
   }
 
   &:not([data-status="0"]) {
@@ -409,8 +410,7 @@ function getImgSrc(fn, custom, normal) {
     top: 1.4rem;
     content: '#' attr(data-dex);
     font-size: xx-small;
-    color: #000;
-    opacity: .2;
+    color:  rgba(0, 0, 0, .2);
   }
 }
 
