@@ -6,23 +6,12 @@
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
-
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
-
-
 ## Get started
 
-Install the dependencies...
+Install the dependencies & copy assets to public folder...
 
 ```bash
-cd svelte-app
-npm install
+make init;
 ```
 
 ...then start [Rollup](https://rollupjs.org):
@@ -36,33 +25,12 @@ Navigate to [localhost:5000](http://localhost:5000). You should see your app run
 
 ## Deploying to the web
 
-### With [now](https://zeit.co/now)
-
-Install `now` if you haven't already:
-
 ```bash
-npm install -g now
+make deploy
 ```
 
-Then, from within your project folder:
-
-```bash
-now
-```
-
-As an alternative, use the [Now desktop client](https://zeit.co/download) and simply drag the unzipped project folder to the taskbar icon.
-
-### With [surge](https://surge.sh/)
-
-Install `surge` if you haven't already:
-
-```bash
-npm install -g surge
-```
-
-Then, from within your project folder:
-
-```bash
-npm run build
-surge public
-```
+ps:  
+`deploy` task will run 3 tasks:
+* `updateTime`: update time string in page header
+* `build`: build js
+* `build-sw`: update service worker for PWA
