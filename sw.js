@@ -27,27 +27,19 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "bundle.css",
-    "revision": "382df2d25daef70ed847ce277706d738"
+    "revision": "9c5789612499f4b5704447671a17d3a5"
   },
   {
     "url": "bundle.js",
-    "revision": "22c4067241a3bb8fad0554616df49fee"
+    "revision": "1937506e03f331f93b11fad144caadb9"
   },
   {
     "url": "favicon.png",
     "revision": "c8f26ae99b1a32a101924c83781a87a9"
   },
   {
-    "url": "html2canvas.1.0.0-rc.min.js",
-    "revision": "07dfafa027eb2f5e81f234eeaa30ec16"
-  },
-  {
     "url": "html2canvas.min.js",
     "revision": "07dfafa027eb2f5e81f234eeaa30ec16"
-  },
-  {
-    "url": "html2canvas.svg.min.js",
-    "revision": "64ce3c5e207d482033d28f130563b12e"
   },
   {
     "url": "icon.png",
@@ -55,15 +47,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "f5df8820bcf06620ad5d5edb519947d8"
+    "revision": "661c717f4062c8f0d633b52519c4cc6d"
   },
   {
     "url": "manifest.json",
-    "revision": "d93f011a51b504ce5b8e7aec57638900"
+    "revision": "a5d12498a4b8b6fa639c2131f3dd8c9a"
   },
   {
     "url": "pms.json",
-    "revision": "e11810231a829a3e1585ab73fc311a99"
+    "revision": "b8107ce3b9c38c594892b91b33ad7c2e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
