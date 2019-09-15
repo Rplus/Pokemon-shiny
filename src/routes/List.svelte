@@ -270,7 +270,8 @@ function getImgSrc(fn, custom, normal) {
   margin-left: 3px;
   margin-right: 3px;
   margin-bottom: 5px;
-  font-size: 8rem;
+  font-size: 5.5rem;
+  font-size: calc(4.5rem + 5vmin);
   border-radius: .1em;
   border: 1px solid #ddd;
   background-color: hsla(33, 100%, 97%, var(--bgc-a));
