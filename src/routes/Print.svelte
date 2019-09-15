@@ -40,7 +40,10 @@ function generateImg(argument) {
   )
   .then(canvas => {
     document.body.classList.remove(printClass);
-    exportImgSrc = canvas.toDataURL('image/png');
+
+    canvas.toBlob((blob) => {
+      exportImgSrc = URL.createObjectURL(blob);
+    });
 
     setTimeout(() => {
       document.querySelector('.export-img').scrollIntoView();
