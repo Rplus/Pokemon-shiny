@@ -141,20 +141,43 @@ body.print .show-for-print {
 }
 
 .footer-button {
+  --footer-btn-fz: 1rem;
+  --footer-btn-bgc-active: #ffc;
+
   position: fixed;
   top: unset;
   left: .5rem;
   bottom: 1.5rem;
   width: 2em;
+  height: 2em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   margin: unset;
   z-index: 15;
-  font-size: 1.5rem;
+  font-size: var(--footer-btn-fz);
   /* opacity: var(--btn-opacity, .7); */
   color: #999;
 
   &:hover {
     /* --btn-opacity: 1; */
     color: inherit;
+  }
+
+  input[type="checkbox"]:focus + & {
+    border: 1px solid #666;
+  }
+
+  input[type="checkbox"]:checked + &,
+  &:active {
+    box-shadow: inset 1px 1px 2px #acc;
+    background-color: var(--footer-btn-bgc-active);
+  }
+}
+
+@media (min-width: 777px) and (min-height: 666px) {
+  .footer-button {
+    --footer-btn-fz: 1.5rem;
   }
 }
 

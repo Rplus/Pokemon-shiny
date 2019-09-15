@@ -177,7 +177,7 @@ function getItemTitle(item) {
 <style global>
 
 .save-btn {
-  left: 4rem;
+  left: calc(.5rem * 2 + var(--footer-btn-fz) * 2);
   visibility: visible;
 }
 

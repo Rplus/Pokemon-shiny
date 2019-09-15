@@ -106,7 +106,7 @@ $: {
     />
   </label>
 
-  <details open>
+  <details class="output-details" open>
     <summary>
 
       <button on:click|preventDefault={ setWidth }>
@@ -167,7 +167,10 @@ $: {
 
 .output-width {
   display: inline-block;
-  margin-bottom: .5rem;
+}
+
+.output-details {
+  margin-top: .5rem;
 }
 
 .export-img {

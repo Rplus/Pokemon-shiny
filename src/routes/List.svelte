@@ -301,8 +301,8 @@ function getImgSrc(fn, custom, normal) {
     left: 0;
     bottom: 0;
     z-index: 4;
-    width: 1.9rem;
-    height: 1.9rem;
+    width: 1.5rem;
+    height: 1.5rem;
     background-color: var(--marker-color, var(--bdc));
     pointer-events: none;
     opacity: var(--mark-a, 0);
@@ -377,10 +377,11 @@ function getImgSrc(fn, custom, normal) {
   left: 0;
   right: 0;
   z-index: 4;
-  padding: 5px 8px 15px;
+  padding: .3em 8px 15px;
   text-align: left;
   border-radius: inherit;
   font-size: .9rem;
+  line-height: 1;
   text-shadow: 1px 1px 0px #eef;
   color: #444;
 
@@ -406,18 +407,33 @@ function getImgSrc(fn, custom, normal) {
       hsla(0, 0%, 100%, 0) 100%
     );
 
+  @media (max-width: 700px) {
+    font-size: .75rem;
+  }
+
   &::before {
     position: absolute;
-    top: 1.4rem;
+    top: 1.6em;
     content: '#' attr(data-dex);
-    font-size: xx-small;
+    font-size: .8em;
     color:  rgba(0, 0, 0, .2);
+    opacity: 0;
+
+    .pm:hover & {
+      opacity: 1;
+    }
   }
 }
 
 .list-lock-label {
   left: 7.5rem;
+  left: calc(.5rem * 3 + var(--footer-btn-fz) * 2 * 2);
   visibility: visible;
+
+  .list-lock:checked + & {
+    box-shadow: inset 1px 1px 2px #acc;
+    background-color: var(--footer-btn-bgc-active);
+  }
 
   &::before {
     content: '🔓';
