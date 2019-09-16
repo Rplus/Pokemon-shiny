@@ -355,8 +355,8 @@ function getImgSrc(fn, custom, normal) {
 
 .pm-img {
   position: absolute;
-  left: var(--l, unset);
-  top: var(--t, unset);
+  left: var(--l, 0%);
+  top: var(--t, 0%);
   width: var(--w, 100%);
   height: var(--w, 100%);
   user-select: none;
