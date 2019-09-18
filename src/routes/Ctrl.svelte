@@ -341,7 +341,7 @@ let switcher = {
     z-index: 11;
     max-width: calc(100% - 2rem);
     visibility: hidden;
-    padding: 2em 2em 5em 2em;
+    padding: 2em 5vmin 5em 5vmin;
     text-align: left;
     box-shadow: 0 0 1em rgba(0, 0, 0, .5);
     background-color: #fff;
@@ -393,10 +393,10 @@ let switcher = {
 
   .clickable-label {
     display: inline-block;
-    min-width: 90px;
-    margin-bottom: 1rem;
-    padding-left: .5rem;
-    padding-right: .5rem;
+    min-width: 80px;
+    margin-bottom: .5rem;
+    padding-left: .2rem;
+    padding-right: .2rem;
     text-align: center;
 
     &.db {
