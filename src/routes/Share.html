@@ -6,6 +6,20 @@
   let shortUrlLink = '';
   let isFetching = false;
 
+  function shareLink(e) {
+    let url = e.target.href;
+    let title = document.title;
+    if (!navigator.share) {
+      window.prompt('Copy & Share!', url);
+      return;
+    }
+
+    navigator.share({
+      title: title,
+      url: url,
+    });
+  }
+
   function getShortUrl() {
     if (isFetching) {
       alert('')
@@ -46,6 +60,7 @@
   class:is-fetching={ isFetching }
   data-shorturl={ shortUrlLink }
   href={ shortUrlLink ? shortUrlLink : url }
+  on:click|preventDefault={shareLink}
 >
   { $_('share.shiny.list') }
 
