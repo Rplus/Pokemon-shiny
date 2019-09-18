@@ -301,8 +301,8 @@ function getImgSrc(fn, custom, normal) {
     left: 0;
     bottom: 0;
     z-index: 4;
-    width: 1.5rem;
-    height: 1.5rem;
+    width: .25em;
+    height: .25em;
     background-color: var(--marker-color, var(--bdc));
     pointer-events: none;
     opacity: var(--mark-a, 0);

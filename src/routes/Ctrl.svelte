@@ -190,14 +190,19 @@ let switcher = {
       <div class="ctrl-show mb-1">
         { $_('show') }:
         <br>
-        {#each shows as _show}
+        {#each shows as _show, index }
           <label class="clickable-xxx">
             <input class="sr-only" type="radio" name="shows" bind:group={$show} value={ _show } disabled={ $showUnregistered } />
-            <span class="clickable">
+            <div class="show-types clickable">
+              <div class="pm pm--demo" data-status={index}>
+                <div class="pm-img-box">
+                  <img src="./pokemon_icon_000.png" alt="sample" class="pm-img" />
+                </div>
+              </div>
               { $_(`show.${_show}`) }
-            </span>
+            </div>
           </label>
-          / 
+          /
         {/each}
 
         <label>
@@ -385,6 +390,14 @@ let switcher = {
     &:not(:empty)::before {
       content: 'update: ';
     }
+  }
+
+  .show-types {
+    text-align: center;
+  }
+
+  .pm.pm--demo {
+    font-size: 3.5rem;
   }
 
 </style>
