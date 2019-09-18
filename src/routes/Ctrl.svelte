@@ -191,21 +191,20 @@ let switcher = {
         { $_('show') }:
         <br>
         {#each shows as _show, index }
-          <label class="clickable-xxx">
+          <label class="clickable-label">
             <input class="sr-only" type="radio" name="shows" bind:group={$show} value={ _show } disabled={ $showUnregistered } />
             <div class="show-types clickable">
+              { $_(`show.${_show}`) }
+            </div>
               <div class="pm pm--demo" data-status={index}>
                 <div class="pm-img-box">
                   <img src="./pokemon_icon_000.png" alt="sample" class="pm-img" />
                 </div>
               </div>
-              { $_(`show.${_show}`) }
-            </div>
           </label>
-          /
         {/each}
 
-        <label>
+        <label class="clickable-label db">
           <span class="clickable">
             <input class="m-0" type="checkbox" bind:checked={ $showUnregistered } />
             { $_('show.unregistered') }
@@ -392,12 +391,27 @@ let switcher = {
     }
   }
 
-  .show-types {
+  .clickable-label {
+    display: inline-block;
+    min-width: 90px;
+    margin-bottom: 1rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
     text-align: center;
+
+    &.db {
+      display: block;
+      width: fit-content;
+    }
   }
 
   .pm.pm--demo {
+    margin: .3rem auto 0;
     font-size: 3.5rem;
+
+    &::before {
+      border-width: 2px;
+    }
   }
 
 </style>
