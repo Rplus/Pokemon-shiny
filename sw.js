@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "bundle.css",
-    "revision": "69386113875110fc9da79f7107c8a8d8"
+    "revision": "cbdaff3d8485c06d057c619320755971"
   },
   {
     "url": "bundle.js",
-    "revision": "7607f2889dfb7c5af6af2957ddb15c3b"
+    "revision": "1a5e9587d91ccc1c00c633ab08a75751"
   },
   {
     "url": "favicon.png",
@@ -47,7 +47,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "86373ebbbd1579859d758b2c1073425b"
+    "revision": "1c8dc5801c92ef2a5c7cdae87721bd3d"
   },
   {
     "url": "manifest.json",
@@ -56,6 +56,10 @@ self.__precacheManifest = [
   {
     "url": "pms.json",
     "revision": "45700e22afb689d77f16e977347a7f15"
+  },
+  {
+    "url": "pokemon_icon_000.png",
+    "revision": "b8fd366bba04e4f3157a3f1c5d579bc2"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
