@@ -2479,8 +2479,7 @@
       "kr": "뮤츠",
       "zh": "超夢"
     },
-    "shiny_released": false,
-    "released_date": "2019-09-16T20:00Z",
+    "shiny_released": true,
     "family": "Mewtwo"
   },
   {
@@ -7021,7 +7020,23 @@
       "kr": "기라티나",
       "zh": "騎拉帝納"
     },
+    "type": "_12",
     "shiny_released": false,
+    "family": "Giratina"
+  },
+  {
+    "dex": 487,
+    "name": {
+      "de": "Giratina",
+      "en": "Giratina",
+      "fr": "Giratina",
+      "ja": "ギラティナ",
+      "kr": "기라티나",
+      "zh": "騎拉帝納"
+    },
+    "type": "_11",
+    "shiny_released": false,
+    "released_date": "2019-09-23T20:00Z",
     "family": "Giratina"
   },
   {
