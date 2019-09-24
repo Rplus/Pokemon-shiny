@@ -393,11 +393,12 @@ let switcher = {
 
   .clickable-label {
     display: inline-block;
-    min-width: 80px;
+    min-width: 70px;
     margin-bottom: .5rem;
     padding-left: .2rem;
     padding-right: .2rem;
     text-align: center;
+    font-size: small;
 
     &.db {
       display: block;
@@ -407,7 +408,7 @@ let switcher = {
 
   .pm.pm--demo {
     margin: .3rem auto 0;
-    font-size: 3.5rem;
+    font-size: calc(3rem + 3vmin);
 
     &::before {
       border-width: 2px;

@@ -147,7 +147,7 @@ body.print .show-for-print {
   position: fixed;
   top: unset;
   left: .5rem;
-  bottom: 1.5rem;
+  bottom: .5rem;
   width: 2em;
   height: 2em;
   display: inline-flex;
@@ -178,6 +178,7 @@ body.print .show-for-print {
 @media (min-width: 777px) and (min-height: 666px) {
   .footer-button {
     --footer-btn-fz: 1.5rem;
+    bottom: 1rem;
   }
 }
 
