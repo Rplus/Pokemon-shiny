@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "bundle.css",
-    "revision": "6ba6e8864f9b310da4562c3ea6b75281"
+    "revision": "40b5ac6824d00ef4da905418fbbece62"
   },
   {
     "url": "bundle.js",
@@ -47,7 +47,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e03a7961aeaddcade24e79da0347a9b6"
+    "revision": "df3cfc015eaf65a4cf5f4c293558d79b"
   },
   {
     "url": "manifest.json",
@@ -55,7 +55,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pms.json",
-    "revision": "c6e41e596ab62c0ef6ca5a61cc9c9e40"
+    "revision": "bdc507eab62e4190b654f2a386b196fb"
   },
   {
     "url": "pokemon_icon_000.png",

@@ -4918,6 +4918,7 @@
       "zh": "大顎蟻"
     },
     "shiny_released": false,
+    "released_date": "2019/10/12",
     "family": "Trapinch"
   },
   {
@@ -4931,6 +4932,7 @@
       "zh": "超音波幼蟲"
     },
     "shiny_released": false,
+    "released_date": "2019/10/12",
     "family": "Trapinch"
   },
   {
@@ -4944,6 +4946,7 @@
       "zh": "沙漠蜻蜓"
     },
     "shiny_released": false,
+    "released_date": "2019/10/12",
     "family": "Trapinch"
   },
   {
@@ -5009,6 +5012,7 @@
       "zh": "貓鼬斬"
     },
     "shiny_released": false,
+    "released_date": "2019-09-26T20:00Z",
     "family": "Zangoose"
   },
   {
@@ -5022,6 +5026,7 @@
       "zh": "飯匙蛇"
     },
     "shiny_released": false,
+    "released_date": "2019-09-26T20:00Z",
     "family": "Seviper"
   },
   {
@@ -6366,6 +6371,7 @@
     },
     "order": -1,
     "shiny_released": false,
+    "released_date": "2019-09-26T20:00Z",
     "family": "Mr Mime"
   },
   {
@@ -7035,8 +7041,7 @@
       "zh": "騎拉帝納"
     },
     "type": "_11",
-    "shiny_released": false,
-    "released_date": "2019-09-23T20:00Z",
+    "shiny_released": true,
     "family": "Giratina"
   },
   {
