@@ -39,6 +39,10 @@
       })
   }
 
+  function getQRCodeImg(url) {
+    return `https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=${url}&choe=UTF-8`;
+  }
+
   $: url = `${location.origin}${location.pathname}?${$searchStr}`;
 </script>
 
@@ -69,6 +73,10 @@
     <span class="url-str">{ shortUrlLink }</span>
   {/if}
 </a>
+<br>
+{#if shortUrlLink}
+  <img src={ getQRCodeImg(shortUrlLink) } alt="">
+{/if}
 
 
 
