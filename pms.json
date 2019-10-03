@@ -877,7 +877,7 @@
       "kr": "뚜벅쵸",
       "zh": "走路草"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Oddish"
   },
   {
@@ -890,7 +890,7 @@
       "kr": "냄새꼬",
       "zh": "臭臭花"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Oddish"
   },
   {
@@ -903,7 +903,7 @@
       "kr": "라플레시아",
       "zh": "霸王花"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Oddish"
   },
   {
@@ -2958,7 +2958,7 @@
       "kr": "아르코",
       "zh": "美麗花"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Oddish"
   },
   {
