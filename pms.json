@@ -3572,6 +3572,7 @@
       "zh": "盔甲鳥"
     },
     "shiny_released": false,
+    "released_date": "2019-11-01T20:00Z",
     "family": "Skarmory"
   },
   {
@@ -4917,8 +4918,7 @@
       "kr": "톱치",
       "zh": "大顎蟻"
     },
-    "shiny_released": false,
-    "released_date": "2019/10/12",
+    "shiny_released": true,
     "family": "Trapinch"
   },
   {
@@ -4931,8 +4931,7 @@
       "kr": "비브라바",
       "zh": "超音波幼蟲"
     },
-    "shiny_released": false,
-    "released_date": "2019/10/12",
+    "shiny_released": true,
     "family": "Trapinch"
   },
   {
@@ -4945,8 +4944,7 @@
       "kr": "플라이곤",
       "zh": "沙漠蜻蜓"
     },
-    "shiny_released": false,
-    "released_date": "2019/10/12",
+    "shiny_released": true,
     "family": "Trapinch"
   },
   {
@@ -5011,8 +5009,7 @@
       "kr": "쟝고",
       "zh": "貓鼬斬"
     },
-    "shiny_released": false,
-    "released_date": "2019-09-26T20:00Z",
+    "shiny_released": true,
     "family": "Zangoose"
   },
   {
@@ -5025,8 +5022,7 @@
       "kr": "세비퍼",
       "zh": "飯匙蛇"
     },
-    "shiny_released": false,
-    "released_date": "2019-09-26T20:00Z",
+    "shiny_released": true,
     "family": "Seviper"
   },
   {
@@ -5561,6 +5557,7 @@
       "zh": "雷吉洛克"
     },
     "shiny_released": false,
+    "released_date": "2019-11-01T20:00Z",
     "family": "Regirock"
   },
   {
@@ -5574,6 +5571,7 @@
       "zh": "雷吉艾斯"
     },
     "shiny_released": false,
+    "released_date": "2019-11-01T20:00Z",
     "family": "Regice"
   },
   {
@@ -5587,6 +5585,7 @@
       "zh": "雷吉斯奇魯"
     },
     "shiny_released": false,
+    "released_date": "2019-11-01T20:00Z",
     "family": "Registeel"
   },
   {
@@ -6370,8 +6369,7 @@
       "zh": "魔尼尼"
     },
     "order": -1,
-    "shiny_released": false,
-    "released_date": "2019-09-26T20:00Z",
+    "shiny_released": true,
     "family": "Mr Mime"
   },
   {
@@ -8017,6 +8015,7 @@
       "zh": "哭哭面具"
     },
     "shiny_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Yamask"
   },
   {
@@ -8030,6 +8029,7 @@
       "zh": "死神棺"
     },
     "shiny_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Yamask"
   },
   {
