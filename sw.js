@@ -31,7 +31,7 @@ self.__precacheManifest = [
   },
   {
     "url": "bundle.js",
-    "revision": "b1f770b6ede1114d46d3098de6df19f3"
+    "revision": "a499c347efdfcba42c9c093b6dd096ab"
   },
   {
     "url": "favicon.png",
@@ -47,7 +47,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "31923a292e26901be99ea0439123bb67"
+    "revision": "1ed525cab8d121c8e3db2679e3a1b4ca"
   },
   {
     "url": "manifest.json",
@@ -55,7 +55,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pms.json",
-    "revision": "28b6a88c07653bc48288cb67a8e57114"
+    "revision": "dbbb6ad1d0544a6667c749e092249d1d"
   },
   {
     "url": "pokemon_icon_000.png",

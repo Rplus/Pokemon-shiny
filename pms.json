@@ -13,6 +13,21 @@
     "family": "Bulbasaur"
   },
   {
+    "dex": 1,
+    "name": {
+      "de": "Bisasam",
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre",
+      "ja": "フシギダネ",
+      "kr": "이상해씨",
+      "zh": "妙蛙種子"
+    },
+    "shiny_released": true,
+    "fn": "pm0001_00_pgo_fall2019",
+    "isotope": "_f19",
+    "family": "Bulbasaur_f19"
+  },
+  {
     "dex": 2,
     "name": {
       "de": "Bisaknosp",
@@ -52,6 +67,21 @@
     "family": "Charmander"
   },
   {
+    "dex": 4,
+    "name": {
+      "de": "Glumanda",
+      "en": "Charmander",
+      "fr": "Salamèche",
+      "ja": "ヒトカゲ",
+      "kr": "파이리",
+      "zh": "小火龍"
+    },
+    "shiny_released": true,
+    "fn": "pm0004_00_pgo_fall2019",
+    "isotope": "_f19",
+    "family": "Charmander_f19"
+  },
+  {
     "dex": 5,
     "name": {
       "de": "Glutexo",
@@ -89,6 +119,21 @@
     },
     "shiny_released": true,
     "family": "Squirtle"
+  },
+  {
+    "dex": 7,
+    "name": {
+      "de": "Schiggy",
+      "en": "Squirtle",
+      "fr": "Carapuce",
+      "ja": "ゼニガメ",
+      "kr": "꼬부기",
+      "zh": "傑尼龜"
+    },
+    "shiny_released": true,
+    "fn": "pm0007_00_pgo_fall2019",
+    "isotope": "_f19",
+    "family": "Squirtle_f19"
   },
   {
     "dex": 8,
@@ -588,6 +633,22 @@
     },
     "shiny_released": true,
     "family": "Pikachu_10"
+  },
+  {
+    "dex": 25,
+    "isotope": "_02",
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "fn": "pm0025_00_pgo_fall2019",
+    "isotope": "_f19",
+    "family": "Pikachu_f19"
   },
   {
     "dex": 26,
