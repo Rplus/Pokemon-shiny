@@ -20,7 +20,7 @@ function groupByFamily(pms) {
       }
       let dex000 = `000${pm.dex}`.slice(-3);
       pm.id = `${pm.dex}${pm.type || ''}${pm.isotope || ''}`;
-      pm.fn = `${dex000}${pm.type || '_00'}${pm.isotope || ''}`;
+      pm.fn = pm.fn || `${dex000}${pm.type || '_00'}${pm.isotope || ''}`;
       pm.status = 0;
       all[pm.family].pms.push(pm);
       return all;
