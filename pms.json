@@ -121,21 +121,6 @@
     "family": "Squirtle"
   },
   {
-    "dex": 7,
-    "name": {
-      "de": "Schiggy",
-      "en": "Squirtle",
-      "fr": "Carapuce",
-      "ja": "ゼニガメ",
-      "kr": "꼬부기",
-      "zh": "傑尼龜"
-    },
-    "shiny_released": true,
-    "fn": "pm0007_00_pgo_fall2019",
-    "isotope": "_f19",
-    "family": "Squirtle_f19"
-  },
-  {
     "dex": 8,
     "name": {
       "de": "Schillok",
@@ -202,6 +187,21 @@
     "isotope": "_05",
     "shiny_released": true,
     "family": "Squirtle_05"
+  },
+  {
+    "dex": 7,
+    "name": {
+      "de": "Schiggy",
+      "en": "Squirtle",
+      "fr": "Carapuce",
+      "ja": "ゼニガメ",
+      "kr": "꼬부기",
+      "zh": "傑尼龜"
+    },
+    "shiny_released": true,
+    "fn": "pm0007_00_pgo_fall2019",
+    "isotope": "_f19",
+    "family": "Squirtle_f19"
   },
   {
     "dex": 10,
