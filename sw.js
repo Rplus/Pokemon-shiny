@@ -47,15 +47,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "3186ac0321a81e26dc1ba97758fc1681"
-  },
-  {
-    "url": "manifest.json",
-    "revision": "a5d12498a4b8b6fa639c2131f3dd8c9a"
-  },
-  {
-    "url": "pms.json",
-    "revision": "fbd3d225b62b5ad0ac6d3833795e24e7"
+    "revision": "d66644e83f302f541341d7a1433902e0"
   },
   {
     "url": "pokemon_icon_000.png",
@@ -64,4 +56,5 @@ self.__precacheManifest = [
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
+workbox.routing.registerRoute(/.*json$/, new workbox.strategies.NetworkFirst(), 'GET');
 workbox.routing.registerRoute(/.*PogoAssets.*\.(?:png)$/, new workbox.strategies.CacheFirst({ "cacheName":"pm-shiny-cache--cdn-image", plugins: [new workbox.expiration.Plugin({ maxEntries: 1000, purgeOnQuotaError: false })] }), 'GET');
