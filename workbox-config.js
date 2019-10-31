@@ -1,7 +1,7 @@
 module.exports = {
   "globDirectory": "public/",
   "globPatterns": [
-    "*.{css,js,png,html,json}",
+    "*.{css,js,png,html}",
   ],
   "swDest": "public/sw.js",
 
@@ -9,6 +9,10 @@ module.exports = {
 
   // Define runtime caching rules.
   runtimeCaching: [
+  {
+    urlPattern: /.*json$/,
+    handler: 'NetworkFirst',
+  },
   {
     urlPattern: /.*PogoAssets.*\.(?:png)$/,
     handler: 'CacheFirst',
