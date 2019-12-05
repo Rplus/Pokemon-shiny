@@ -3675,8 +3675,7 @@
       "kr": "무장조",
       "zh": "盔甲鳥"
     },
-    "shiny_released": false,
-    "released_date": "2019-11-01T20:00Z",
+    "shiny_released": true,
     "family": "Skarmory"
   },
   {
@@ -4987,6 +4986,20 @@
   {
     "dex": 327,
     "name": {
+      "de": "Pandir #1",
+      "en": "Spinda #1",
+      "fr": "Spinda #1",
+      "ja": "パッチール #1",
+      "kr": "얼루기 #1",
+      "zh": "晃晃斑 #1"
+    },
+    "type": "_11",
+    "shiny_released": true,
+    "family": "Spinda"
+  },
+  {
+    "dex": 327,
+    "name": {
       "de": "Pandir #3",
       "en": "Spinda #3",
       "fr": "Spinda #3",
@@ -5660,8 +5673,7 @@
       "kr": "레지락",
       "zh": "雷吉洛克"
     },
-    "shiny_released": false,
-    "released_date": "2019-11-01T20:00Z",
+    "shiny_released": true,
     "family": "Regirock"
   },
   {
@@ -5674,8 +5686,7 @@
       "kr": "레지아이스",
       "zh": "雷吉艾斯"
     },
-    "shiny_released": false,
-    "released_date": "2019-11-01T20:00Z",
+    "shiny_released": true,
     "family": "Regice"
   },
   {
@@ -5688,8 +5699,7 @@
       "kr": "레지스틸",
       "zh": "雷吉斯奇魯"
     },
-    "shiny_released": false,
-    "released_date": "2019-11-01T20:00Z",
+    "shiny_released": true,
     "family": "Registeel"
   },
   {
@@ -5832,7 +5842,7 @@
       "kr": "불꽃숭이",
       "zh": "小火焰猴"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Chimchar"
   },
   {
@@ -5845,7 +5855,7 @@
       "kr": "파이숭이",
       "zh": "猛火猴"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Chimchar"
   },
   {
@@ -5858,7 +5868,7 @@
       "kr": "초염몽",
       "zh": "烈焰猴"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Chimchar"
   },
   {
@@ -6119,7 +6129,36 @@
       "kr": "도롱충이",
       "zh": "結草兒"
     },
-    "shiny_released": false,
+    "shiny_released": true,
+    "type": "_11",
+    "family": "Burmy"
+  },
+  {
+    "dex": 412,
+    "name": {
+      "de": "Burmy",
+      "en": "Burmy",
+      "fr": "Cheniti",
+      "ja": "ミノムッチ",
+      "kr": "도롱충이",
+      "zh": "結草兒"
+    },
+    "shiny_released": true,
+    "type": "_12",
+    "family": "Burmy"
+  },
+  {
+    "dex": 412,
+    "name": {
+      "de": "Burmy",
+      "en": "Burmy",
+      "fr": "Cheniti",
+      "ja": "ミノムッチ",
+      "kr": "도롱충이",
+      "zh": "結草兒"
+    },
+    "shiny_released": true,
+    "type": "_13",
     "family": "Burmy"
   },
   {
@@ -6132,7 +6171,36 @@
       "kr": "도롱마담",
       "zh": "結草貴婦"
     },
-    "shiny_released": false,
+    "shiny_released": true,
+    "type": "_11",
+    "family": "Burmy"
+  },
+  {
+    "dex": 413,
+    "name": {
+      "de": "Burmadame",
+      "en": "Wormadam",
+      "fr": "Cheniselle",
+      "ja": "ミノマダム",
+      "kr": "도롱마담",
+      "zh": "結草貴婦"
+    },
+    "shiny_released": true,
+    "type": "_12",
+    "family": "Burmy"
+  },
+  {
+    "dex": 413,
+    "name": {
+      "de": "Burmadame",
+      "en": "Wormadam",
+      "fr": "Cheniselle",
+      "ja": "ミノマダム",
+      "kr": "도롱마담",
+      "zh": "結草貴婦"
+    },
+    "shiny_released": true,
+    "type": "_13",
     "family": "Burmy"
   },
   {
@@ -6145,7 +6213,7 @@
       "kr": "나메일",
       "zh": "紳士蛾"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Burmy"
   },
   {
@@ -8118,8 +8186,7 @@
       "kr": "데스마스",
       "zh": "哭哭面具"
     },
-    "shiny_released": false,
-    "released_date": "2019-10-17T20:00Z",
+    "shiny_released": true,
     "family": "Yamask"
   },
   {
@@ -8132,8 +8199,7 @@
       "kr": "데스니칸",
       "zh": "死神棺"
     },
-    "shiny_released": false,
-    "released_date": "2019-10-17T20:00Z",
+    "shiny_released": true,
     "family": "Yamask"
   },
   {
