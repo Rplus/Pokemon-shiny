@@ -3675,8 +3675,7 @@
       "kr": "무장조",
       "zh": "盔甲鳥"
     },
-    "shiny_released": false,
-    "released_date": "2019-11-01T20:00Z",
+    "shiny_released": true,
     "family": "Skarmory"
   },
   {
@@ -5674,8 +5673,7 @@
       "kr": "레지락",
       "zh": "雷吉洛克"
     },
-    "shiny_released": false,
-    "released_date": "2019-11-01T20:00Z",
+    "shiny_released": true,
     "family": "Regirock"
   },
   {
@@ -5688,8 +5686,7 @@
       "kr": "레지아이스",
       "zh": "雷吉艾斯"
     },
-    "shiny_released": false,
-    "released_date": "2019-11-01T20:00Z",
+    "shiny_released": true,
     "family": "Regice"
   },
   {
@@ -5702,8 +5699,7 @@
       "kr": "레지스틸",
       "zh": "雷吉斯奇魯"
     },
-    "shiny_released": false,
-    "released_date": "2019-11-01T20:00Z",
+    "shiny_released": true,
     "family": "Registeel"
   },
   {
@@ -8132,8 +8128,7 @@
       "kr": "데스마스",
       "zh": "哭哭面具"
     },
-    "shiny_released": false,
-    "released_date": "2019-10-17T20:00Z",
+    "shiny_released": true,
     "family": "Yamask"
   },
   {
@@ -8146,8 +8141,7 @@
       "kr": "데스니칸",
       "zh": "死神棺"
     },
-    "shiny_released": false,
-    "released_date": "2019-10-17T20:00Z",
+    "shiny_released": true,
     "family": "Yamask"
   },
   {
