@@ -4987,6 +4987,20 @@
   {
     "dex": 327,
     "name": {
+      "de": "Pandir #1",
+      "en": "Spinda #1",
+      "fr": "Spinda #1",
+      "ja": "パッチール #1",
+      "kr": "얼루기 #1",
+      "zh": "晃晃斑 #1"
+    },
+    "type": "_11",
+    "shiny_released": true,
+    "family": "Spinda"
+  },
+  {
+    "dex": 327,
+    "name": {
       "de": "Pandir #3",
       "en": "Spinda #3",
       "fr": "Spinda #3",
