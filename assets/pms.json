@@ -5846,7 +5846,7 @@
       "kr": "불꽃숭이",
       "zh": "小火焰猴"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Chimchar"
   },
   {
@@ -5859,7 +5859,7 @@
       "kr": "파이숭이",
       "zh": "猛火猴"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Chimchar"
   },
   {
@@ -5872,7 +5872,7 @@
       "kr": "초염몽",
       "zh": "烈焰猴"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Chimchar"
   },
   {
