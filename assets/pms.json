@@ -5101,6 +5101,20 @@
   {
     "dex": 327,
     "name": {
+      "de": "Pandir #2",
+      "en": "Spinda #2",
+      "fr": "Spinda #2",
+      "ja": "パッチール #2",
+      "kr": "얼루기 #2",
+      "zh": "晃晃斑 #2"
+    },
+    "type": "_12",
+    "shiny_released": false,
+    "family": "Spinda"
+  },
+  {
+    "dex": 327,
+    "name": {
       "de": "Pandir #3",
       "en": "Spinda #3",
       "fr": "Spinda #3",
@@ -5109,6 +5123,62 @@
       "zh": "晃晃斑 #3"
     },
     "type": "_13",
+    "shiny_released": true,
+    "family": "Spinda"
+  },
+  {
+    "dex": 327,
+    "name": {
+      "de": "Pandir #4",
+      "en": "Spinda #4",
+      "fr": "Spinda #4",
+      "ja": "パッチール #4",
+      "kr": "얼루기 #4",
+      "zh": "晃晃斑 #4"
+    },
+    "type": "_14",
+    "shiny_released": false,
+    "family": "Spinda"
+  },
+  {
+    "dex": 327,
+    "name": {
+      "de": "Pandir #5",
+      "en": "Spinda #5",
+      "fr": "Spinda #5",
+      "ja": "パッチール #5",
+      "kr": "얼루기 #5",
+      "zh": "晃晃斑 #5"
+    },
+    "type": "_15",
+    "shiny_released": false,
+    "family": "Spinda"
+  },
+  {
+    "dex": 327,
+    "name": {
+      "de": "Pandir #6",
+      "en": "Spinda #6",
+      "fr": "Spinda #6",
+      "ja": "パッチール #6",
+      "kr": "얼루기 #6",
+      "zh": "晃晃斑 #6"
+    },
+    "type": "_16",
+    "shiny_released": false,
+    "family": "Spinda"
+  },
+  {
+    "dex": 327,
+    "name": {
+      "de": "Pandir #7",
+      "en": "Spinda #7",
+      "fr": "Spinda #7",
+      "ja": "パッチール #7",
+      "kr": "얼루기 #7",
+      "zh": "晃晃斑 #7"
+    },
+    "type": "_17",
     "shiny_released": true,
     "family": "Spinda"
   },
