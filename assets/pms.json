@@ -347,6 +347,20 @@
     "family": "Rattata"
   },
   {
+    "dex": 20,
+    "name": {
+      "de": "Rattikarl",
+      "en": "Raticate",
+      "fr": "Rattatac",
+      "ja": "ラッタ",
+      "kr": "레트라",
+      "zh": "拉達"
+    },
+    "isotope": "_11",
+    "shiny_released": true,
+    "family": "Rattata"
+  },
+  {
     "dex": 19,
     "name": {
       "de": "Rattfratz",
@@ -3397,6 +3411,20 @@
     "family": "Wobbuffet"
   },
   {
+    "dex": 202,
+    "name": {
+      "de": "Woingenau",
+      "en": "Wobbuffet",
+      "fr": "Qulbutoké",
+      "ja": "ソーナンス",
+      "kr": "마자용",
+      "zh": "果然翁"
+    },
+    "isotope": "_11",
+    "shiny_released": true,
+    "family": "Wobbuffet"
+  },
+  {
     "dex": 203,
     "name": {
       "de": "Girafarig",
@@ -4233,6 +4261,20 @@
       "zh": "刺尾蟲"
     },
     "shiny_released": false,
+    "family": "Wurmple"
+  },
+  {
+    "dex": 265,
+    "name": {
+      "de": "Waumpel",
+      "en": "Wurmple",
+      "fr": "Chenipotte",
+      "ja": "ケムッソ",
+      "kr": "개무소",
+      "zh": "刺尾蟲"
+    },
+    "isotope": "_11",
+    "shiny_released": true,
     "family": "Wurmple"
   },
   {
