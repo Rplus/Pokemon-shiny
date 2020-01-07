@@ -3837,8 +3837,7 @@
       "kr": "노라키",
       "zh": "驚角鹿"
     },
-    "released_date": "2019-12-24",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Stantler"
   },
   {
@@ -3851,8 +3850,7 @@
       "kr": "노라키",
       "zh": "驚角鹿"
     },
-    "released_date": "2019-12-24",
-    "shiny_released": false,
+    "shiny_released": true,
     "isotope": "_08",
     "family": "Stantler"
   },
@@ -6975,8 +6973,7 @@
       "kr": "눈쓰개",
       "zh": "雪笠怪"
     },
-    "released_date": "2019-12-24",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Snover"
   },
   {
@@ -6989,8 +6986,7 @@
       "kr": "눈설왕",
       "zh": "暴雪王"
     },
-    "released_date": "2019-12-24",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Snover"
   },
   {
@@ -7343,6 +7339,7 @@
       "kr": "히드런",
       "zh": "席多藍恩"
     },
+    "released_date": "2020-01-07T20:00Z",
     "shiny_released": false,
     "family": "Heatran"
   },
