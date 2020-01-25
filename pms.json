@@ -6050,8 +6050,7 @@
       "kr": "팽도리",
       "zh": "波加曼"
     },
-    "shiny_released": false,
-    "released_date": "2020-01-19",
+    "shiny_released": true,
     "family": "Piplup"
   },
   {
@@ -6064,8 +6063,7 @@
       "kr": "팽태자",
       "zh": "波皇子"
     },
-    "shiny_released": false,
-    "released_date": "2020-01-19",
+    "shiny_released": true,
     "family": "Piplup"
   },
   {
@@ -6078,8 +6076,7 @@
       "kr": "엠페르트",
       "zh": "帝王拿波"
     },
-    "shiny_released": false,
-    "released_date": "2020-01-19",
+    "shiny_released": true,
     "family": "Piplup"
   },
   {
@@ -8489,6 +8486,7 @@
       "zh": "泡沫栗鼠"
     },
     "shiny_released": false,
+    "released_date": "2020/02/02",
     "family": "Minccino"
   },
   {
@@ -8502,6 +8500,7 @@
       "zh": "奇諾栗鼠"
     },
     "shiny_released": false,
+    "released_date": "2020/02/02",
     "family": "Minccino"
   },
   {
