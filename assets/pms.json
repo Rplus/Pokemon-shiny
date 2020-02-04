@@ -2009,6 +2009,7 @@
       "zh": "大舌頭"
     },
     "shiny_released": false,
+    "released_date": "2020/02/15",
     "family": "Lickitung"
   },
   {
@@ -2048,6 +2049,7 @@
       "zh": "獨角犀牛"
     },
     "shiny_released": false,
+    "released_date": "2020/02/22",
     "family": "Rhyhorn"
   },
   {
@@ -2061,6 +2063,7 @@
       "zh": "鑽角犀獸"
     },
     "shiny_released": false,
+    "released_date": "2020/02/22",
     "family": "Rhyhorn"
   },
   {
@@ -2074,6 +2077,7 @@
       "zh": "吉利蛋"
     },
     "shiny_released": false,
+    "released_date": "2020/02/14",
     "family": "Chansey"
   },
   {
@@ -3960,6 +3964,7 @@
       "zh": "幸福蛋"
     },
     "shiny_released": false,
+    "released_date": "2020/02/14",
     "family": "Chansey"
   },
   {
@@ -6724,6 +6729,7 @@
       "zh": "小福蛋"
     },
     "shiny_released": false,
+    "released_date": "2020/02/14",
     "family": "Chansey",
     "order": -1
   },
@@ -6817,6 +6823,7 @@
       "zh": "利歐路"
     },
     "shiny_released": false,
+    "released_date": "2020/02/07",
     "family": "Riolu"
   },
   {
@@ -6830,6 +6837,7 @@
       "zh": "路卡利歐"
     },
     "shiny_released": false,
+    "released_date": "2020/02/07",
     "family": "Riolu"
   },
   {
@@ -6843,6 +6851,7 @@
       "zh": "沙河馬"
     },
     "shiny_released": false,
+    "released_date": "2020/02/07",
     "family": "Hippowdon"
   },
   {
@@ -6856,6 +6865,7 @@
       "zh": "河馬獸"
     },
     "shiny_released": false,
+    "released_date": "2020/02/07",
     "family": "Hippowdon"
   },
   {
@@ -7026,6 +7036,7 @@
       "zh": "大舌舔"
     },
     "shiny_released": false,
+    "released_date": "2020/02/15",
     "family": "Lickitung"
   },
   {
@@ -7039,6 +7050,7 @@
       "zh": "超甲狂犀"
     },
     "shiny_released": false,
+    "released_date": "2020/02/22",
     "family": "Rhyhorn"
   },
   {
