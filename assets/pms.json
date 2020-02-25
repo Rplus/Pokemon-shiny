@@ -28,6 +28,20 @@
     "family": "Bulbasaur_f19"
   },
   {
+    "dex": 1,
+    "name": {
+      "de": "Bisasam",
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre",
+      "ja": "フシギダネ",
+      "kr": "이상해씨",
+      "zh": "妙蛙種子"
+    },
+    "shiny_released": true,
+    "isotope": "_11",
+    "family": "Bulbasaur_11"
+  },
+  {
     "dex": 2,
     "name": {
       "de": "Bisaknosp",
@@ -80,6 +94,20 @@
     "fn": "pm0004_00_pgo_fall2019",
     "isotope": "_f19",
     "family": "Charmander_f19"
+  },
+  {
+    "dex": 4,
+    "name": {
+      "de": "Glumanda",
+      "en": "Charmander",
+      "fr": "Salamèche",
+      "ja": "ヒトカゲ",
+      "kr": "파이리",
+      "zh": "小火龍"
+    },
+    "shiny_released": true,
+    "isotope": "_11",
+    "family": "Charmander_11"
   },
   {
     "dex": 5,
@@ -202,6 +230,21 @@
     "fn": "pm0007_00_pgo_fall2019",
     "isotope": "_f19",
     "family": "Squirtle_f19"
+  },
+  {
+    "dex": 7,
+    "name": {
+      "de": "Schiggy",
+      "en": "Squirtle",
+      "fr": "Carapuce",
+      "ja": "ゼニガメ",
+      "kr": "꼬부기",
+      "zh": "傑尼龜"
+    },
+    "shiny_released": true,
+    "isotope": "_11",
+    "order": 11,
+    "family": "Squirtle_11"
   },
   {
     "dex": 10,
@@ -706,7 +749,6 @@
   },
   {
     "dex": 25,
-    "isotope": "_02",
     "name": {
       "de": "Pikachu",
       "en": "Pikachu",
@@ -733,6 +775,20 @@
     "type": "_61",
     "shiny_released": true,
     "family": "Pikachu_61"
+  },
+  {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "isotope": "_11",
+    "family": "Pikachu_11"
   },
   {
     "dex": 27,
@@ -2353,6 +2409,20 @@
     "shiny_released": true,
     "isotope": "_07",
     "family": "Eevee_07"
+  },
+  {
+    "dex": 133,
+    "name": {
+      "de": "Evoli",
+      "en": "Eevee",
+      "fr": "Évoli",
+      "ja": "イーブイ",
+      "kr": "이브이",
+      "zh": "伊布"
+    },
+    "shiny_released": true,
+    "isotope": "_11",
+    "family": "Eevee_11"
   },
   {
     "dex": 134,
