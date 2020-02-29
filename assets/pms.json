@@ -2064,8 +2064,7 @@
       "kr": "내루미",
       "zh": "大舌頭"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/15",
+    "shiny_released": true,
     "family": "Lickitung"
   },
   {
@@ -2104,8 +2103,7 @@
       "kr": "뿔카노",
       "zh": "獨角犀牛"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/22",
+    "shiny_released": true,
     "family": "Rhyhorn"
   },
   {
@@ -2118,8 +2116,7 @@
       "kr": "코뿌리",
       "zh": "鑽角犀獸"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/22",
+    "shiny_released": true,
     "family": "Rhyhorn"
   },
   {
@@ -2132,8 +2129,7 @@
       "kr": "럭키",
       "zh": "吉利蛋"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/14",
+    "shiny_released": true,
     "family": "Chansey"
   },
   {
@@ -4033,8 +4029,7 @@
       "kr": "해피너스",
       "zh": "幸福蛋"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/14",
+    "shiny_released": true,
     "family": "Chansey"
   },
   {
@@ -6798,8 +6793,7 @@
       "kr": "핑복",
       "zh": "小福蛋"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/14",
+    "shiny_released": true,
     "family": "Chansey",
     "order": -1
   },
@@ -6892,8 +6886,7 @@
       "kr": "리오르",
       "zh": "利歐路"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/07",
+    "shiny_released": true,
     "family": "Riolu"
   },
   {
@@ -6906,8 +6899,7 @@
       "kr": "루카리오",
       "zh": "路卡利歐"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/07",
+    "shiny_released": true,
     "family": "Riolu"
   },
   {
@@ -6920,8 +6912,7 @@
       "kr": "히포포타스",
       "zh": "沙河馬"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/07",
+    "shiny_released": true,
     "family": "Hippowdon"
   },
   {
@@ -6934,8 +6925,7 @@
       "kr": "하마돈",
       "zh": "河馬獸"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/07",
+    "shiny_released": true,
     "family": "Hippowdon"
   },
   {
@@ -7105,8 +7095,7 @@
       "kr": "내룸벨트",
       "zh": "大舌舔"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/15",
+    "shiny_released": true,
     "family": "Lickitung"
   },
   {
@@ -7119,8 +7108,7 @@
       "kr": "거대코뿌리",
       "zh": "超甲狂犀"
     },
-    "shiny_released": false,
-    "released_date": "2020/02/22",
+    "shiny_released": true,
     "family": "Rhyhorn"
   },
   {
