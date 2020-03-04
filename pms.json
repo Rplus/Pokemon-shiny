@@ -921,7 +921,7 @@
     },
     "isotope": "_11",
     "shiny_released": true,
-    "family": "Nidoran Male"
+    "family": "Nidoran Male 11"
   },
   {
     "dex": 34,
@@ -1883,7 +1883,7 @@
     },
     "isotope": "_11",
     "shiny_released": true,
-    "family": "Gastly"
+    "family": "Gastly 11"
   },
   {
     "dex": 95,
@@ -5263,7 +5263,7 @@
       "zh": "晃晃斑 #6"
     },
     "type": "_16",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Spinda"
   },
   {
