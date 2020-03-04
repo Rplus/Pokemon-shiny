@@ -910,6 +910,20 @@
     "family": "Nidoran Male"
   },
   {
+    "dex": 33,
+    "name": {
+      "de": "Nidorino",
+      "en": "Nidorino",
+      "fr": "Nidorino",
+      "ja": "ニドリーノ",
+      "kr": "니드리노",
+      "zh": "尼多力諾"
+    },
+    "isotope": "_11",
+    "shiny_released": true,
+    "family": "Nidoran Male"
+  },
+  {
     "dex": 34,
     "name": {
       "de": "Nidoking",
@@ -1854,6 +1868,20 @@
       "kr": "팬텀",
       "zh": "耿鬼"
     },
+    "shiny_released": true,
+    "family": "Gastly"
+  },
+  {
+    "dex": 94,
+    "name": {
+      "de": "Gengar",
+      "en": "Gengar",
+      "fr": "Ectoplasma",
+      "ja": "ゲンガー",
+      "kr": "팬텀",
+      "zh": "耿鬼"
+    },
+    "isotope": "_11",
     "shiny_released": true,
     "family": "Gastly"
   },
