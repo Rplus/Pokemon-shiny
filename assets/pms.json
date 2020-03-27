@@ -791,6 +791,20 @@
     "family": "Pikachu_11"
   },
   {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "isotope": "_13",
+    "family": "Pikachu_13"
+  },
+  {
     "dex": 27,
     "name": {
       "de": "Sandan",
@@ -3701,7 +3715,7 @@
       "kr": "깜지곰",
       "zh": "熊寶寶"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Teddiursa"
   },
   {
@@ -3714,7 +3728,7 @@
       "kr": "링곰",
       "zh": "圈圈熊"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Teddiursa"
   },
   {
