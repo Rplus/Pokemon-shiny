@@ -4709,8 +4709,7 @@
       "kr": "토중몬",
       "zh": "土居忍士"
     },
-    "shiny_released": false,
-    "released_date": "2020/03/20",
+    "shiny_released": true,
     "family": "Nincada"
   },
   {
@@ -4723,8 +4722,7 @@
       "kr": "아이스크",
       "zh": "鐵面忍者"
     },
-    "shiny_released": false,
-    "released_date": "2020/03/20",
+    "shiny_released": true,
     "family": "Nincada"
   },
   {
@@ -5513,8 +5511,7 @@
       "kr": "오뚝군",
       "zh": "天秤偶"
     },
-    "shiny_released": false,
-    "released_date": "2020/03/27",
+    "shiny_released": true,
     "family": "Baltoy"
   },
   {
@@ -5527,8 +5524,7 @@
       "kr": "점토도리",
       "zh": "念力土偶"
     },
-    "shiny_released": false,
-    "released_date": "2020/03/27",
+    "shiny_released": true,
     "family": "Baltoy"
   },
   {
@@ -7010,7 +7006,7 @@
       "kr": "삐딱구리",
       "zh": "不良蛙"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Croagunk"
   },
   {
@@ -7023,7 +7019,7 @@
       "kr": "독개굴",
       "zh": "毒骷蛙"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Croagunk"
   },
   {
@@ -7548,8 +7544,7 @@
       "kr": "다크라이",
       "zh": "達克萊伊"
     },
-    "shiny_released": false,
-    "released_date": "2020/03/06",
+    "shiny_released": true,
     "family": "Darkrai"
   },
   {
@@ -9460,8 +9455,7 @@
       "kr": "코바르온",
       "zh": "勾帕路翁"
     },
-    "shiny_released": false,
-    "released_date": "2020/03/20",
+    "shiny_released": true,
     "family": "Cobalion"
   },
   {
