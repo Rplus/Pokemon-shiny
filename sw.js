@@ -47,7 +47,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e3b5ad0ab643ef70ff18e0c3aee0ad39"
+    "revision": "f5c0e524a1cd09358793883fa5e85707"
   },
   {
     "url": "pokemon_icon_000.png",
