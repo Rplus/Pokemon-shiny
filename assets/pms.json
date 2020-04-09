@@ -805,6 +805,20 @@
     "family": "Pikachu_13"
   },
   {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "isotope": "_12",
+    "family": "Pikachu_12"
+  },
+  {
     "dex": 27,
     "name": {
       "de": "Sandan",
@@ -3103,6 +3117,21 @@
     "family": "Pikachu_01"
   },
   {
+    "dex": 172,
+    "name": {
+      "de": "Pichu",
+      "en": "Pichu",
+      "fr": "Pichu",
+      "ja": "ピチュー",
+      "kr": "피츄",
+      "zh": "皮丘"
+    },
+    "isotope": "_12",
+    "shiny_released": true,
+    "order": -1,
+    "family": "Pikachu_12"
+  },
+  {
     "dex": 173,
     "name": {
       "de": "Pii",
@@ -3141,6 +3170,20 @@
       "zh": "波克比"
     },
     "shiny_released": true,
+    "family": "Togepi"
+  },
+  {
+    "dex": 175,
+    "name": {
+      "de": "Togepi",
+      "en": "Togepi",
+      "fr": "Togepi",
+      "ja": "トゲピー",
+      "kr": "토게피",
+      "zh": "波克比"
+    },
+    "shiny_released": true,
+    "isotope": "_12",
     "family": "Togepi"
   },
   {
@@ -6677,6 +6720,20 @@
       "zh": "長耳兔"
     },
     "shiny_released": true,
+    "family": "Buneary"
+  },
+  {
+    "dex": 427,
+    "name": {
+      "de": "Haspiror",
+      "en": "Buneary",
+      "fr": "Laporeille",
+      "ja": "ミミロル",
+      "kr": "이어롤",
+      "zh": "捲捲耳"
+    },
+    "shiny_released": true,
+    "isotope": "_12",
     "family": "Buneary"
   },
   {
