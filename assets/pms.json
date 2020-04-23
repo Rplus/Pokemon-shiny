@@ -5052,8 +5052,7 @@
       "kr": "볼비트",
       "zh": "電螢蟲"
     },
-    "shiny_released": false,
-    "released_date": "2020/04/21",
+    "shiny_released": true,
     "family": "Volbeat"
   },
   {
@@ -5066,8 +5065,7 @@
       "kr": "네오비트",
       "zh": "甜甜螢"
     },
-    "shiny_released": false,
-    "released_date": "2020/04/21",
+    "shiny_released": true,
     "family": "Illumise"
   },
   {
