@@ -819,6 +819,65 @@
     "family": "Pikachu_12"
   },
   {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "isotope": "_22",
+    "family": "Pikachu_22"
+  },
+  {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": false,
+    "released_date": "2020/05/08",
+    "isotope": "_23",
+    "family": "Pikachu_23"
+  },
+  {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": false,
+    "released_date": "2020/05/15",
+    "isotope": "_24",
+    "family": "Pikachu_24"
+  },
+  {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": false,
+    "released_date": "2020/05/22",
+    "isotope": "_25",
+    "family": "Pikachu_25"
+  },
+  {
     "dex": 27,
     "name": {
       "de": "Sandan",
