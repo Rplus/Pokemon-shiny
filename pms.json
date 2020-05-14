@@ -1230,8 +1230,7 @@
       "kr": "콘팡",
       "zh": "毛球"
     },
-    "shiny_released": false,
-    "released_date": "2020/05/01",
+    "shiny_released": true,
     "family": "Venonat"
   },
   {
@@ -1244,8 +1243,7 @@
       "kr": "도나리",
       "zh": "摩魯蛾"
     },
-    "shiny_released": false,
-    "released_date": "2020/05/01",
+    "shiny_released": true,
     "family": "Venonat"
   },
   {
@@ -3689,8 +3687,7 @@
       "kr": "노고치",
       "zh": "土龍弟弟"
     },
-    "shiny_released": false,
-    "released_date": "2020/05/08",
+    "shiny_released": true,
     "family": "Dunsparce"
   },
   {
@@ -4594,6 +4591,7 @@
       "zh": "橡實果"
     },
     "shiny_released": false,
+    "released_date": "2020/05/24",
     "family": "Seedot"
   },
   {
@@ -4607,6 +4605,7 @@
       "zh": "長鼻葉"
     },
     "shiny_released": false,
+    "released_date": "2020/05/24",
     "family": "Seedot"
   },
   {
@@ -4620,6 +4619,7 @@
       "zh": "狡猾天狗"
     },
     "shiny_released": false,
+    "released_date": "2020/05/24",
     "family": "Seedot"
   },
   {
@@ -9592,6 +9592,7 @@
       "zh": "代拉基翁"
     },
     "shiny_released": false,
+    "released_date": "2020/05/19",
     "family": "Terrakion"
   },
   {
@@ -9604,7 +9605,7 @@
       "kr": "비리디온",
       "zh": "畢力吉翁"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Virizion"
   },
   {
