@@ -295,7 +295,7 @@
       "kr": "뿔충이",
       "zh": "獨角蟲"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Weedle"
   },
   {
@@ -308,7 +308,7 @@
       "kr": "딱충이",
       "zh": "鐵殼蛹"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Weedle"
   },
   {
@@ -321,7 +321,7 @@
       "kr": "독침붕",
       "zh": "大針蜂"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Weedle"
   },
   {
