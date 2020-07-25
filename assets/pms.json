@@ -2260,7 +2260,7 @@
       "kr": "덩쿠리",
       "zh": "蔓藤怪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Tangela"
   },
   {
@@ -3615,6 +3615,48 @@
     "family": "Unown"
   },
   {
+    "dex": 201,
+    "name": {
+      "de": "Icognito(G)",
+      "en": "Unown(G)",
+      "fr": "Zarbi(G)",
+      "ja": "アンノーン(G)",
+      "kr": "안농(G)",
+      "zh": "未知圖騰(G)"
+    },
+    "type": "_17",
+    "shiny_released": true,
+    "family": "Unown"
+  },
+  {
+    "dex": 201,
+    "name": {
+      "de": "Icognito(L)",
+      "en": "Unown(L)",
+      "fr": "Zarbi(L)",
+      "ja": "アンノーン(L)",
+      "kr": "안농(L)",
+      "zh": "未知圖騰(L)"
+    },
+    "type": "_22",
+    "shiny_released": true,
+    "family": "Unown"
+  },
+  {
+    "dex": 201,
+    "name": {
+      "de": "Icognito(O)",
+      "en": "Unown(O)",
+      "fr": "Zarbi(O)",
+      "ja": "アンノーン(O)",
+      "kr": "안농(O)",
+      "zh": "未知圖騰(O)"
+    },
+    "type": "_25",
+    "shiny_released": true,
+    "family": "Unown"
+  },
+  {
     "dex": 202,
     "name": {
       "de": "Woingenau",
@@ -3755,7 +3797,7 @@
       "kr": "침바루",
       "zh": "千針魚"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Qwilfish"
   },
   {
@@ -7289,7 +7331,7 @@
       "kr": "덩쿠림보",
       "zh": "巨蔓藤"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Tangela"
   },
   {
@@ -8138,7 +8180,7 @@
       "kr": "또르박쥐",
       "zh": "滾滾蝙蝠"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Woobat"
   },
   {
@@ -8151,7 +8193,7 @@
       "kr": "맘박쥐",
       "zh": "心蝙蝠"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Woobat"
   },
   {
@@ -9492,7 +9534,7 @@
       "kr": "앤티골",
       "zh": "熔蟻獸"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Heatmor"
   },
   {
@@ -9505,7 +9547,7 @@
       "kr": "아이앤트",
       "zh": "鐵蟻"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Durant"
   },
   {
