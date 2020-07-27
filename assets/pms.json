@@ -42,6 +42,20 @@
     "family": "Bulbasaur_11"
   },
   {
+    "dex": 1,
+    "name": {
+      "de": "Bisasam",
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre",
+      "ja": "フシギダネ",
+      "kr": "이상해씨",
+      "zh": "妙蛙種子"
+    },
+    "shiny_released": true,
+    "isotope": "_14",
+    "family": "Bulbasaur_14"
+  },
+  {
     "dex": 2,
     "name": {
       "de": "Bisaknosp",
@@ -108,6 +122,20 @@
     "shiny_released": true,
     "isotope": "_11",
     "family": "Charmander_11"
+  },
+  {
+    "dex": 4,
+    "name": {
+      "de": "Glumanda",
+      "en": "Charmander",
+      "fr": "Salamèche",
+      "ja": "ヒトカゲ",
+      "kr": "파이리",
+      "zh": "小火龍"
+    },
+    "shiny_released": true,
+    "isotope": "_14",
+    "family": "Charmander_14"
   },
   {
     "dex": 5,
@@ -245,6 +273,21 @@
     "isotope": "_11",
     "order": 11,
     "family": "Squirtle_11"
+  },
+  {
+    "dex": 7,
+    "name": {
+      "de": "Schiggy",
+      "en": "Squirtle",
+      "fr": "Carapuce",
+      "ja": "ゼニガメ",
+      "kr": "꼬부기",
+      "zh": "傑尼龜"
+    },
+    "shiny_released": true,
+    "isotope": "_14",
+    "order": 14,
+    "family": "Squirtle_14"
   },
   {
     "dex": 10,
