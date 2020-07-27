@@ -133,7 +133,8 @@ $: {
 
 function getImgSrc(fn, custom, normal) {
   let _fn = `pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
-  let sourcePath = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/';
+  // let sourcePath = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/';
+  let sourcePath = 'https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/';
   if (location.hash.indexOf('#dev=') === 0) {
     return `${location.hash.split('=').pop()}${_fn}`;
   }
