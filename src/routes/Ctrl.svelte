@@ -162,7 +162,7 @@ let switcher = {
     <div>
       <div class="mb-1 df ai-c">
         <div>
-        <a class="clickable" href="#" on:click|preventDefault={ selectAll }>{ $_('select.all') }</a>
+        <a class="clickable" href="###" on:click|preventDefault={ selectAll }>{ $_('select.all') }</a>
         /
         <a class="clickable" href={ `./?1&lang=${$lang}` }>{ $_('reset') }</a>
         </div>
