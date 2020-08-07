@@ -3678,6 +3678,20 @@
   {
     "dex": 201,
     "name": {
+      "de": "Icognito(A)",
+      "en": "Unown(A)",
+      "fr": "Zarbi(A)",
+      "ja": "アンノーン(A)",
+      "kr": "안농(A)",
+      "zh": "未知圖騰(A)"
+    },
+    "type": "_11",
+    "shiny_released": true,
+    "family": "Unown"
+  },
+  {
+    "dex": 201,
+    "name": {
       "de": "Icognito(G)",
       "en": "Unown(G)",
       "fr": "Zarbi(G)",
@@ -3686,6 +3700,20 @@
       "zh": "未知圖騰(G)"
     },
     "type": "_17",
+    "shiny_released": true,
+    "family": "Unown"
+  },
+  {
+    "dex": 201,
+    "name": {
+      "de": "Icognito(L)",
+      "en": "Unown(L)",
+      "fr": "Zarbi(L)",
+      "ja": "アンノーン(L)",
+      "kr": "안농(L)",
+      "zh": "未知圖騰(L)"
+    },
+    "type": "_22",
     "shiny_released": true,
     "family": "Unown"
   },
@@ -3712,6 +3740,48 @@
       "ja": "アンノーン(O)",
       "kr": "안농(O)",
       "zh": "未知圖騰(O)"
+    },
+    "type": "_25",
+    "shiny_released": true,
+    "family": "Unown"
+  },
+  {
+    "dex": 201,
+    "name": {
+      "de": "Icognito(R)",
+      "en": "Unown(R)",
+      "fr": "Zarbi(R)",
+      "ja": "アンノーン(R)",
+      "kr": "안농(R)",
+      "zh": "未知圖騰(R)"
+    },
+    "type": "_28",
+    "shiny_released": true,
+    "family": "Unown"
+  },
+  {
+    "dex": 201,
+    "name": {
+      "de": "Icognito(T)",
+      "en": "Unown(T)",
+      "fr": "Zarbi(T)",
+      "ja": "アンノーン(T)",
+      "kr": "안농(T)",
+      "zh": "未知圖騰(T)"
+    },
+    "type": "_30",
+    "shiny_released": true,
+    "family": "Unown"
+  },
+  {
+    "dex": 201,
+    "name": {
+      "de": "Icognito(U)",
+      "en": "Unown(U)",
+      "fr": "Zarbi(U)",
+      "ja": "アンノーン(U)",
+      "kr": "안농(U)",
+      "zh": "未知圖騰(U)"
     },
     "type": "_25",
     "shiny_released": true,
