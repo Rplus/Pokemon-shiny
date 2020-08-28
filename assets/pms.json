@@ -6347,12 +6347,12 @@
   {
     "dex": 386,
     "name": {
-      "de": "Deoxys",
-      "en": "Deoxys",
-      "fr": "Deoxys",
-      "ja": "デオキシス",
-      "kr": "테오키스",
-      "zh": "代歐奇希斯"
+      "de": "Deoxys (N)",
+      "en": "Deoxys (N)",
+      "fr": "Deoxys (N)",
+      "ja": "デオキシス (N)",
+      "kr": "테오키스 (N)",
+      "zh": "代歐奇希斯 (N)"
     },
     "shiny_released": true,
     "type": "_11",
