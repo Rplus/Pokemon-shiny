@@ -6354,7 +6354,8 @@
       "kr": "테오키스",
       "zh": "代歐奇希斯"
     },
-    "shiny_released": false,
+    "shiny_released": true,
+    "type": "_11",
     "family": "Deoxys"
   },
   {
