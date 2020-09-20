@@ -2693,7 +2693,7 @@
       "zh": "多邊獸"
     },
     "released_date": "2020/09/20",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Porygon"
   },
   {
@@ -4220,7 +4220,7 @@
       "zh": "多邊獸Ⅱ"
     },
     "released_date": "2020/09/20",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Porygon"
   },
   {
@@ -7615,7 +7615,7 @@
       "zh": "多邊獸Ｚ"
     },
     "released_date": "2020/09/20",
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Porygon"
   },
   {
