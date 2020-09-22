@@ -382,6 +382,7 @@ function getImgSrc(fn, custom, normal) {
   text-align: left;
   border-radius: inherit;
   font-size: .9rem;
+  font-family: sans-serif;
   line-height: 1;
   text-shadow: 1px 1px 0px #eef;
   color: #444;
