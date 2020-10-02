@@ -4305,6 +4305,21 @@
     "family": "Jynx"
   },
   {
+    "dex": 238,
+    "name": {
+      "de": "Kussilla",
+      "en": "Smoochum",
+      "fr": "Lippouti",
+      "ja": "ムチュール",
+      "kr": "뽀뽀라",
+      "zh": "迷唇娃"
+    },
+    "shiny_released": true,
+    "order": -1,
+    "isotope": "_16",
+    "family": "Jynx"
+  },
+  {
     "dex": 239,
     "name": {
       "de": "Elekid",
@@ -4880,6 +4895,20 @@
       "zh": "奇魯莉安"
     },
     "shiny_released": true,
+    "family": "Ralts"
+  },
+  {
+    "dex": 281,
+    "name": {
+      "de": "Kirlia",
+      "en": "Kirlia",
+      "fr": "Kirlia",
+      "ja": "キルリア",
+      "kr": "킬리아",
+      "zh": "奇魯莉安"
+    },
+    "shiny_released": true,
+    "isotope": "_16",
     "family": "Ralts"
   },
   {
@@ -6588,6 +6617,20 @@
     "family": "Shinx"
   },
   {
+    "dex": 403,
+    "name": {
+      "de": "Sheinux",
+      "en": "Shinx",
+      "fr": "Lixy",
+      "ja": "コリンク",
+      "kr": "꼬링크",
+      "zh": "小貓怪"
+    },
+    "shiny_released": true,
+    "isotope": "_16",
+    "family": "Shinx"
+  },
+  {
     "dex": 404,
     "name": {
       "de": "Luxio",
@@ -7315,6 +7358,20 @@
       "zh": "不良蛙"
     },
     "shiny_released": true,
+    "family": "Croagunk"
+  },
+  {
+    "dex": 453,
+    "name": {
+      "de": "Glibunkel",
+      "en": "Croagunk",
+      "fr": "Cradopaud",
+      "ja": "グレッグル",
+      "kr": "삐딱구리",
+      "zh": "不良蛙"
+    },
+    "shiny_released": true,
+    "isotope": "_16",
     "family": "Croagunk"
   },
   {
