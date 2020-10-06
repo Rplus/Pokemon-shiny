@@ -937,6 +937,34 @@
     "family": "Pikachu_4thY"
   },
   {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "isotope": "_27",
+    "shiny_released": true,
+    "family": "Pikachu_27"
+  },
+  {
+    "dex": 26,
+    "name": {
+      "de": "Raichu",
+      "en": "Raichu",
+      "fr": "Raichu",
+      "ja": "ライチュウ",
+      "kr": "라이츄",
+      "zh": "雷丘"
+    },
+    "isotope": "_27",
+    "shiny_released": true,
+    "family": "Pikachu_27"
+  },
+  {
     "dex": 27,
     "name": {
       "de": "Sandan",
