@@ -120,6 +120,10 @@ function applyDex(_dex) {
   delete pmsByFamily.trigger;
 }
 
+function getPmName(names, lang) {
+  return names[lang] || names.en;
+}
+
 
 $: {
   applyDex($dex);
@@ -183,7 +187,7 @@ function getImgSrc(fn, custom, normal) {
               <img class="pm-img pm-img-n" alt="" src={ getImgSrc(pm.fn, pm.cfn0, true) } loading="lazy" width="200" height="200" intrinsicsize="120x120">
             {/if}
           </div>
-          <div class="pm-name" data-dex={ pm.dex }>{ pm.name[$lang] }</div>
+          <div class="pm-name" data-dex={ pm.dex }>{ getPmName(pm.name, $lang) }</div>
         </div>
       {/each}
 
