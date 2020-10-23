@@ -1,6 +1,9 @@
 deploy: updateTime build build-sw
 	npm run deploy
 
+dev:
+	npm run dev;
+
 build: copy-assets
 	npm run build;
 
