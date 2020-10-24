@@ -82,6 +82,20 @@
     "family": "Bulbasaur"
   },
   {
+    "dex": 3,
+    "name": {
+      "de": "Bisaflor",
+      "en": "Venusaur",
+      "fr": "Florizarre",
+      "ja": "フシギバナ",
+      "kr": "이상해꽃",
+      "zh": "妙蛙花"
+    },
+    "type": "_51",
+    "shiny_released": true,
+    "family": "Bulbasaur"
+  },
+  {
     "dex": 4,
     "name": {
       "de": "Glumanda",
@@ -164,6 +178,34 @@
     "family": "Charmander"
   },
   {
+    "dex": 6,
+    "name": {
+      "de": "Glurak",
+      "en": "Charizard",
+      "fr": "Dracaufeu",
+      "ja": "リザードン",
+      "kr": "리자몽",
+      "zh": "噴火龍"
+    },
+    "type": "_51",
+    "shiny_released": true,
+    "family": "Charmander"
+  },
+  {
+    "dex": 6,
+    "name": {
+      "de": "Glurak",
+      "en": "Charizard",
+      "fr": "Dracaufeu",
+      "ja": "リザードン",
+      "kr": "리자몽",
+      "zh": "噴火龍"
+    },
+    "type": "_52",
+    "shiny_released": true,
+    "family": "Charmander"
+  },
+  {
     "dex": 7,
     "name": {
       "de": "Schiggy",
@@ -199,6 +241,20 @@
       "kr": "거북왕",
       "zh": "水箭龜"
     },
+    "shiny_released": true,
+    "family": "Squirtle"
+  },
+  {
+    "dex": 9,
+    "name": {
+      "de": "Turtok",
+      "en": "Blastoise",
+      "fr": "Tortank",
+      "ja": "カメックス",
+      "kr": "거북왕",
+      "zh": "水箭龜"
+    },
+    "type": "_51",
     "shiny_released": true,
     "family": "Squirtle"
   },
@@ -368,6 +424,20 @@
     "family": "Weedle"
   },
   {
+    "dex": 15,
+    "name": {
+      "de": "Bibor",
+      "en": "Beedrill",
+      "fr": "Dardargnan",
+      "ja": "スピアー",
+      "kr": "독침붕",
+      "zh": "大針蜂"
+    },
+    "type": "_51",
+    "shiny_released": true,
+    "family": "Weedle"
+  },
+  {
     "dex": 16,
     "name": {
       "de": "Taubsi",
@@ -403,6 +473,20 @@
       "kr": "피죤투",
       "zh": "大比鳥"
     },
+    "shiny_released": true,
+    "family": "Pidgey"
+  },
+  {
+    "dex": 18,
+    "name": {
+      "de": "Tauboss",
+      "en": "Pidgeot",
+      "fr": "Roucarnage",
+      "ja": "ピジョット",
+      "kr": "피죤투",
+      "zh": "大比鳥"
+    },
+    "type": "_51",
     "shiny_released": true,
     "family": "Pidgey"
   },
@@ -2049,6 +2133,20 @@
       "kr": "팬텀",
       "zh": "耿鬼"
     },
+    "shiny_released": true,
+    "family": "Gastly"
+  },
+  {
+    "dex": 94,
+    "name": {
+      "de": "Gengar",
+      "en": "Gengar",
+      "fr": "Ectoplasma",
+      "ja": "ゲンガー",
+      "kr": "팬텀",
+      "zh": "耿鬼"
+    },
+    "type": "_51",
     "shiny_released": true,
     "family": "Gastly"
   },
@@ -4197,6 +4295,20 @@
       "kr": "헬가",
       "zh": "黑魯加"
     },
+    "shiny_released": true,
+    "family": "Houndour"
+  },
+  {
+    "dex": 229,
+    "name": {
+      "de": "Hundemon",
+      "en": "Houndoom",
+      "fr": "Démolosse",
+      "ja": "ヘルガー",
+      "kr": "헬가",
+      "zh": "黑魯加"
+    },
+    "type": "_51",
     "shiny_released": true,
     "family": "Houndour"
   },
