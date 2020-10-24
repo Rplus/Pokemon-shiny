@@ -5330,6 +5330,21 @@
     "family": "Sableye"
   },
   {
+    "dex": 302,
+    "name": {
+      "de": "Zobiris",
+      "en": "Sableye",
+      "fr": "Ténéfix",
+      "ja": "ヤミラミ",
+      "kr": "깜까미",
+      "zh": "勾魂眼"
+    },
+    "fn": "pm0302_00_pgo_fall2020",
+    "isotope": "_f20",
+    "shiny_released": true,
+    "family": "Sableye"
+  },
+  {
     "dex": 303,
     "name": {
       "de": "Flunkifer",
