@@ -2162,7 +2162,21 @@
     },
     "isotope": "_11",
     "shiny_released": true,
-    "family": "Gastly 11"
+    "family": "Gastly_11"
+  },
+  {
+    "dex": 94,
+    "name": {
+      "de": "Gengar",
+      "en": "Gengar",
+      "fr": "Ectoplasma",
+      "ja": "ゲンガー",
+      "kr": "팬텀",
+      "zh": "耿鬼"
+    },
+    "type": "_26",
+    "shiny_released": true,
+    "family": "Gastly_26"
   },
   {
     "dex": 95,
