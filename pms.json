@@ -2516,6 +2516,7 @@
       "zh": "角金魚"
     },
     "shiny_released": false,
+    "released_date": "2020/11/24",
     "family": "Goldeen"
   },
   {
@@ -2529,6 +2530,7 @@
       "zh": "金魚王"
     },
     "shiny_released": false,
+    "released_date": "2020/11/24",
     "family": "Goldeen"
   },
   {
@@ -3833,6 +3835,20 @@
       "zh": "未知圖騰(A)"
     },
     "type": "_11",
+    "shiny_released": true,
+    "family": "Unown"
+  },
+  {
+    "dex": 201,
+    "name": {
+      "de": "Icognito(C)",
+      "en": "Unown(C)",
+      "fr": "Zarbi(C)",
+      "ja": "アンノーン(C)",
+      "kr": "안농(C)",
+      "zh": "未知圖騰(C)"
+    },
+    "type": "_13",
     "shiny_released": true,
     "family": "Unown"
   },
