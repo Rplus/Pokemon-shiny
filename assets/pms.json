@@ -3841,6 +3841,20 @@
   {
     "dex": 201,
     "name": {
+      "de": "Icognito(C)",
+      "en": "Unown(C)",
+      "fr": "Zarbi(C)",
+      "ja": "アンノーン(C)",
+      "kr": "안농(C)",
+      "zh": "未知圖騰(C)"
+    },
+    "type": "_13",
+    "shiny_released": true,
+    "family": "Unown"
+  },
+  {
+    "dex": 201,
+    "name": {
       "de": "Icognito(G)",
       "en": "Unown(G)",
       "fr": "Zarbi(G)",
