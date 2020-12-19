@@ -1049,6 +1049,21 @@
     "family": "Pikachu_27"
   },
   {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "fn": "pm0025_00_pgo_movie2020",
+    "isotope": "_m2020",
+    "family": "Pikachu_m2020"
+  },
+  {
     "dex": 27,
     "name": {
       "de": "Sandan",
