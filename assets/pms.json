@@ -1080,6 +1080,34 @@
     "family": "Pikachu_winter2020"
   },
   {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "isotope": "_28",
+    "released_date": "2020/12/29",
+    "family": "Pikachu_28"
+  },
+  {
+    "dex": 26,
+    "name": {
+      "de": "Raichu",
+      "en": "Raichu",
+      "fr": "Raichu",
+      "ja": "ライチュウ",
+      "kr": "라이츄",
+      "zh": "雷丘"
+    },
+    "isotope": "_28",
+    "released_date": "2020/12/29",
+    "family": "Pikachu_28"
+  },
+  {
     "dex": 27,
     "name": {
       "de": "Sandan",
@@ -3460,6 +3488,21 @@
     "isotope": "_07",
     "shiny_released": true,
     "order": -1,
+    "family": "Pikachu_07"
+  },
+  {
+    "dex": 172,
+    "name": {
+      "de": "Pichu",
+      "en": "Pichu",
+      "fr": "Pichu",
+      "ja": "ピチュー",
+      "kr": "피츄",
+      "zh": "皮丘"
+    },
+    "order": -1,
+    "isotope": "_28",
+    "released_date": "2020/12/29",
     "family": "Pikachu_07"
   },
   {
