@@ -4310,6 +4310,20 @@
     "family": "Delibird"
   },
   {
+    "dex": 225,
+    "name": {
+      "de": "Botogel",
+      "en": "Delibird",
+      "fr": "Cadoizo",
+      "ja": "デリバード",
+      "kr": "딜리버드",
+      "zh": "信使鳥"
+    },
+    "released_date": "2020/12/22",
+    "fn": "pm0225_00_pgo_winter2020",
+    "family": "Delibird"
+  },
+  {
     "dex": 226,
     "name": {
       "de": "Mantax",
