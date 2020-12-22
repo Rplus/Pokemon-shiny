@@ -7689,6 +7689,20 @@
     "family": "Snover"
   },
   {
+    "dex": 460,
+    "name": {
+      "de": "Rexblisar",
+      "en": "Abomasnow",
+      "fr": "Blizzaroi",
+      "ja": "ユキノオー",
+      "kr": "눈설왕",
+      "zh": "暴雪王"
+    },
+    "shiny_released": true,
+    "type": "_51",
+    "family": "Snover"
+  },
+  {
     "dex": 461,
     "name": {
       "de": "Snibunna",
