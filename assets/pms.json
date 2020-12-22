@@ -1955,6 +1955,34 @@
     "family": "Slowpoke"
   },
   {
+    "dex": 79,
+    "name": {
+      "de": "Flegmon",
+      "en": "Slowpoke",
+      "fr": "Ramoloss",
+      "ja": "ヤドン",
+      "kr": "야돈",
+      "zh": "呆呆獸"
+    },
+    "released_date": "2020/11/31",
+    "fn": "pm0079_00_pgo_2020",
+    "family": "Slowpoke_2020"
+  },
+  {
+    "dex": 80,
+    "name": {
+      "de": "Lahmus",
+      "en": "Slowbro",
+      "fr": "Flagadoss",
+      "ja": "ヤドラン",
+      "kr": "야도란",
+      "zh": "呆殼獸"
+    },
+    "released_date": "2020/11/31",
+    "fn": "pm0080_00_pgo_2021",
+    "family": "Slowpoke_2020"
+  },
+  {
     "dex": 81,
     "name": {
       "de": "Magnetilo",
