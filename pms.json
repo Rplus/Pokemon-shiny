@@ -1064,6 +1064,50 @@
     "family": "Pikachu_m2020"
   },
   {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "fn": "pm0025_00_pgo_winter2020",
+    "released_date": "2020/12/22",
+    "isotope": "_winter2020",
+    "family": "Pikachu_winter2020"
+  },
+  {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "isotope": "_28",
+    "released_date": "2020/12/29",
+    "family": "Pikachu_28"
+  },
+  {
+    "dex": 26,
+    "name": {
+      "de": "Raichu",
+      "en": "Raichu",
+      "fr": "Raichu",
+      "ja": "ライチュウ",
+      "kr": "라이츄",
+      "zh": "雷丘"
+    },
+    "isotope": "_28",
+    "released_date": "2020/12/29",
+    "family": "Pikachu_28"
+  },
+  {
     "dex": 27,
     "name": {
       "de": "Sandan",
@@ -1937,6 +1981,34 @@
     },
     "released_date": "2020/11/17",
     "family": "Slowpoke"
+  },
+  {
+    "dex": 79,
+    "name": {
+      "de": "Flegmon",
+      "en": "Slowpoke",
+      "fr": "Ramoloss",
+      "ja": "ヤドン",
+      "kr": "야돈",
+      "zh": "呆呆獸"
+    },
+    "released_date": "2020/11/31",
+    "fn": "pm0079_00_pgo_2020",
+    "family": "Slowpoke_2020"
+  },
+  {
+    "dex": 80,
+    "name": {
+      "de": "Lahmus",
+      "en": "Slowbro",
+      "fr": "Flagadoss",
+      "ja": "ヤドラン",
+      "kr": "야도란",
+      "zh": "呆殼獸"
+    },
+    "released_date": "2020/11/31",
+    "fn": "pm0080_00_pgo_2021",
+    "family": "Slowpoke_2020"
   },
   {
     "dex": 81,
@@ -3419,6 +3491,21 @@
     "family": "Pikachu_07"
   },
   {
+    "dex": 172,
+    "name": {
+      "de": "Pichu",
+      "en": "Pichu",
+      "fr": "Pichu",
+      "ja": "ピチュー",
+      "kr": "피츄",
+      "zh": "皮丘"
+    },
+    "order": -1,
+    "isotope": "_28",
+    "released_date": "2020/12/29",
+    "family": "Pikachu_07"
+  },
+  {
     "dex": 173,
     "name": {
       "de": "Pii",
@@ -4291,6 +4378,20 @@
       "zh": "信使鳥"
     },
     "shiny_released": true,
+    "family": "Delibird"
+  },
+  {
+    "dex": 225,
+    "name": {
+      "de": "Botogel",
+      "en": "Delibird",
+      "fr": "Cadoizo",
+      "ja": "デリバード",
+      "kr": "딜리버드",
+      "zh": "信使鳥"
+    },
+    "released_date": "2020/12/22",
+    "fn": "pm0225_00_pgo_winter2020",
     "family": "Delibird"
   },
   {
@@ -7673,6 +7774,20 @@
     "family": "Snover"
   },
   {
+    "dex": 460,
+    "name": {
+      "de": "Rexblisar",
+      "en": "Abomasnow",
+      "fr": "Blizzaroi",
+      "ja": "ユキノオー",
+      "kr": "눈설왕",
+      "zh": "暴雪王"
+    },
+    "shiny_released": true,
+    "type": "_51",
+    "family": "Snover"
+  },
+  {
     "dex": 461,
     "name": {
       "de": "Snibunna",
@@ -9712,6 +9827,21 @@
     },
     "shiny_released": false,
     "released_date": "2020/12/18",
+    "family": "Cubchoo"
+  },
+  {
+    "dex": "613",
+    "name": {
+      "de": "Petznief",
+      "en": "Cubchoo",
+      "fr": "Polarhume",
+      "ja": "クマシュン",
+      "kr": "코고미",
+      "zh": "噴嚏熊"
+    },
+    "shiny_released": false,
+    "released_date": "2020/12/22",
+    "fn": "pm0613_00_pgo_winter2020",
     "family": "Cubchoo"
   },
   {
