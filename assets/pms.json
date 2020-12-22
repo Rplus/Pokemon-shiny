@@ -1064,6 +1064,22 @@
     "family": "Pikachu_m2020"
   },
   {
+    "dex": 25,
+    "name": {
+      "de": "Pikachu",
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "ja": "ピカチュウ",
+      "kr": "피카츄",
+      "zh": "皮卡丘"
+    },
+    "shiny_released": true,
+    "fn": "pm0025_00_pgo_winter2020",
+    "released_date": "2020/12/22",
+    "isotope": "_winter2020",
+    "family": "Pikachu_winter2020"
+  },
+  {
     "dex": 27,
     "name": {
       "de": "Sandan",
