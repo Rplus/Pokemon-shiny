@@ -9731,6 +9731,21 @@
     "family": "Cubchoo"
   },
   {
+    "dex": "613",
+    "name": {
+      "de": "Petznief",
+      "en": "Cubchoo",
+      "fr": "Polarhume",
+      "ja": "クマシュン",
+      "kr": "코고미",
+      "zh": "噴嚏熊"
+    },
+    "shiny_released": false,
+    "released_date": "2020/12/22",
+    "fn": "pm0613_00_pgo_winter2020",
+    "family": "Cubchoo"
+  },
+  {
     "dex": "614",
     "name": {
       "de": "Siberio",
