@@ -1994,6 +1994,7 @@
     },
     "released_date": "2020/11/31",
     "fn": "pm0079_00_pgo_2020",
+    "isotope": "_2020",
     "family": "Slowpoke_2020"
   },
   {
@@ -2008,6 +2009,7 @@
     },
     "released_date": "2020/11/31",
     "fn": "pm0080_00_pgo_2021",
+    "isotope": "_2021",
     "family": "Slowpoke_2020"
   },
   {
@@ -4391,6 +4393,7 @@
       "zh": "信使鳥"
     },
     "released_date": "2020/12/22",
+    "isotope": "_winter2020",
     "fn": "pm0225_00_pgo_winter2020",
     "family": "Delibird"
   },
@@ -9842,6 +9845,7 @@
     "shiny_released": false,
     "released_date": "2020/12/22",
     "fn": "pm0613_00_pgo_winter2020",
+    "isotope": "_winter2020",
     "family": "Cubchoo"
   },
   {
