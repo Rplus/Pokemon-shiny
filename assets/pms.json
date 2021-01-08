@@ -468,6 +468,12 @@
     "family": "Pikachu_28"
   },
   {
+    "dex": 25,
+    "type": "_16",
+    "released_date": "2020/12/29",
+    "family": "Pikachu_16"
+  },
+  {
     "dex": 27,
     "shiny_released": true,
     "family": "Sandshrew"
