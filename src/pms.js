@@ -46,6 +46,21 @@ function groupByFamily(pms) {
   return pmsByFamily;
 };
 
+function genPmName(data) {
+  const [pms, name] = data;
+  return pms.map(pm => {
+    pm.name = pm.name || {...name[pm.dex]};
+    if (!pm.name) {
+      console.error('no pm name', pm);
+    } else if (pm.name_suffix) {
+      for (let lang in pm.name) {
+        pm.name[lang] += pm.name_suffix;
+      }
+    }
+    return pm;
+  })
+}
+
 function sortFamily(a, b) {
   return a[1].key - b[1].key;
 };
@@ -55,8 +70,8 @@ function sortPM(a, b) {
 };
 
 export async function getPM() {
-  let pms = await fetch('./pms.json')
-    .then(res => res.json())
+  let pms = await Promise.all(['./pms.json', './name.json'].map(fn => fetch(fn).then(res => res.json())))
+    .then(genPmName)
     .then(groupByFamily);
   return pms;
 };
