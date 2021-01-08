@@ -259,7 +259,7 @@
     "family": "Squirtle"
   },
   {
-    "dex": "7",
+    "dex": 7,
     "isotope": "_05",
     "name": {
       "de": "Schiggy",
@@ -8267,7 +8267,7 @@
     "family": "Arceus"
   },
   {
-    "dex": "494",
+    "dex": 494,
     "name": {
       "de": "Victini",
       "en": "Victini",
@@ -8280,7 +8280,7 @@
     "family": "Victini"
   },
   {
-    "dex": "495",
+    "dex": 495,
     "name": {
       "de": "Serpifeu",
       "en": "Snivy",
@@ -8294,7 +8294,7 @@
     "family": "Snivy"
   },
   {
-    "dex": "496",
+    "dex": 496,
     "name": {
       "de": "Efoserp",
       "en": "Servine",
@@ -8308,7 +8308,7 @@
     "family": "Snivy"
   },
   {
-    "dex": "497",
+    "dex": 497,
     "name": {
       "de": "Serpiroyal",
       "en": "Serperior",
@@ -8322,7 +8322,7 @@
     "family": "Snivy"
   },
   {
-    "dex": "498",
+    "dex": 498,
     "name": {
       "de": "Floink",
       "en": "Tepig",
@@ -8335,7 +8335,7 @@
     "family": "Tepig"
   },
   {
-    "dex": "499",
+    "dex": 499,
     "name": {
       "de": "Ferkokel",
       "en": "Pignite",
@@ -8348,7 +8348,7 @@
     "family": "Tepig"
   },
   {
-    "dex": "500",
+    "dex": 500,
     "name": {
       "de": "Flambirex",
       "en": "Emboar",
@@ -8361,7 +8361,7 @@
     "family": "Tepig"
   },
   {
-    "dex": "501",
+    "dex": 501,
     "name": {
       "de": "Ottaro",
       "en": "Oshawott",
@@ -8374,7 +8374,7 @@
     "family": "Oshawott"
   },
   {
-    "dex": "502",
+    "dex": 502,
     "name": {
       "de": "Zwottronin",
       "en": "Dewott",
@@ -8387,7 +8387,7 @@
     "family": "Oshawott"
   },
   {
-    "dex": "503",
+    "dex": 503,
     "name": {
       "de": "Admurai",
       "en": "Samurott",
@@ -8400,7 +8400,7 @@
     "family": "Oshawott"
   },
   {
-    "dex": "504",
+    "dex": 504,
     "name": {
       "de": "Nagelotz",
       "en": "Patrat",
@@ -8413,7 +8413,7 @@
     "family": "Patrat"
   },
   {
-    "dex": "505",
+    "dex": 505,
     "name": {
       "de": "Kukmarda",
       "en": "Watchog",
@@ -8426,7 +8426,7 @@
     "family": "Patrat"
   },
   {
-    "dex": "506",
+    "dex": 506,
     "name": {
       "de": "Yorkleff",
       "en": "Lillipup",
@@ -8439,7 +8439,7 @@
     "family": "Lillipup"
   },
   {
-    "dex": "507",
+    "dex": 507,
     "name": {
       "de": "Terribark",
       "en": "Herdier",
@@ -8452,7 +8452,7 @@
     "family": "Lillipup"
   },
   {
-    "dex": "508",
+    "dex": 508,
     "name": {
       "de": "Bissbark",
       "en": "Stoutland",
@@ -8465,7 +8465,7 @@
     "family": "Lillipup"
   },
   {
-    "dex": "509",
+    "dex": 509,
     "name": {
       "de": "Felilou",
       "en": "Purrloin",
@@ -8478,7 +8478,7 @@
     "family": "Purrloin"
   },
   {
-    "dex": "510",
+    "dex": 510,
     "name": {
       "de": "Kleoparda",
       "en": "Liepard",
@@ -8491,7 +8491,7 @@
     "family": "Purrloin"
   },
   {
-    "dex": "511",
+    "dex": 511,
     "name": {
       "de": "Vegimak",
       "en": "Pansage",
@@ -8504,7 +8504,7 @@
     "family": "Pansage"
   },
   {
-    "dex": "512",
+    "dex": 512,
     "name": {
       "de": "Vegichita",
       "en": "Simisage",
@@ -8517,7 +8517,7 @@
     "family": "Pansage"
   },
   {
-    "dex": "513",
+    "dex": 513,
     "name": {
       "de": "Grillmak",
       "en": "Pansear",
@@ -8530,7 +8530,7 @@
     "family": "Pansear"
   },
   {
-    "dex": "514",
+    "dex": 514,
     "name": {
       "de": "Grillchita",
       "en": "Simisear",
@@ -8543,7 +8543,7 @@
     "family": "Pansear"
   },
   {
-    "dex": "515",
+    "dex": 515,
     "name": {
       "de": "Sodamak",
       "en": "Panpour",
@@ -8556,7 +8556,7 @@
     "family": "Panpour"
   },
   {
-    "dex": "516",
+    "dex": 516,
     "name": {
       "de": "Sodachita",
       "en": "Simipour",
@@ -8569,7 +8569,7 @@
     "family": "Panpour"
   },
   {
-    "dex": "517",
+    "dex": 517,
     "name": {
       "de": "Somniam",
       "en": "Munna",
@@ -8582,7 +8582,7 @@
     "family": "Munna"
   },
   {
-    "dex": "518",
+    "dex": 518,
     "name": {
       "de": "Somnivora",
       "en": "Musharna",
@@ -8595,7 +8595,7 @@
     "family": "Munna"
   },
   {
-    "dex": "519",
+    "dex": 519,
     "name": {
       "de": "Dusselgurr",
       "en": "Pidove",
@@ -8608,7 +8608,7 @@
     "family": "Pidove"
   },
   {
-    "dex": "520",
+    "dex": 520,
     "name": {
       "de": "Navitaub",
       "en": "Tranquill",
@@ -8621,7 +8621,7 @@
     "family": "Pidove"
   },
   {
-    "dex": "521",
+    "dex": 521,
     "name": {
       "de": "Fasasnob",
       "en": "Unfezant",
@@ -8634,7 +8634,7 @@
     "family": "Pidove"
   },
   {
-    "dex": "522",
+    "dex": 522,
     "name": {
       "de": "Elezeba",
       "en": "Blitzle",
@@ -8647,7 +8647,7 @@
     "family": "Blitzle"
   },
   {
-    "dex": "523",
+    "dex": 523,
     "name": {
       "de": "Zebritz",
       "en": "Zebstrika",
@@ -8660,7 +8660,7 @@
     "family": "Blitzle"
   },
   {
-    "dex": "524",
+    "dex": 524,
     "name": {
       "de": "Kiesling",
       "en": "Roggenrola",
@@ -8674,7 +8674,7 @@
     "family": "Roggenrola"
   },
   {
-    "dex": "525",
+    "dex": 525,
     "name": {
       "de": "Sedimantur",
       "en": "Boldore",
@@ -8688,7 +8688,7 @@
     "family": "Roggenrola"
   },
   {
-    "dex": "526",
+    "dex": 526,
     "name": {
       "de": "Brockoloss",
       "en": "Gigalith",
@@ -8702,7 +8702,7 @@
     "family": "Roggenrola"
   },
   {
-    "dex": "527",
+    "dex": 527,
     "name": {
       "de": "Fleknoil",
       "en": "Woobat",
@@ -8715,7 +8715,7 @@
     "family": "Woobat"
   },
   {
-    "dex": "528",
+    "dex": 528,
     "name": {
       "de": "Fletiamo",
       "en": "Swoobat",
@@ -8728,7 +8728,7 @@
     "family": "Woobat"
   },
   {
-    "dex": "529",
+    "dex": 529,
     "name": {
       "de": "Rotomurf",
       "en": "Drilbur",
@@ -8741,7 +8741,7 @@
     "family": "Drilbur"
   },
   {
-    "dex": "530",
+    "dex": 530,
     "name": {
       "de": "Stalobor",
       "en": "Excadrill",
@@ -8754,7 +8754,7 @@
     "family": "Drilbur"
   },
   {
-    "dex": "531",
+    "dex": 531,
     "name": {
       "de": "Ohrdoch",
       "en": "Audino",
@@ -8767,7 +8767,7 @@
     "family": "Audino"
   },
   {
-    "dex": "532",
+    "dex": 532,
     "name": {
       "de": "Praktibalk",
       "en": "Timburr",
@@ -8780,7 +8780,7 @@
     "family": "Timburr"
   },
   {
-    "dex": "533",
+    "dex": 533,
     "name": {
       "de": "Strepoli",
       "en": "Gurdurr",
@@ -8793,7 +8793,7 @@
     "family": "Timburr"
   },
   {
-    "dex": "534",
+    "dex": 534,
     "name": {
       "de": "Meistagrif",
       "en": "Conkeldurr",
@@ -8806,7 +8806,7 @@
     "family": "Timburr"
   },
   {
-    "dex": "535",
+    "dex": 535,
     "name": {
       "de": "Schallquap",
       "en": "Tympole",
@@ -8819,7 +8819,7 @@
     "family": "Tympole"
   },
   {
-    "dex": "536",
+    "dex": 536,
     "name": {
       "de": "Mebrana",
       "en": "Palpitoad",
@@ -8832,7 +8832,7 @@
     "family": "Tympole"
   },
   {
-    "dex": "537",
+    "dex": 537,
     "name": {
       "de": "Branawarz",
       "en": "Seismitoad",
@@ -8845,7 +8845,7 @@
     "family": "Tympole"
   },
   {
-    "dex": "538",
+    "dex": 538,
     "name": {
       "de": "Jiutesto",
       "en": "Throh",
@@ -8858,7 +8858,7 @@
     "family": "Throh"
   },
   {
-    "dex": "539",
+    "dex": 539,
     "name": {
       "de": "Karadonis",
       "en": "Sawk",
@@ -8871,7 +8871,7 @@
     "family": "Sawk"
   },
   {
-    "dex": "540",
+    "dex": 540,
     "name": {
       "de": "Strawickl",
       "en": "Sewaddle",
@@ -8884,7 +8884,7 @@
     "family": "Sewaddle"
   },
   {
-    "dex": "541",
+    "dex": 541,
     "name": {
       "de": "Folikon",
       "en": "Swadloon",
@@ -8897,7 +8897,7 @@
     "family": "Sewaddle"
   },
   {
-    "dex": "542",
+    "dex": 542,
     "name": {
       "de": "Matrifol",
       "en": "Leavanny",
@@ -8910,7 +8910,7 @@
     "family": "Sewaddle"
   },
   {
-    "dex": "543",
+    "dex": 543,
     "name": {
       "de": "Toxiped",
       "en": "Venipede",
@@ -8923,7 +8923,7 @@
     "family": "Venipede"
   },
   {
-    "dex": "544",
+    "dex": 544,
     "name": {
       "de": "Rollum",
       "en": "Whirlipede",
@@ -8936,7 +8936,7 @@
     "family": "Venipede"
   },
   {
-    "dex": "545",
+    "dex": 545,
     "name": {
       "de": "Cerapendra",
       "en": "Scolipede",
@@ -8949,7 +8949,7 @@
     "family": "Venipede"
   },
   {
-    "dex": "546",
+    "dex": 546,
     "name": {
       "de": "Waumboll",
       "en": "Cottonee",
@@ -8962,7 +8962,7 @@
     "family": "Cottonee"
   },
   {
-    "dex": "547",
+    "dex": 547,
     "name": {
       "de": "Elfun",
       "en": "Whimsicott",
@@ -8975,7 +8975,7 @@
     "family": "Cottonee"
   },
   {
-    "dex": "548",
+    "dex": 548,
     "name": {
       "de": "Lilminip",
       "en": "Petilil",
@@ -8988,7 +8988,7 @@
     "family": "Petilil"
   },
   {
-    "dex": "549",
+    "dex": 549,
     "name": {
       "de": "Dressella",
       "en": "Lilligant",
@@ -9001,7 +9001,7 @@
     "family": "Petilil"
   },
   {
-    "dex": "550",
+    "dex": 550,
     "name": {
       "de": "Barschuft",
       "en": "Basculin",
@@ -9014,7 +9014,7 @@
     "family": "Basculin"
   },
   {
-    "dex": "551",
+    "dex": 551,
     "name": {
       "de": "Ganovil",
       "en": "Sandile",
@@ -9027,7 +9027,7 @@
     "family": "Sandile"
   },
   {
-    "dex": "552",
+    "dex": 552,
     "name": {
       "de": "Rokkaiman",
       "en": "Krokorok",
@@ -9040,7 +9040,7 @@
     "family": "Sandile"
   },
   {
-    "dex": "553",
+    "dex": 553,
     "name": {
       "de": "Rabigator",
       "en": "Krookodile",
@@ -9053,7 +9053,7 @@
     "family": "Sandile"
   },
   {
-    "dex": "554",
+    "dex": 554,
     "name": {
       "de": "Flampion",
       "en": "Darumaka",
@@ -9066,7 +9066,7 @@
     "family": "Darumaka"
   },
   {
-    "dex": "555",
+    "dex": 555,
     "name": {
       "de": "Flampivian",
       "en": "Darmanitan",
@@ -9079,7 +9079,7 @@
     "family": "Darumaka"
   },
   {
-    "dex": "556",
+    "dex": 556,
     "name": {
       "de": "Maracamba",
       "en": "Maractus",
@@ -9092,7 +9092,7 @@
     "family": "Maractus"
   },
   {
-    "dex": "557",
+    "dex": 557,
     "name": {
       "de": "Lithomith",
       "en": "Dwebble",
@@ -9106,7 +9106,7 @@
     "family": "Dwebble"
   },
   {
-    "dex": "558",
+    "dex": 558,
     "name": {
       "de": "Castellith",
       "en": "Crustle",
@@ -9120,7 +9120,7 @@
     "family": "Dwebble"
   },
   {
-    "dex": "559",
+    "dex": 559,
     "name": {
       "de": "Zurrokex",
       "en": "Scraggy",
@@ -9133,7 +9133,7 @@
     "family": "Scraggy"
   },
   {
-    "dex": "560",
+    "dex": 560,
     "name": {
       "de": "Irokex",
       "en": "Scrafty",
@@ -9146,7 +9146,7 @@
     "family": "Scraggy"
   },
   {
-    "dex": "561",
+    "dex": 561,
     "name": {
       "de": "Symvolara",
       "en": "Sigilyph",
@@ -9159,7 +9159,7 @@
     "family": "Sigilyph"
   },
   {
-    "dex": "562",
+    "dex": 562,
     "name": {
       "de": "Makabaja",
       "en": "Yamask",
@@ -9172,7 +9172,7 @@
     "family": "Yamask"
   },
   {
-    "dex": "563",
+    "dex": 563,
     "name": {
       "de": "Echnatoll",
       "en": "Cofagrigus",
@@ -9185,7 +9185,7 @@
     "family": "Yamask"
   },
   {
-    "dex": "564",
+    "dex": 564,
     "name": {
       "de": "Galapaflos",
       "en": "Tirtouga",
@@ -9198,7 +9198,7 @@
     "family": "Tirtouga"
   },
   {
-    "dex": "565",
+    "dex": 565,
     "name": {
       "de": "Karippas",
       "en": "Carracosta",
@@ -9211,7 +9211,7 @@
     "family": "Tirtouga"
   },
   {
-    "dex": "566",
+    "dex": 566,
     "name": {
       "de": "Flapteryx",
       "en": "Archen",
@@ -9224,7 +9224,7 @@
     "family": "Archen"
   },
   {
-    "dex": "567",
+    "dex": 567,
     "name": {
       "de": "Aeropteryx",
       "en": "Archeops",
@@ -9237,7 +9237,7 @@
     "family": "Archen"
   },
   {
-    "dex": "568",
+    "dex": 568,
     "name": {
       "de": "Unratütox",
       "en": "Trubbish",
@@ -9250,7 +9250,7 @@
     "family": "Trubbish"
   },
   {
-    "dex": "569",
+    "dex": 569,
     "name": {
       "de": "Deponitox",
       "en": "Garbodor",
@@ -9263,7 +9263,7 @@
     "family": "Trubbish"
   },
   {
-    "dex": "570",
+    "dex": 570,
     "name": {
       "de": "Zorua",
       "en": "Zorua",
@@ -9276,7 +9276,7 @@
     "family": "Zorua"
   },
   {
-    "dex": "571",
+    "dex": 571,
     "name": {
       "de": "Zoroark",
       "en": "Zoroark",
@@ -9289,7 +9289,7 @@
     "family": "Zorua"
   },
   {
-    "dex": "572",
+    "dex": 572,
     "name": {
       "de": "Picochilla",
       "en": "Minccino",
@@ -9302,7 +9302,7 @@
     "family": "Minccino"
   },
   {
-    "dex": "573",
+    "dex": 573,
     "name": {
       "de": "Chillabell",
       "en": "Cinccino",
@@ -9315,7 +9315,7 @@
     "family": "Minccino"
   },
   {
-    "dex": "574",
+    "dex": 574,
     "name": {
       "de": "Mollimorba",
       "en": "Gothita",
@@ -9328,7 +9328,7 @@
     "family": "Gothita"
   },
   {
-    "dex": "575",
+    "dex": 575,
     "name": {
       "de": "Hypnomorba",
       "en": "Gothorita",
@@ -9341,7 +9341,7 @@
     "family": "Gothita"
   },
   {
-    "dex": "576",
+    "dex": 576,
     "name": {
       "de": "Morbitesse",
       "en": "Gothitelle",
@@ -9354,7 +9354,7 @@
     "family": "Gothita"
   },
   {
-    "dex": "577",
+    "dex": 577,
     "name": {
       "de": "Monozyto",
       "en": "Solosis",
@@ -9367,7 +9367,7 @@
     "family": "Solosis"
   },
   {
-    "dex": "578",
+    "dex": 578,
     "name": {
       "de": "Mitodos",
       "en": "Duosion",
@@ -9380,7 +9380,7 @@
     "family": "Solosis"
   },
   {
-    "dex": "579",
+    "dex": 579,
     "name": {
       "de": "Zytomega",
       "en": "Reuniclus",
@@ -9393,7 +9393,7 @@
     "family": "Solosis"
   },
   {
-    "dex": "580",
+    "dex": 580,
     "name": {
       "de": "Piccolente",
       "en": "Ducklett",
@@ -9406,7 +9406,7 @@
     "family": "Ducklett"
   },
   {
-    "dex": "581",
+    "dex": 581,
     "name": {
       "de": "Swaroness",
       "en": "Swanna",
@@ -9419,7 +9419,7 @@
     "family": "Ducklett"
   },
   {
-    "dex": "582",
+    "dex": 582,
     "name": {
       "de": "Gelatini",
       "en": "Vanillite",
@@ -9432,7 +9432,7 @@
     "family": "Vanillite"
   },
   {
-    "dex": "583",
+    "dex": 583,
     "name": {
       "de": "Gelatroppo",
       "en": "Vanillish",
@@ -9445,7 +9445,7 @@
     "family": "Vanillite"
   },
   {
-    "dex": "584",
+    "dex": 584,
     "name": {
       "de": "Gelatwino",
       "en": "Vanilluxe",
@@ -9458,7 +9458,7 @@
     "family": "Vanillite"
   },
   {
-    "dex": "585",
+    "dex": 585,
     "name": {
       "de": "Sesokitz",
       "en": "Deerling",
@@ -9471,7 +9471,7 @@
     "family": "Deerling"
   },
   {
-    "dex": "586",
+    "dex": 586,
     "name": {
       "de": "Kronjuwild",
       "en": "Sawsbuck",
@@ -9484,7 +9484,7 @@
     "family": "Deerling"
   },
   {
-    "dex": "587",
+    "dex": 587,
     "name": {
       "de": "Emolga",
       "en": "Emolga",
@@ -9497,7 +9497,7 @@
     "family": "Emolga"
   },
   {
-    "dex": "588",
+    "dex": 588,
     "name": {
       "de": "Laukaps",
       "en": "Karrablast",
@@ -9510,7 +9510,7 @@
     "family": "Karrablast"
   },
   {
-    "dex": "589",
+    "dex": 589,
     "name": {
       "de": "Cavalanzas",
       "en": "Escavalier",
@@ -9523,7 +9523,7 @@
     "family": "Karrablast"
   },
   {
-    "dex": "590",
+    "dex": 590,
     "name": {
       "de": "Tarnpignon",
       "en": "Foongus",
@@ -9536,7 +9536,7 @@
     "family": "Foongus"
   },
   {
-    "dex": "591",
+    "dex": 591,
     "name": {
       "de": "Hutsassa",
       "en": "Amoonguss",
@@ -9549,7 +9549,7 @@
     "family": "Foongus"
   },
   {
-    "dex": "592",
+    "dex": 592,
     "name": {
       "de": "Quabbel",
       "en": "Frillish",
@@ -9562,7 +9562,7 @@
     "family": "Frillish"
   },
   {
-    "dex": "593",
+    "dex": 593,
     "name": {
       "de": "Apoquallyp",
       "en": "Jellicent",
@@ -9575,7 +9575,7 @@
     "family": "Frillish"
   },
   {
-    "dex": "594",
+    "dex": 594,
     "name": {
       "de": "Mamolida",
       "en": "Alomomola",
@@ -9588,7 +9588,7 @@
     "family": "Alomomola"
   },
   {
-    "dex": "595",
+    "dex": 595,
     "name": {
       "de": "Wattzapf",
       "en": "Joltik",
@@ -9601,7 +9601,7 @@
     "family": "Joltik"
   },
   {
-    "dex": "596",
+    "dex": 596,
     "name": {
       "de": "Voltula",
       "en": "Galvantula",
@@ -9614,7 +9614,7 @@
     "family": "Joltik"
   },
   {
-    "dex": "597",
+    "dex": 597,
     "name": {
       "de": "Kastadur",
       "en": "Ferroseed",
@@ -9628,7 +9628,7 @@
     "family": "Ferroseed"
   },
   {
-    "dex": "598",
+    "dex": 598,
     "name": {
       "de": "Tentantel",
       "en": "Ferrothorn",
@@ -9642,7 +9642,7 @@
     "family": "Ferroseed"
   },
   {
-    "dex": "599",
+    "dex": 599,
     "name": {
       "de": "Klikk",
       "en": "Klink",
@@ -9655,7 +9655,7 @@
     "family": "Klink"
   },
   {
-    "dex": "600",
+    "dex": 600,
     "name": {
       "de": "Kliklak",
       "en": "Klang",
@@ -9668,7 +9668,7 @@
     "family": "Klink"
   },
   {
-    "dex": "601",
+    "dex": 601,
     "name": {
       "de": "Klikdiklak",
       "en": "Klinklang",
@@ -9681,7 +9681,7 @@
     "family": "Klink"
   },
   {
-    "dex": "602",
+    "dex": 602,
     "name": {
       "de": "Zapplardin",
       "en": "Tynamo",
@@ -9694,7 +9694,7 @@
     "family": "Tynamo"
   },
   {
-    "dex": "603",
+    "dex": 603,
     "name": {
       "de": "Zapplalek",
       "en": "Eelektrik",
@@ -9707,7 +9707,7 @@
     "family": "Tynamo"
   },
   {
-    "dex": "604",
+    "dex": 604,
     "name": {
       "de": "Zapplarang",
       "en": "Eelektross",
@@ -9720,7 +9720,7 @@
     "family": "Tynamo"
   },
   {
-    "dex": "605",
+    "dex": 605,
     "name": {
       "de": "Pygraulon",
       "en": "Elgyem",
@@ -9733,7 +9733,7 @@
     "family": "Elgyem"
   },
   {
-    "dex": "606",
+    "dex": 606,
     "name": {
       "de": "Megalon",
       "en": "Beheeyem",
@@ -9746,7 +9746,7 @@
     "family": "Beheeyem"
   },
   {
-    "dex": "607",
+    "dex": 607,
     "name": {
       "de": "Lichtel",
       "en": "Litwick",
@@ -9759,7 +9759,7 @@
     "family": "Litwick"
   },
   {
-    "dex": "608",
+    "dex": 608,
     "name": {
       "de": "Laternecto",
       "en": "Lampent",
@@ -9772,7 +9772,7 @@
     "family": "Litwick"
   },
   {
-    "dex": "609",
+    "dex": 609,
     "name": {
       "de": "Skelabra",
       "en": "Chandelure",
@@ -9785,7 +9785,7 @@
     "family": "Litwick"
   },
   {
-    "dex": "610",
+    "dex": 610,
     "name": {
       "de": "Milza",
       "en": "Axew",
@@ -9798,7 +9798,7 @@
     "family": "Axew"
   },
   {
-    "dex": "611",
+    "dex": 611,
     "name": {
       "de": "Sharfax",
       "en": "Fraxure",
@@ -9811,7 +9811,7 @@
     "family": "Axew"
   },
   {
-    "dex": "612",
+    "dex": 612,
     "name": {
       "de": "Maxax",
       "en": "Haxorus",
@@ -9824,7 +9824,7 @@
     "family": "Axew"
   },
   {
-    "dex": "613",
+    "dex": 613,
     "name": {
       "de": "Petznief",
       "en": "Cubchoo",
@@ -9838,7 +9838,7 @@
     "family": "Cubchoo"
   },
   {
-    "dex": "613",
+    "dex": 613,
     "name": {
       "de": "Petznief",
       "en": "Cubchoo",
@@ -9854,7 +9854,7 @@
     "family": "Cubchoo"
   },
   {
-    "dex": "614",
+    "dex": 614,
     "name": {
       "de": "Siberio",
       "en": "Beartic",
@@ -9868,7 +9868,7 @@
     "family": "Cubchoo"
   },
   {
-    "dex": "615",
+    "dex": 615,
     "name": {
       "de": "Frigometri",
       "en": "Cryogonal",
@@ -9881,7 +9881,7 @@
     "family": "Cryogonal"
   },
   {
-    "dex": "616",
+    "dex": 616,
     "name": {
       "de": "Schnuthelm",
       "en": "Shelmet",
@@ -9894,7 +9894,7 @@
     "family": "Shelmet"
   },
   {
-    "dex": "617",
+    "dex": 617,
     "name": {
       "de": "Hydragil",
       "en": "Accelgor",
@@ -9907,7 +9907,7 @@
     "family": "Shelmet"
   },
   {
-    "dex": "618",
+    "dex": 618,
     "name": {
       "de": "Flunschlik",
       "en": "Stunfisk",
@@ -9920,7 +9920,7 @@
     "family": "Stunfisk"
   },
   {
-    "dex": "619",
+    "dex": 619,
     "name": {
       "de": "Lin-Fu",
       "en": "Mienfoo",
@@ -9933,7 +9933,7 @@
     "family": "Mienfoo"
   },
   {
-    "dex": "620",
+    "dex": 620,
     "name": {
       "de": "Wie-Shu",
       "en": "Mienshao",
@@ -9946,7 +9946,7 @@
     "family": "Mienfoo"
   },
   {
-    "dex": "621",
+    "dex": 621,
     "name": {
       "de": "Shardrago",
       "en": "Druddigon",
@@ -9959,7 +9959,7 @@
     "family": "Druddigon"
   },
   {
-    "dex": "622",
+    "dex": 622,
     "name": {
       "de": "Golbit",
       "en": "Golett",
@@ -9972,7 +9972,7 @@
     "family": "Golett"
   },
   {
-    "dex": "623",
+    "dex": 623,
     "name": {
       "de": "Golgantes",
       "en": "Golurk",
@@ -9985,7 +9985,7 @@
     "family": "Golett"
   },
   {
-    "dex": "624",
+    "dex": 624,
     "name": {
       "de": "Gladiantri",
       "en": "Pawniard",
@@ -9998,7 +9998,7 @@
     "family": "Pawniard"
   },
   {
-    "dex": "625",
+    "dex": 625,
     "name": {
       "de": "Caesurio",
       "en": "Bisharp",
@@ -10011,7 +10011,7 @@
     "family": "Pawniard"
   },
   {
-    "dex": "626",
+    "dex": 626,
     "name": {
       "de": "Bisofank",
       "en": "Bouffalant",
@@ -10024,7 +10024,7 @@
     "family": "Bouffalant"
   },
   {
-    "dex": "627",
+    "dex": 627,
     "name": {
       "de": "Geronimatz",
       "en": "Rufflet",
@@ -10038,7 +10038,7 @@
     "family": "Rufflet"
   },
   {
-    "dex": "628",
+    "dex": 628,
     "name": {
       "de": "Washakwil",
       "en": "Braviary",
@@ -10052,7 +10052,7 @@
     "family": "Rufflet"
   },
   {
-    "dex": "629",
+    "dex": 629,
     "name": {
       "de": "Skallyk",
       "en": "Vullaby",
@@ -10065,7 +10065,7 @@
     "family": "Vullaby"
   },
   {
-    "dex": "630",
+    "dex": 630,
     "name": {
       "de": "Grypheldis",
       "en": "Mandibuzz",
@@ -10078,7 +10078,7 @@
     "family": "Vullaby"
   },
   {
-    "dex": "631",
+    "dex": 631,
     "name": {
       "de": "Furnifraß",
       "en": "Heatmor",
@@ -10091,7 +10091,7 @@
     "family": "Heatmor"
   },
   {
-    "dex": "632",
+    "dex": 632,
     "name": {
       "de": "Fermicula",
       "en": "Durant",
@@ -10104,7 +10104,7 @@
     "family": "Durant"
   },
   {
-    "dex": "633",
+    "dex": 633,
     "name": {
       "de": "Kapuno",
       "en": "Deino",
@@ -10118,7 +10118,7 @@
     "family": "Deino"
   },
   {
-    "dex": "634",
+    "dex": 634,
     "name": {
       "de": "Duodino",
       "en": "Zweilous",
@@ -10132,7 +10132,7 @@
     "family": "Deino"
   },
   {
-    "dex": "635",
+    "dex": 635,
     "name": {
       "de": "Trikephalo",
       "en": "Hydreigon",
@@ -10146,7 +10146,7 @@
     "family": "Deino"
   },
   {
-    "dex": "636",
+    "dex": 636,
     "name": {
       "de": "Ignivor",
       "en": "Larvesta",
@@ -10159,7 +10159,7 @@
     "family": "Larvesta"
   },
   {
-    "dex": "637",
+    "dex": 637,
     "name": {
       "de": "Ramoth",
       "en": "Volcarona",
@@ -10172,7 +10172,7 @@
     "family": "Larvesta"
   },
   {
-    "dex": "638",
+    "dex": 638,
     "name": {
       "de": "Kobalium",
       "en": "Cobalion",
@@ -10185,7 +10185,7 @@
     "family": "Cobalion"
   },
   {
-    "dex": "639",
+    "dex": 639,
     "name": {
       "de": "Terrakium",
       "en": "Terrakion",
@@ -10199,7 +10199,7 @@
     "family": "Terrakion"
   },
   {
-    "dex": "640",
+    "dex": 640,
     "name": {
       "de": "Viridium",
       "en": "Virizion",
@@ -10212,7 +10212,7 @@
     "family": "Virizion"
   },
   {
-    "dex": "641",
+    "dex": 641,
     "name": {
       "de": "Boreos",
       "en": "Tornadus",
@@ -10225,7 +10225,7 @@
     "family": "Tornadus"
   },
   {
-    "dex": "642",
+    "dex": 642,
     "name": {
       "de": "Voltolos",
       "en": "Thundurus",
@@ -10238,7 +10238,7 @@
     "family": "Thundurus"
   },
   {
-    "dex": "643",
+    "dex": 643,
     "name": {
       "de": "Reshiram",
       "en": "Reshiram",
@@ -10251,7 +10251,7 @@
     "family": "Reshiram"
   },
   {
-    "dex": "644",
+    "dex": 644,
     "name": {
       "de": "Zekrom",
       "en": "Zekrom",
@@ -10264,7 +10264,7 @@
     "family": "Zekrom"
   },
   {
-    "dex": "645",
+    "dex": 645,
     "name": {
       "de": "Demeteros",
       "en": "Landorus",
@@ -10277,7 +10277,7 @@
     "family": "Landorus"
   },
   {
-    "dex": "646",
+    "dex": 646,
     "name": {
       "de": "Kyurem",
       "en": "Kyurem",
@@ -10290,7 +10290,7 @@
     "family": "Kyurem"
   },
   {
-    "dex": "647",
+    "dex": 647,
     "name": {
       "de": "Keldeo",
       "en": "Keldeo",
@@ -10303,7 +10303,7 @@
     "family": "Keldeo"
   },
   {
-    "dex": "648",
+    "dex": 648,
     "name": {
       "de": "Meloetta",
       "en": "Meloetta",
@@ -10316,7 +10316,7 @@
     "family": "Meloetta"
   },
   {
-    "dex": "649",
+    "dex": 649,
     "name": {
       "de": "Genesect",
       "en": "Genesect",
