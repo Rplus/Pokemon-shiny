@@ -173,7 +173,7 @@ $: {
           on:click={ click.bind(pm, pmGroupIndex, pmIndex) }
         >
           <div class="pm-img-box">
-            <Image fn={pm.fn} cfn={pm.cfn1} />
+            <Image fn={pm.fn} cfn={pm.cfn1} alt={getPmName(pm.name, $lang)} />
             {#if $compareImg}
               <Image fn={pm.fn} cfn={pm.cfn0} normal />
             {/if}
