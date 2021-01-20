@@ -8,6 +8,7 @@ import {
   pmTotalStatus,
   compareImg,
 } from '../stores.js';
+import Image from './Image.html';
 
 let pmsByFamily = [];
 let pmsMap = {};
@@ -135,17 +136,6 @@ $: {
 
 
 
-function getImgSrc(fn, custom, normal) {
-  let _fn = `pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
-  // let sourcePath = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/';
-  const dpr = window.devicePixelRatio || 1;
-  let sourcePath = 'https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/';
-  if (location.hash.indexOf('#dev=') === 0) {
-    return `${location.hash.split('=').pop()}${_fn}`;
-  }
-  return custom || `https://images.weserv.nl/?dpr=${dpr}&w=200&il&url=${sourcePath}${_fn}`;
-}
-
 </script>
 
 
@@ -183,9 +173,9 @@ function getImgSrc(fn, custom, normal) {
           on:click={ click.bind(pm, pmGroupIndex, pmIndex) }
         >
           <div class="pm-img-box">
-            <img class="pm-img" alt="" src={ getImgSrc(pm.fn, pm.cfn1) } loading="lazy" width="200" height="200" intrinsicsize="120x120">
+            <Image fn={pm.fn} cfn={pm.cfn1} />
             {#if $compareImg}
-              <img class="pm-img pm-img-n" alt="" src={ getImgSrc(pm.fn, pm.cfn0, true) } loading="lazy" width="200" height="200" intrinsicsize="120x120">
+              <Image fn={pm.fn} cfn={pm.cfn0} normal />
             {/if}
           </div>
           <div class="pm-name" data-dex={ pm.dex }>{ getPmName(pm.name, $lang) }</div>
