@@ -1487,6 +1487,12 @@
     "family": "Mareep"
   },
   {
+    "dex": 181,
+    "type": "_51",
+    "shiny_released": true,
+    "family": "Mareep"
+  },
+  {
     "dex": 182,
     "shiny_released": true,
     "family": "Oddish"
