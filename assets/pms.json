@@ -1134,6 +1134,12 @@
     "family": "Magikarp"
   },
   {
+    "dex": 130,
+    "type": "_51",
+    "shiny_released": true,
+    "family": "Magikarp"
+  },
+  {
     "dex": 131,
     "shiny_released": true,
     "family": "Lapras"
