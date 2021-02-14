@@ -2426,6 +2426,14 @@
     "family": "Spinda"
   },
   {
+    "dex": 327,
+    "type": "_19",
+    "shiny_released": false,
+    "name_suffix": "(#9)",
+    "released_date": "2021/02/14",
+    "family": "Spinda"
+  },
+  {
     "dex": 328,
     "shiny_released": true,
     "family": "Trapinch"
