@@ -27,14 +27,16 @@
     }
 
     isFetching = true;
-    fetch(`https://cors-anywhere.herokuapp.com/http://tinyurl.com/api-create.php?url=${url}`)
+    const getTinyUrlBase = 'https://script.google.com/macros/s/AKfycbzpbnnYoIv28lkcezbaj170ot7nNkHZMUvI7FI5UBUaQrdD3Kw/exec'
+    fetch(getTinyUrlBase + `?url=${encodeURIComponent(url)}`)
       .then(d => d.text())
       .then(d => {
         shortUrlLink = d;
-        isFetching = false;
       })
       .catch(error => {
         console.error(error);
+      })
+      .finally(() => {
         isFetching = false;
       })
   }
