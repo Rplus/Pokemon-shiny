@@ -260,11 +260,13 @@
   {
     "dex": 21,
     "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Spearow"
   },
   {
     "dex": 22,
     "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Spearow"
   },
   {
@@ -645,11 +647,13 @@
   {
     "dex": 46,
     "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Paras"
   },
   {
     "dex": 47,
     "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Paras"
   },
   {
@@ -1104,11 +1108,13 @@
   {
     "dex": 106,
     "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Tyrogue"
   },
   {
     "dex": 107,
     "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Tyrogue"
   },
   {
@@ -1260,6 +1266,7 @@
   {
     "dex": 132,
     "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Ditto"
   },
   {
@@ -1354,6 +1361,7 @@
   {
     "dex": 143,
     "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Snorlax"
   },
   {
@@ -1397,6 +1405,7 @@
   {
     "dex": 151,
     "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Mew"
   },
   {
