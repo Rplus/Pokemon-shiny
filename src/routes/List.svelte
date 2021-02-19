@@ -169,7 +169,7 @@ $: {
           data-id={ pm.id }
           data-dex={ pm.dex }
           data-status={ pm.status }
-          title={ `#${pm.dex}` }
+          title={ `#${pm.dex}${pm.released_date ? ' @' + pm.released_date : ''}` }
           on:click={ click.bind(pm, pmGroupIndex, pmIndex) }
         >
           <div class="pm-img-box">
