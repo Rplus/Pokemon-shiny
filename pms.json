@@ -1,8 +1,8 @@
 [
   {
     "dex": 1,
-    "shiny_released": true,
-    "family": "Bulbasaur"
+    "family": "Bulbasaur",
+    "released_date": "2018/03/25"
   },
   {
     "dex": 1,
@@ -25,24 +25,24 @@
   },
   {
     "dex": 2,
-    "shiny_released": true,
-    "family": "Bulbasaur"
+    "family": "Bulbasaur",
+    "released_date": "2018/03/25"
   },
   {
     "dex": 3,
-    "shiny_released": true,
-    "family": "Bulbasaur"
+    "family": "Bulbasaur",
+    "released_date": "2018/03/25"
   },
   {
     "dex": 3,
     "type": "_51",
-    "shiny_released": true,
-    "family": "Bulbasaur"
+    "family": "Bulbasaur",
+    "released_date": "2018/03/25"
   },
   {
     "dex": 4,
-    "shiny_released": true,
-    "family": "Charmander"
+    "family": "Charmander",
+    "released_date": "2018/05/19"
   },
   {
     "dex": 4,
@@ -65,46 +65,46 @@
   },
   {
     "dex": 5,
-    "shiny_released": true,
-    "family": "Charmander"
+    "family": "Charmander",
+    "released_date": "2018/05/19"
   },
   {
     "dex": 6,
-    "shiny_released": true,
-    "family": "Charmander"
+    "family": "Charmander",
+    "released_date": "2018/05/19"
   },
   {
     "dex": 6,
     "type": "_51",
-    "shiny_released": true,
-    "family": "Charmander"
+    "family": "Charmander",
+    "released_date": "2018/05/19"
   },
   {
     "dex": 6,
     "type": "_52",
-    "shiny_released": true,
-    "family": "Charmander"
+    "family": "Charmander",
+    "released_date": "2018/05/19"
   },
   {
     "dex": 7,
-    "shiny_released": true,
-    "family": "Squirtle"
+    "family": "Squirtle",
+    "released_date": "2018/07/08"
   },
   {
     "dex": 8,
-    "shiny_released": true,
-    "family": "Squirtle"
+    "family": "Squirtle",
+    "released_date": "2018/07/08"
   },
   {
     "dex": 9,
-    "shiny_released": true,
-    "family": "Squirtle"
+    "family": "Squirtle",
+    "released_date": "2018/07/08"
   },
   {
     "dex": 9,
     "type": "_51",
-    "shiny_released": true,
-    "family": "Squirtle"
+    "family": "Squirtle",
+    "released_date": "2018/07/08"
   },
   {
     "dex": 7,
@@ -147,76 +147,76 @@
   },
   {
     "dex": 10,
-    "shiny_released": true,
-    "family": "Caterpie"
+    "family": "Caterpie",
+    "released_date": "2018/11/01"
   },
   {
     "dex": 11,
-    "shiny_released": true,
-    "family": "Caterpie"
+    "family": "Caterpie",
+    "released_date": "2018/11/01"
   },
   {
     "dex": 12,
-    "shiny_released": true,
-    "family": "Caterpie"
+    "family": "Caterpie",
+    "released_date": "2018/11/01"
   },
   {
     "dex": 13,
-    "shiny_released": true,
-    "family": "Weedle"
+    "family": "Weedle",
+    "released_date": "2020/06/19"
   },
   {
     "dex": 14,
-    "shiny_released": true,
-    "family": "Weedle"
+    "family": "Weedle",
+    "released_date": "2020/06/19"
   },
   {
     "dex": 15,
-    "shiny_released": true,
-    "family": "Weedle"
+    "family": "Weedle",
+    "released_date": "2020/06/19"
   },
   {
     "dex": 15,
     "type": "_51",
-    "shiny_released": true,
-    "family": "Weedle"
+    "family": "Weedle",
+    "released_date": "2020/06/19"
   },
   {
     "dex": 16,
-    "shiny_released": true,
-    "family": "Pidgey"
+    "family": "Pidgey",
+    "released_date": "2019/02/26"
   },
   {
     "dex": 17,
-    "shiny_released": true,
-    "family": "Pidgey"
+    "family": "Pidgey",
+    "released_date": "2019/02/26"
   },
   {
     "dex": 18,
-    "shiny_released": true,
-    "family": "Pidgey"
+    "family": "Pidgey",
+    "released_date": "2019/02/26"
   },
   {
     "dex": 18,
     "type": "_51",
-    "shiny_released": true,
-    "family": "Pidgey"
+    "family": "Pidgey",
+    "released_date": "2019/02/26"
   },
   {
     "dex": 19,
-    "shiny_released": true,
-    "family": "Rattata"
+    "family": "Rattata",
+    "released_date": "2019/02/26"
   },
   {
     "dex": 20,
-    "shiny_released": true,
-    "family": "Rattata"
+    "family": "Rattata",
+    "released_date": "2019/02/26"
   },
   {
     "dex": 20,
     "isotope": "_11",
-    "shiny_released": true,
-    "family": "Rattata"
+    "family": "Rattata",
+    "released_date": "2019/02/26"
   },
   {
     "dex": 19,
@@ -232,33 +232,33 @@
   },
   {
     "dex": 21,
-    "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Spearow"
   },
   {
     "dex": 22,
-    "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Spearow"
   },
   {
     "dex": 23,
-    "shiny_released": true,
-    "family": "Ekans"
+    "family": "Ekans",
+    "released_date": "2019/07/25"
   },
   {
     "dex": 24,
-    "shiny_released": true,
-    "family": "Ekans"
+    "family": "Ekans",
+    "released_date": "2019/07/25"
   },
   {
     "dex": 25,
-    "shiny_released": true,
-    "family": "Pikachu"
+    "family": "Pikachu",
+    "released_date": "2017/08/15"
   },
   {
     "dex": 26,
-    "shiny_released": true,
-    "family": "Pikachu"
+    "family": "Pikachu",
+    "released_date": "2017/08/15"
   },
   {
     "dex": 25,
@@ -401,28 +401,24 @@
   },
   {
     "dex": 25,
-    "shiny_released": false,
     "released_date": "2020/05/08",
     "isotope": "_23",
     "family": "Pikachu_23"
   },
   {
     "dex": 25,
-    "shiny_released": false,
     "released_date": "2020/05/15",
     "isotope": "_24",
     "family": "Pikachu_24"
   },
   {
     "dex": 25,
-    "shiny_released": false,
     "released_date": "2020/05/22",
     "isotope": "_25",
     "family": "Pikachu_25"
   },
   {
     "dex": 25,
-    "shiny_released": false,
     "released_date": "2020/05/22",
     "fn": "pm0025_00_pgo_4thanniversary",
     "isotope": "_4thY",
@@ -449,7 +445,6 @@
   },
   {
     "dex": 25,
-    "shiny_released": true,
     "fn": "pm0025_00_pgo_winter2020",
     "released_date": "2020/12/22",
     "isotope": "_winter2020",
@@ -475,13 +470,13 @@
   },
   {
     "dex": 27,
-    "shiny_released": true,
-    "family": "Sandshrew"
+    "family": "Sandshrew",
+    "released_date": "2018/12/06"
   },
   {
     "dex": 28,
-    "shiny_released": true,
-    "family": "Sandshrew"
+    "family": "Sandshrew",
+    "released_date": "2018/12/06"
   },
   {
     "dex": 27,
@@ -533,23 +528,21 @@
   },
   {
     "dex": 35,
-    "shiny_released": true,
-    "family": "Clefairy"
+    "family": "Clefairy",
+    "released_date": "2019/02/13"
   },
   {
     "dex": 36,
-    "shiny_released": true,
-    "family": "Clefairy"
+    "family": "Clefairy",
+    "released_date": "2019/02/13"
   },
   {
     "dex": 37,
-    "shiny_released": false,
     "released_date": "2020/10/09",
     "family": "Vulpix"
   },
   {
     "dex": 38,
-    "shiny_released": false,
     "released_date": "2020/10/09",
     "family": "Vulpix"
   },
@@ -567,68 +560,68 @@
   },
   {
     "dex": 39,
-    "shiny_released": true,
-    "family": "Jigglypuff"
+    "family": "Jigglypuff",
+    "released_date": "2019/04/16"
   },
   {
     "dex": 40,
-    "shiny_released": true,
-    "family": "Jigglypuff"
+    "family": "Jigglypuff",
+    "released_date": "2019/04/16"
   },
   {
     "dex": 41,
-    "shiny_released": true,
-    "family": "Zubat"
+    "family": "Zubat",
+    "released_date": "2019/07/25"
   },
   {
     "dex": 42,
-    "shiny_released": true,
-    "family": "Zubat"
+    "family": "Zubat",
+    "released_date": "2019/07/25"
   },
   {
     "dex": 43,
-    "shiny_released": true,
-    "family": "Oddish"
+    "family": "Oddish",
+    "released_date": "2019/10/03"
   },
   {
     "dex": 44,
-    "shiny_released": true,
-    "family": "Oddish"
+    "family": "Oddish",
+    "released_date": "2019/10/03"
   },
   {
     "dex": 45,
-    "shiny_released": true,
-    "family": "Oddish"
+    "family": "Oddish",
+    "released_date": "2019/10/03"
   },
   {
     "dex": 46,
-    "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Paras"
   },
   {
     "dex": 47,
-    "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Paras"
   },
   {
     "dex": 48,
-    "shiny_released": true,
-    "family": "Venonat"
+    "family": "Venonat",
+    "released_date": "2020/05/01"
   },
   {
     "dex": 49,
-    "shiny_released": true,
-    "family": "Venonat"
+    "family": "Venonat",
+    "released_date": "2020/05/01"
   },
   {
     "dex": 50,
-    "shiny_released": true,
-    "family": "Diglett"
+    "family": "Diglett",
+    "released_date": "2019/04/29"
   },
   {
     "dex": 51,
-    "shiny_released": true,
-    "family": "Diglett"
+    "family": "Diglett",
+    "released_date": "2019/04/29"
   },
   {
     "dex": 50,
@@ -644,13 +637,13 @@
   },
   {
     "dex": 52,
-    "shiny_released": true,
-    "family": "Meowth"
+    "family": "Meowth",
+    "released_date": "2019/11/07"
   },
   {
     "dex": 53,
-    "shiny_released": true,
-    "family": "Meowth"
+    "family": "Meowth",
+    "released_date": "2019/11/07"
   },
   {
     "dex": 52,
@@ -666,121 +659,118 @@
   },
   {
     "dex": 54,
-    "shiny_released": true,
-    "family": "Psyduck"
+    "family": "Psyduck",
+    "released_date": "2019/01/25"
   },
   {
     "dex": 55,
-    "shiny_released": true,
-    "family": "Psyduck"
+    "family": "Psyduck",
+    "released_date": "2019/01/25"
   },
   {
     "dex": 56,
-    "shiny_released": true,
-    "family": "Mankey"
+    "family": "Mankey",
+    "released_date": "2019/03/05"
   },
   {
     "dex": 57,
-    "shiny_released": true,
-    "family": "Mankey"
+    "family": "Mankey",
+    "released_date": "2019/03/05"
   },
   {
     "dex": 58,
-    "shiny_released": true,
-    "family": "Growlithe"
+    "family": "Growlithe",
+    "released_date": "2018/09/01"
   },
   {
     "dex": 59,
-    "shiny_released": true,
-    "family": "Growlithe"
+    "family": "Growlithe",
+    "released_date": "2018/09/01"
   },
   {
     "dex": 60,
-    "shiny_released": true,
-    "family": "Poliwag"
+    "family": "Poliwag",
+    "released_date": "2019/08/06"
   },
   {
     "dex": 61,
-    "shiny_released": true,
-    "family": "Poliwag"
+    "family": "Poliwag",
+    "released_date": "2019/08/06"
   },
   {
     "dex": 62,
-    "shiny_released": true,
-    "family": "Poliwag"
+    "family": "Poliwag",
+    "released_date": "2019/08/06"
   },
   {
     "dex": 63,
-    "shiny_released": true,
-    "family": "Abra"
+    "family": "Abra",
+    "released_date": "2019/06/13"
   },
   {
     "dex": 64,
-    "shiny_released": true,
-    "family": "Abra"
+    "family": "Abra",
+    "released_date": "2019/06/13"
   },
   {
     "dex": 65,
-    "shiny_released": true,
-    "family": "Abra"
+    "family": "Abra",
+    "released_date": "2019/06/13"
   },
   {
     "dex": 66,
-    "shiny_released": true,
-    "family": "Machop"
+    "family": "Machop",
+    "released_date": "2019/03/05"
   },
   {
     "dex": 67,
-    "shiny_released": true,
-    "family": "Machop"
+    "family": "Machop",
+    "released_date": "2019/03/05"
   },
   {
     "dex": 68,
-    "shiny_released": true,
-    "family": "Machop"
+    "family": "Machop",
+    "released_date": "2019/03/05"
   },
   {
     "dex": 69,
-    "shiny_released": false,
-    "released_date": "2020/07/17",
+    "released_date": "2020/07/16",
     "family": "Bellsprout"
   },
   {
     "dex": 70,
-    "shiny_released": false,
-    "released_date": "2020/07/17",
+    "released_date": "2020/07/16",
     "family": "Bellsprout"
   },
   {
     "dex": 71,
-    "shiny_released": false,
-    "released_date": "2020/07/17",
+    "released_date": "2020/07/16",
     "family": "Bellsprout"
   },
   {
     "dex": 72,
-    "shiny_released": true,
-    "family": "Tentacool"
+    "family": "Tentacool",
+    "released_date": "2019/11/19"
   },
   {
     "dex": 73,
-    "shiny_released": true,
-    "family": "Tentacool"
+    "family": "Tentacool",
+    "released_date": "2019/11/19"
   },
   {
     "dex": 74,
-    "shiny_released": true,
-    "family": "Geodude"
+    "family": "Geodude",
+    "released_date": "2018/09/13"
   },
   {
     "dex": 75,
-    "shiny_released": true,
-    "family": "Geodude"
+    "family": "Geodude",
+    "released_date": "2018/09/13"
   },
   {
     "dex": 76,
-    "shiny_released": true,
-    "family": "Geodude"
+    "family": "Geodude",
+    "released_date": "2018/09/13"
   },
   {
     "dex": 74,
@@ -802,22 +792,22 @@
   },
   {
     "dex": 77,
-    "shiny_released": true,
-    "family": "Ponyta"
+    "family": "Ponyta",
+    "released_date": "2018/11/05"
   },
   {
     "dex": 78,
-    "shiny_released": true,
-    "family": "Ponyta"
+    "family": "Ponyta",
+    "released_date": "2018/11/05"
   },
   {
     "dex": 79,
-    "released_date": "2020/11/17",
+    "released_date": "2020/11/16",
     "family": "Slowpoke"
   },
   {
     "dex": 80,
-    "released_date": "2020/11/17",
+    "released_date": "2020/11/16",
     "family": "Slowpoke"
   },
   {
@@ -836,13 +826,13 @@
   },
   {
     "dex": 81,
-    "shiny_released": true,
-    "family": "Magnemite"
+    "family": "Magnemite",
+    "released_date": "2018/11/16"
   },
   {
     "dex": 82,
-    "shiny_released": true,
-    "family": "Magnemite"
+    "family": "Magnemite",
+    "released_date": "2018/11/16"
   },
   {
     "dex": 83,
@@ -851,35 +841,33 @@
   },
   {
     "dex": 84,
-    "shiny_released": false,
-    "released_date": "2020/09/22",
+    "released_date": "2020/09/21",
     "family": "Doduo"
   },
   {
     "dex": 85,
-    "shiny_released": false,
-    "released_date": "2020/09/22",
+    "released_date": "2020/09/21",
     "family": "Doduo"
   },
   {
     "dex": 86,
-    "shiny_released": true,
-    "family": "Seel"
+    "family": "Seel",
+    "released_date": "2019/05/01"
   },
   {
     "dex": 87,
-    "shiny_released": true,
-    "family": "Seel"
+    "family": "Seel",
+    "released_date": "2019/05/01"
   },
   {
     "dex": 88,
-    "shiny_released": true,
-    "family": "Grimer"
+    "family": "Grimer",
+    "released_date": "2018/09/13"
   },
   {
     "dex": 89,
-    "shiny_released": true,
-    "family": "Grimer"
+    "family": "Grimer",
+    "released_date": "2018/09/13"
   },
   {
     "dex": 88,
@@ -895,35 +883,35 @@
   },
   {
     "dex": 90,
-    "shiny_released": true,
-    "family": "Shellder"
+    "family": "Shellder",
+    "released_date": "2018/06/07"
   },
   {
     "dex": 91,
-    "shiny_released": true,
-    "family": "Shellder"
+    "family": "Shellder",
+    "released_date": "2018/06/07"
   },
   {
     "dex": 92,
-    "shiny_released": true,
     "cachebuster": "?v1",
-    "family": "Gastly"
+    "family": "Gastly",
+    "released_date": "2018/11/03"
   },
   {
     "dex": 93,
-    "shiny_released": true,
-    "family": "Gastly"
+    "family": "Gastly",
+    "released_date": "2018/11/03"
   },
   {
     "dex": 94,
-    "shiny_released": true,
-    "family": "Gastly"
+    "family": "Gastly",
+    "released_date": "2018/11/03"
   },
   {
     "dex": 94,
     "type": "_51",
-    "shiny_released": true,
-    "family": "Gastly"
+    "family": "Gastly",
+    "released_date": "2018/11/03"
   },
   {
     "dex": 94,
@@ -939,115 +927,115 @@
   },
   {
     "dex": 95,
-    "shiny_released": true,
-    "family": "Onix"
+    "family": "Onix",
+    "released_date": "2019/06/04"
   },
   {
     "dex": 96,
-    "shiny_released": true,
-    "family": "Drowzee"
+    "family": "Drowzee",
+    "released_date": "2018/10/05"
   },
   {
     "dex": 97,
-    "shiny_released": true,
-    "family": "Drowzee"
+    "family": "Drowzee",
+    "released_date": "2018/10/05"
   },
   {
     "dex": 98,
-    "shiny_released": true,
-    "family": "Krabby"
+    "family": "Krabby",
+    "released_date": "2018/10/01"
   },
   {
     "dex": 99,
-    "shiny_released": true,
-    "family": "Krabby"
+    "family": "Krabby",
+    "released_date": "2018/10/01"
   },
   {
     "dex": 100,
-    "shiny_released": true,
-    "family": "Voltorb"
+    "family": "Voltorb",
+    "released_date": "2020/05/08"
   },
   {
     "dex": 101,
-    "shiny_released": true,
-    "family": "Voltorb"
+    "family": "Voltorb",
+    "released_date": "2020/05/08"
   },
   {
     "dex": 102,
-    "shiny_released": true,
-    "family": "Exeggcute"
+    "family": "Exeggcute",
+    "released_date": "2020/04/08"
   },
   {
     "dex": 103,
-    "shiny_released": true,
-    "family": "Exeggcute"
+    "family": "Exeggcute",
+    "released_date": "2020/04/08"
   },
   {
     "dex": 103,
     "type": "_61",
-    "shiny_released": true,
-    "family": "Exeggcute"
+    "family": "Exeggcute",
+    "released_date": "2020/04/08"
   },
   {
     "dex": 104,
-    "shiny_released": true,
-    "family": "Cubone"
+    "family": "Cubone",
+    "released_date": "2018/11/05"
   },
   {
     "dex": 105,
-    "shiny_released": true,
-    "family": "Cubone"
+    "family": "Cubone",
+    "released_date": "2018/11/05"
   },
   {
     "dex": 105,
     "type": "_61",
-    "shiny_released": true,
-    "family": "Cubone"
+    "family": "Cubone",
+    "released_date": "2018/11/05"
   },
   {
     "dex": 106,
-    "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Tyrogue"
   },
   {
     "dex": 107,
-    "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Tyrogue"
   },
   {
     "dex": 108,
-    "shiny_released": true,
-    "family": "Lickitung"
+    "family": "Lickitung",
+    "released_date": "2020/02/15"
   },
   {
     "dex": 109,
-    "shiny_released": true,
-    "family": "Koffing"
+    "family": "Koffing",
+    "released_date": "2019/07/25"
   },
   {
     "dex": 110,
-    "shiny_released": true,
-    "family": "Koffing"
+    "family": "Koffing",
+    "released_date": "2019/07/25"
   },
   {
     "dex": 111,
-    "shiny_released": true,
-    "family": "Rhyhorn"
+    "family": "Rhyhorn",
+    "released_date": "2020/02/22"
   },
   {
     "dex": 112,
-    "shiny_released": true,
-    "family": "Rhyhorn"
+    "family": "Rhyhorn",
+    "released_date": "2020/02/22"
   },
   {
     "dex": 113,
-    "shiny_released": true,
-    "family": "Chansey"
+    "family": "Chansey",
+    "released_date": "2020/02/13"
   },
   {
     "dex": 114,
-    "shiny_released": true,
-    "family": "Tangela"
+    "family": "Tangela",
+    "released_date": "2020/07/24"
   },
   {
     "dex": 115,
@@ -1056,36 +1044,32 @@
   },
   {
     "dex": 116,
-    "shiny_released": true,
-    "family": "Horsea"
+    "family": "Horsea",
+    "released_date": "2019/06/13"
   },
   {
     "dex": 117,
-    "shiny_released": true,
-    "family": "Horsea"
+    "family": "Horsea",
+    "released_date": "2019/06/13"
   },
   {
     "dex": 118,
-    "shiny_released": false,
-    "released_date": "2020/11/24",
+    "released_date": "2020/11/23",
     "family": "Goldeen"
   },
   {
     "dex": 119,
-    "shiny_released": false,
-    "released_date": "2020/11/24",
+    "released_date": "2020/11/23",
     "family": "Goldeen"
   },
   {
     "dex": 120,
-    "shiny_released": false,
-    "released_date": "2020/08/08",
+    "released_date": "2020/08/07",
     "family": "Staryu"
   },
   {
     "dex": 121,
-    "shiny_released": false,
-    "released_date": "2020/08/08",
+    "released_date": "2020/08/07",
     "family": "Staryu"
   },
   {
@@ -1095,23 +1079,23 @@
   },
   {
     "dex": 123,
-    "shiny_released": true,
-    "family": "Scyther"
+    "family": "Scyther",
+    "released_date": "2019/04/02"
   },
   {
     "dex": 124,
-    "shiny_released": true,
-    "family": "Jynx"
+    "family": "Jynx",
+    "released_date": "2019/02/13"
   },
   {
     "dex": 125,
-    "shiny_released": true,
-    "family": "Electabuzz"
+    "family": "Electabuzz",
+    "released_date": "2018/11/15"
   },
   {
     "dex": 126,
-    "shiny_released": true,
-    "family": "Magmar"
+    "family": "Magmar",
+    "released_date": "2018/03/22"
   },
   {
     "dex": 127,
@@ -1125,19 +1109,19 @@
   },
   {
     "dex": 129,
-    "shiny_released": true,
-    "family": "Magikarp"
+    "family": "Magikarp",
+    "released_date": "2017/03/22"
   },
   {
     "dex": 130,
-    "shiny_released": true,
-    "family": "Magikarp"
+    "family": "Magikarp",
+    "released_date": "2017/03/22"
   },
   {
     "dex": 130,
     "type": "_51",
-    "shiny_released": true,
-    "family": "Magikarp"
+    "family": "Magikarp",
+    "released_date": "2017/03/22"
   },
   {
     "dex": 131,
@@ -1146,13 +1130,13 @@
   },
   {
     "dex": 132,
-    "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Ditto"
   },
   {
     "dex": 133,
-    "shiny_released": true,
-    "family": "Eevee"
+    "family": "Eevee",
+    "released_date": "2018/08/11"
   },
   {
     "dex": 133,
@@ -1168,8 +1152,8 @@
   },
   {
     "dex": 134,
-    "shiny_released": true,
-    "family": "Eevee"
+    "family": "Eevee",
+    "released_date": "2018/08/11"
   },
   {
     "dex": 134,
@@ -1179,8 +1163,8 @@
   },
   {
     "dex": 135,
-    "shiny_released": true,
-    "family": "Eevee"
+    "family": "Eevee",
+    "released_date": "2018/08/11"
   },
   {
     "dex": 135,
@@ -1190,8 +1174,8 @@
   },
   {
     "dex": 136,
-    "shiny_released": true,
-    "family": "Eevee"
+    "family": "Eevee",
+    "released_date": "2018/08/11"
   },
   {
     "dex": 136,
@@ -1201,29 +1185,28 @@
   },
   {
     "dex": 137,
-    "shiny_released": false,
     "released_date": "2020/09/19",
     "family": "Porygon"
   },
   {
     "dex": 138,
-    "shiny_released": true,
-    "family": "Omanyte"
+    "family": "Omanyte",
+    "released_date": "2018/05/24"
   },
   {
     "dex": 139,
-    "shiny_released": true,
-    "family": "Omanyte"
+    "family": "Omanyte",
+    "released_date": "2018/05/24"
   },
   {
     "dex": 140,
-    "shiny_released": true,
-    "family": "Kabuto"
+    "family": "Kabuto",
+    "released_date": "2018/05/24"
   },
   {
     "dex": 141,
-    "shiny_released": true,
-    "family": "Kabuto"
+    "family": "Kabuto",
+    "released_date": "2018/05/24"
   },
   {
     "dex": 142,
@@ -1232,7 +1215,7 @@
   },
   {
     "dex": 143,
-    "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Snorlax"
   },
   {
@@ -1252,18 +1235,18 @@
   },
   {
     "dex": 147,
-    "shiny_released": true,
-    "family": "Dratini"
+    "family": "Dratini",
+    "released_date": "2018/02/24"
   },
   {
     "dex": 148,
-    "shiny_released": true,
-    "family": "Dratini"
+    "family": "Dratini",
+    "released_date": "2018/02/24"
   },
   {
     "dex": 149,
-    "shiny_released": true,
-    "family": "Dratini"
+    "family": "Dratini",
+    "released_date": "2018/02/24"
   },
   {
     "dex": 150,
@@ -1272,116 +1255,110 @@
   },
   {
     "dex": 151,
-    "shiny_released": false,
+    "released_date": "2021/02/20",
     "family": "Mew"
   },
   {
     "dex": 152,
-    "shiny_released": true,
-    "family": "Chikorita"
+    "family": "Chikorita",
+    "released_date": "2018/09/22"
   },
   {
     "dex": 153,
-    "shiny_released": true,
-    "family": "Chikorita"
+    "family": "Chikorita",
+    "released_date": "2018/09/22"
   },
   {
     "dex": 154,
-    "shiny_released": true,
-    "family": "Chikorita"
+    "family": "Chikorita",
+    "released_date": "2018/09/22"
   },
   {
     "dex": 155,
-    "shiny_released": true,
-    "family": "Cyndaquil"
+    "family": "Cyndaquil",
+    "released_date": "2018/11/10"
   },
   {
     "dex": 156,
-    "shiny_released": true,
-    "family": "Cyndaquil"
+    "family": "Cyndaquil",
+    "released_date": "2018/11/10"
   },
   {
     "dex": 157,
-    "shiny_released": true,
-    "family": "Cyndaquil"
+    "family": "Cyndaquil",
+    "released_date": "2018/11/10"
   },
   {
     "dex": 158,
-    "shiny_released": true,
-    "family": "Totodile"
+    "family": "Totodile",
+    "released_date": "2019/01/12"
   },
   {
     "dex": 159,
-    "shiny_released": true,
-    "family": "Totodile"
+    "family": "Totodile",
+    "released_date": "2019/01/12"
   },
   {
     "dex": 160,
-    "shiny_released": true,
-    "family": "Totodile"
+    "family": "Totodile",
+    "released_date": "2019/01/12"
   },
   {
     "dex": 161,
-    "shiny_released": true,
-    "family": "Sentret"
+    "family": "Sentret",
+    "released_date": "2019/09/02"
   },
   {
     "dex": 162,
-    "shiny_released": true,
-    "family": "Sentret"
+    "family": "Sentret",
+    "released_date": "2019/09/02"
   },
   {
     "dex": 163,
-    "shiny_released": false,
     "family": "Hoothoot"
   },
   {
     "dex": 164,
-    "shiny_released": false,
     "family": "Hoothoot"
   },
   {
     "dex": 165,
-    "shiny_released": false,
-    "released_date": "2020/09/11",
+    "released_date": "2020/09/10",
     "family": "Ledyba"
   },
   {
     "dex": 166,
-    "shiny_released": false,
-    "released_date": "2020/09/11",
+    "released_date": "2020/09/10",
     "family": "Ledyba"
   },
   {
     "dex": 167,
-    "shiny_released": false,
     "family": "Spinarak"
   },
   {
     "dex": 168,
-    "shiny_released": false,
     "family": "Spinarak"
   },
   {
     "dex": 169,
-    "shiny_released": true,
-    "family": "Zubat"
+    "family": "Zubat",
+    "released_date": "2019/07/25"
   },
   {
     "dex": 170,
-    "shiny_released": true,
-    "family": "Chinchou"
+    "family": "Chinchou",
+    "released_date": "2020/04/17"
   },
   {
     "dex": 171,
-    "shiny_released": true,
-    "family": "Chinchou"
+    "family": "Chinchou",
+    "released_date": "2020/04/17"
   },
   {
     "dex": 172,
-    "shiny_released": true,
     "order": -1,
-    "family": "Pikachu"
+    "family": "Pikachu",
+    "released_date": "2017/08/15"
   },
   {
     "dex": 172,
@@ -1441,77 +1418,77 @@
   },
   {
     "dex": 173,
-    "shiny_released": true,
     "order": -1,
-    "family": "Clefairy"
+    "family": "Clefairy",
+    "released_date": "2019/02/13"
   },
   {
     "dex": 174,
-    "shiny_released": true,
     "order": -1,
-    "family": "Jigglypuff"
+    "family": "Jigglypuff",
+    "released_date": "2019/04/16"
   },
   {
     "dex": 175,
-    "shiny_released": true,
-    "family": "Togepi"
+    "family": "Togepi",
+    "released_date": "2018/03/22"
   },
   {
     "dex": 175,
-    "shiny_released": true,
     "isotope": "_12",
-    "family": "Togepi"
+    "family": "Togepi",
+    "released_date": "2018/03/22"
   },
   {
     "dex": 176,
-    "shiny_released": true,
-    "family": "Togepi"
+    "family": "Togepi",
+    "released_date": "2018/03/22"
   },
   {
     "dex": 177,
-    "shiny_released": true,
-    "family": "Natu"
+    "family": "Natu",
+    "released_date": "2018/08/20"
   },
   {
     "dex": 178,
-    "shiny_released": true,
-    "family": "Natu"
+    "family": "Natu",
+    "released_date": "2018/08/20"
   },
   {
     "dex": 179,
-    "shiny_released": true,
-    "family": "Mareep"
+    "family": "Mareep",
+    "released_date": "2018/04/15"
   },
   {
     "dex": 180,
-    "shiny_released": true,
-    "family": "Mareep"
+    "family": "Mareep",
+    "released_date": "2018/04/15"
   },
   {
     "dex": 181,
-    "shiny_released": true,
-    "family": "Mareep"
+    "family": "Mareep",
+    "released_date": "2018/04/15"
   },
   {
     "dex": 181,
     "type": "_51",
-    "shiny_released": true,
-    "family": "Mareep"
+    "family": "Mareep",
+    "released_date": "2018/04/15"
   },
   {
     "dex": 182,
-    "shiny_released": true,
-    "family": "Oddish"
+    "family": "Oddish",
+    "released_date": "2019/10/03"
   },
   {
     "dex": 183,
-    "shiny_released": true,
-    "family": "Marill"
+    "family": "Marill",
+    "released_date": "2018/12/18"
   },
   {
     "dex": 184,
-    "shiny_released": true,
-    "family": "Marill"
+    "family": "Marill",
+    "released_date": "2018/12/18"
   },
   {
     "dex": 185,
@@ -1520,60 +1497,55 @@
   },
   {
     "dex": 186,
-    "shiny_released": true,
-    "family": "Poliwag"
+    "family": "Poliwag",
+    "released_date": "2019/08/06"
   },
   {
     "dex": 187,
-    "shiny_released": false,
     "family": "Hoppip"
   },
   {
     "dex": 188,
-    "shiny_released": false,
     "family": "Hoppip"
   },
   {
     "dex": 189,
-    "shiny_released": false,
     "family": "Hoppip"
   },
   {
     "dex": 190,
-    "shiny_released": true,
-    "family": "Aipom"
+    "family": "Aipom",
+    "released_date": "2019/05/07"
   },
   {
     "dex": 191,
-    "shiny_released": true,
-    "family": "Sunkern"
+    "family": "Sunkern",
+    "released_date": "2018/08/20"
   },
   {
     "dex": 192,
-    "shiny_released": true,
-    "family": "Sunkern"
+    "family": "Sunkern",
+    "released_date": "2018/08/20"
   },
   {
     "dex": 193,
-    "shiny_released": true,
-    "family": "Yanma"
+    "family": "Yanma",
+    "released_date": "2019/09/20"
   },
   {
     "dex": 194,
-    "shiny_released": false,
     "released_date": "2020/12/11",
     "family": "Wooper"
   },
   {
     "dex": 195,
-    "shiny_released": false,
     "released_date": "2020/12/11",
     "family": "Wooper"
   },
   {
     "dex": 196,
-    "shiny_released": true,
-    "family": "Eevee"
+    "family": "Eevee",
+    "released_date": "2018/08/11"
   },
   {
     "dex": 196,
@@ -1583,8 +1555,8 @@
   },
   {
     "dex": 197,
-    "shiny_released": true,
-    "family": "Eevee"
+    "family": "Eevee",
+    "released_date": "2018/08/11"
   },
   {
     "dex": 197,
@@ -1599,17 +1571,16 @@
   },
   {
     "dex": 199,
-    "released_date": "2020/11/17",
+    "released_date": "2020/11/16",
     "family": "Slowpoke"
   },
   {
     "dex": 200,
-    "shiny_released": true,
-    "family": "Misdreavus"
+    "family": "Misdreavus",
+    "released_date": "2018/12/01"
   },
   {
     "dex": 201,
-    "shiny_released": false,
     "family": "Unown"
   },
   {
@@ -1643,7 +1614,6 @@
   {
     "dex": 201,
     "type": "_22",
-    "shiny_released": false,
     "family": "Unown",
     "name_suffix": "(L)"
   },
@@ -1677,29 +1647,28 @@
   },
   {
     "dex": 202,
-    "shiny_released": true,
-    "family": "Wobbuffet"
+    "family": "Wobbuffet",
+    "released_date": "2018/03/22"
   },
   {
     "dex": 202,
     "isotope": "_11",
-    "shiny_released": true,
-    "family": "Wobbuffet"
+    "family": "Wobbuffet",
+    "released_date": "2018/03/22"
   },
   {
     "dex": 203,
-    "shiny_released": false,
     "family": "Girafarig"
   },
   {
     "dex": 204,
-    "shiny_released": true,
-    "family": "Pineco"
+    "family": "Pineco",
+    "released_date": "2018/08/20"
   },
   {
     "dex": 205,
-    "shiny_released": true,
-    "family": "Pineco"
+    "family": "Pineco",
+    "released_date": "2018/08/20"
   },
   {
     "dex": 206,
@@ -1708,23 +1677,23 @@
   },
   {
     "dex": 207,
-    "shiny_released": true,
-    "family": "Gligar"
+    "family": "Gligar",
+    "released_date": "2019/09/02"
   },
   {
     "dex": 208,
-    "shiny_released": true,
-    "family": "Onix"
+    "family": "Onix",
+    "released_date": "2019/06/04"
   },
   {
     "dex": 209,
-    "shiny_released": true,
-    "family": "Snubbull"
+    "family": "Snubbull",
+    "released_date": "2018/08/01"
   },
   {
     "dex": 210,
-    "shiny_released": true,
-    "family": "Snubbull"
+    "family": "Snubbull",
+    "released_date": "2018/08/01"
   },
   {
     "dex": 211,
@@ -1733,8 +1702,8 @@
   },
   {
     "dex": 212,
-    "shiny_released": true,
-    "family": "Scyther"
+    "family": "Scyther",
+    "released_date": "2019/04/02"
   },
   {
     "dex": 213,
@@ -1743,57 +1712,51 @@
   },
   {
     "dex": 214,
-    "shiny_released": false,
     "family": "Heracross"
   },
   {
     "dex": 215,
-    "shiny_released": true,
-    "family": "Sneasel"
+    "family": "Sneasel",
+    "released_date": "2019/07/25"
   },
   {
     "dex": 216,
-    "shiny_released": true,
-    "family": "Teddiursa"
+    "family": "Teddiursa",
+    "released_date": "2020/03/26"
   },
   {
     "dex": 217,
-    "shiny_released": true,
-    "family": "Teddiursa"
+    "family": "Teddiursa",
+    "released_date": "2020/03/26"
   },
   {
     "dex": 218,
-    "shiny_released": false,
     "family": "Slugma"
   },
   {
     "dex": 219,
-    "shiny_released": false,
     "family": "Slugma"
   },
   {
     "dex": 220,
-    "shiny_released": true,
-    "family": "Swinub"
+    "family": "Swinub",
+    "released_date": "2019/02/16"
   },
   {
     "dex": 221,
-    "shiny_released": true,
-    "family": "Swinub"
+    "family": "Swinub",
+    "released_date": "2019/02/16"
   },
   {
     "dex": 222,
-    "shiny_released": false,
     "family": "Corsola"
   },
   {
     "dex": 223,
-    "shiny_released": false,
     "family": "Remoraid"
   },
   {
     "dex": 224,
-    "shiny_released": false,
     "family": "Remoraid"
   },
   {
@@ -1810,7 +1773,6 @@
   },
   {
     "dex": 226,
-    "shiny_released": false,
     "family": "Mantine"
   },
   {
@@ -1820,38 +1782,35 @@
   },
   {
     "dex": 228,
-    "shiny_released": true,
-    "family": "Houndour"
+    "family": "Houndour",
+    "released_date": "2018/08/01"
   },
   {
     "dex": 229,
-    "shiny_released": true,
-    "family": "Houndour"
+    "family": "Houndour",
+    "released_date": "2018/08/01"
   },
   {
     "dex": 229,
     "type": "_51",
-    "shiny_released": true,
-    "family": "Houndour"
+    "family": "Houndour",
+    "released_date": "2018/08/01"
   },
   {
     "dex": 230,
-    "shiny_released": true,
-    "family": "Horsea"
+    "family": "Horsea",
+    "released_date": "2019/06/13"
   },
   {
     "dex": 231,
-    "shiny_released": false,
     "family": "Phanpy"
   },
   {
     "dex": 232,
-    "shiny_released": false,
     "family": "Phanpy"
   },
   {
     "dex": 233,
-    "shiny_released": false,
     "released_date": "2020/09/19",
     "family": "Porygon"
   },
@@ -1868,55 +1827,51 @@
   },
   {
     "dex": 235,
-    "shiny_released": false,
     "family": "Smeargle"
   },
   {
     "dex": 236,
     "order": -1,
-    "shiny_released": false,
     "family": "Tyrogue"
   },
   {
     "dex": 237,
-    "shiny_released": false,
     "family": "Tyrogue"
   },
   {
     "dex": 238,
-    "shiny_released": true,
     "order": -1,
-    "family": "Jynx"
+    "family": "Jynx",
+    "released_date": "2019/02/13"
   },
   {
     "dex": 238,
-    "shiny_released": true,
     "order": -1,
     "isotope": "_16",
-    "family": "Jynx"
+    "family": "Jynx",
+    "released_date": "2019/02/13"
   },
   {
     "dex": 239,
-    "shiny_released": true,
     "order": -1,
-    "family": "Electabuzz"
+    "family": "Electabuzz",
+    "released_date": "2018/11/15"
   },
   {
     "dex": 240,
-    "shiny_released": true,
     "order": -1,
-    "family": "Magmar"
+    "family": "Magmar",
+    "released_date": "2018/03/22"
   },
   {
     "dex": 241,
-    "shiny_released": false,
     "released_date": "2021/01/26",
     "family": "Miltank"
   },
   {
     "dex": 242,
-    "shiny_released": true,
-    "family": "Chansey"
+    "family": "Chansey",
+    "released_date": "2020/02/13"
   },
   {
     "dex": 243,
@@ -1935,18 +1890,18 @@
   },
   {
     "dex": 246,
-    "shiny_released": true,
-    "family": "Larvitar"
+    "family": "Larvitar",
+    "released_date": "2018/06/16"
   },
   {
     "dex": 247,
-    "shiny_released": true,
-    "family": "Larvitar"
+    "family": "Larvitar",
+    "released_date": "2018/06/16"
   },
   {
     "dex": 248,
-    "shiny_released": true,
-    "family": "Larvitar"
+    "family": "Larvitar",
+    "released_date": "2018/06/16"
   },
   {
     "dex": 249,
@@ -1960,275 +1915,261 @@
   },
   {
     "dex": 251,
-    "shiny_released": false,
     "released_date": "2020/12/14",
     "family": "Celebi"
   },
   {
     "dex": 252,
-    "shiny_released": true,
-    "family": "Treecko"
+    "family": "Treecko",
+    "released_date": "2019/03/23"
   },
   {
     "dex": 253,
-    "shiny_released": true,
-    "family": "Treecko"
+    "family": "Treecko",
+    "released_date": "2019/03/23"
   },
   {
     "dex": 254,
-    "shiny_released": true,
-    "family": "Treecko"
+    "family": "Treecko",
+    "released_date": "2019/03/23"
   },
   {
     "dex": 255,
-    "shiny_released": true,
-    "family": "Torchic"
+    "family": "Torchic",
+    "released_date": "2019/05/19"
   },
   {
     "dex": 256,
-    "shiny_released": true,
-    "family": "Torchic"
+    "family": "Torchic",
+    "released_date": "2019/05/19"
   },
   {
     "dex": 257,
-    "shiny_released": true,
-    "family": "Torchic"
+    "family": "Torchic",
+    "released_date": "2019/05/19"
   },
   {
     "dex": 258,
-    "shiny_released": true,
-    "family": "Mudkip"
+    "family": "Mudkip",
+    "released_date": "2019/07/21"
   },
   {
     "dex": 259,
-    "shiny_released": true,
-    "family": "Mudkip"
+    "family": "Mudkip",
+    "released_date": "2019/07/21"
   },
   {
     "dex": 260,
-    "shiny_released": true,
-    "family": "Mudkip"
+    "family": "Mudkip",
+    "released_date": "2019/07/21"
   },
   {
     "dex": 261,
-    "shiny_released": true,
-    "family": "Poochyena"
+    "family": "Poochyena",
+    "released_date": "2018/02/15"
   },
   {
     "dex": 262,
-    "shiny_released": true,
-    "family": "Poochyena"
+    "family": "Poochyena",
+    "released_date": "2018/02/15"
   },
   {
     "dex": 263,
-    "shiny_released": true,
-    "family": "Zigzagoon"
+    "family": "Zigzagoon",
+    "released_date": "2019/01/15"
   },
   {
     "dex": 264,
-    "shiny_released": true,
-    "family": "Zigzagoon"
+    "family": "Zigzagoon",
+    "released_date": "2019/01/15"
   },
   {
     "dex": 265,
-    "shiny_released": true,
-    "family": "Wurmple"
+    "family": "Wurmple",
+    "released_date": "2020/01/02"
   },
   {
     "dex": 265,
     "isotope": "_11",
-    "shiny_released": true,
-    "family": "Wurmple"
+    "family": "Wurmple",
+    "released_date": "2020/01/02"
   },
   {
     "dex": 266,
-    "shiny_released": true,
-    "family": "Wurmple"
+    "family": "Wurmple",
+    "released_date": "2020/01/02"
   },
   {
     "dex": 267,
-    "shiny_released": true,
-    "family": "Wurmple"
+    "family": "Wurmple",
+    "released_date": "2020/01/02"
   },
   {
     "dex": 268,
-    "shiny_released": true,
-    "family": "Wurmple"
+    "family": "Wurmple",
+    "released_date": "2020/01/02"
   },
   {
     "dex": 269,
-    "shiny_released": true,
-    "family": "Wurmple"
+    "family": "Wurmple",
+    "released_date": "2020/01/02"
   },
   {
     "dex": 270,
-    "shiny_released": true,
-    "family": "Lotad"
+    "family": "Lotad",
+    "released_date": "2019/03/29"
   },
   {
     "dex": 271,
-    "shiny_released": true,
-    "family": "Lotad"
+    "family": "Lotad",
+    "released_date": "2019/03/29"
   },
   {
     "dex": 272,
-    "shiny_released": true,
-    "family": "Lotad"
+    "family": "Lotad",
+    "released_date": "2019/03/29"
   },
   {
     "dex": 273,
-    "shiny_released": false,
-    "released_date": "2020/05/24",
+    "released_date": "2020/05/23",
     "family": "Seedot"
   },
   {
     "dex": 274,
-    "shiny_released": false,
-    "released_date": "2020/05/24",
+    "released_date": "2020/05/23",
     "family": "Seedot"
   },
   {
     "dex": 275,
-    "shiny_released": false,
-    "released_date": "2020/05/24",
+    "released_date": "2020/05/23",
     "family": "Seedot"
   },
   {
     "dex": 276,
-    "shiny_released": true,
-    "family": "Taillow"
+    "family": "Taillow",
+    "released_date": "2019/01/15"
   },
   {
     "dex": 277,
-    "shiny_released": true,
-    "family": "Taillow"
+    "family": "Taillow",
+    "released_date": "2019/01/15"
   },
   {
     "dex": 278,
-    "shiny_released": true,
-    "family": "Wingull"
+    "family": "Wingull",
+    "released_date": "2018/08/29"
   },
   {
     "dex": 279,
-    "shiny_released": true,
-    "family": "Wingull"
+    "family": "Wingull",
+    "released_date": "2018/08/29"
   },
   {
     "dex": 280,
-    "shiny_released": true,
-    "family": "Ralts"
+    "family": "Ralts",
+    "released_date": "2019/08/03"
   },
   {
     "dex": 281,
-    "shiny_released": true,
-    "family": "Ralts"
+    "family": "Ralts",
+    "released_date": "2019/08/03"
   },
   {
     "dex": 281,
-    "shiny_released": false,
     "isotope": "_16",
-    "family": "Ralts"
+    "family": "Ralts",
+    "released_date": "2019/08/03"
   },
   {
     "dex": 282,
-    "shiny_released": true,
-    "family": "Ralts"
+    "family": "Ralts",
+    "released_date": "2019/08/03"
   },
   {
     "dex": 283,
-    "shiny_released": false,
     "family": "Surskit"
   },
   {
     "dex": 284,
-    "shiny_released": false,
     "family": "Surskit"
   },
   {
     "dex": 285,
-    "shiny_released": false,
     "family": "Shroomish"
   },
   {
     "dex": 286,
-    "shiny_released": false,
     "family": "Shroomish"
   },
   {
     "dex": 287,
-    "shiny_released": true,
-    "family": "Slakoth"
+    "family": "Slakoth",
+    "released_date": "2019/06/08"
   },
   {
     "dex": 288,
-    "shiny_released": true,
-    "family": "Slakoth"
+    "family": "Slakoth",
+    "released_date": "2019/06/08"
   },
   {
     "dex": 289,
-    "shiny_released": true,
-    "family": "Slakoth"
+    "family": "Slakoth",
+    "released_date": "2019/06/08"
   },
   {
     "dex": 290,
-    "shiny_released": true,
-    "family": "Nincada"
+    "family": "Nincada",
+    "released_date": "2020/03/19"
   },
   {
     "dex": 291,
-    "shiny_released": true,
-    "family": "Nincada"
+    "family": "Nincada",
+    "released_date": "2020/03/19"
   },
   {
     "dex": 292,
-    "shiny_released": false,
-    "family": "Nincada"
+    "family": "Nincada",
+    "released_date": "2020/03/19"
   },
   {
     "dex": 293,
-    "shiny_released": false,
     "family": "Whismur"
   },
   {
     "dex": 294,
-    "shiny_released": false,
     "family": "Whismur"
   },
   {
     "dex": 295,
-    "shiny_released": false,
     "family": "Whismur"
   },
   {
     "dex": 296,
-    "shiny_released": true,
-    "family": "Makuhita"
+    "family": "Makuhita",
+    "released_date": "2018/05/01"
   },
   {
     "dex": 297,
-    "shiny_released": true,
-    "family": "Makuhita"
+    "family": "Makuhita",
+    "released_date": "2018/05/01"
   },
   {
     "dex": 298,
-    "shiny_released": true,
     "order": -1,
-    "family": "Marill"
+    "family": "Marill",
+    "released_date": "2018/12/18"
   },
   {
     "dex": 299,
-    "shiny_released": false,
     "family": "Nosepass"
   },
   {
     "dex": 300,
-    "shiny_released": false,
     "released_date": "2020/05/15",
     "family": "Skitty"
   },
   {
     "dex": 301,
-    "shiny_released": false,
     "released_date": "2020/05/15",
     "family": "Skitty"
   },
@@ -2251,38 +2192,38 @@
   },
   {
     "dex": 304,
-    "shiny_released": true,
-    "family": "Aron"
+    "family": "Aron",
+    "released_date": "2018/01/23"
   },
   {
     "dex": 305,
-    "shiny_released": true,
-    "family": "Aron"
+    "family": "Aron",
+    "released_date": "2018/01/23"
   },
   {
     "dex": 306,
-    "shiny_released": true,
-    "family": "Aron"
+    "family": "Aron",
+    "released_date": "2018/01/23"
   },
   {
     "dex": 307,
-    "shiny_released": true,
-    "family": "Meditite"
+    "family": "Meditite",
+    "released_date": "2018/05/01"
   },
   {
     "dex": 308,
-    "shiny_released": true,
-    "family": "Meditite"
+    "family": "Meditite",
+    "released_date": "2018/05/01"
   },
   {
     "dex": 309,
-    "shiny_released": true,
-    "family": "Electrike"
+    "family": "Electrike",
+    "released_date": "2019/09/01"
   },
   {
     "dex": 310,
-    "shiny_released": true,
-    "family": "Electrike"
+    "family": "Electrike",
+    "released_date": "2019/09/01"
   },
   {
     "dex": 311,
@@ -2311,62 +2252,56 @@
   },
   {
     "dex": 316,
-    "shiny_released": false,
     "family": "Gulpin"
   },
   {
     "dex": 317,
-    "shiny_released": false,
     "family": "Gulpin"
   },
   {
     "dex": 318,
-    "shiny_released": true,
-    "family": "Carvanha"
+    "family": "Carvanha",
+    "released_date": "2019/08/23"
   },
   {
     "dex": 319,
-    "shiny_released": true,
-    "family": "Carvanha"
+    "family": "Carvanha",
+    "released_date": "2019/08/23"
   },
   {
     "dex": 320,
-    "shiny_released": true,
-    "family": "Wailmer"
+    "family": "Wailmer",
+    "released_date": "2018/04/23"
   },
   {
     "dex": 321,
-    "shiny_released": true,
-    "family": "Wailmer"
+    "family": "Wailmer",
+    "released_date": "2018/04/23"
   },
   {
     "dex": 322,
-    "shiny_released": false,
     "family": "Numel"
   },
   {
     "dex": 323,
-    "shiny_released": false,
     "family": "Numel"
   },
   {
     "dex": 324,
-    "shiny_released": false,
     "family": "Torkoal"
   },
   {
     "dex": 325,
-    "shiny_released": true,
-    "family": "Spoink"
+    "family": "Spoink",
+    "released_date": "2019/02/04"
   },
   {
     "dex": 326,
-    "shiny_released": true,
-    "family": "Spoink"
+    "family": "Spoink",
+    "released_date": "2019/02/04"
   },
   {
     "dex": 327,
-    "shiny_released": false,
     "family": "Spinda"
   },
   {
@@ -2428,45 +2363,42 @@
   {
     "dex": 327,
     "type": "_19",
-    "shiny_released": false,
     "name_suffix": "(#9)",
     "released_date": "2021/02/14",
     "family": "Spinda"
   },
   {
     "dex": 328,
-    "shiny_released": true,
-    "family": "Trapinch"
+    "family": "Trapinch",
+    "released_date": "2019/10/11"
   },
   {
     "dex": 329,
-    "shiny_released": true,
-    "family": "Trapinch"
+    "family": "Trapinch",
+    "released_date": "2019/10/11"
   },
   {
     "dex": 330,
-    "shiny_released": true,
-    "family": "Trapinch"
+    "family": "Trapinch",
+    "released_date": "2019/10/11"
   },
   {
     "dex": 331,
-    "shiny_released": false,
     "family": "Cacnea"
   },
   {
     "dex": 332,
-    "shiny_released": false,
     "family": "Cacnea"
   },
   {
     "dex": 333,
-    "shiny_released": true,
-    "family": "Swablu"
+    "family": "Swablu",
+    "released_date": "2018/02/09"
   },
   {
     "dex": 334,
-    "shiny_released": true,
-    "family": "Swablu"
+    "family": "Swablu",
+    "released_date": "2018/02/09"
   },
   {
     "dex": 335,
@@ -2490,63 +2422,61 @@
   },
   {
     "dex": 339,
-    "shiny_released": true,
-    "family": "Barboach"
+    "family": "Barboach",
+    "released_date": "2019/08/23"
   },
   {
     "dex": 340,
-    "shiny_released": true,
-    "family": "Barboach"
+    "family": "Barboach",
+    "released_date": "2019/08/23"
   },
   {
     "dex": 341,
-    "shiny_released": false,
     "family": "Corphish"
   },
   {
     "dex": 342,
-    "shiny_released": false,
     "family": "Corphish"
   },
   {
     "dex": 343,
-    "shiny_released": true,
-    "family": "Baltoy"
+    "family": "Baltoy",
+    "released_date": "2020/03/27"
   },
   {
     "dex": 344,
-    "shiny_released": true,
-    "family": "Baltoy"
+    "family": "Baltoy",
+    "released_date": "2020/03/27"
   },
   {
     "dex": 345,
-    "shiny_released": true,
-    "family": "Lileep"
+    "family": "Lileep",
+    "released_date": "2019/06/04"
   },
   {
     "dex": 346,
-    "shiny_released": true,
-    "family": "Lileep"
+    "family": "Lileep",
+    "released_date": "2019/06/04"
   },
   {
     "dex": 347,
-    "shiny_released": true,
-    "family": "Anorith"
+    "family": "Anorith",
+    "released_date": "2019/06/04"
   },
   {
     "dex": 348,
-    "shiny_released": true,
-    "family": "Anorith"
+    "family": "Anorith",
+    "released_date": "2019/06/04"
   },
   {
     "dex": 349,
-    "shiny_released": true,
-    "family": "Feebas"
+    "family": "Feebas",
+    "released_date": "2019/01/19"
   },
   {
     "dex": 350,
-    "shiny_released": true,
-    "family": "Feebas"
+    "family": "Feebas",
+    "released_date": "2019/01/19"
   },
   {
     "dex": 351,
@@ -2555,37 +2485,34 @@
   },
   {
     "dex": 352,
-    "shiny_released": false,
     "family": "Kecleon"
   },
   {
     "dex": 353,
-    "shiny_released": true,
-    "family": "Shuppet"
+    "family": "Shuppet",
+    "released_date": "2017/10/31"
   },
   {
     "dex": 354,
-    "shiny_released": true,
-    "family": "Shuppet"
+    "family": "Shuppet",
+    "released_date": "2017/10/31"
   },
   {
     "dex": 355,
-    "shiny_released": true,
-    "family": "Duskull"
+    "family": "Duskull",
+    "released_date": "2017/10/26"
   },
   {
     "dex": 356,
-    "shiny_released": true,
-    "family": "Duskull"
+    "family": "Duskull",
+    "released_date": "2017/10/26"
   },
   {
     "dex": 357,
-    "shiny_released": false,
     "family": "Tropius"
   },
   {
     "dex": 358,
-    "shiny_released": false,
     "family": "Chimecho"
   },
   {
@@ -2595,53 +2522,49 @@
   },
   {
     "dex": 360,
-    "shiny_released": true,
     "order": -1,
-    "family": "Wobbuffet"
+    "family": "Wobbuffet",
+    "released_date": "2018/03/22"
   },
   {
     "dex": 361,
-    "shiny_released": true,
-    "family": "Snorunt"
+    "family": "Snorunt",
+    "released_date": "2017/12/21"
   },
   {
     "dex": 362,
-    "shiny_released": true,
-    "family": "Snorunt"
+    "family": "Snorunt",
+    "released_date": "2017/12/21"
   },
   {
     "dex": 363,
-    "shiny_released": false,
     "family": "Spheal"
   },
   {
     "dex": 364,
-    "shiny_released": false,
     "family": "Spheal"
   },
   {
     "dex": 365,
-    "shiny_released": false,
     "family": "Spheal"
   },
   {
     "dex": 366,
-    "shiny_released": true,
-    "family": "Clamperl"
+    "family": "Clamperl",
+    "released_date": "2019/02/23"
   },
   {
     "dex": 367,
-    "shiny_released": true,
-    "family": "Clamperl"
+    "family": "Clamperl",
+    "released_date": "2019/02/23"
   },
   {
     "dex": 368,
-    "shiny_released": true,
-    "family": "Clamperl"
+    "family": "Clamperl",
+    "released_date": "2019/02/23"
   },
   {
     "dex": 369,
-    "shiny_released": false,
     "family": "Relicanth"
   },
   {
@@ -2651,33 +2574,33 @@
   },
   {
     "dex": 371,
-    "shiny_released": true,
-    "family": "Bagon"
+    "family": "Bagon",
+    "released_date": "2019/04/13"
   },
   {
     "dex": 372,
-    "shiny_released": true,
-    "family": "Bagon"
+    "family": "Bagon",
+    "released_date": "2019/04/13"
   },
   {
     "dex": 373,
-    "shiny_released": true,
-    "family": "Bagon"
+    "family": "Bagon",
+    "released_date": "2019/04/13"
   },
   {
     "dex": 374,
-    "shiny_released": true,
-    "family": "Beldum"
+    "family": "Beldum",
+    "released_date": "2018/10/21"
   },
   {
     "dex": 375,
-    "shiny_released": true,
-    "family": "Beldum"
+    "family": "Beldum",
+    "released_date": "2018/10/21"
   },
   {
     "dex": 376,
-    "shiny_released": true,
-    "family": "Beldum"
+    "family": "Beldum",
+    "released_date": "2018/10/21"
   },
   {
     "dex": 377,
@@ -2721,7 +2644,6 @@
   },
   {
     "dex": 385,
-    "shiny_released": false,
     "family": "Jirachi"
   },
   {
@@ -2733,106 +2655,99 @@
   },
   {
     "dex": 387,
-    "shiny_released": true,
-    "family": "Turtwig"
+    "family": "Turtwig",
+    "released_date": "2019/09/14"
   },
   {
     "dex": 388,
-    "shiny_released": true,
-    "family": "Turtwig"
+    "family": "Turtwig",
+    "released_date": "2019/09/14"
   },
   {
     "dex": 389,
-    "shiny_released": true,
-    "family": "Turtwig"
+    "family": "Turtwig",
+    "released_date": "2019/09/14"
   },
   {
     "dex": 390,
-    "shiny_released": true,
-    "family": "Chimchar"
+    "family": "Chimchar",
+    "released_date": "2019/11/15"
   },
   {
     "dex": 391,
-    "shiny_released": true,
-    "family": "Chimchar"
+    "family": "Chimchar",
+    "released_date": "2019/11/15"
   },
   {
     "dex": 392,
-    "shiny_released": true,
-    "family": "Chimchar"
+    "family": "Chimchar",
+    "released_date": "2019/11/15"
   },
   {
     "dex": 393,
-    "shiny_released": true,
-    "family": "Piplup"
+    "family": "Piplup",
+    "released_date": "2020/01/18"
   },
   {
     "dex": 394,
-    "shiny_released": true,
-    "family": "Piplup"
+    "family": "Piplup",
+    "released_date": "2020/01/18"
   },
   {
     "dex": 395,
-    "shiny_released": true,
-    "family": "Piplup"
+    "family": "Piplup",
+    "released_date": "2020/01/18"
   },
   {
     "dex": 396,
-    "shiny_released": false,
     "family": "Starly"
   },
   {
     "dex": 397,
-    "shiny_released": false,
     "family": "Starly"
   },
   {
     "dex": 398,
-    "shiny_released": false,
     "family": "Starly"
   },
   {
     "dex": 399,
-    "shiny_released": false,
     "family": "Bidoof"
   },
   {
     "dex": 400,
-    "shiny_released": false,
     "family": "Bidoof"
   },
   {
     "dex": 401,
-    "shiny_released": false,
     "released_date": "2020/10/02",
     "family": "Kricketot"
   },
   {
     "dex": 402,
-    "shiny_released": false,
     "released_date": "2020/10/02",
     "family": "Kricketot"
   },
   {
     "dex": 403,
-    "shiny_released": true,
-    "family": "Shinx"
+    "family": "Shinx",
+    "released_date": "2018/10/16"
   },
   {
     "dex": 403,
-    "shiny_released": true,
     "isotope": "_16",
-    "family": "Shinx"
+    "family": "Shinx",
+    "released_date": "2018/10/16"
   },
   {
     "dex": 404,
-    "shiny_released": true,
-    "family": "Shinx"
+    "family": "Shinx",
+    "released_date": "2018/10/16"
   },
   {
     "dex": 405,
-    "shiny_released": true,
-    "family": "Shinx"
+    "family": "Shinx",
+    "released_date": "2018/10/16"
   },
   {
     "dex": 406,
@@ -2847,22 +2762,18 @@
   },
   {
     "dex": 408,
-    "shiny_released": false,
     "family": "Cranidos"
   },
   {
     "dex": 409,
-    "shiny_released": false,
     "family": "Cranidos"
   },
   {
     "dex": 410,
-    "shiny_released": false,
     "family": "Shieldon"
   },
   {
     "dex": 411,
-    "shiny_released": false,
     "family": "Shieldon"
   },
   {
@@ -2908,86 +2819,77 @@
   },
   {
     "dex": 415,
-    "shiny_released": false,
     "family": "Combee"
   },
   {
     "dex": 416,
-    "shiny_released": false,
     "family": "Combee"
   },
   {
     "dex": 417,
-    "shiny_released": false,
     "family": "Pachirisu"
   },
   {
     "dex": 418,
-    "shiny_released": false,
     "released_date": "2021/01/12",
     "family": "Buizel"
   },
   {
     "dex": 419,
-    "shiny_released": false,
     "released_date": "2021/01/12",
     "family": "Buizel"
   },
   {
     "dex": 420,
-    "shiny_released": false,
     "family": "Cherubi"
   },
   {
     "dex": 421,
-    "shiny_released": false,
     "family": "Cherubi"
   },
   {
     "dex": 422,
-    "shiny_released": false,
     "family": "Shellos"
   },
   {
     "dex": 423,
-    "shiny_released": false,
     "family": "Shellos"
   },
   {
     "dex": 424,
-    "shiny_released": true,
-    "family": "Aipom"
+    "family": "Aipom",
+    "released_date": "2019/05/07"
   },
   {
     "dex": 425,
-    "shiny_released": true,
-    "family": "Drifloon"
+    "family": "Drifloon",
+    "released_date": "2018/10/23"
   },
   {
     "dex": 426,
-    "shiny_released": true,
-    "family": "Drifloon"
+    "family": "Drifloon",
+    "released_date": "2018/10/23"
   },
   {
     "dex": 427,
-    "shiny_released": true,
-    "family": "Buneary"
+    "family": "Buneary",
+    "released_date": "2019/04/16"
   },
   {
     "dex": 428,
-    "shiny_released": true,
-    "family": "Buneary"
+    "family": "Buneary",
+    "released_date": "2019/04/16"
   },
   {
     "dex": 427,
-    "shiny_released": true,
     "isotope": "_12",
-    "family": "Buneary"
+    "family": "Buneary",
+    "released_date": "2019/04/16"
   },
   {
     "dex": 429,
-    "shiny_released": true,
-    "family": "Misdreavus"
+    "family": "Misdreavus",
+    "released_date": "2018/12/01"
   },
   {
     "dex": 430,
@@ -2996,41 +2898,36 @@
   },
   {
     "dex": 431,
-    "shiny_released": false,
     "released_date": "2020/05/22",
     "family": "Glameow"
   },
   {
     "dex": 432,
-    "shiny_released": false,
     "released_date": "2020/05/22",
     "family": "Glameow"
   },
   {
     "dex": 433,
-    "shiny_released": false,
     "family": "Chimecho",
     "order": -1
   },
   {
     "dex": 434,
-    "shiny_released": false,
     "family": "Stunky"
   },
   {
     "dex": 435,
-    "shiny_released": false,
     "family": "Stunky"
   },
   {
     "dex": 436,
-    "shiny_released": true,
-    "family": "Bronzor"
+    "family": "Bronzor",
+    "released_date": "2019/05/21"
   },
   {
     "dex": 437,
-    "shiny_released": true,
-    "family": "Bronzor"
+    "family": "Bronzor",
+    "released_date": "2019/05/21"
   },
   {
     "dex": 438,
@@ -3046,51 +2943,48 @@
   },
   {
     "dex": 440,
-    "shiny_released": true,
     "family": "Chansey",
-    "order": -1
+    "order": -1,
+    "released_date": "2020/02/13"
   },
   {
     "dex": 441,
-    "shiny_released": false,
     "family": "Chatot"
   },
   {
     "dex": 442,
-    "shiny_released": false,
     "released_date": "2020/10/24",
     "family": "Spiritomb"
   },
   {
     "dex": 443,
-    "shiny_released": true,
-    "family": "Gible"
+    "family": "Gible",
+    "released_date": "2019/12/17"
   },
   {
     "dex": 444,
-    "shiny_released": true,
-    "family": "Gible"
+    "family": "Gible",
+    "released_date": "2019/12/17"
   },
   {
     "dex": 445,
-    "shiny_released": true,
-    "family": "Gible"
+    "family": "Gible",
+    "released_date": "2019/12/17"
   },
   {
     "dex": 446,
-    "shiny_released": false,
     "family": "Snorlax",
     "order": -1
   },
   {
     "dex": 447,
-    "shiny_released": true,
-    "family": "Riolu"
+    "family": "Riolu",
+    "released_date": "2020/02/06"
   },
   {
     "dex": 448,
-    "shiny_released": true,
-    "family": "Riolu"
+    "family": "Riolu",
+    "released_date": "2020/02/06"
   },
   {
     "dex": 449,
@@ -3104,116 +2998,112 @@
   },
   {
     "dex": 451,
-    "shiny_released": true,
-    "family": "Skorupi"
+    "family": "Skorupi",
+    "released_date": "2020/03/05"
   },
   {
     "dex": 452,
-    "shiny_released": true,
-    "family": "Skorupi"
+    "family": "Skorupi",
+    "released_date": "2020/03/05"
   },
   {
     "dex": 453,
-    "shiny_released": true,
-    "family": "Croagunk"
+    "family": "Croagunk",
+    "released_date": "2020/03/31"
   },
   {
     "dex": 453,
-    "shiny_released": true,
     "isotope": "_16",
-    "family": "Croagunk"
+    "family": "Croagunk",
+    "released_date": "2020/03/31"
   },
   {
     "dex": 454,
-    "shiny_released": true,
-    "family": "Croagunk"
+    "family": "Croagunk",
+    "released_date": "2020/03/31"
   },
   {
     "dex": 455,
-    "shiny_released": false,
     "family": "Carnivine"
   },
   {
     "dex": 456,
-    "shiny_released": false,
     "family": "Finneon"
   },
   {
     "dex": 457,
-    "shiny_released": false,
     "family": "Finneon"
   },
   {
     "dex": 458,
     "order": -1,
-    "shiny_released": false,
     "family": "Mantine"
   },
   {
     "dex": 459,
-    "shiny_released": true,
-    "family": "Snover"
+    "family": "Snover",
+    "released_date": "2019/12/24"
   },
   {
     "dex": 460,
-    "shiny_released": true,
-    "family": "Snover"
+    "family": "Snover",
+    "released_date": "2019/12/24"
   },
   {
     "dex": 460,
-    "shiny_released": true,
     "type": "_51",
-    "family": "Snover"
+    "family": "Snover",
+    "released_date": "2019/12/24"
   },
   {
     "dex": 461,
-    "shiny_released": true,
-    "family": "Sneasel"
+    "family": "Sneasel",
+    "released_date": "2019/07/25"
   },
   {
     "dex": 462,
-    "shiny_released": true,
-    "family": "Magnemite"
+    "family": "Magnemite",
+    "released_date": "2018/11/16"
   },
   {
     "dex": 463,
-    "shiny_released": true,
-    "family": "Lickitung"
+    "family": "Lickitung",
+    "released_date": "2020/02/15"
   },
   {
     "dex": 464,
-    "shiny_released": true,
-    "family": "Rhyhorn"
+    "family": "Rhyhorn",
+    "released_date": "2020/02/22"
   },
   {
     "dex": 465,
-    "shiny_released": true,
-    "family": "Tangela"
+    "family": "Tangela",
+    "released_date": "2020/07/24"
   },
   {
     "dex": 466,
-    "shiny_released": true,
-    "family": "Electabuzz"
+    "family": "Electabuzz",
+    "released_date": "2018/11/15"
   },
   {
     "dex": 467,
-    "shiny_released": true,
-    "family": "Magmar"
+    "family": "Magmar",
+    "released_date": "2018/03/22"
   },
   {
     "dex": 468,
-    "shiny_released": true,
-    "family": "Togepi"
+    "family": "Togepi",
+    "released_date": "2018/03/22"
   },
   {
     "dex": 469,
-    "shiny_released": true,
-    "family": "Yanma"
+    "family": "Yanma",
+    "released_date": "2019/09/20"
   },
   {
     "dex": 470,
-    "shiny_released": true,
-    "family": "Eevee"
+    "family": "Eevee",
+    "released_date": "2018/08/11"
   },
   {
     "dex": 470,
@@ -3223,8 +3113,8 @@
   },
   {
     "dex": 471,
-    "shiny_released": true,
-    "family": "Eevee"
+    "family": "Eevee",
+    "released_date": "2018/08/11"
   },
   {
     "dex": 471,
@@ -3234,68 +3124,60 @@
   },
   {
     "dex": 472,
-    "shiny_released": true,
-    "family": "Gligar"
+    "family": "Gligar",
+    "released_date": "2019/09/02"
   },
   {
     "dex": 473,
-    "shiny_released": true,
-    "family": "Swinub"
+    "family": "Swinub",
+    "released_date": "2019/02/16"
   },
   {
     "dex": 474,
-    "shiny_released": false,
     "released_date": "2020/09/19",
     "family": "Porygon"
   },
   {
     "dex": 475,
-    "shiny_released": true,
-    "family": "Ralts"
+    "family": "Ralts",
+    "released_date": "2019/08/03"
   },
   {
     "dex": 476,
-    "shiny_released": false,
     "family": "Nosepass"
   },
   {
     "dex": 477,
-    "shiny_released": true,
-    "family": "Duskull"
+    "family": "Duskull",
+    "released_date": "2017/10/26"
   },
   {
     "dex": 478,
-    "shiny_released": true,
-    "family": "Snorunt"
+    "family": "Snorunt",
+    "released_date": "2017/12/21"
   },
   {
     "dex": 479,
-    "shiny_released": false,
     "family": "Rotom"
   },
   {
     "dex": 480,
-    "shiny_released": false,
     "family": "Uxie"
   },
   {
     "dex": 481,
-    "shiny_released": false,
     "family": "Mesprit"
   },
   {
     "dex": 482,
-    "shiny_released": false,
     "family": "Azelf"
   },
   {
     "dex": 483,
-    "shiny_released": false,
     "family": "Dialga"
   },
   {
     "dex": 484,
-    "shiny_released": false,
     "family": "Palkia"
   },
   {
@@ -3305,14 +3187,12 @@
   },
   {
     "dex": 486,
-    "shiny_released": false,
     "family": "Regigigas"
   },
   {
     "dex": 487,
     "type": "_12",
     "released_date": "2020/10/09",
-    "shiny_released": false,
     "family": "Giratina"
   },
   {
@@ -3328,12 +3208,10 @@
   },
   {
     "dex": 489,
-    "shiny_released": false,
     "family": "Phione"
   },
   {
     "dex": 490,
-    "shiny_released": false,
     "family": "Manaphy"
   },
   {
@@ -3343,720 +3221,600 @@
   },
   {
     "dex": 492,
-    "shiny_released": false,
     "family": "Shaymin"
   },
   {
     "dex": 493,
-    "shiny_released": false,
     "family": "Arceus"
   },
   {
     "dex": 494,
-    "shiny_released": false,
     "family": "Victini"
   },
   {
     "dex": 495,
-    "shiny_released": false,
-    "released_date": "2021/01/05",
+    "released_date": "2021/01/04",
     "family": "Snivy"
   },
   {
     "dex": 496,
-    "shiny_released": false,
-    "released_date": "2021/01/05",
+    "released_date": "2021/01/04",
     "family": "Snivy"
   },
   {
     "dex": 497,
-    "shiny_released": false,
-    "released_date": "2021/01/05",
+    "released_date": "2021/01/04",
     "family": "Snivy"
   },
   {
     "dex": 498,
-    "shiny_released": false,
     "family": "Tepig"
   },
   {
     "dex": 499,
-    "shiny_released": false,
     "family": "Tepig"
   },
   {
     "dex": 500,
-    "shiny_released": false,
     "family": "Tepig"
   },
   {
     "dex": 501,
-    "shiny_released": false,
     "family": "Oshawott"
   },
   {
     "dex": 502,
-    "shiny_released": false,
     "family": "Oshawott"
   },
   {
     "dex": 503,
-    "shiny_released": false,
     "family": "Oshawott"
   },
   {
     "dex": 504,
-    "shiny_released": true,
-    "family": "Patrat"
+    "family": "Patrat",
+    "released_date": "2019/09/16"
   },
   {
     "dex": 505,
-    "shiny_released": true,
-    "family": "Patrat"
+    "family": "Patrat",
+    "released_date": "2019/09/16"
   },
   {
     "dex": 506,
-    "shiny_released": true,
-    "family": "Lillipup"
+    "family": "Lillipup",
+    "released_date": "2019/09/16"
   },
   {
     "dex": 507,
-    "shiny_released": true,
-    "family": "Lillipup"
+    "family": "Lillipup",
+    "released_date": "2019/09/16"
   },
   {
     "dex": 508,
-    "shiny_released": true,
-    "family": "Lillipup"
+    "family": "Lillipup",
+    "released_date": "2019/09/16"
   },
   {
     "dex": 509,
-    "shiny_released": false,
     "family": "Purrloin"
   },
   {
     "dex": 510,
-    "shiny_released": false,
     "family": "Purrloin"
   },
   {
     "dex": 511,
-    "shiny_released": false,
     "family": "Pansage"
   },
   {
     "dex": 512,
-    "shiny_released": false,
     "family": "Pansage"
   },
   {
     "dex": 513,
-    "shiny_released": false,
     "family": "Pansear"
   },
   {
     "dex": 514,
-    "shiny_released": false,
     "family": "Pansear"
   },
   {
     "dex": 515,
-    "shiny_released": false,
     "family": "Panpour"
   },
   {
     "dex": 516,
-    "shiny_released": false,
     "family": "Panpour"
   },
   {
     "dex": 517,
-    "shiny_released": false,
     "family": "Munna"
   },
   {
     "dex": 518,
-    "shiny_released": false,
     "family": "Munna"
   },
   {
     "dex": 519,
-    "shiny_released": true,
-    "family": "Pidove"
+    "family": "Pidove",
+    "released_date": "2020/07/02"
   },
   {
     "dex": 520,
-    "shiny_released": true,
-    "family": "Pidove"
+    "family": "Pidove",
+    "released_date": "2020/07/02"
   },
   {
     "dex": 521,
-    "shiny_released": true,
-    "family": "Pidove"
+    "family": "Pidove",
+    "released_date": "2020/07/02"
   },
   {
     "dex": 522,
-    "shiny_released": false,
     "family": "Blitzle"
   },
   {
     "dex": 523,
-    "shiny_released": false,
     "family": "Blitzle"
   },
   {
     "dex": 524,
-    "shiny_released": false,
-    "released_date": "2020/08/15",
+    "released_date": "2020/08/14",
     "family": "Roggenrola"
   },
   {
     "dex": 525,
-    "shiny_released": false,
-    "released_date": "2020/08/15",
+    "released_date": "2020/08/14",
     "family": "Roggenrola"
   },
   {
     "dex": 526,
-    "shiny_released": false,
-    "released_date": "2020/08/15",
+    "released_date": "2020/08/14",
     "family": "Roggenrola"
   },
   {
     "dex": 527,
-    "shiny_released": true,
-    "family": "Woobat"
+    "family": "Woobat",
+    "released_date": "2020/07/24"
   },
   {
     "dex": 528,
-    "shiny_released": true,
-    "family": "Woobat"
+    "family": "Woobat",
+    "released_date": "2020/07/24"
   },
   {
     "dex": 529,
-    "shiny_released": false,
     "family": "Drilbur"
   },
   {
     "dex": 530,
-    "shiny_released": false,
     "family": "Drilbur"
   },
   {
     "dex": 531,
-    "shiny_released": false,
     "family": "Audino"
   },
   {
     "dex": 532,
-    "shiny_released": true,
-    "family": "Timburr"
+    "family": "Timburr",
+    "released_date": "2020/03/13"
   },
   {
     "dex": 533,
-    "shiny_released": true,
-    "family": "Timburr"
+    "family": "Timburr",
+    "released_date": "2020/03/13"
   },
   {
     "dex": 534,
-    "shiny_released": true,
-    "family": "Timburr"
+    "family": "Timburr",
+    "released_date": "2020/03/13"
   },
   {
     "dex": 535,
-    "shiny_released": false,
     "family": "Tympole"
   },
   {
     "dex": 536,
-    "shiny_released": false,
     "family": "Tympole"
   },
   {
     "dex": 537,
-    "shiny_released": false,
     "family": "Tympole"
   },
   {
     "dex": 538,
-    "shiny_released": false,
     "family": "Throh"
   },
   {
     "dex": 539,
-    "shiny_released": false,
     "family": "Sawk"
   },
   {
     "dex": 540,
-    "shiny_released": false,
     "family": "Sewaddle"
   },
   {
     "dex": 541,
-    "shiny_released": false,
     "family": "Sewaddle"
   },
   {
     "dex": 542,
-    "shiny_released": false,
     "family": "Sewaddle"
   },
   {
     "dex": 543,
-    "shiny_released": false,
     "family": "Venipede"
   },
   {
     "dex": 544,
-    "shiny_released": false,
     "family": "Venipede"
   },
   {
     "dex": 545,
-    "shiny_released": false,
     "family": "Venipede"
   },
   {
     "dex": 546,
-    "shiny_released": false,
     "family": "Cottonee"
   },
   {
     "dex": 547,
-    "shiny_released": false,
     "family": "Cottonee"
   },
   {
     "dex": 548,
-    "shiny_released": false,
     "family": "Petilil"
   },
   {
     "dex": 549,
-    "shiny_released": false,
     "family": "Petilil"
   },
   {
     "dex": 550,
-    "shiny_released": false,
     "family": "Basculin"
   },
   {
     "dex": 551,
-    "shiny_released": false,
     "family": "Sandile"
   },
   {
     "dex": 552,
-    "shiny_released": false,
     "family": "Sandile"
   },
   {
     "dex": 553,
-    "shiny_released": false,
     "family": "Sandile"
   },
   {
     "dex": 554,
-    "shiny_released": false,
     "family": "Darumaka"
   },
   {
     "dex": 555,
-    "shiny_released": false,
     "family": "Darumaka"
   },
   {
     "dex": 556,
-    "shiny_released": false,
     "family": "Maractus"
   },
   {
     "dex": 557,
-    "shiny_released": false,
-    "released_date": "2020/06/26",
+    "released_date": "2020/06/25",
     "family": "Dwebble"
   },
   {
     "dex": 558,
-    "shiny_released": false,
-    "released_date": "2020/06/26",
+    "released_date": "2020/06/25",
     "family": "Dwebble"
   },
   {
     "dex": 559,
-    "shiny_released": false,
     "family": "Scraggy"
   },
   {
     "dex": 560,
-    "shiny_released": false,
     "family": "Scraggy"
   },
   {
     "dex": 561,
-    "shiny_released": false,
     "family": "Sigilyph"
   },
   {
     "dex": 562,
-    "shiny_released": true,
-    "family": "Yamask"
+    "family": "Yamask",
+    "released_date": "2019/10/17"
   },
   {
     "dex": 563,
-    "shiny_released": true,
-    "family": "Yamask"
+    "family": "Yamask",
+    "released_date": "2019/10/17"
   },
   {
     "dex": 564,
-    "shiny_released": false,
     "family": "Tirtouga"
   },
   {
     "dex": 565,
-    "shiny_released": false,
     "family": "Tirtouga"
   },
   {
     "dex": 566,
-    "shiny_released": false,
     "family": "Archen"
   },
   {
     "dex": 567,
-    "shiny_released": false,
     "family": "Archen"
   },
   {
     "dex": 568,
-    "shiny_released": false,
     "family": "Trubbish"
   },
   {
     "dex": 569,
-    "shiny_released": false,
     "family": "Trubbish"
   },
   {
     "dex": 570,
-    "shiny_released": false,
     "family": "Zorua"
   },
   {
     "dex": 571,
-    "shiny_released": false,
     "family": "Zorua"
   },
   {
     "dex": 572,
-    "shiny_released": true,
-    "family": "Minccino"
+    "family": "Minccino",
+    "released_date": "2020/02/02"
   },
   {
     "dex": 573,
-    "shiny_released": true,
-    "family": "Minccino"
+    "family": "Minccino",
+    "released_date": "2020/02/02"
   },
   {
     "dex": 574,
-    "shiny_released": false,
     "family": "Gothita"
   },
   {
     "dex": 575,
-    "shiny_released": false,
     "family": "Gothita"
   },
   {
     "dex": 576,
-    "shiny_released": false,
     "family": "Gothita"
   },
   {
     "dex": 577,
-    "shiny_released": false,
     "family": "Solosis"
   },
   {
     "dex": 578,
-    "shiny_released": false,
     "family": "Solosis"
   },
   {
     "dex": 579,
-    "shiny_released": false,
     "family": "Solosis"
   },
   {
     "dex": 580,
-    "shiny_released": false,
     "family": "Ducklett"
   },
   {
     "dex": 581,
-    "shiny_released": false,
     "family": "Ducklett"
   },
   {
     "dex": 582,
-    "shiny_released": false,
     "family": "Vanillite"
   },
   {
     "dex": 583,
-    "shiny_released": false,
     "family": "Vanillite"
   },
   {
     "dex": 584,
-    "shiny_released": false,
     "family": "Vanillite"
   },
   {
     "dex": 585,
-    "shiny_released": false,
     "family": "Deerling"
   },
   {
     "dex": 586,
-    "shiny_released": false,
     "family": "Deerling"
   },
   {
     "dex": 587,
-    "shiny_released": false,
     "family": "Emolga"
   },
   {
     "dex": 588,
-    "shiny_released": false,
     "family": "Karrablast"
   },
   {
     "dex": 589,
-    "shiny_released": false,
     "family": "Karrablast"
   },
   {
     "dex": 590,
-    "shiny_released": false,
     "family": "Foongus"
   },
   {
     "dex": 591,
-    "shiny_released": false,
     "family": "Foongus"
   },
   {
     "dex": 592,
-    "shiny_released": false,
     "family": "Frillish"
   },
   {
     "dex": 593,
-    "shiny_released": false,
     "family": "Frillish"
   },
   {
     "dex": 594,
-    "shiny_released": false,
     "released_date": "2021/02/14",
     "family": "Alomomola"
   },
   {
     "dex": 595,
-    "shiny_released": false,
     "family": "Joltik"
   },
   {
     "dex": 596,
-    "shiny_released": false,
     "family": "Joltik"
   },
   {
     "dex": 597,
-    "shiny_released": false,
     "released_date": "2020/11/07",
     "family": "Ferroseed"
   },
   {
     "dex": 598,
-    "shiny_released": false,
     "released_date": "2020/11/07",
     "family": "Ferroseed"
   },
   {
     "dex": 599,
-    "shiny_released": true,
-    "family": "Klink"
+    "family": "Klink",
+    "released_date": "2019/09/16"
   },
   {
     "dex": 600,
-    "shiny_released": true,
-    "family": "Klink"
+    "family": "Klink",
+    "released_date": "2019/09/16"
   },
   {
     "dex": 601,
-    "shiny_released": true,
-    "family": "Klink"
+    "family": "Klink",
+    "released_date": "2019/09/16"
   },
   {
     "dex": 602,
-    "shiny_released": false,
     "family": "Tynamo"
   },
   {
     "dex": 603,
-    "shiny_released": false,
     "family": "Tynamo"
   },
   {
     "dex": 604,
-    "shiny_released": false,
     "family": "Tynamo"
   },
   {
     "dex": 605,
-    "shiny_released": false,
     "family": "Elgyem"
   },
   {
     "dex": 606,
-    "shiny_released": false,
     "family": "Beheeyem"
   },
   {
     "dex": 607,
-    "shiny_released": false,
     "family": "Litwick"
   },
   {
     "dex": 608,
-    "shiny_released": false,
     "family": "Litwick"
   },
   {
     "dex": 609,
-    "shiny_released": false,
     "family": "Litwick"
   },
   {
     "dex": 610,
-    "shiny_released": false,
     "family": "Axew"
   },
   {
     "dex": 611,
-    "shiny_released": false,
     "family": "Axew"
   },
   {
     "dex": 612,
-    "shiny_released": false,
     "family": "Axew"
   },
   {
     "dex": 613,
-    "shiny_released": false,
     "released_date": "2020/12/18",
     "family": "Cubchoo"
   },
   {
     "dex": 613,
-    "shiny_released": false,
-    "released_date": "2020/12/22",
+    "released_date": "2020/12/18",
     "fn": "pm0613_00_pgo_winter2020",
     "isotope": "_winter2020",
     "family": "Cubchoo"
   },
   {
     "dex": 614,
-    "shiny_released": false,
     "released_date": "2020/12/18",
     "family": "Cubchoo"
   },
   {
     "dex": 615,
-    "shiny_released": false,
     "family": "Cryogonal"
   },
   {
     "dex": 616,
-    "shiny_released": false,
     "family": "Shelmet"
   },
   {
     "dex": 617,
-    "shiny_released": false,
     "family": "Shelmet"
   },
   {
     "dex": 618,
-    "shiny_released": false,
     "family": "Stunfisk"
   },
   {
     "dex": 619,
-    "shiny_released": false,
     "family": "Mienfoo"
   },
   {
     "dex": 620,
-    "shiny_released": false,
     "family": "Mienfoo"
   },
   {
     "dex": 621,
-    "shiny_released": false,
     "family": "Druddigon"
   },
   {
     "dex": 622,
-    "shiny_released": false,
     "family": "Golett"
   },
   {
     "dex": 623,
-    "shiny_released": false,
     "family": "Golett"
   },
   {
     "dex": 624,
-    "shiny_released": false,
     "family": "Pawniard"
   },
   {
     "dex": 625,
-    "shiny_released": false,
     "family": "Pawniard"
   },
   {
     "dex": 626,
-    "shiny_released": false,
     "family": "Bouffalant"
   },
   {
     "dex": 627,
-    "shiny_released": false,
-    "released_date": "2020/12/14",
+    "released_date": "2020/12/13",
     "family": "Rufflet"
   },
   {
     "dex": 628,
-    "shiny_released": false,
-    "released_date": "2020/12/14",
+    "released_date": "2020/12/13",
     "family": "Rufflet"
   },
   {
     "dex": 629,
-    "shiny_released": false,
     "family": "Vullaby"
   },
   {
     "dex": 630,
-    "shiny_released": false,
     "family": "Vullaby"
   },
   {
@@ -4071,30 +3829,25 @@
   },
   {
     "dex": 633,
-    "shiny_released": false,
     "released_date": "2020/08/01",
     "family": "Deino"
   },
   {
     "dex": 634,
-    "shiny_released": false,
     "released_date": "2020/08/01",
     "family": "Deino"
   },
   {
     "dex": 635,
-    "shiny_released": false,
     "released_date": "2020/08/01",
     "family": "Deino"
   },
   {
     "dex": 636,
-    "shiny_released": false,
     "family": "Larvesta"
   },
   {
     "dex": 637,
-    "shiny_released": false,
     "family": "Larvesta"
   },
   {
@@ -4104,7 +3857,6 @@
   },
   {
     "dex": 639,
-    "shiny_released": false,
     "released_date": "2020/05/19",
     "family": "Terrakion"
   },
@@ -4115,59 +3867,50 @@
   },
   {
     "dex": 641,
-    "shiny_released": false,
     "family": "Tornadus"
   },
   {
     "dex": 642,
-    "shiny_released": false,
     "family": "Thundurus"
   },
   {
     "dex": 643,
-    "shiny_released": false,
     "family": "Reshiram"
   },
   {
     "dex": 644,
-    "shiny_released": false,
     "family": "Zekrom"
   },
   {
     "dex": 645,
-    "shiny_released": false,
     "family": "Landorus"
   },
   {
     "dex": 646,
-    "shiny_released": false,
     "family": "Kyurem"
   },
   {
     "dex": 647,
-    "shiny_released": false,
     "family": "Keldeo"
   },
   {
     "dex": 648,
-    "shiny_released": false,
     "family": "Meloetta"
   },
   {
     "dex": 649,
-    "shiny_released": false,
     "released_date": "2020/08/15",
     "type": "_11",
     "family": "Genesect"
   },
   {
     "dex": 808,
-    "shiny_released": true,
-    "family": "Meltan"
+    "family": "Meltan",
+    "released_date": "2019/02/05"
   },
   {
     "dex": 809,
-    "shiny_released": true,
-    "family": "Meltan"
+    "family": "Meltan",
+    "released_date": "2019/02/05"
   }
 ]
