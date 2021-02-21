@@ -184,6 +184,10 @@ let _words = {
     'de': 'Zurücksetzen',
     'it': 'Reimposta',
   },
+  'share.errConfirm': {
+    'en': 'There is a issue to generate short url,\nyou might go to cors-anywhere.herokuapp.com and enable it by clicking the [BUTTON]. Are you sure to continue?\n--\n',
+    'zh': '生成短網址遇到些麻煩，你會需要前往\n網站： cors-anywhere.herokuapp.com\n並點擊 [按鈕] 來啟用短網址，\n你確定要繼續嗎？\n--\n',
+  },
 };
 
 let missingTransition = [];

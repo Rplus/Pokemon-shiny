@@ -28,15 +28,30 @@
 
     isFetching = true;
     fetch(`https://cors-anywhere.herokuapp.com/http://tinyurl.com/api-create.php?url=${url}`)
-      .then(d => d.text())
+      .then(res => {
+        if (res.ok) {
+          return res.text();
+        }
+        errorHandler(res);
+      })
       .then(d => {
         shortUrlLink = d;
-        isFetching = false;
       })
       .catch(error => {
         console.error(error);
-        isFetching = false;
       })
+      .finally(() => {
+        isFetching = false;
+      });
+  }
+
+  function errorHandler(err) {
+    const { status, statusText } = err;
+    const confirmText = JSON.stringify({ status, statusText });
+    const answer = confirm($_('share.errConfirm') + confirmText);
+    if (answer) {
+      window.open('https://cors-anywhere.herokuapp.com/corsdemo');
+    }
   }
 
   function getQRCodeImg(url) {
@@ -53,6 +68,7 @@
 
 <button class=""
   on:click|preventDefault={ getShortUrl }
+  disabled={isFetching}
 >
   { $_('get.short.url') }
 </button>
