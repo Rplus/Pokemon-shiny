@@ -35,6 +35,6 @@
     "autobuild": "rollup -c -w",
     "dev": "run-p start:dev autobuild",
     "start": "sirv public --single --port 8080",
-    "start:dev": "sirv public --single --dev --port 8080"
+    "start:dev": "sirv public --host --single --dev --port 8080"
   }
 }
