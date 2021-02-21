@@ -135,7 +135,7 @@ $: {
             class="export-img"
             src={ exportImgSrc }
             title={ downloadTitle }
-            alt="export image"
+            alt=""
           >
         </a>
       {/if}

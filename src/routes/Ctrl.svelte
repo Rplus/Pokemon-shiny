@@ -204,9 +204,9 @@ let switcher = {
           </label>
         {/each}
 
-        <label class="clickable-label db">
+        <label class="clickable-label db" for="showUnregistered">
           <span class="clickable">
-            <input class="m-0" type="checkbox" bind:checked={ $showUnregistered } />
+            <input class="m-0" type="checkbox" name="showUnregistered" bind:checked={ $showUnregistered } />
             { $_('show.unregistered') }
           </span>
         </label>
