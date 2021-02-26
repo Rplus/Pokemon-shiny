@@ -18,6 +18,7 @@
   const imgSrc = cfn || getImgSrc(fn, normal);
   const proxySrc = cfn || getProxyImgSrc(imgSrc);
   let imgRef;
+  let src = proxySrc;
 
   function getImgSrc(fn, normal) {
     let _fn = `pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
@@ -40,7 +41,9 @@
     const handleImgError = () => {
       console.error('handleImgError', imgRef.src, imgSrc);
       if (imgRef.src !== imgSrc) {
-        imgRef.src = imgSrc;
+        src = imgSrc;
+      } else {
+        imgRef.removeEventListener('error', handleImgError);
       }
     };
 
@@ -52,7 +55,7 @@
 <img
   bind:this={imgRef}
   class="pm-img"
-  src={proxySrc}
+  src={src}
   width="200"
   height="200"
   loading="lazy"
