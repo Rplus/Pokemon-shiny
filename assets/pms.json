@@ -3907,6 +3907,298 @@
     "family": "Genesect"
   },
   {
+    "dex": 650,
+    "family": "Chespin"
+  },
+  {
+    "dex": 651,
+    "family": "Chespin"
+  },
+  {
+    "dex": 652,
+    "family": "Chespin"
+  },
+  {
+    "dex": 653,
+    "family": "Fennekin"
+  },
+  {
+    "dex": 654,
+    "family": "Fennekin"
+  },
+  {
+    "dex": 655,
+    "family": "Fennekin"
+  },
+  {
+    "dex": 656,
+    "family": "Froakie"
+  },
+  {
+    "dex": 657,
+    "family": "Froakie"
+  },
+  {
+    "dex": 658,
+    "family": "Froakie"
+  },
+  {
+    "dex": 659,
+    "family": "Bunnelby"
+  },
+  {
+    "dex": 660,
+    "family": "Bunnelby"
+  },
+  {
+    "dex": 661,
+    "family": "Fletchling"
+  },
+  {
+    "dex": 662,
+    "family": "Fletchling"
+  },
+  {
+    "dex": 663,
+    "family": "Fletchling"
+  },
+  {
+    "dex": 664,
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 665,
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 667,
+    "family": "Litleo"
+  },
+  {
+    "dex": 668,
+    "family": "Litleo"
+  },
+  {
+    "dex": 668,
+    "family": "Litleo"
+  },
+  {
+    "dex": 668,
+    "family": "Litleo"
+  },
+  {
+    "dex": 669,
+    "family": "Flabebe"
+  },
+  {
+    "dex": 670,
+    "family": "Flabebe"
+  },
+  {
+    "dex": 671,
+    "family": "Flabebe"
+  },
+  {
+    "dex": 672,
+    "family": "Skiddo"
+  },
+  {
+    "dex": 673,
+    "family": "Skiddo"
+  },
+  {
+    "dex": 674,
+    "family": "Pancham"
+  },
+  {
+    "dex": 675,
+    "family": "Pancham"
+  },
+  {
+    "dex": 676,
+    "family": "Furfrou"
+  },
+  {
+    "dex": 677,
+    "family": "Espurr"
+  },
+  {
+    "dex": 678,
+    "family": "Espurr"
+  },
+  {
+    "dex": 678,
+    "family": "Espurr"
+  },
+  {
+    "dex": 678,
+    "family": "Espurr"
+  },
+  {
+    "dex": 679,
+    "family": "Honedge"
+  },
+  {
+    "dex": 680,
+    "family": "Honedge"
+  },
+  {
+    "dex": 681,
+    "family": "Honedge"
+  },
+  {
+    "dex": 682,
+    "family": "Spritzee"
+  },
+  {
+    "dex": 683,
+    "family": "Spritzee"
+  },
+  {
+    "dex": 684,
+    "family": "Swirlix"
+  },
+  {
+    "dex": 685,
+    "family": "Swirlix"
+  },
+  {
+    "dex": 686,
+    "family": "Inkay"
+  },
+  {
+    "dex": 687,
+    "family": "Inkay"
+  },
+  {
+    "dex": 688,
+    "family": "Binacle"
+  },
+  {
+    "dex": 689,
+    "family": "Binacle"
+  },
+  {
+    "dex": 690,
+    "family": "Skrelp"
+  },
+  {
+    "dex": 691,
+    "family": "Skrelp"
+  },
+  {
+    "dex": 692,
+    "family": "Clauncher"
+  },
+  {
+    "dex": 693,
+    "family": "Clauncher"
+  },
+  {
+    "dex": 694,
+    "family": "Helioptile"
+  },
+  {
+    "dex": 695,
+    "family": "Helioptile"
+  },
+  {
+    "dex": 696,
+    "family": "Tyrunt"
+  },
+  {
+    "dex": 697,
+    "family": "Tyrunt"
+  },
+  {
+    "dex": 698,
+    "family": "Amaura"
+  },
+  {
+    "dex": 699,
+    "family": "Amaura"
+  },
+  {
+    "dex": 700,
+    "family": "Eevee"
+  },
+  {
+    "dex": 701,
+    "family": "Hawlucha"
+  },
+  {
+    "dex": 702,
+    "family": "Dedenne"
+  },
+  {
+    "dex": 703,
+    "family": "Carbink"
+  },
+  {
+    "dex": 704,
+    "family": "Goomy"
+  },
+  {
+    "dex": 705,
+    "family": "Goomy"
+  },
+  {
+    "dex": 706,
+    "family": "Goomy"
+  },
+  {
+    "dex": 707,
+    "family": "Klefki"
+  },
+  {
+    "dex": 708,
+    "family": "Phantump"
+  },
+  {
+    "dex": 709,
+    "family": "Phantump"
+  },
+  {
+    "dex": 710,
+    "family": "Pumpkaboo"
+  },
+  {
+    "dex": 711,
+    "family": "Pumpkaboo"
+  },
+  {
+    "dex": 712,
+    "family": "Bergmite"
+  },
+  {
+    "dex": 713,
+    "family": "Bergmite"
+  },
+  {
+    "dex": 714,
+    "family": "Noibat"
+  },
+  {
+    "dex": 715,
+    "family": "Noibat"
+  },
+  {
+    "dex": 716,
+    "family": "Xerneas"
+  },
+  {
+    "dex": 717,
+    "family": "Yveltal"
+  },
+  {
+    "dex": 718,
+    "family": "Yveltal"
+  },
+  {
     "dex": 808,
     "family": "Meltan",
     "released_date": "2019/02/05"
@@ -3915,5 +4207,85 @@
     "dex": 809,
     "family": "Meltan",
     "released_date": "2019/02/05"
+  },
+  {
+    "dex": 862,
+    "family": "Zigzagoon"
+  },
+  {
+    "dex": 862,
+    "family": "Zigzagoon"
+  },
+  {
+    "dex": 862,
+    "family": "Zigzagoon"
+  },
+  {
+    "dex": 862,
+    "family": "Zigzagoon"
+  },
+  {
+    "dex": 863,
+    "family": "Meowth"
+  },
+  {
+    "dex": 863,
+    "family": "Meowth"
+  },
+  {
+    "dex": 863,
+    "family": "Meowth"
+  },
+  {
+    "dex": 863,
+    "family": "Meowth"
+  },
+  {
+    "dex": 865,
+    "family": "Farfetchd"
+  },
+  {
+    "dex": 865,
+    "family": "Farfetchd"
+  },
+  {
+    "dex": 865,
+    "family": "Farfetchd"
+  },
+  {
+    "dex": 865,
+    "family": "Farfetchd"
+  },
+  {
+    "dex": 866,
+    "family": "Mr_mime"
+  },
+  {
+    "dex": 866,
+    "family": "Mr_mime"
+  },
+  {
+    "dex": 866,
+    "family": "Mr_mime"
+  },
+  {
+    "dex": 866,
+    "family": "Mr_mime"
+  },
+  {
+    "dex": 867,
+    "family": "Yamask"
+  },
+  {
+    "dex": 867,
+    "family": "Yamask"
+  },
+  {
+    "dex": 867,
+    "family": "Yamask"
+  },
+  {
+    "dex": 867,
+    "family": "Yamask"
   }
 ]
