@@ -3868,11 +3868,13 @@
   {
     "dex": 641,
     "family": "Tornadus",
+    "type": "_11",
     "released_date": "2021/03/06"
   },
   {
     "dex": 642,
     "family": "Thundurus",
+    "type": "_11",
     "released_date": "2021/03/11"
   },
   {
@@ -3886,6 +3888,7 @@
   {
     "dex": 645,
     "family": "Landorus",
+    "type": "_11",
     "released_date": "2021/03/01"
   },
   {
