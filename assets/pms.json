@@ -221,14 +221,14 @@
   {
     "dex": 19,
     "type": "_61",
-    "shiny_released": true,
-    "family": "Rattata_61"
+    "family": "Rattata_61",
+    "released_date": "2019/06/28"
   },
   {
     "dex": 20,
     "type": "_61",
-    "shiny_released": true,
-    "family": "Rattata_61"
+    "family": "Rattata_61",
+    "released_date": "2019/06/28"
   },
   {
     "dex": 21,
@@ -3852,8 +3852,8 @@
   },
   {
     "dex": 638,
-    "shiny_released": true,
-    "family": "Cobalion"
+    "family": "Cobalion",
+    "released_date": "2020/05/18",
   },
   {
     "dex": 639,
@@ -3862,8 +3862,8 @@
   },
   {
     "dex": 640,
-    "shiny_released": true,
-    "family": "Virizion"
+    "family": "Virizion",
+    "released_date": "2020/05/13"
   },
   {
     "dex": 641,
