@@ -3867,11 +3867,13 @@
   },
   {
     "dex": 641,
-    "family": "Tornadus"
+    "family": "Tornadus",
+    "released_date": "2021/03/06"
   },
   {
     "dex": 642,
-    "family": "Thundurus"
+    "family": "Thundurus",
+    "released_date": "2021/03/11"
   },
   {
     "dex": 643,
@@ -3883,7 +3885,8 @@
   },
   {
     "dex": 645,
-    "family": "Landorus"
+    "family": "Landorus",
+    "released_date": "2021/03/01"
   },
   {
     "dex": 646,
