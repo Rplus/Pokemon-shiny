@@ -9,6 +9,7 @@ const outputJSON = (json = {}, fileName, jsonSpace = 2) => {
 let pms = fs.readFileSync('./assets/pms.json', 'utf8');
 let names = fs.readFileSync('./assets/name.json', 'utf8');
 
+pms = JSON.parse(pms);
 names = JSON.parse(names);
 
 // remove dup & use 'en' fallback
@@ -24,5 +25,5 @@ for (var dex in names) {
   }
 }
 
-outputJSON(JSON.parse(pms), './public/pms.json', 0);
+outputJSON(pms, './public/pms.json', 0);
 outputJSON(names, './public/name.json', 0);
