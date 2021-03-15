@@ -5,6 +5,7 @@
   let url;
   let shortUrlLink = '';
   let isFetching = false;
+  let alloriginsFails = false;
 
   function shareLink(e) {
     let url = e.target.href;
@@ -25,17 +26,23 @@
       alert('')
       return;
     }
+    const encodedUrl = encodeURIComponent(`http://tinyurl.com/api-create.php?url=${url}`);
+    const fetchUrl = alloriginsFails
+      ? 'https://cors-anywhere.herokuapp.com/'
+      : 'https://api.allorigins.win/get?url=';
 
     isFetching = true;
-    fetch(`https://cors-anywhere.herokuapp.com/http://tinyurl.com/api-create.php?url=${url}`)
+    fetch(`${fetchUrl}${encodedUrl}`)
       .then(res => {
         if (res.ok) {
-          return res.text();
+          return res.json();
         }
+        alloriginsFails = true;
         errorHandler(res);
       })
       .then(d => {
-        shortUrlLink = d;
+        console.log({d});
+        shortUrlLink = d.contents;
       })
       .catch(error => {
         console.error(error);
