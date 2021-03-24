@@ -2480,7 +2480,15 @@
   {
     "dex": 351,
     "shiny_released": true,
+    "type": "_11",
     "family": "Castform"
+  },
+  {
+    "dex": 351,
+    "released_date": "2021/03/24",
+    "type": "_13",
+    "family": "Castform",
+    "name_suffix": "💧"
   },
   {
     "dex": 352,
