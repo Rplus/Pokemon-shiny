@@ -18,6 +18,18 @@ let _words = {
     'de': 'Sprache',
     'it': 'linguaggio',
   },
+  'custom.color': {
+    'en': 'Custom Color',
+    'zh': '自訂顏色',
+    'de': 'Freiwählbare Farbe',
+    'it': 'Colore personalizzato',
+  },
+  'custom.color.reset': {
+    'en': 'Reset',
+    'zh': '重設',
+    'de': 'Zurücksetzen',
+    'it': 'Ripristina',
+  },
   'reset': {
     'en': 'RESET ✨',
     'zh': '重置 ✨',

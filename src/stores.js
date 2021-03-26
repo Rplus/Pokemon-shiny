@@ -1,5 +1,5 @@
 import { writable, derived } from 'svelte/store';
-import { saveItem, getItem } from './u.js';
+import { saveItem, getItem, updateColor } from './u.js';
 
 export const nickname = writable('?');
 
@@ -18,6 +18,16 @@ export const lang = writable(langs[_langIndex]);
 export const shows = ['all', 'dex', 'own', 'offer'];
 export const show = writable(shows[0]);
 export const showUnregistered = writable(false);
+
+export const defaultColors = ['#dada0b', '#a1a112'];
+export const colors = writable(getItem('custome.colors') || defaultColors);
+colors.subscribe(value => {
+  updateColor(value);
+  saveItem({
+    key: 'custome.colors',
+    value: value,
+  })
+});
 
 export const dex = writable({});
 export const pmTotalStatus = writable({});

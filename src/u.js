@@ -24,3 +24,29 @@ export function getISOFormatedTime() {
 export function isDev() {
   return location.hostname === 'localhost';
 }
+
+export function debounce(func, timeout = 300){
+  let timer;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => { func.apply(this, args); }, timeout);
+  };
+}
+
+export function throttle(callback, limit = 300) {
+  var wait = false;
+  return function (...args) {
+    if (!wait) {
+      callback(...args);
+      wait = true;
+      setTimeout(function () {
+        wait = false;
+      }, limit);
+    }
+  }
+}
+
+export const updateColor = debounce((colors) => {
+  document.documentElement.style.setProperty('--root-bdc', colors[0]);
+  document.documentElement.style.setProperty('--root-marker-color', colors[1]);
+})

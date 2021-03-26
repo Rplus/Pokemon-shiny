@@ -1,6 +1,7 @@
 <script>
 import { _ } from 'svelte-i18n';
 import Urls from './Urls.svelte';
+import CustomColor from '../comp/CustomColor.svelte';
 import {
   lang, langs,
   show, shows, showUnregistered,
@@ -214,7 +215,11 @@ let switcher = {
 
     </div>
 
-    <hr>
+    <hr />
+
+    <CustomColor />
+    <hr />
+
     <Share searchStr={ searchStr } />
     <hr>
 
