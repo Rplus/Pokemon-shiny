@@ -2225,6 +2225,12 @@
     "released_date": "2019/09/01"
   },
   {
+    "dex": 310,
+    "type": "_51",
+    "family": "Electrike",
+    "released_date": "2021/03/16"
+  },
+  {
     "dex": 311,
     "shiny_released": true,
     "family": "Plusle"
