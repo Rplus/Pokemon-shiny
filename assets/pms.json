@@ -37,6 +37,7 @@
     "dex": 3,
     "type": "_51",
     "family": "Bulbasaur",
+    "name_suffix": "(M)",
     "released_date": "2018/03/25"
   },
   {
@@ -76,12 +77,14 @@
   {
     "dex": 6,
     "type": "_51",
+    "name_suffix": "(M-X)",
     "family": "Charmander",
     "released_date": "2018/05/19"
   },
   {
     "dex": 6,
     "type": "_52",
+    "name_suffix": "(M-Y)",
     "family": "Charmander",
     "released_date": "2018/05/19"
   },
@@ -103,6 +106,7 @@
   {
     "dex": 9,
     "type": "_51",
+    "name_suffix": "(M)",
     "family": "Squirtle",
     "released_date": "2018/07/08"
   },
@@ -178,6 +182,7 @@
   {
     "dex": 15,
     "type": "_51",
+    "name_suffix": "(M)",
     "family": "Weedle",
     "released_date": "2020/06/19"
   },
@@ -199,6 +204,7 @@
   {
     "dex": 18,
     "type": "_51",
+    "name_suffix": "(M)",
     "family": "Pidgey",
     "released_date": "2019/02/26"
   },
@@ -910,6 +916,7 @@
   {
     "dex": 94,
     "type": "_51",
+    "name_suffix": "(M)",
     "family": "Gastly",
     "released_date": "2018/11/03"
   },
@@ -1120,6 +1127,7 @@
   {
     "dex": 130,
     "type": "_51",
+    "name_suffix": "(M)",
     "family": "Magikarp",
     "released_date": "2017/03/22"
   },
@@ -1472,6 +1480,7 @@
   {
     "dex": 181,
     "type": "_51",
+    "name_suffix": "(M)",
     "family": "Mareep",
     "released_date": "2018/04/15"
   },
@@ -1793,6 +1802,7 @@
   {
     "dex": 229,
     "type": "_51",
+    "name_suffix": "(M)",
     "family": "Houndour",
     "released_date": "2018/08/01"
   },
@@ -2227,6 +2237,7 @@
   {
     "dex": 310,
     "type": "_51",
+    "name_suffix": "(M)",
     "family": "Electrike",
     "released_date": "2021/03/16"
   },
@@ -3065,6 +3076,7 @@
   {
     "dex": 460,
     "type": "_51",
+    "name_suffix": "(M)",
     "family": "Snover",
     "released_date": "2019/12/24"
   },
