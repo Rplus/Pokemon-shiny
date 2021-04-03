@@ -1040,6 +1040,12 @@
     "released_date": "2020/02/13"
   },
   {
+    "dex": 113,
+    "family": "Chansey_07",
+    "isotope": "_07",
+    "released_date": "2021/04/04"
+  },
+  {
     "dex": 114,
     "family": "Tangela",
     "released_date": "2020/07/24"
@@ -1882,6 +1888,12 @@
     "dex": 242,
     "family": "Chansey",
     "released_date": "2020/02/13"
+  },
+  {
+    "dex": 242,
+    "family": "Chansey_07",
+    "isotope": "_07",
+    "released_date": "2021/04/04"
   },
   {
     "dex": 243,
@@ -2977,6 +2989,13 @@
     "family": "Chansey",
     "order": -1,
     "released_date": "2020/02/13"
+  },
+  {
+    "dex": 440,
+    "family": "Chansey_07",
+    "isotope": "_07",
+    "order": -1,
+    "released_date": "2021/04/04"
   },
   {
     "dex": 441,
