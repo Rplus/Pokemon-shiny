@@ -2019,6 +2019,18 @@
     "released_date": "2019/01/15"
   },
   {
+    "dex": 263,
+    "type": "_31",
+    "family": "Zigzagoon_31",
+    "released_date": "2020/05/25"
+  },
+  {
+    "dex": 264,
+    "type": "_31",
+    "family": "Zigzagoon_31",
+    "released_date": "2020/05/25"
+  },
+  {
     "dex": 265,
     "family": "Wurmple",
     "released_date": "2020/01/02"
@@ -4285,31 +4297,9 @@
   },
   {
     "dex": 862,
-    "family": "Zigzagoon"
-  },
-  {
-    "dex": 862,
-    "family": "Zigzagoon"
-  },
-  {
-    "dex": 862,
-    "family": "Zigzagoon"
-  },
-  {
-    "dex": 862,
-    "family": "Zigzagoon"
-  },
-  {
-    "dex": 863,
-    "family": "Meowth"
-  },
-  {
-    "dex": 863,
-    "family": "Meowth"
-  },
-  {
-    "dex": 863,
-    "family": "Meowth"
+    "type": "_31",
+    "family": "Zigzagoon_31",
+    "released_date": "2020/05/25"
   },
   {
     "dex": 863,
@@ -4320,44 +4310,8 @@
     "family": "Farfetchd"
   },
   {
-    "dex": 865,
-    "family": "Farfetchd"
-  },
-  {
-    "dex": 865,
-    "family": "Farfetchd"
-  },
-  {
-    "dex": 865,
-    "family": "Farfetchd"
-  },
-  {
     "dex": 866,
     "family": "Mr_mime"
-  },
-  {
-    "dex": 866,
-    "family": "Mr_mime"
-  },
-  {
-    "dex": 866,
-    "family": "Mr_mime"
-  },
-  {
-    "dex": 866,
-    "family": "Mr_mime"
-  },
-  {
-    "dex": 867,
-    "family": "Yamask"
-  },
-  {
-    "dex": 867,
-    "family": "Yamask"
-  },
-  {
-    "dex": 867,
-    "family": "Yamask"
   },
   {
     "dex": 867,
