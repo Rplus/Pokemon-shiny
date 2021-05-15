@@ -2454,6 +2454,13 @@
     "released_date": "2018/02/09"
   },
   {
+    "dex": 334,
+    "family": "Swablu",
+    "type": "_51",
+    "name_suffix": "(M)",
+    "released_date": "2021/05/15"
+  },
+  {
     "dex": 335,
     "shiny_released": true,
     "family": "Zangoose"
