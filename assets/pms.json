@@ -4218,7 +4218,14 @@
   },
   {
     "dex": 700,
+    "released_date": "2021/05/25",
     "family": "Eevee"
+  },
+  {
+    "dex": 700,
+    "released_date": "2021/05/25",
+    "isotope": "_07",
+    "family": "Eevee_07"
   },
   {
     "dex": 701,
