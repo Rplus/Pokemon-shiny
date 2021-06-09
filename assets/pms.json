@@ -829,6 +829,13 @@
     "family": "Slowpoke"
   },
   {
+    "dex": 80,
+    "type": "_51",
+    "name_suffix": "(M)",
+    "released_date": "2021/06/08",
+    "family": "Slowpoke"
+  },
+  {
     "dex": 79,
     "released_date": "2020/11/31",
     "fn": "pm0079_00_pgo_2020",
