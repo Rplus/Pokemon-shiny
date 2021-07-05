@@ -3592,10 +3592,13 @@
   },
   {
     "dex": 554,
+    "released_date": "2021/07/06",
     "family": "Darumaka"
   },
   {
     "dex": 555,
+    "released_date": "2021/07/06",
+    "type": "_11",
     "family": "Darumaka"
   },
   {
