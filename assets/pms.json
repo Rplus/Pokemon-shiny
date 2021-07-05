@@ -475,6 +475,13 @@
     "family": "Pikachu_16"
   },
   {
+    "dex": 25,
+    "released_date": "2021/07/06",
+    "fn": "pm0025_00_pgo_5thanniversary",
+    "isotope": "_5thY",
+    "family": "Pikachu_5thY"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
