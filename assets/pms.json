@@ -832,6 +832,13 @@
     "released_date": "2021/05/11"
   },
   {
+    "dex": 77,
+    "family": "Ponyta_31_47",
+    "type": "_31",
+    "isotope": "_47",
+    "released_date": "2021/07/17"
+  },
+  {
     "dex": 79,
     "released_date": "2020/11/16",
     "family": "Slowpoke"
@@ -2057,6 +2064,13 @@
     "type": "_31",
     "family": "Zigzagoon_31",
     "released_date": "2020/05/25"
+  },
+  {
+    "dex": 263,
+    "type": "_31",
+    "isotope": "_47",
+    "family": "Zigzagoon_31_47",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 265,
