@@ -482,6 +482,12 @@
     "family": "Pikachu_5thY"
   },
   {
+    "dex": 25,
+    "released_date": "2021/07/17",
+    "isotope": "_47",
+    "family": "Pikachu_47"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
@@ -1640,6 +1646,13 @@
   },
   {
     "dex": 201,
+    "type": "_16",
+    "released_date": "2021/07/17",
+    "family": "Unown",
+    "name_suffix": "(F)"
+  },
+  {
+    "dex": 201,
     "type": "_17",
     "shiny_released": true,
     "family": "Unown",
@@ -2193,15 +2206,18 @@
   },
   {
     "dex": 293,
-    "family": "Whismur"
+    "family": "Whismur",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 294,
-    "family": "Whismur"
+    "family": "Whismur",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 295,
-    "family": "Whismur"
+    "family": "Whismur",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 296,
@@ -2596,7 +2612,8 @@
   },
   {
     "dex": 358,
-    "family": "Chimecho"
+    "family": "Chimecho",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 359,
@@ -3498,7 +3515,8 @@
   },
   {
     "dex": 531,
-    "family": "Audino"
+    "family": "Audino",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 532,
@@ -3517,23 +3535,28 @@
   },
   {
     "dex": 535,
-    "family": "Tympole"
+    "family": "Tympole",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 536,
-    "family": "Tympole"
+    "family": "Tympole",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 537,
-    "family": "Tympole"
+    "family": "Tympole",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 538,
-    "family": "Throh"
+    "family": "Throh",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 539,
-    "family": "Sawk"
+    "family": "Sawk",
+    "released_date": "2021/07/17"
   },
   {
     "dex": 540,
