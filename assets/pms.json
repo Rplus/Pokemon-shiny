@@ -677,6 +677,18 @@
     "family": "Meowth_61"
   },
   {
+    "dex": 52,
+    "type": "_31",
+    "released_date": "2021/08/20",
+    "family": "Meowth_31"
+  },
+  {
+    "dex": 863,
+    "type": "_31",
+    "released_date": "2021/08/20",
+    "family": "Meowth_31"
+  },
+  {
     "dex": 54,
     "family": "Psyduck",
     "released_date": "2019/01/25"
@@ -885,6 +897,18 @@
     "family": "Farfetchd"
   },
   {
+    "dex": 83,
+    "type": "_31",
+    "released_date": "2021/08/20",
+    "family": "Farfetchd_31"
+  },
+  {
+    "dex": 865,
+    "type": "_31",
+    "released_date": "2021/08/20",
+    "family": "Farfetchd_31"
+  },
+  {
     "dex": 84,
     "released_date": "2020/09/21",
     "family": "Doduo"
@@ -1062,6 +1086,12 @@
     "dex": 110,
     "family": "Koffing",
     "released_date": "2019/07/25"
+  },
+  {
+    "dex": 110,
+    "type": "_31",
+    "released_date": "2021/08/20",
+    "family": "Koffing_31"
   },
   {
     "dex": 111,
@@ -3919,6 +3949,12 @@
   {
     "dex": 618,
     "family": "Stunfisk"
+  },
+  {
+    "dex": 618,
+    "type": "_31",
+    "released_date": "2021/08/20",
+    "family": "Stunfisk_31"
   },
   {
     "dex": 619,
