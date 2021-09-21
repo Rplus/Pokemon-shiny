@@ -165,6 +165,14 @@
     "released_date": "2018/11/01"
   },
   {
+    "dex": 12,
+    "family": "Caterpie_2021_FASHION",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm12.cFASHION_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm12.cFASHION_2021_NOEVOLVE.s.icon.png",
+    "isotope": "_2021_FASHION",
+    "released_date": "2021/09/21"
+  },
+  {
     "dex": 13,
     "family": "Weedle",
     "released_date": "2020/06/19"
@@ -1810,6 +1818,14 @@
     "dex": 215,
     "family": "Sneasel",
     "released_date": "2019/07/25"
+  },
+  {
+    "dex": 215,
+    "family": "Sneasel_2021_FASHION",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm215.cFASHION_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm215.cFASHION_2021_NOEVOLVE.s.icon.png",
+    "isotope": "_2021_FASHION",
+    "released_date": "2021/09/21"
   },
   {
     "dex": 216,
@@ -3527,11 +3543,21 @@
   },
   {
     "dex": 522,
-    "family": "Blitzle"
+    "family": "Blitzle",
+    "released_date": "2021/09/21"
   },
   {
     "dex": 523,
-    "family": "Blitzle"
+    "family": "Blitzle",
+    "released_date": "2021/09/21"
+  },
+  {
+    "dex": 522,
+    "family": "Blitzle_2021_FASHION",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm522.cFASHION_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm522.cFASHION_2021_NOEVOLVE.s.icon.png",
+    "isotope": "_2021_FASHION",
+    "released_date": "2021/09/21"
   },
   {
     "dex": 524,
