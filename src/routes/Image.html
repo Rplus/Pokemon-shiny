@@ -11,24 +11,30 @@
     }
   }
 
-  const SOURCE_PATH = 'https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/';
-  // const SOURCE_PATH = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/';
-
-  const dpr = window.devicePixelRatio || 1;
-  const imgSrc = cfn || getImgSrc(fn, normal);
-  const proxySrc = cfn || getProxyImgSrc(imgSrc);
   let imgRef;
-  let src = proxySrc;
 
-  function getImgSrc(fn, normal) {
-    let _fn = `pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
-    if (location.hash.indexOf('#dev=') === 0) {
-      return `${location.hash.split('=').pop()}${_fn}`;
-    }
-    return `${SOURCE_PATH}${_fn}`;
+  const REPO = 'PokeMiners/pogo_assets';
+  const FOLDER = 'Images/Pokemon%20-%20256x256';
+
+  const _fn = `pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
+  const imgPath = `${FOLDER}/${_fn}`;
+
+  const rawSrc = cfn || getRawSrc();
+  const cdnSrc = cfn || getCdnSrc();
+  const proxySrc = cfn || getProxySrc(rawSrc);
+
+  let src = cdnSrc;
+
+  function getRawSrc() {
+    return `https://raw.githubusercontent.com/${REPO}/master/${imgPath}`;
   }
 
-  function getProxyImgSrc(src = '') {
+  function getCdnSrc() {
+    return `https://cdn.jsdelivr.net/gh/${REPO}/${imgPath}`;
+  }
+
+  function getProxySrc(src = '') {
+    const dpr = window.devicePixelRatio || 1;
     return `https://images.weserv.nl/?dpr=${dpr}&w=200&il&url=${src}`
   }
 
@@ -39,9 +45,9 @@
 
   onMount(() => {
     const handleImgError = () => {
-      console.error('handleImgError', imgRef.src, imgSrc);
-      if (imgRef.src !== imgSrc) {
-        src = imgSrc;
+      console.error('handleImgError', imgRef.src, rawSrc);
+      if (imgRef.src !== rawSrc) {
+        src = rawSrc;
       } else {
         imgRef.removeEventListener('error', handleImgError);
       }
