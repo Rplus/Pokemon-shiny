@@ -496,6 +496,14 @@
     "family": "Pikachu_47"
   },
   {
+    "dex": 25,
+    "released_date": "2021/10/15",
+    "isotope": "_21Ha",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm25.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm25.cHALLOWEEN_2021_NOEVOLVE.s.icon.png",
+    "family": "Pikachu_21Ha"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
@@ -2852,6 +2860,14 @@
     "released_date": "2020/01/18"
   },
   {
+    "dex": 393,
+    "family": "Piplup_21Ha",
+    "released_date": "2021/10/15",
+    "isotope": "_21Ha",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm393.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm393.cHALLOWEEN_2021_NOEVOLVE.s.icon.png"
+  },
+  {
     "dex": 394,
     "family": "Piplup",
     "released_date": "2020/01/18"
@@ -3038,6 +3054,14 @@
     "dex": 426,
     "family": "Drifloon",
     "released_date": "2018/10/23"
+  },
+  {
+    "dex": 426,
+    "family": "Drifloon_21Ha",
+    "isotope": "_21Ha",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm426.cHALLOWEEN_2021_NOEVOLVE.s.icon.png",
+    "released_date": "2021/10/15"
   },
   {
     "dex": 427,
