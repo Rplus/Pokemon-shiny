@@ -2830,6 +2830,22 @@
     "released_date": "2019/09/14"
   },
   {
+    "dex": 387,
+    "family": "Turtwig_21gems",
+    "isotope": "_21gems",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm387.cGEMS_1_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm387.cGEMS_1_2021_NOEVOLVE.s.icon.png",
+    "released_date": "2021/11/16"
+  },
+  {
+    "dex": 387,
+    "family": "Turtwig_21gems",
+    "isotope": "_21gems",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm387.cGEMS_2_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm387.cGEMS_2_2021_NOEVOLVE.s.icon.png",
+    "released_date": "2021/11/16"
+  },
+  {
     "dex": 388,
     "family": "Turtwig",
     "released_date": "2019/09/14"
@@ -2843,6 +2859,22 @@
     "dex": 390,
     "family": "Chimchar",
     "released_date": "2019/11/15"
+  },
+  {
+    "dex": 390,
+    "family": "Chimchar_21gems",
+    "isotope": "_21gems",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm390.cGEMS_1_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm390.cGEMS_1_2021_NOEVOLVE.s.icon.png",
+    "released_date": "2021/11/16"
+  },
+  {
+    "dex": 390,
+    "family": "Chimchar_21gems",
+    "isotope": "_21gems",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm390.cGEMS_2_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm390.cGEMS_2_2021_NOEVOLVE.s.icon.png",
+    "released_date": "2021/11/16"
   },
   {
     "dex": 391,
@@ -2866,6 +2898,22 @@
     "isotope": "_21Ha",
     "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm393.cHALLOWEEN_2021_NOEVOLVE.icon.png",
     "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm393.cHALLOWEEN_2021_NOEVOLVE.s.icon.png"
+  },
+  {
+    "dex": 393,
+    "family": "Piplup_21gems",
+    "isotope": "_21gems",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm393.cGEMS_1_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm393.cGEMS_1_2021_NOEVOLVE.s.icon.png",
+    "released_date": "2021/11/16"
+  },
+  {
+    "dex": 393,
+    "family": "Piplup_21gems",
+    "isotope": "_21gems",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm393.cGEMS_2_2021_NOEVOLVE.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm393.cGEMS_2_2021_NOEVOLVE.s.icon.png",
+    "released_date": "2021/11/16"
   },
   {
     "dex": 394,
