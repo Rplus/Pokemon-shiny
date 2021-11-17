@@ -2692,6 +2692,15 @@
     "family": "Absol"
   },
   {
+    "dex": 359,
+    "family": "Absol",
+    "isotope": "_51",
+    "name_suffix": "(M)",
+    "cfn0": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm359.fMEGA.icon.png",
+    "cfn1": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/pm359.fMEGA.s.icon.png",
+    "released_date": "2021/10/21"
+  },
+  {
     "dex": 360,
     "order": -1,
     "family": "Wobbuffet",
