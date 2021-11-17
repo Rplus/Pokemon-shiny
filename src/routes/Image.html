@@ -1,9 +1,21 @@
 <script>
   import { onMount } from 'svelte';
 
-  export let fn = '';
-  export let cfn = undefined;
-  export let normal = undefined;
+  export let pm;
+  export let shiny = undefined;
+
+  const REPO = 'PokeMiners/pogo_assets';
+  const FOLDER = 'Images/Pokemon%20-%20256x256';
+
+  let fn = pm.fn;
+  let cfn = shiny ? pm.cfn1 : pm.cfn0;
+
+  const _fn = `pokemon_icon_${fn}${shiny ? '_shiny' : ''}.png`;
+  const imgPath = `${FOLDER}/${_fn}`;
+
+  if (pm.aa_fn) {
+    cfn = getCdnSrc(`${FOLDER}/Addressable%20Assets/${pm.aa_fn}${shiny ? '.s' : ''}.icon.png`);
+  }
 
   for (let prop in $$restProps) {
     if (!checkImgValidProp(prop)) {
@@ -12,12 +24,6 @@
   }
 
   let imgRef;
-
-  const REPO = 'PokeMiners/pogo_assets';
-  const FOLDER = 'Images/Pokemon%20-%20256x256';
-
-  const _fn = `pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
-  const imgPath = `${FOLDER}/${_fn}`;
 
   const rawSrc = cfn || getRawSrc();
   const cdnSrc = cfn || getCdnSrc();
@@ -29,8 +35,8 @@
     return `https://raw.githubusercontent.com/${REPO}/master/${imgPath}`;
   }
 
-  function getCdnSrc() {
-    return `https://cdn.jsdelivr.net/gh/${REPO}/${imgPath}`;
+  function getCdnSrc(path = '') {
+    return `https://cdn.jsdelivr.net/gh/${REPO}/${path || imgPath}`;
   }
 
   function getProxySrc(src = '') {

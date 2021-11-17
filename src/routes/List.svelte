@@ -173,9 +173,9 @@ $: {
           on:click={ click.bind(pm, pmGroupIndex, pmIndex) }
         >
           <div class="pm-img-box">
-            <Image fn={pm.fn} cfn={pm.cfn1} alt={getPmName(pm.name, $lang)} />
+            <Image pm={pm} shiny alt={getPmName(pm.name, $lang)} />
             {#if $compareImg}
-              <Image fn={pm.fn} cfn={pm.cfn0} normal />
+              <Image pm={pm} />
             {/if}
           </div>
           <div class="pm-name" data-dex={ pm.dex }>{ getPmName(pm.name, $lang) }</div>
