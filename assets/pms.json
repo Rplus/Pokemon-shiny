@@ -4173,11 +4173,13 @@
   },
   {
     "dex": 643,
-    "family": "Reshiram"
+    "family": "Reshiram",
+    "released_date": "2021/12/01"
   },
   {
     "dex": 644,
-    "family": "Zekrom"
+    "family": "Zekrom",
+    "released_date": "2021/12/01"
   },
   {
     "dex": 645,
