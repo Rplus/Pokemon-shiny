@@ -1793,6 +1793,14 @@
     "released_date": "2019/06/04"
   },
   {
+    "dex": 208,
+    "family": "Onix",
+    "type": "_51",
+    "aa_fn": "pm208.fMEGA",
+    "name_suffix": "(M)",
+    "released_date": "2021/12/01"
+  },
+  {
     "dex": 209,
     "family": "Snubbull",
     "released_date": "2018/08/01"
