@@ -2722,15 +2722,24 @@
   },
   {
     "dex": 363,
-    "family": "Spheal"
+    "family": "Spheal",
+    "released_date": "2021/12/16"
   },
   {
     "dex": 364,
-    "family": "Spheal"
+    "family": "Spheal",
+    "released_date": "2021/12/16"
   },
   {
     "dex": 365,
-    "family": "Spheal"
+    "family": "Spheal",
+    "released_date": "2021/12/16"
+  },
+  {
+    "dex": 363,
+    "family": "Spheal",
+    "aa_fn": "pm363.cHOLIDAY_2021_NOEVOLVE",
+    "released_date": "2021/12/16"
   },
   {
     "dex": 366,
