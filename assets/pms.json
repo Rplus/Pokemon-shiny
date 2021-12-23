@@ -3796,6 +3796,18 @@
     "family": "Darumaka"
   },
   {
+    "dex": 554,
+    "released_date": "2021/12/23",
+    "type": "_31",
+    "family": "Darumaka_31"
+  },
+  {
+    "dex": 555,
+    "released_date": "2021/12/23",
+    "type": "_31",
+    "family": "Darumaka_31"
+  },
+  {
     "dex": 556,
     "family": "Maractus"
   },
