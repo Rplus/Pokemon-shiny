@@ -61,7 +61,7 @@ let _words = {
     'it': 'Registrati',
   },
   'show.own': {
-    'en': 'Selected',
+    'en': 'Own',
     'zh': '現持有',
     'de': 'Ausgewählt',
     'it': 'Selezionati',
