@@ -3391,6 +3391,13 @@
     "family": "Eevee_07"
   },
   {
+    "dex": 471,
+    "isotope": "_holiday",
+    "family": "Eevee_11",
+    "aa_fn": "pm471.cHOLIDAY_2021_NOEVOLVE",
+    "released_date": "2021/12/16"
+  },
+  {
     "dex": 472,
     "family": "Gligar",
     "released_date": "2019/09/02"
