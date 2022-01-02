@@ -1412,11 +1412,19 @@
   },
   {
     "dex": 163,
-    "family": "Hoothoot"
+    "family": "Hoothoot",
+    "released_date": "2022/01/01"
+  },
+  {
+    "dex": 163,
+    "family": "Hoothoot_2022",
+    "aa_fn": "pm163.cJAN_2022_NOEVOLVE",
+    "released_date": "2022/01/01"
   },
   {
     "dex": 164,
-    "family": "Hoothoot"
+    "family": "Hoothoot",
+    "released_date": "2022/01/01"
   },
   {
     "dex": 165,
