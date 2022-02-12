@@ -4352,11 +4352,7 @@
   {
     "dex": 668,
     "family": "Litleo",
-    "released_date": "2022/02/01"
-  },
-  {
-    "dex": 668,
-    "family": "Litleo",
+    "type": "_01",
     "released_date": "2022/02/01"
   },
   {
