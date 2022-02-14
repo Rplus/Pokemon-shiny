@@ -4389,19 +4389,19 @@
   },
   {
     "dex": 677,
-    "family": "Espurr"
+    "family": "Espurr",
+    "released_date": "2022/02/01"
   },
   {
     "dex": 678,
-    "family": "Espurr"
+    "family": "Espurr",
+    "released_date": "2022/02/01"
   },
   {
     "dex": 678,
-    "family": "Espurr"
-  },
-  {
-    "dex": 678,
-    "family": "Espurr"
+    "family": "Espurr",
+    "type": "_01",
+    "released_date": "2022/02/01"
   },
   {
     "dex": 679,
