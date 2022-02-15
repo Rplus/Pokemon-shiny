@@ -1778,6 +1778,12 @@
   },
   {
     "dex": 202,
+    "family": "Wobbuffet",
+    "type": "_01",
+    "released_date": "2018/03/22"
+  },
+  {
+    "dex": 202,
     "isotope": "_11",
     "family": "Wobbuffet",
     "released_date": "2018/03/22"
@@ -1847,6 +1853,12 @@
   {
     "dex": 214,
     "family": "Heracross",
+    "released_date": "2021/08/06"
+  },
+  {
+    "dex": 214,
+    "family": "Heracross",
+    "type": "_01",
     "released_date": "2021/08/06"
   },
   {
@@ -3288,6 +3300,18 @@
     "family": "Hippowdon"
   },
   {
+    "dex": 449,
+    "shiny_released": true,
+    "type": "_01",
+    "family": "Hippowdon_01"
+  },
+  {
+    "dex": 450,
+    "shiny_released": true,
+    "type": "_01",
+    "family": "Hippowdon_01"
+  },
+  {
     "dex": 451,
     "family": "Skorupi",
     "released_date": "2020/03/05"
@@ -3663,6 +3687,12 @@
     "released_date": "2020/07/02"
   },
   {
+    "dex": 521,
+    "family": "Pidove",
+    "type": "_01",
+    "released_date": "2020/07/02"
+  },
+  {
     "dex": 522,
     "family": "Blitzle",
     "released_date": "2021/09/28"
@@ -3994,6 +4024,16 @@
   },
   {
     "dex": 593,
+    "family": "Frillish"
+  },
+  {
+    "dex": 592,
+    "type": "_01",
+    "family": "Frillish"
+  },
+  {
+    "dex": 593,
+    "type": "_01",
     "family": "Frillish"
   },
   {
