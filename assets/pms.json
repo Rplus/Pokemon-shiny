@@ -1311,6 +1311,14 @@
     "family": "Aerodactyl"
   },
   {
+    "dex": 142,
+    "shiny_released": true,
+    "type": "_51",
+    "aa_fn": "pm142.fMEGA",
+    "name_suffix": "(M)",
+    "family": "Aerodactyl"
+  },
+  {
     "dex": 143,
     "released_date": "2021/02/20",
     "family": "Snorlax"
