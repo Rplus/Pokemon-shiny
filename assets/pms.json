@@ -1740,14 +1740,27 @@
   },
   {
     "dex": 201,
-    "type": "_22",
-    "shiny_released": true,
+    "type": "_18",
     "family": "Unown",
-    "name_suffix": "(L)"
+    "name_suffix": "(H)"
+  },
+  {
+    "dex": 201,
+    "type": "_19",
+    "family": "Unown",
+    "name_suffix": "(I)"
+  },
+  {
+    "dex": 201,
+    "type": "_20",
+    "family": "Unown",
+    "released_date": "2022/02/26",
+    "name_suffix": "(J)"
   },
   {
     "dex": 201,
     "type": "_22",
+    "shiny_released": true,
     "family": "Unown",
     "name_suffix": "(L)"
   },
