@@ -2012,11 +2012,13 @@
   {
     "dex": 236,
     "order": -1,
-    "family": "Tyrogue"
+    "family": "Tyrogue",
+    "released_date": "2022/02/26"
   },
   {
     "dex": 237,
-    "family": "Tyrogue"
+    "family": "Tyrogue",
+    "released_date": "2022/02/26"
   },
   {
     "dex": 238,
