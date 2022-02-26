@@ -381,6 +381,15 @@ $: {
   line-height: 1;
   text-shadow: 1px 1px 0px #eef;
   color: #444;
+  transition: opacity .2s;
+
+  @media not print {
+    opacity: .4;
+
+    .pm:hover & {
+      opacity: 1;
+    }
+  }
 
   /* gradients tool: https://larsenwork.com/easing-gradients/ */
   background-image:
