@@ -2905,6 +2905,27 @@
     "name_suffix": "(N)"
   },
   {
+    "dex": 386,
+    "shiny_released": true,
+    "type": "_12",
+    "family": "Deoxys",
+    "name_suffix": "(A)"
+  },
+  {
+    "dex": 386,
+    "shiny_released": true,
+    "type": "_13",
+    "family": "Deoxys",
+    "name_suffix": "(D)"
+  },
+  {
+    "dex": 386,
+    "shiny_released": true,
+    "type": "_14",
+    "family": "Deoxys",
+    "name_suffix": "(S)"
+  },
+  {
     "dex": 387,
     "family": "Turtwig",
     "released_date": "2019/09/14"
