@@ -1811,7 +1811,8 @@
   },
   {
     "dex": 203,
-    "family": "Girafarig"
+    "family": "Girafarig",
+    "released_date": "2022/02/26"
   },
   {
     "dex": 204,
@@ -1953,7 +1954,8 @@
   },
   {
     "dex": 226,
-    "family": "Mantine"
+    "family": "Mantine",
+    "released_date": "2022/02/26"
   },
   {
     "dex": 227,
