@@ -4662,6 +4662,38 @@
     "family": "Yveltal"
   },
   {
+    "dex": 734,
+    "family": "Yungoos",
+    "released_date": "2022/03/01",
+    "aa_fn": "pm734"
+  },
+  {
+    "dex": 735,
+    "family": "Yungoos",
+    "released_date": "2022/03/01",
+    "aa_fn": "pm735"
+  },
+  {
+    "dex": 744,
+    "family": "Rockruff",
+    "released_date": "2022/03/01",
+    "aa_fn": "pm744"
+  },
+  {
+    "dex": 745,
+    "family": "Rockruff",
+    "released_date": "2022/03/01",
+    "isotope": "_d",
+    "aa_fn": "pm745.fMIDDAY"
+  },
+  {
+    "dex": 745,
+    "family": "Rockruff",
+    "released_date": "2021/03/01",
+    "isotope": "_n",
+    "aa_fn": "pm745.fMIDNIGHT"
+  },
+  {
     "dex": 808,
     "family": "Meltan",
     "released_date": "2019/02/05"
