@@ -502,6 +502,13 @@
     "family": "Pikachu_21Ha"
   },
   {
+    "dex": 25,
+    "released_date": "2022/03/19",
+    "isotope": "_KARIYUSHI",
+    "aa_fn": "pm25.fKARIYUSHI",
+    "family": "Pikachu_KARIYUSHI"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
