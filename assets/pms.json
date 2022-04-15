@@ -1568,6 +1568,13 @@
     "released_date": "2018/03/22"
   },
   {
+    "dex": 176,
+    "isotope": "_12",
+    "family": "Togepi",
+    "aa_fn": "pm176.cAPRIL_2020_NOEVOLVE",
+    "released_date": "2022/04/12"
+  },
+  {
     "dex": 177,
     "family": "Natu",
     "released_date": "2018/08/20"
@@ -3229,6 +3236,13 @@
   },
   {
     "dex": 428,
+    "family": "Buneary",
+    "isotope": "_12",
+    "aa_fn": "pm428.cAPRIL_2020_NOEVOLVE",
+    "released_date": "2022/04/12"
+  },
+  {
+    "dex": 428,
     "type": "_51",
     "name_suffix": "(M)",
     "family": "Buneary",
@@ -3467,7 +3481,9 @@
   {
     "dex": 468,
     "family": "Togepi",
-    "released_date": "2018/03/22"
+    "isotope": "_12",
+    "aa_fn": "pm468.cAPRIL_2020_NOEVOLVE",
+    "released_date": "2022/04/12"
   },
   {
     "dex": 469,
