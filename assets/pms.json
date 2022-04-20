@@ -3188,10 +3188,19 @@
   },
   {
     "dex": 420,
+    "released_date": "2022/04/20",
     "family": "Cherubi"
   },
   {
     "dex": 421,
+    "type": "_11",
+    "released_date": "2022/04/20",
+    "family": "Cherubi"
+  },
+  {
+    "dex": 421,
+    "type": "_12",
+    "released_date": "2022/04/20",
     "family": "Cherubi"
   },
   {
