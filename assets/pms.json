@@ -1146,6 +1146,13 @@
     "family": "Kangaskhan"
   },
   {
+    "dex": 115,
+    "type": "_51",
+    "aa_fn": "pm115.fMEGA",
+    "name_suffix": "(M)",
+    "family": "Kangaskhan"
+  },
+  {
     "dex": 116,
     "family": "Horsea",
     "released_date": "2019/06/13"
@@ -2894,8 +2901,22 @@
     "family": "Latias"
   },
   {
+    "dex": 380,
+    "type": "_51",
+    "aa_fn": "pm380.fMEGA",
+    "name_suffix": "(M)",
+    "family": "Latias"
+  },
+  {
     "dex": 381,
     "shiny_released": true,
+    "family": "Latios"
+  },
+  {
+    "dex": 381,
+    "type": "_51",
+    "aa_fn": "pm381.fMEGA",
+    "name_suffix": "(M)",
     "family": "Latios"
   },
   {
