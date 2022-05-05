@@ -509,6 +509,13 @@
     "family": "Pikachu_KARIYUSHI"
   },
   {
+    "dex": 25,
+    "released_date": "2022/05/03",
+    "isotope": "_oki",
+    "aa_fn": "pm25.fFLYING_OKINAWA",
+    "family": "Pikachu_FLYING_OKINAWA"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
