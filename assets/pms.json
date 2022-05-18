@@ -1763,6 +1763,13 @@
   },
   {
     "dex": 201,
+    "type": "_15",
+    "released_date": "2022/05/13",
+    "family": "Unown",
+    "name_suffix": "(E)"
+  },
+  {
+    "dex": 201,
     "type": "_16",
     "released_date": "2021/07/17",
     "family": "Unown",
@@ -1784,6 +1791,7 @@
   {
     "dex": 201,
     "type": "_19",
+    "released_date": "2022/05/13",
     "family": "Unown",
     "name_suffix": "(I)"
   },
@@ -1817,6 +1825,13 @@
   },
   {
     "dex": 201,
+    "type": "_29",
+    "released_date": "2022/05/13",
+    "family": "Unown",
+    "name_suffix": "(S)"
+  },
+  {
+    "dex": 201,
     "type": "_30",
     "shiny_released": true,
     "family": "Unown",
@@ -1828,6 +1843,13 @@
     "shiny_released": true,
     "family": "Unown",
     "name_suffix": "(U)"
+  },
+  {
+    "dex": 201,
+    "type": "_32",
+    "released_date": "2022/05/13",
+    "family": "Unown",
+    "name_suffix": "(V)"
   },
   {
     "dex": 202,
