@@ -516,6 +516,13 @@
     "family": "Pikachu_FLYING_OKINAWA"
   },
   {
+    "dex": 25,
+    "released_date": "2022/06/04",
+    "isotope": "_fest22_06",
+    "aa_fn": "pm25.cGOFEST_2022_NOEVOLVE",
+    "family": "Pikachu_GOFEST_2022"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
@@ -4261,15 +4268,18 @@
   },
   {
     "dex": 610,
-    "family": "Axew"
+    "family": "Axew",
+    "released_date": "2022/06/04"
   },
   {
     "dex": 611,
-    "family": "Axew"
+    "family": "Axew",
+    "released_date": "2022/06/04"
   },
   {
     "dex": 612,
-    "family": "Axew"
+    "family": "Axew",
+    "released_date": "2022/06/04"
   },
   {
     "dex": 613,
@@ -4294,11 +4304,13 @@
   },
   {
     "dex": 616,
-    "family": "Shelmet"
+    "family": "Shelmet",
+    "released_date": "2022/06/04"
   },
   {
     "dex": 617,
-    "family": "Shelmet"
+    "family": "Shelmet",
+    "released_date": "2022/06/04"
   },
   {
     "dex": 618,
