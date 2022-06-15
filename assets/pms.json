@@ -523,6 +523,13 @@
     "family": "Pikachu_GOFEST_2022"
   },
   {
+    "dex": 25,
+    "released_date": "2022/06/16",
+    "isotope": "_tcg",
+    "aa_fn": "pm25.cTCG_2022_NOEVOLVE",
+    "family": "Pikachu_TCG"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
