@@ -3254,11 +3254,13 @@
   },
   {
     "dex": 415,
-    "family": "Combee"
+    "family": "Combee",
+    "released_date": "2022/07/22",
   },
   {
     "dex": 416,
-    "family": "Combee"
+    "family": "Combee",
+    "released_date": "2022/07/22",
   },
   {
     "dex": 417,
@@ -3835,11 +3837,13 @@
   },
   {
     "dex": 515,
-    "family": "Panpour"
+    "family": "Panpour",
+    "released_date": "2022/07/22"
   },
   {
     "dex": 516,
-    "family": "Panpour"
+    "family": "Panpour",
+    "released_date": "2022/07/22"
   },
   {
     "dex": 517,
