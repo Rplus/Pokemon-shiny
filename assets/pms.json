@@ -3825,11 +3825,13 @@
   },
   {
     "dex": 513,
-    "family": "Pansear"
+    "family": "Pansear",
+    "released_date": "2022/07/01"
   },
   {
     "dex": 514,
-    "family": "Pansear"
+    "family": "Pansear",
+    "released_date": "2022/07/01"
   },
   {
     "dex": 515,
@@ -4196,11 +4198,13 @@
   },
   {
     "dex": 590,
-    "family": "Foongus"
+    "family": "Foongus",
+    "released_date": "2022/07/01"
   },
   {
     "dex": 591,
-    "family": "Foongus"
+    "family": "Foongus",
+    "released_date": "2022/07/01"
   },
   {
     "dex": 592,
