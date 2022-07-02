@@ -3819,11 +3819,13 @@
   },
   {
     "dex": 511,
-    "family": "Pansage"
+    "family": "Pansage",
+    "released_date": "2022/08/05"
   },
   {
     "dex": 512,
-    "family": "Pansage"
+    "family": "Pansage",
+    "released_date": "2022/08/05"
   },
   {
     "dex": 513,
@@ -4680,11 +4682,13 @@
   },
   {
     "dex": 684,
-    "family": "Swirlix"
+    "family": "Swirlix",
+    "released_date": "2022/08/05"
   },
   {
     "dex": 685,
-    "family": "Swirlix"
+    "family": "Swirlix",
+    "released_date": "2022/08/05"
   },
   {
     "dex": 686,
