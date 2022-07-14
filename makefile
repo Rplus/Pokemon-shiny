@@ -8,7 +8,8 @@ build: copy-assets
 	npm run build;
 
 build-sw:
-	npm run build:sw
+	echo 'yeah~';
+# 	npm run build:sw
 
 copy-assets:
 	mkdir -p public; \
