@@ -59,6 +59,20 @@
     "family": "Charmander_11"
   },
   {
+    "dex": 5,
+    "isotope": "_11",
+    "released_date": "2022/07/06",
+    "aa_fn": "pm5.cJAN_2020_NOEVOLVE",
+    "family": "Charmander_11"
+  },
+  {
+    "dex": 6,
+    "isotope": "_11",
+    "released_date": "2022/07/06",
+    "aa_fn": "pm6.cJAN_2020_NOEVOLVE",
+    "family": "Charmander_11"
+  },
+  {
     "dex": 4,
     "shiny_released": true,
     "isotope": "_14",
@@ -528,6 +542,13 @@
     "isotope": "_tcg",
     "aa_fn": "pm25.cTCG_2022_NOEVOLVE",
     "family": "Pikachu_TCG"
+  },
+  {
+    "dex": 25,
+    "isotope": "_22AN",
+    "released_date": "2022/07/06",
+    "aa_fn": "pm25.cANNIVERSARY_2022_NOEVOLVE",
+    "family": "Pikachu_22an"
   },
   {
     "dex": 27,
