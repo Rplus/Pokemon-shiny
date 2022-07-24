@@ -1389,6 +1389,13 @@
     "family": "Snorlax"
   },
   {
+    "dex": 143,
+    "released_date": "2022/07/16",
+    "isotope": "_22",
+    "aa_fn": "pm143.cGOFEST_2022_NOEVOLVE",
+    "family": "Snorlax"
+  },
+  {
     "dex": 144,
     "shiny_released": true,
     "family": "Articuno"
