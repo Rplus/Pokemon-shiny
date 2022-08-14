@@ -1976,6 +1976,14 @@
     "released_date": "2019/04/02"
   },
   {
+    "dex": 212,
+    "family": "Scyther",
+    "aa_fn": "pm212.fMEGA",
+    "type": "_51",
+    "name_suffix": "(M)",
+    "released_date": "2022/08/10"
+  },
+  {
     "dex": 213,
     "shiny_released": true,
     "family": "Shuckle"
