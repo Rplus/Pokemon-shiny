@@ -558,6 +558,13 @@
     "family": "Pikachu_22FEST"
   },
   {
+    "dex": 25,
+    "isotope": "_22fWCS",
+    "released_date": "2022/08/27",
+    "aa_fn": "pm25.fWCS_2022",
+    "family": "Pikachu_22fWCS"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
