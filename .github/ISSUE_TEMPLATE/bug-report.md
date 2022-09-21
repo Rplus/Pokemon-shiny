@@ -15,6 +15,7 @@ assignees: ''
 2. release date.
 3. shiny image.
 
-You could find image in [PokeMiners](https://github.com/PokeMiners/pogo_assets/commits/master/Images/Pokemon%20-%20256x256/Addressable%20Assets) site. Just paste the image path to here. It is super helpful!
+It is super helpful if you could paste the shiny pokemon url from pokeminers website.
+e.q. https://pokeminers.com/gmexplore/#Pikachu_Copy_2019
 
 You could delete all of above after you read them to create a new issue.Thanks~
