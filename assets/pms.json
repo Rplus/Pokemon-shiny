@@ -3573,15 +3573,22 @@
     "released_date": "2020/03/31"
   },
   {
-    "dex": 453,
-    "isotope": "_16",
+    "dex": 454,
     "family": "Croagunk",
     "released_date": "2020/03/31"
   },
   {
-    "dex": 454,
-    "family": "Croagunk",
+    "dex": 453,
+    "isotope": "_16",
+    "family": "Croagunk_16",
     "released_date": "2020/03/31"
+  },
+  {
+    "dex": 454,
+    "isotope": "_16",
+    "family": "Croagunk_16",
+    "aa_fn": "pm454.cFALL_2020_NOEVOLVE",
+    "released_date": "2022/09/27"
   },
   {
     "dex": 455,
