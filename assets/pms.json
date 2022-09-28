@@ -2911,6 +2911,14 @@
   },
   {
     "dex": 359,
+    "shiny_released": true,
+    "aa_fn": "pm359.cFALL_2022_NOEVOLVE",
+    "released_date": "2022/09/27",
+    "isotope": "_22n",
+    "family": "Absol"
+  },
+  {
+    "dex": 359,
     "family": "Absol",
     "isotope": "_51",
     "name_suffix": "(M)",
@@ -4908,7 +4916,8 @@
   },
   {
     "dex": 717,
-    "family": "Yveltal"
+    "family": "Yveltal",
+    "released_date": "2022/09/27"
   },
   {
     "dex": 718,
