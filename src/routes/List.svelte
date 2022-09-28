@@ -171,6 +171,7 @@ $: {
           data-status={ pm.status }
           title={ `#${pm.dex}${pm.released_date ? ' @' + pm.released_date : ''}` }
           on:click={ click.bind(pm, pmGroupIndex, pmIndex) }
+          style={ pm.style || null }
         >
           <div class="pm-img-box">
             <Image pm={pm} shiny alt={getPmName(pm.name, $lang)} />
