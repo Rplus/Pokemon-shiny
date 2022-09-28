@@ -732,6 +732,22 @@
     "family": "Diglett_61"
   },
   {
+    "dex": 50,
+    "isotope": "_22n",
+    "aa_fn": "pm50.cFALL_2022",
+    "released_date": "2022/09/27",
+    "style": "--t: -20%;",
+    "family": "Diglett_22n"
+  },
+  {
+    "dex": 51,
+    "isotope": "_22n",
+    "aa_fn": "pm51.cFALL_2022",
+    "released_date": "2022/09/27",
+    "style": "--t: -20%;",
+    "family": "Diglett_22n"
+  },
+  {
     "dex": 52,
     "family": "Meowth",
     "released_date": "2019/11/07"
