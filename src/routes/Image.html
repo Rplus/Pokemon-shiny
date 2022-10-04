@@ -29,7 +29,7 @@
   const cdnSrc = cfn || getCdnSrc();
   const proxySrc = cfn || getProxySrc(rawSrc);
 
-  let src = cdnSrc;
+  let src = null;
 
   function getRawSrc() {
     return `https://raw.githubusercontent.com/${REPO}/master/${imgPath}`;
@@ -50,6 +50,8 @@
   }
 
   onMount(() => {
+    src = cdnSrc;
+
     const handleImgError = () => {
       console.error('handleImgError', imgRef.src, rawSrc);
       if (imgRef.src !== rawSrc) {
