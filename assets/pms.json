@@ -1842,6 +1842,12 @@
   },
   {
     "dex": 201,
+    "type": "_14",
+    "family": "Unown",
+    "name_suffix": "(D)"
+  },
+  {
+    "dex": 201,
     "type": "_15",
     "released_date": "2022/05/13",
     "family": "Unown",
@@ -1883,10 +1889,22 @@
   },
   {
     "dex": 201,
+    "type": "_21",
+    "family": "Unown",
+    "name_suffix": "(K)"
+  },
+  {
+    "dex": 201,
     "type": "_22",
     "shiny_released": true,
     "family": "Unown",
     "name_suffix": "(L)"
+  },
+  {
+    "dex": 201,
+    "type": "_23",
+    "family": "Unown",
+    "name_suffix": "(M)"
   },
   {
     "dex": 201,
@@ -1901,6 +1919,18 @@
     "shiny_released": true,
     "family": "Unown",
     "name_suffix": "(O)"
+  },
+  {
+    "dex": 201,
+    "type": "_26",
+    "family": "Unown",
+    "name_suffix": "(P)"
+  },
+  {
+    "dex": 201,
+    "type": "_27",
+    "family": "Unown",
+    "name_suffix": "(Q)"
   },
   {
     "dex": 201,
@@ -1939,10 +1969,40 @@
   },
   {
     "dex": 201,
+    "type": "_33",
+    "family": "Unown",
+    "name_suffix": "(W)"
+  },
+  {
+    "dex": 201,
     "type": "_34",
     "released_date": "2022/08/27",
     "family": "Unown",
     "name_suffix": "(X)"
+  },
+  {
+    "dex": 201,
+    "type": "_35",
+    "family": "Unown",
+    "name_suffix": "(Y)"
+  },
+  {
+    "dex": 201,
+    "type": "_36",
+    "family": "Unown",
+    "name_suffix": "(Z)"
+  },
+  {
+    "dex": 201,
+    "type": "_37",
+    "family": "Unown",
+    "name_suffix": "(!)"
+  },
+  {
+    "dex": 201,
+    "type": "_38",
+    "family": "Unown",
+    "name_suffix": "(?)"
   },
   {
     "dex": 202,
