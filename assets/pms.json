@@ -4459,14 +4459,20 @@
   },
   {
     "dex": 607,
+    "released_date": "2022/10/15",
+    "style": "--l: 15%;",
     "family": "Litwick"
   },
   {
     "dex": 608,
+    "released_date": "2022/10/15",
+    "style": "--l: 15%; --t: 5%;",
     "family": "Litwick"
   },
   {
     "dex": 609,
+    "released_date": "2022/10/15",
+    "style": "--l: 10%; --t: -15%; --w: 120%;",
     "family": "Litwick"
   },
   {
