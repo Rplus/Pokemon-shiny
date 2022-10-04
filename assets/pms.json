@@ -1844,6 +1844,7 @@
     "dex": 201,
     "type": "_14",
     "family": "Unown",
+    "shiny_released": true,
     "name_suffix": "(D)"
   },
   {
@@ -1924,6 +1925,7 @@
     "dex": 201,
     "type": "_26",
     "family": "Unown",
+    "shiny_released": true,
     "name_suffix": "(P)"
   },
   {
@@ -1984,6 +1986,7 @@
     "dex": 201,
     "type": "_35",
     "family": "Unown",
+    "released_date": "2022/09/24",
     "name_suffix": "(Y)"
   },
   {
