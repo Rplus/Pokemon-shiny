@@ -842,6 +842,13 @@
     "released_date": "2019/06/13"
   },
   {
+    "dex": 65,
+    "family": "Abra",
+    "type": "_51",
+    "name_suffix": "(M)",
+    "released_date": "2022/09/06"
+  },
+  {
     "dex": 66,
     "family": "Machop",
     "released_date": "2019/03/05"
