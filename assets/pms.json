@@ -2655,6 +2655,14 @@
     "released_date": "2018/01/23"
   },
   {
+    "dex": 306,
+    "family": "Aron",
+    "type": "_51",
+    "name_suffix": "(M)",
+    "aa_fn": "pm306.fMEGA",
+    "released_date": "2022/09/16"
+  },
+  {
     "dex": 307,
     "family": "Meditite",
     "released_date": "2018/05/01"
