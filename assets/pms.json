@@ -4274,6 +4274,12 @@
     "released_date": "2019/10/17"
   },
   {
+    "dex": 562,
+    "type": "_31",
+    "family": "Yamask_31",
+    "released_date": "2022/10/20"
+  },
+  {
     "dex": 563,
     "family": "Yamask",
     "released_date": "2019/10/17"
@@ -5122,6 +5128,8 @@
   },
   {
     "dex": 867,
-    "family": "Yamask"
+    "released_date": "2022/10/20",
+    "aa_fn": "pm867",
+    "family": "Yamask_31"
   }
 ]
