@@ -2981,6 +2981,14 @@
     "released_date": "2017/10/31"
   },
   {
+    "dex": 354,
+    "family": "Shuppet",
+    "type": "_51",
+    "aa_fn": "pm354.fMEGA",
+    "name_suffix": "(M)",
+    "released_date": "2022/10/20"
+  },
+  {
     "dex": 355,
     "family": "Duskull",
     "released_date": "2017/10/26"
