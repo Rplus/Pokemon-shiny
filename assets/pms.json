@@ -4863,7 +4863,69 @@
     "dex": 676,
     "released_date": "2022/09/27",
     "aa_fn": "pm676.fNATURAL",
-    "style": "--t: 8%; --l: 12%;",
+    "family": "Furfrou"
+  },
+  {
+    "dex": 676,
+    "released_date": "2022/09/27",
+    "isotope": "_fDEBUTANTE",
+    "aa_fn": "pm676.fDEBUTANTE",
+    "family": "Furfrou"
+  },
+  {
+    "dex": 676,
+    "released_date": "2022/09/27",
+    "isotope": "_fSTAR",
+    "aa_fn": "pm676.fSTAR",
+    "family": "Furfrou"
+  },
+  {
+    "dex": 676,
+    "released_date": "2022/09/27",
+    "isotope": "_fDANDY",
+    "aa_fn": "pm676.fDANDY",
+    "family": "Furfrou"
+  },
+  {
+    "dex": 676,
+    "released_date": "2022/09/27",
+    "isotope": "_fHEART",
+    "aa_fn": "pm676.fHEART",
+    "family": "Furfrou"
+  },
+  {
+    "dex": 676,
+    "released_date": "2022/09/27",
+    "isotope": "_fKABUKI",
+    "aa_fn": "pm676.fKABUKI",
+    "family": "Furfrou"
+  },
+  {
+    "dex": 676,
+    "released_date": "2022/09/27",
+    "isotope": "_fMATRON",
+    "aa_fn": "pm676.fMATRON",
+    "family": "Furfrou"
+  },
+  {
+    "dex": 676,
+    "released_date": "2022/09/27",
+    "isotope": "_fDIAMOND",
+    "aa_fn": "pm676.fDIAMOND",
+    "family": "Furfrou"
+  },
+  {
+    "dex": 676,
+    "released_date": "2022/09/27",
+    "isotope": "_fPHARAOH",
+    "aa_fn": "pm676.fPHARAOH",
+    "family": "Furfrou"
+  },
+  {
+    "dex": 676,
+    "released_date": "2022/09/27",
+    "isotope": "_fLA_REINE",
+    "aa_fn": "pm676.fLA_REINE",
     "family": "Furfrou"
   },
   {
