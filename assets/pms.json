@@ -655,6 +655,22 @@
     "family": "Vulpix_61"
   },
   {
+    "dex": 37,
+    "released_date": "2022/10/27",
+    "isotope": "c22",
+    "aa_fn": "pm37.cFALL_2022",
+    "style": "--w: 120%; --t: -10%;",
+    "family": "Vulpix_2022"
+  },
+  {
+    "dex": 38,
+    "released_date": "2022/10/27",
+    "isotope": "c22",
+    "aa_fn": "pm38.cFALL_2022",
+    "style": "--w: 120%",
+    "family": "Vulpix_2022"
+  },
+  {
     "dex": 39,
     "family": "Jigglypuff",
     "released_date": "2019/04/16"
