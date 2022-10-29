@@ -5085,11 +5085,33 @@
   },
   {
     "dex": 710,
+    "released_date": "2022/10/27",
+    "aa_fn": "pm710",
+    "style": "--w: 110%; --t: 0%; --l: 5%;",
     "family": "Pumpkaboo"
   },
   {
     "dex": 711,
+    "released_date": "2022/10/27",
+    "aa_fn": "pm711",
+    "style": "--w: 110%; --t: 3%; --l: 5%;",
     "family": "Pumpkaboo"
+  },
+  {
+    "dex": 710,
+    "released_date": "2022/10/27",
+    "isotope": "_c22",
+    "aa_fn": "pm710.fAVERAGE.cFALL_2022",
+    "style": "--w: 110%; --t: 15%; --l: 5%;",
+    "family": "Pumpkaboo_2022"
+  },
+  {
+    "dex": 711,
+    "released_date": "2022/10/27",
+    "isotope": "_c22",
+    "aa_fn": "pm711.fAVERAGE.cFALL_2022",
+    "style": "--w: 110%; --t: 3%; --l: 5%;",
+    "family": "Pumpkaboo_2022"
   },
   {
     "dex": 712,
