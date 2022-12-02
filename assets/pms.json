@@ -3057,6 +3057,20 @@
     "released_date": "2017/10/26"
   },
   {
+    "dex": 355,
+    "family": "Duskull_f22",
+    "isotope": "_f22",
+    "aa_fn": "pm355.cFALL_2022_NOEVOLVE",
+    "released_date": "2022/11/01"
+  },
+  {
+    "dex": 356,
+    "family": "Duskull_f22",
+    "isotope": "_f22",
+    "aa_fn": "pm356.cFALL_2022_NOEVOLVE",
+    "released_date": "2022/11/01"
+  },
+  {
     "dex": 357,
     "family": "Tropius"
   },
@@ -3904,6 +3918,14 @@
     "dex": 477,
     "family": "Duskull",
     "released_date": "2017/10/26"
+  },
+  {
+    "dex": 477,
+    "family": "Duskull_f22",
+    "isotope": "_f22",
+    "style": "--t: -5%",
+    "aa_fn": "pm477.cFALL_2022_NOEVOLVE",
+    "released_date": "2022/11/01"
   },
   {
     "dex": 478,
