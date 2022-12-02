@@ -579,6 +579,20 @@
     "family": "Pikachu_t01"
   },
   {
+    "dex": 25,
+    "isotope": "_t02",
+    "released_date": "2022/11/24",
+    "aa_fn": "pm25.fTSHIRT_02",
+    "family": "Pikachu_t02"
+  },
+  {
+    "dex": 25,
+    "isotope": "_f02",
+    "released_date": "2022/11/24",
+    "aa_fn": "pm25.fFLYING_02",
+    "family": "Pikachu_f02"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
