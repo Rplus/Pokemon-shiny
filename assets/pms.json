@@ -2173,6 +2173,13 @@
     "released_date": "2020/03/26"
   },
   {
+    "dex": 901,
+    "family": "Teddiursa",
+    "aa_fn": "pm901",
+    "style": "--w: 130%; --t: -20%; --l: 0%;",
+    "released_date": "2022/11/12"
+  },
+  {
     "dex": 218,
     "family": "Slugma",
     "released_date": "2021/01/07"
