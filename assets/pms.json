@@ -5182,9 +5182,45 @@
   {
     "dex": 710,
     "released_date": "2022/10/27",
+    "isotope": "_c22s",
+    "aa_fn": "pm710.fSMALL.cFALL_2022",
+    "style": "--w: 110%; --t: 15%; --l: 5%;",
+    "name_suffix": "(S)",
+    "family": "Pumpkaboo_2022"
+  },
+  {
+    "dex": 710,
+    "released_date": "2022/10/27",
     "isotope": "_c22",
     "aa_fn": "pm710.fAVERAGE.cFALL_2022",
     "style": "--w: 110%; --t: 15%; --l: 5%;",
+    "family": "Pumpkaboo_2022"
+  },
+  {
+    "dex": 710,
+    "released_date": "2022/10/27",
+    "isotope": "_c22l",
+    "aa_fn": "pm710.fLARGE.cFALL_2022",
+    "style": "--w: 110%; --t: 15%; --l: 5%;",
+    "name_suffix": "(L)",
+    "family": "Pumpkaboo_2022"
+  },
+  {
+    "dex": 710,
+    "released_date": "2022/10/27",
+    "isotope": "_c22x",
+    "aa_fn": "pm710.fSUPER.cFALL_2022",
+    "style": "--w: 110%; --t: 15%; --l: 5%;",
+    "name_suffix": "(XL)",
+    "family": "Pumpkaboo_2022"
+  },
+  {
+    "dex": 711,
+    "released_date": "2022/10/27",
+    "isotope": "_c22s",
+    "aa_fn": "pm711.fSMALL.cFALL_2022",
+    "style": "--w: 110%; --t: 3%; --l: 5%;",
+    "name_suffix": "(S)",
     "family": "Pumpkaboo_2022"
   },
   {
@@ -5193,6 +5229,24 @@
     "isotope": "_c22",
     "aa_fn": "pm711.fAVERAGE.cFALL_2022",
     "style": "--w: 110%; --t: 3%; --l: 5%;",
+    "family": "Pumpkaboo_2022"
+  },
+  {
+    "dex": 711,
+    "released_date": "2022/10/27",
+    "isotope": "_c22l",
+    "aa_fn": "pm711.fLARGE.cFALL_2022",
+    "style": "--w: 110%; --t: 3%; --l: 5%;",
+    "name_suffix": "(L)",
+    "family": "Pumpkaboo_2022"
+  },
+  {
+    "dex": 711,
+    "released_date": "2022/10/27",
+    "isotope": "_c22x",
+    "aa_fn": "pm711.fSUPER.cFALL_2022",
+    "style": "--w: 110%; --t: 3%; --l: 5%;",
+    "name_suffix": "(XL)",
     "family": "Pumpkaboo_2022"
   },
   {
