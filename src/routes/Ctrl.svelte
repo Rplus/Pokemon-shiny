@@ -73,8 +73,8 @@ $: {
     counter[i] = allCount.slice(idx).reduce((all, i) => all + i, 0);
   });
 
-  counter.rate.owns = (counter.owns / counter.released).toFixed(5);
-  counter.rate.registered = (counter.registered / counter.released).toFixed(5);
+  counter.rate.owns = (counter.owns / counter.released || 0).toFixed(5);
+  counter.rate.registered = (counter.registered / counter.released || 0).toFixed(5);
 }
 
 let switcher = {
