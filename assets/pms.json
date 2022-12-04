@@ -2422,6 +2422,13 @@
     "released_date": "2019/03/23"
   },
   {
+    "dex": 254,
+    "family": "Treecko",
+    "name_suffix": "(M)",
+    "aa_fn": "pm254.fMEGA",
+    "released_date": "2022/12/02"
+  },
+  {
     "dex": 255,
     "family": "Torchic",
     "released_date": "2019/05/19"
@@ -2437,6 +2444,13 @@
     "released_date": "2019/05/19"
   },
   {
+    "dex": 257,
+    "family": "Torchic",
+    "name_suffix": "(M)",
+    "aa_fn": "pm257.fMEGA",
+    "released_date": "2022/12/02"
+  },
+  {
     "dex": 258,
     "family": "Mudkip",
     "released_date": "2019/07/21"
@@ -2450,6 +2464,14 @@
     "dex": 260,
     "family": "Mudkip",
     "released_date": "2019/07/21"
+  },
+  {
+    "dex": 260,
+    "family": "Mudkip",
+    "name_suffix": "(M)",
+    "aa_fn": "pm260.fMEGA",
+    "style": "--l: 0%; --t: -5%",
+    "released_date": "2022/12/02"
   },
   {
     "dex": 261,
@@ -3135,6 +3157,13 @@
     "dex": 362,
     "family": "Snorunt",
     "released_date": "2017/12/21"
+  },
+  {
+    "dex": 362,
+    "family": "Snorunt",
+    "name_suffix": "(M)",
+    "aa_fn": "pm362.fMEGA",
+    "released_date": "2022/12/15"
   },
   {
     "dex": 363,
