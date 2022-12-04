@@ -1319,6 +1319,12 @@
     "family": "Mr Mime"
   },
   {
+    "dex": 122,
+    "released_date": "2022/12/01",
+    "type": "_31",
+    "family": "Mr Mime_31"
+  },
+  {
     "dex": 123,
     "family": "Scyther",
     "released_date": "2019/04/02"
@@ -5366,7 +5372,10 @@
   },
   {
     "dex": 866,
-    "family": "Mr_mime"
+    "released_date": "2022/12/01",
+    "type": "_31",
+    "style": "--w: 130%; --t: -20%",
+    "family": "Mr Mime_31"
   },
   {
     "dex": 867,
