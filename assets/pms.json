@@ -2424,6 +2424,7 @@
   {
     "dex": 254,
     "family": "Treecko",
+    "type": "_51",
     "name_suffix": "(M)",
     "aa_fn": "pm254.fMEGA",
     "released_date": "2022/12/02"
@@ -2446,6 +2447,7 @@
   {
     "dex": 257,
     "family": "Torchic",
+    "type": "_51",
     "name_suffix": "(M)",
     "aa_fn": "pm257.fMEGA",
     "released_date": "2022/12/02"
@@ -2468,6 +2470,7 @@
   {
     "dex": 260,
     "family": "Mudkip",
+    "type": "_51",
     "name_suffix": "(M)",
     "aa_fn": "pm260.fMEGA",
     "style": "--l: 0%; --t: -5%",
