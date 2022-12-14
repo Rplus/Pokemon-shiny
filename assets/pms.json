@@ -5234,10 +5234,10 @@
   {
     "dex": 710,
     "released_date": "2022/10/27",
-    "isotope": "_c22s",
+    "isotope": "_c22xs",
     "aa_fn": "pm710.fSMALL.cFALL_2022",
     "style": "--w: 110%; --t: 15%; --l: 5%;",
-    "name_suffix": "(S)",
+    "name_suffix": "(XS)",
     "family": "Pumpkaboo_2022"
   },
   {
@@ -5251,28 +5251,28 @@
   {
     "dex": 710,
     "released_date": "2022/10/27",
-    "isotope": "_c22l",
+    "isotope": "_c22xl",
     "aa_fn": "pm710.fLARGE.cFALL_2022",
-    "style": "--w: 110%; --t: 15%; --l: 5%;",
-    "name_suffix": "(L)",
-    "family": "Pumpkaboo_2022"
-  },
-  {
-    "dex": 710,
-    "released_date": "2022/10/27",
-    "isotope": "_c22x",
-    "aa_fn": "pm710.fSUPER.cFALL_2022",
     "style": "--w: 110%; --t: 15%; --l: 5%;",
     "name_suffix": "(XL)",
     "family": "Pumpkaboo_2022"
   },
   {
+    "dex": 710,
+    "released_date": "2022/10/27",
+    "isotope": "_c22xxl",
+    "aa_fn": "pm710.fSUPER.cFALL_2022",
+    "style": "--w: 110%; --t: 15%; --l: 5%;",
+    "name_suffix": "(XXL)",
+    "family": "Pumpkaboo_2022"
+  },
+  {
     "dex": 711,
     "released_date": "2022/10/27",
-    "isotope": "_c22s",
+    "isotope": "_c22xs",
     "aa_fn": "pm711.fSMALL.cFALL_2022",
     "style": "--w: 110%; --t: 3%; --l: 5%;",
-    "name_suffix": "(S)",
+    "name_suffix": "(xS)",
     "family": "Pumpkaboo_2022"
   },
   {
@@ -5286,19 +5286,19 @@
   {
     "dex": 711,
     "released_date": "2022/10/27",
-    "isotope": "_c22l",
+    "isotope": "_c22xl",
     "aa_fn": "pm711.fLARGE.cFALL_2022",
     "style": "--w: 110%; --t: 3%; --l: 5%;",
-    "name_suffix": "(L)",
+    "name_suffix": "(XL)",
     "family": "Pumpkaboo_2022"
   },
   {
     "dex": 711,
     "released_date": "2022/10/27",
-    "isotope": "_c22x",
+    "isotope": "_c22xxl",
     "aa_fn": "pm711.fSUPER.cFALL_2022",
     "style": "--w: 110%; --t: 3%; --l: 5%;",
-    "name_suffix": "(XL)",
+    "name_suffix": "(XXL)",
     "family": "Pumpkaboo_2022"
   },
   {
