@@ -4668,16 +4668,24 @@
     "family": "Cubchoo"
   },
   {
-    "dex": 613,
-    "released_date": "2020/12/18",
-    "fn": "pm0613_00_pgo_winter2020",
-    "isotope": "_winter2020",
-    "family": "Cubchoo"
-  },
-  {
     "dex": 614,
     "released_date": "2020/12/18",
     "family": "Cubchoo"
+  },
+  {
+    "dex": 613,
+    "released_date": "2020/12/18",
+    "aa_fn": "pm613.fWINTER_2020",
+    "isotope": "_winter2020",
+    "family": "Cubchoo_winter"
+  },
+  {
+    "dex": 614,
+    "isotope": "_winter2020",
+    "released_date": "2022/12/23",
+    "style": "--w: 110%; --t: 5%; --l: 10%;",
+    "aa_fn": "pm614.fWINTER_2020",
+    "family": "Cubchoo_winter"
   },
   {
     "dex": 615,
