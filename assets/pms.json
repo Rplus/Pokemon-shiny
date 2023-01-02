@@ -5303,10 +5303,24 @@
   },
   {
     "dex": 712,
+    "released_date": "2022/12/23",
+    "aa_fn": "pm712",
+    "style": "--w: 110%; --t: 0%; --l: 10%;",
     "family": "Bergmite"
   },
   {
     "dex": 713,
+    "released_date": "2022/12/23",
+    "aa_fn": "pm713",
+    "style": "--w: 110%; --t: 0%; --l: 10%;",
+    "family": "Bergmite"
+  },
+  {
+    "dex": 713,
+    "released_date": "2022/12/23",
+    "type": "_31",
+    "aa_fn": "pm713.fHISUIAN",
+    "style": "--w: 120%; --t: 0%; --l: 5%;",
     "family": "Bergmite"
   },
   {
