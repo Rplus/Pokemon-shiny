@@ -1637,6 +1637,13 @@
     "released_date": "2022/01/01"
   },
   {
+    "dex": 164,
+    "family": "Hoothoot_2022",
+    "aa_fn": "pm164.cJAN_2022_NOEVOLVE",
+    "isotope": "_202201",
+    "released_date": "2022/12/31"
+  },
+  {
     "dex": 165,
     "released_date": "2020/09/10",
     "family": "Ledyba"
