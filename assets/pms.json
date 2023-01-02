@@ -593,6 +593,13 @@
     "family": "Pikachu_f02"
   },
   {
+    "dex": 25,
+    "isotope": "_j23",
+    "released_date": "2022/12/31",
+    "aa_fn": "pm25.cJAN_2023_NOEVOLVE",
+    "family": "Pikachu_j23"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
