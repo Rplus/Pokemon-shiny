@@ -1402,6 +1402,13 @@
   },
   {
     "dex": 133,
+    "released_date": "2022/12/31",
+    "isotope": "_22h",
+    "aa_fn": "pm133.cHOLIDAY_2022",
+    "family": "Eevee_2022h"
+  },
+  {
+    "dex": 133,
     "shiny_released": true,
     "isotope": "_11",
     "family": "Eevee_11"
@@ -1418,6 +1425,13 @@
     "family": "Eevee_07"
   },
   {
+    "dex": 134,
+    "released_date": "2022/12/31",
+    "isotope": "_22h",
+    "aa_fn": "pm134.cHOLIDAY_2022",
+    "family": "Eevee_2022h"
+  },
+  {
     "dex": 135,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -1429,6 +1443,13 @@
     "family": "Eevee_07"
   },
   {
+    "dex": 135,
+    "released_date": "2022/12/31",
+    "isotope": "_22h",
+    "aa_fn": "pm135.cHOLIDAY_2022",
+    "family": "Eevee_2022h"
+  },
+  {
     "dex": 136,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -1438,6 +1459,13 @@
     "shiny_released": true,
     "isotope": "_07",
     "family": "Eevee_07"
+  },
+  {
+    "dex": 136,
+    "released_date": "2022/12/31",
+    "isotope": "_22h",
+    "aa_fn": "pm136.cHOLIDAY_2022",
+    "family": "Eevee_2022h"
   },
   {
     "dex": 137,
@@ -1847,6 +1875,13 @@
     "family": "Eevee_07"
   },
   {
+    "dex": 196,
+    "released_date": "2022/12/31",
+    "isotope": "_22h",
+    "aa_fn": "pm196.cHOLIDAY_2022",
+    "family": "Eevee_2022h"
+  },
+  {
     "dex": 197,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -1856,6 +1891,13 @@
     "shiny_released": true,
     "isotope": "_07",
     "family": "Eevee_07"
+  },
+  {
+    "dex": 197,
+    "released_date": "2022/12/31",
+    "isotope": "_22h",
+    "aa_fn": "pm197.cHOLIDAY_2022",
+    "family": "Eevee_2022h"
   },
   {
     "dex": 198,
@@ -3924,6 +3966,13 @@
     "family": "Eevee_07"
   },
   {
+    "dex": 470,
+    "released_date": "2022/12/31",
+    "isotope": "_22h",
+    "aa_fn": "pm470.cHOLIDAY_2022",
+    "family": "Eevee_2022h"
+  },
+  {
     "dex": 471,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -3940,6 +3989,13 @@
     "family": "Eevee_11",
     "aa_fn": "pm471.cHOLIDAY_2021_NOEVOLVE",
     "released_date": "2021/12/16"
+  },
+  {
+    "dex": 471,
+    "released_date": "2022/12/31",
+    "isotope": "_22h",
+    "aa_fn": "pm471.cHOLIDAY_2022",
+    "family": "Eevee_2022h"
   },
   {
     "dex": 472,
@@ -5190,6 +5246,13 @@
     "released_date": "2021/05/25",
     "isotope": "_07",
     "family": "Eevee_07"
+  },
+  {
+    "dex": 700,
+    "released_date": "2022/12/31",
+    "isotope": "_22h",
+    "aa_fn": "pm700.cHOLIDAY_2022",
+    "family": "Eevee_2022h"
   },
   {
     "dex": 701,
