@@ -3219,6 +3219,7 @@
   },
   {
     "dex": 362,
+    "type": "_51",
     "family": "Snorunt",
     "name_suffix": "(M)",
     "aa_fn": "pm362.fMEGA",
