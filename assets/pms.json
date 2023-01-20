@@ -3287,6 +3287,15 @@
     "released_date": "2019/04/13"
   },
   {
+    "dex": 373,
+    "family": "Bagon",
+    "type": "_51",
+    "name_suffix": "(M)",
+    "aa_fn": "pm373.fMEGA",
+    "style": "--w: 170%; --l: -20%; --t: -25%;",
+    "released_date": "2023/01/10"
+  },
+  {
     "dex": 374,
     "family": "Beldum",
     "released_date": "2018/10/21"
