@@ -10,6 +10,7 @@ import {
   nickname,
   pmTotalStatus,
   compareImg, saveConfigForCompareImg,
+  forceFetch, saveConfigForForceFetch,
 } from '../stores.js';
 import GitHubCorner from './Github-icon.html';
 import Share from './Share.html';
@@ -33,6 +34,10 @@ $: {
 
 $: {
   saveConfigForCompareImg($compareImg);
+}
+
+$: {
+  saveConfigForForceFetch($forceFetch);
 }
 
 $: updateTime = document.querySelector('meta[name="update-time"]').content;
@@ -221,6 +226,13 @@ let switcher = {
     <hr />
 
     <Share searchStr={ searchStr } />
+    <hr>
+
+    <label class="ml-a clickable">
+      <input type="checkbox" bind:checked={ $forceFetch }>
+      { $_('force.fetch') }
+    </label>
+
     <hr>
 
     <Urls/>

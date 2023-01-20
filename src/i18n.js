@@ -24,6 +24,12 @@ let _words = {
     'de': 'Freiwählbare Farbe',
     'it': 'Colore personalizzato',
   },
+  'force.fetch': {
+    'en': 'Always Get Newest Data',
+    'zh': '強制獲取最新資料',
+    'de': 'Erhalten Sie immer die neuesten Daten',
+    'it': 'Ottieni sempre i dati più recenti',
+  },
   'custom.color.reset': {
     'en': 'Reset',
     'zh': '重設',

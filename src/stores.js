@@ -42,6 +42,14 @@ export const saveConfigForCompareImg = (value) => {
   });
 };
 
+export const forceFetch = writable(getItem('config.forceFetch'));
+export const saveConfigForForceFetch = (value) => {
+  saveItem({
+    key: 'config.forceFetch',
+    value: !!value,
+  });
+};
+
 export const searchStr = derived(
   [dex, nickname, lang, show],
   ([$dex, $nickname, $lang, $show]) => genSearchStr({

@@ -1,3 +1,4 @@
+import { getItem } from './u.js';
 const today = new Date();
 
 function groupByFamily(pms) {
@@ -70,7 +71,12 @@ function sortPM(a, b) {
 };
 
 export async function getPM() {
-  let pms = await Promise.all(['./pms.json', './name.json'].map(fn => fetch(fn).then(res => res.json())))
+  let forceFetch = !!getItem('config.forceFetch');
+  let pms = await Promise.all(
+      ['./pms.json', './name.json']
+        .map(i => forceFetch ? `${i}?${+new Date()}` : i)
+        .map(fn => fetch(fn).then(res => res.json()) )
+    )
     .then(genPmName)
     .then(groupByFamily);
   return pms;
