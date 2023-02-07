@@ -73,8 +73,7 @@ function sortPM(a, b) {
 export async function getPM() {
   let forceFetch = !!getItem('config.forceFetch');
   let pms = await Promise.all(
-      ['./pms.json', './name.json']
-        .map(i => forceFetch ? `${i}?${+new Date()}` : i)
+      ['./pms.json' + (forceFetch ? `?${+new Date()}` : ''), './name.json']
         .map(fn => fetch(fn).then(res => res.json()) )
     )
     .then(genPmName)
