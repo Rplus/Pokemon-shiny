@@ -1991,6 +1991,7 @@
   {
     "dex": 201,
     "type": "_18",
+    "released_date": "2023/02/18",
     "family": "Unown",
     "name_suffix": "(H)"
   },
@@ -2683,10 +2684,12 @@
   },
   {
     "dex": 283,
+    "released_date": "2023/02/18",
     "family": "Surskit"
   },
   {
     "dex": 284,
+    "released_date": "2023/02/18",
     "family": "Surskit"
   },
   {
@@ -2869,10 +2872,12 @@
   },
   {
     "dex": 316,
+    "released_date": "2023/02/18",
     "family": "Gulpin"
   },
   {
     "dex": 317,
+    "released_date": "2023/02/18",
     "family": "Gulpin"
   },
   {
@@ -3003,10 +3008,12 @@
   },
   {
     "dex": 331,
+    "released_date": "2023/02/18",
     "family": "Cacnea"
   },
   {
     "dex": 332,
+    "released_date": "2023/02/18",
     "family": "Cacnea"
   },
   {
@@ -3135,6 +3142,7 @@
   },
   {
     "dex": 352,
+    "released_date": "2023/02/18",
     "family": "Kecleon"
   },
   {
@@ -3181,6 +3189,7 @@
   },
   {
     "dex": 357,
+    "released_date": "2023/02/18",
     "family": "Tropius"
   },
   {
@@ -3272,6 +3281,7 @@
   },
   {
     "dex": 369,
+    "released_date": "2023/02/18",
     "family": "Relicanth"
   },
   {
@@ -3376,6 +3386,7 @@
   },
   {
     "dex": 385,
+    "released_date": "2023/02/18",
     "family": "Jirachi"
   },
   {
