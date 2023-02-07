@@ -2674,6 +2674,14 @@
     "released_date": "2019/08/03"
   },
   {
+    "dex": 282,
+    "family": "Ralts",
+    "type": "_51",
+    "name_suffix": "(M)",
+    "aa_fn": "pm282.fMEGA",
+    "released_date": "2023/02/08"
+  },
+  {
     "dex": 283,
     "family": "Surskit"
   },
