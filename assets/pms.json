@@ -5244,11 +5244,17 @@
   },
   {
     "dex": 694,
-    "family": "Helioptile"
+    "family": "Helioptile",
+    "released_date": "2023/01/27",
+    "style": "--l: 10%; --t: -10%; --w: 120%;",
+    "aa_fn": "pm694"
   },
   {
     "dex": 695,
-    "family": "Helioptile"
+    "family": "Helioptile",
+    "released_date": "2023/01/27",
+    "style": "--l: 10%; --t: -10%; --w: 120%;",
+    "aa_fn": "pm695"
   },
   {
     "dex": 696,
