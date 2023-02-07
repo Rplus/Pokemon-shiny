@@ -2933,6 +2933,7 @@
     "type": "_11",
     "shiny_released": true,
     "name_suffix": "(#1)",
+    "aa_fn": "pm327.f00",
     "family": "Spinda"
   },
   {
@@ -2940,6 +2941,7 @@
     "type": "_12",
     "shiny_released": true,
     "name_suffix": "(#2)",
+    "aa_fn": "pm327.f01",
     "family": "Spinda"
   },
   {
@@ -2947,6 +2949,7 @@
     "type": "_13",
     "shiny_released": true,
     "name_suffix": "(#3)",
+    "aa_fn": "pm327.f02",
     "family": "Spinda"
   },
   {
@@ -2954,6 +2957,7 @@
     "type": "_14",
     "shiny_released": true,
     "name_suffix": "(#4)",
+    "aa_fn": "pm327.f03",
     "family": "Spinda"
   },
   {
@@ -2961,6 +2965,7 @@
     "type": "_15",
     "shiny_released": true,
     "name_suffix": "(#5)",
+    "aa_fn": "pm327.f04",
     "family": "Spinda"
   },
   {
@@ -2968,6 +2973,7 @@
     "type": "_16",
     "shiny_released": true,
     "name_suffix": "(#6)",
+    "aa_fn": "pm327.f05",
     "family": "Spinda"
   },
   {
@@ -2975,6 +2981,7 @@
     "type": "_17",
     "shiny_released": true,
     "name_suffix": "(#7)",
+    "aa_fn": "pm327.f06",
     "family": "Spinda"
   },
   {
@@ -2982,12 +2989,14 @@
     "type": "_18",
     "shiny_released": true,
     "name_suffix": "(#8)",
+    "aa_fn": "pm327.f07",
     "family": "Spinda"
   },
   {
     "dex": 327,
     "type": "_19",
     "name_suffix": "(#9)",
+    "aa_fn": "pm327.f08",
     "released_date": "2021/02/14",
     "family": "Spinda"
   },
