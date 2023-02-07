@@ -5495,6 +5495,208 @@
     "released_date": "2022/04/23",
     "aa_fn": "pm760"
   },
+
+    {
+    "dex": 761,
+    "family": "bounsweet"
+  },
+  {
+    "dex": 762,
+    "family": "bounsweet"
+  },
+  {
+    "dex": 763,
+    "family": "bounsweet"
+  },
+  {
+    "dex": 764,
+    "family": "comfey"
+  },
+  {
+    "dex": 765,
+    "family": "oranguru"
+  },
+  {
+    "dex": 766,
+    "family": "passimian"
+  },
+  {
+    "dex": 767,
+    "family": "wimpod"
+  },
+  {
+    "dex": 768,
+    "family": "wimpod"
+  },
+  {
+    "dex": 769,
+    "family": "sandygast"
+  },
+  {
+    "dex": 770,
+    "family": "sandygast"
+  },
+  {
+    "dex": 771,
+    "family": "pyukumuku"
+  },
+  {
+    "dex": 772,
+    "family": "type_null"
+  },
+  {
+    "dex": 773,
+    "family": "type_null"
+  },
+  {
+    "dex": 774,
+    "family": "minior"
+  },
+  {
+    "dex": 775,
+    "family": "komala"
+  },
+  {
+    "dex": 776,
+    "family": "turtonator"
+  },
+  {
+    "dex": 777,
+    "family": "togedemaru"
+  },
+  {
+    "dex": 778,
+    "family": "mimikyu"
+  },
+  {
+    "dex": 778,
+    "family": "mimikyu"
+  },
+  {
+    "dex": 779,
+    "family": "bruxish"
+  },
+  {
+    "dex": 780,
+    "family": "drampa"
+  },
+  {
+    "dex": 781,
+    "family": "dhelmise"
+  },
+  {
+    "dex": 782,
+    "family": "jangmo_o"
+  },
+  {
+    "dex": 783,
+    "family": "jangmo_o"
+  },
+  {
+    "dex": 784,
+    "family": "jangmo_o"
+  },
+  {
+    "dex": 785,
+    "family": "tapu_koko"
+  },
+  {
+    "dex": 786,
+    "family": "tapu_lele"
+  },
+  {
+    "dex": 787,
+    "family": "tapu_bulu"
+  },
+  {
+    "dex": 788,
+    "family": "tapu_fini"
+  },
+  {
+    "dex": 789,
+    "family": "cosmog"
+  },
+  {
+    "dex": 790,
+    "family": "cosmog"
+  },
+  {
+    "dex": 791,
+    "family": "cosmog"
+  },
+  {
+    "dex": 792,
+    "family": "cosmog"
+  },
+  {
+    "dex": 793,
+    "family": "nihilego"
+  },
+  {
+    "dex": 794,
+    "family": "buzzwole"
+  },
+  {
+    "dex": 795,
+    "family": "pheromosa"
+  },
+  {
+    "dex": 796,
+    "family": "xurkitree"
+  },
+  {
+    "dex": 797,
+    "family": "celesteela"
+  },
+  {
+    "dex": 798,
+    "family": "kartana"
+  },
+  {
+    "dex": 799,
+    "family": "guzzlord"
+  },
+  {
+    "dex": 800,
+    "family": "necrozma"
+  },
+  {
+    "dex": 801,
+    "family": "magearna"
+  },
+  {
+    "dex": 801,
+    "family": "magearna"
+  },
+  {
+    "dex": 801,
+    "family": "magearna"
+  },
+  {
+    "dex": 802,
+    "family": "marshadow"
+  },
+  {
+    "dex": 803,
+    "family": "poipole"
+  },
+  {
+    "dex": 804,
+    "family": "poipole"
+  },
+  {
+    "dex": 805,
+    "family": "stakataka"
+  },
+  {
+    "dex": 806,
+    "family": "blacephalon"
+  },
+  {
+    "dex": 807,
+    "family": "zeraora"
+  },
+
   {
     "dex": 808,
     "family": "Meltan",
@@ -5505,6 +5707,240 @@
     "family": "Meltan",
     "released_date": "2019/02/05"
   },
+
+    {
+    "dex": 810,
+    "family": "grookey"
+  },
+  {
+    "dex": 811,
+    "family": "grookey"
+  },
+  {
+    "dex": 812,
+    "family": "grookey"
+  },
+  {
+    "dex": 813,
+    "family": "scorbunny"
+  },
+  {
+    "dex": 814,
+    "family": "scorbunny"
+  },
+  {
+    "dex": 815,
+    "family": "scorbunny"
+  },
+  {
+    "dex": 816,
+    "family": "sobble"
+  },
+  {
+    "dex": 817,
+    "family": "sobble"
+  },
+  {
+    "dex": 818,
+    "family": "sobble"
+  },
+  {
+    "dex": 819,
+    "family": "skwovet"
+  },
+  {
+    "dex": 820,
+    "family": "skwovet"
+  },
+  {
+    "dex": 821,
+    "family": "rookidee"
+  },
+  {
+    "dex": 822,
+    "family": "rookidee"
+  },
+  {
+    "dex": 823,
+    "family": "rookidee"
+  },
+  {
+    "dex": 824,
+    "family": "blipbug"
+  },
+  {
+    "dex": 825,
+    "family": "blipbug"
+  },
+  {
+    "dex": 826,
+    "family": "blipbug"
+  },
+  {
+    "dex": 827,
+    "family": "nickit"
+  },
+  {
+    "dex": 828,
+    "family": "nickit"
+  },
+  {
+    "dex": 829,
+    "family": "gossifleur"
+  },
+  {
+    "dex": 830,
+    "family": "gossifleur"
+  },
+  {
+    "dex": 831,
+    "family": "wooloo"
+  },
+  {
+    "dex": 832,
+    "family": "wooloo"
+  },
+  {
+    "dex": 833,
+    "family": "chewtle"
+  },
+  {
+    "dex": 834,
+    "family": "chewtle"
+  },
+  {
+    "dex": 835,
+    "family": "yamper"
+  },
+  {
+    "dex": 836,
+    "family": "yamper"
+  },
+  {
+    "dex": 837,
+    "family": "rolycoly"
+  },
+  {
+    "dex": 838,
+    "family": "rolycoly"
+  },
+  {
+    "dex": 839,
+    "family": "rolycoly"
+  },
+  {
+    "dex": 840,
+    "family": "applin"
+  },
+  {
+    "dex": 841,
+    "family": "applin"
+  },
+  {
+    "dex": 842,
+    "family": "applin"
+  },
+  {
+    "dex": 843,
+    "family": "silicobra"
+  },
+  {
+    "dex": 844,
+    "family": "silicobra"
+  },
+  {
+    "dex": 845,
+    "family": "cramorant"
+  },
+  {
+    "dex": 846,
+    "family": "arrokuda"
+  },
+  {
+    "dex": 847,
+    "family": "arrokuda"
+  },
+  {
+    "dex": 848,
+    "family": "toxel"
+  },
+  {
+    "dex": 849,
+    "family": "toxel"
+  },
+  {
+    "dex": 849,
+    "family": "toxel"
+  },
+  {
+    "dex": 849,
+    "family": "toxel"
+  },
+  {
+    "dex": 850,
+    "family": "sizzlipede"
+  },
+  {
+    "dex": 851,
+    "family": "sizzlipede"
+  },
+  {
+    "dex": 852,
+    "family": "clobbopus"
+  },
+  {
+    "dex": 853,
+    "family": "clobbopus"
+  },
+  {
+    "dex": 854,
+    "family": "sinistea"
+  },
+  {
+    "dex": 854,
+    "family": "sinistea"
+  },
+  {
+    "dex": 854,
+    "family": "sinistea"
+  },
+  {
+    "dex": 855,
+    "family": "sinistea"
+  },
+  {
+    "dex": 855,
+    "family": "sinistea"
+  },
+  {
+    "dex": 855,
+    "family": "sinistea"
+  },
+  {
+    "dex": 856,
+    "family": "hatenna"
+  },
+  {
+    "dex": 857,
+    "family": "hatenna"
+  },
+  {
+    "dex": 858,
+    "family": "hatenna"
+  },
+  {
+    "dex": 859,
+    "family": "impidimp"
+  },
+  {
+    "dex": 860,
+    "family": "impidimp"
+  },
+  {
+    "dex": 861,
+    "family": "impidimp"
+  },
+
   {
     "dex": 862,
     "type": "_31",
@@ -5514,6 +5950,10 @@
   {
     "dex": 863,
     "family": "Meowth"
+  },
+  {
+    "dex": 864,
+    "family": "corsola"
   },
   {
     "dex": 865,
@@ -5531,5 +5971,154 @@
     "released_date": "2022/10/20",
     "aa_fn": "pm867",
     "family": "Yamask_31"
+  },
+    {
+    "dex": 868,
+    "family": "Milcery"
+  },
+  {
+    "dex": 869,
+    "family": "Milcery"
+  },
+  {
+    "dex": 870,
+    "family": "Falinks"
+  },
+  {
+    "dex": 871,
+    "family": "Pincurchin"
+  },
+  {
+    "dex": 872,
+    "family": "Snom"
+  },
+  {
+    "dex": 873,
+    "family": "Snom"
+  },
+  {
+    "dex": 874,
+    "family": "Stonjourner"
+  },
+  {
+    "dex": 875,
+    "family": "Eiscue"
+  },
+  {
+    "dex": 876,
+    "family": "Indeedee"
+  },
+  {
+    "dex": 877,
+    "family": "Morpeko"
+  },
+  {
+    "dex": 878,
+    "family": "Cufant"
+  },
+  {
+    "dex": 879,
+    "family": "Cufant"
+  },
+  {
+    "dex": 880,
+    "family": "Dracozolt"
+  },
+  {
+    "dex": 881,
+    "family": "Arctozolt"
+  },
+  {
+    "dex": 882,
+    "family": "Dracovish"
+  },
+  {
+    "dex": 883,
+    "family": "Arctovish"
+  },
+  {
+    "dex": 884,
+    "family": "Duraludon"
+  },
+  {
+    "dex": 885,
+    "family": "Dreepy"
+  },
+  {
+    "dex": 886,
+    "family": "Dreepy"
+  },
+  {
+    "dex": 887,
+    "family": "Dreepy"
+  },
+  {
+    "dex": 888,
+    "family": "Zacian"
+  },
+  {
+    "dex": 889,
+    "family": "Zamazenta"
+  },
+  {
+    "dex": 890,
+    "family": "Eternatus"
+  },
+  {
+    "dex": 891,
+    "family": "Kubfu"
+  },
+  {
+    "dex": 892,
+    "family": "Kubfu"
+  },
+  {
+    "dex": 893,
+    "family": "Zarude"
+  },
+  {
+    "dex": 894,
+    "family": "Regieleki"
+  },
+  {
+    "dex": 895,
+    "family": "Regidrago"
+  },
+  {
+    "dex": 896,
+    "family": "Glastrier"
+  },
+  {
+    "dex": 897,
+    "family": "Spectrier"
+  },
+  {
+    "dex": 898,
+    "family": "Calyrex"
+  },
+  {
+    "dex": 898,
+    "family": "Calyrex"
+  },
+  {
+    "dex": 899
+  },
+  {
+    "dex": 900
+  },
+  {
+    "dex": 901,
+    "family": "Teddiursa"
+  },
+  {
+    "dex": 902
+  },
+  {
+    "dex": 903,
+    "family": "Sneasel"
+  },
+  {
+    "dex": 904,
+    "family": "Qwilfish"
   }
 ]
