@@ -5598,7 +5598,10 @@
   },
   {
     "dex": 785,
-    "family": "tapu_koko"
+    "family": "tapu_koko",
+    "released_date": "2023/01/26",
+    "style": "--w:140%;--t:-20%",
+    "aa_fn": "pm785"
   },
   {
     "dex": 786,
