@@ -3399,8 +3399,24 @@
     "family": "Kyogre"
   },
   {
+    "dex": 382,
+    "type": "_p",
+    "shiny_released": true,
+    "aa_fn": "pm382.fPRIMAL",
+    "style": "--w: 200%; --t: -40%; --l: -50%;",
+    "family": "Kyogre"
+  },
+  {
     "dex": 383,
     "shiny_released": true,
+    "family": "Groudon"
+  },
+  {
+    "dex": 383,
+    "type": "_p",
+    "released_date": "2023/02/18",
+    "aa_fn": "pm383.fPRIMAL",
+    "style": "--w:120%;--t:0;--l:0;",
     "family": "Groudon"
   },
   {
