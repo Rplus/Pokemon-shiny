@@ -600,6 +600,20 @@
     "family": "Pikachu_j23"
   },
   {
+    "dex": 25,
+    "isotope": "_g23h",
+    "released_date": "2022/12/31",
+    "aa_fn": "pm25.cGOTOUR_2023_HAT",
+    "family": "Pikachu_gotour_hat"
+  },
+  {
+    "dex": 25,
+    "isotope": "_g23b",
+    "released_date": "2022/12/31",
+    "aa_fn": "pm25.cGOTOUR_2023_BANDANA",
+    "family": "Pikachu_gotour_bandana"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
