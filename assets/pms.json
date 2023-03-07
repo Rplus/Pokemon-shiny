@@ -4698,6 +4698,8 @@
   },
   {
     "dex": 593,
+    "released_date": "2023/02/08",
+    "name_suffix": "(♂️)",
     "family": "Frillish"
   },
   {
@@ -4709,6 +4711,9 @@
   },
   {
     "dex": 593,
+    "type": "_01",
+    "released_date": "2023/02/08",
+    "name_suffix": "(♀️)",
     "type": "_01",
     "family": "Frillish"
   },
@@ -5675,6 +5680,9 @@
   },
   {
     "dex": 786,
+    "released_date": "2023/02/08",
+    "style": "--w:140%;--t:-20%;--l:-10%",
+    "aa_fn": "pm786",
     "family": "tapu_lele"
   },
   {
