@@ -2850,6 +2850,15 @@
     "released_date": "2018/05/01"
   },
   {
+    "dex": 308,
+    "family": "Meditite",
+    "type": "_51",
+    "aa_fn": "pm308.fMEGA",
+    "name_suffix": "(M)",
+    "style": "--w: 140%; --l: -7%; --t: -22%;",
+    "released_date": "2023/03/08"
+  },
+  {
     "dex": 309,
     "family": "Electrike",
     "released_date": "2019/09/01"
