@@ -614,6 +614,20 @@
     "family": "Pikachu_gotour_bandana"
   },
   {
+    "dex": 25,
+    "isotope": "_23s",
+    "released_date": "2023/04/04",
+    "aa_fn": "pm25.cSPRING_2023",
+    "family": "Pikachu_23s"
+  },
+  {
+    "dex": 26,
+    "isotope": "_23s",
+    "released_date": "2023/04/04",
+    "aa_fn": "pm26.cSPRING_2023",
+    "family": "Pikachu_23s"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
@@ -1442,6 +1456,7 @@
     "released_date": "2022/12/31",
     "isotope": "_22h",
     "aa_fn": "pm133.cHOLIDAY_2022",
+    "style": "--t: -50%",
     "family": "Eevee_2022h"
   },
   {
@@ -1449,6 +1464,14 @@
     "shiny_released": true,
     "isotope": "_11",
     "family": "Eevee_11"
+  },
+  {
+    "dex": 133,
+    "released_date": "2023/04/04",
+    "isotope": "_23s",
+    "aa_fn": "pm133.cSPRING_2023",
+    "style": "--t: -50%",
+    "family": "Eevee_23s"
   },
   {
     "dex": 134,
@@ -1469,6 +1492,13 @@
     "family": "Eevee_2022h"
   },
   {
+    "dex": 134,
+    "released_date": "2023/04/04",
+    "isotope": "_23s",
+    "aa_fn": "pm134.cSPRING_2023",
+    "family": "Eevee_23s"
+  },
+  {
     "dex": 135,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -1487,6 +1517,13 @@
     "family": "Eevee_2022h"
   },
   {
+    "dex": 135,
+    "released_date": "2023/04/04",
+    "isotope": "_23s",
+    "aa_fn": "pm135.cSPRING_2023",
+    "family": "Eevee_23s"
+  },
+  {
     "dex": 136,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -1503,6 +1540,13 @@
     "isotope": "_22h",
     "aa_fn": "pm136.cHOLIDAY_2022",
     "family": "Eevee_2022h"
+  },
+  {
+    "dex": 136,
+    "released_date": "2023/04/04",
+    "isotope": "_23s",
+    "aa_fn": "pm136.cSPRING_2023",
+    "family": "Eevee_23s"
   },
   {
     "dex": 137,
@@ -1771,6 +1815,14 @@
     "family": "Pikachu_28"
   },
   {
+    "dex": 172,
+    "order": -1,
+    "isotope": "_23s",
+    "aa_fn": "pm172.cSPRING_2023",
+    "released_date": "2023/04/04",
+    "family": "Pikachu_23s"
+  },
+  {
     "dex": 173,
     "order": -1,
     "family": "Clefairy",
@@ -1926,6 +1978,13 @@
     "family": "Eevee_2022h"
   },
   {
+    "dex": 196,
+    "released_date": "2023/04/04",
+    "isotope": "_23s",
+    "aa_fn": "pm196.cSPRING_2023",
+    "family": "Eevee_23s"
+  },
+  {
     "dex": 197,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -1942,6 +2001,13 @@
     "isotope": "_22h",
     "aa_fn": "pm197.cHOLIDAY_2022",
     "family": "Eevee_2022h"
+  },
+  {
+    "dex": 197,
+    "released_date": "2023/04/04",
+    "isotope": "_23s",
+    "aa_fn": "pm197.cSPRING_2023",
+    "family": "Eevee_23s"
   },
   {
     "dex": 198,
@@ -4096,6 +4162,13 @@
     "family": "Eevee_2022h"
   },
   {
+    "dex": 470,
+    "released_date": "2023/04/04",
+    "isotope": "_23s",
+    "aa_fn": "pm470.cSPRING_2023",
+    "family": "Eevee_23s"
+  },
+  {
     "dex": 471,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -4119,6 +4192,13 @@
     "isotope": "_22h",
     "aa_fn": "pm471.cHOLIDAY_2022",
     "family": "Eevee_2022h"
+  },
+  {
+    "dex": 471,
+    "released_date": "2023/04/04",
+    "isotope": "_23s",
+    "aa_fn": "pm471.cSPRING_2023",
+    "family": "Eevee_23s"
   },
   {
     "dex": 472,
@@ -5398,6 +5478,13 @@
     "isotope": "_22h",
     "aa_fn": "pm700.cHOLIDAY_2022",
     "family": "Eevee_2022h"
+  },
+  {
+    "dex": 700,
+    "released_date": "2023/04/04",
+    "isotope": "_23s",
+    "aa_fn": "pm700.cSPRING_2023",
+    "family": "Eevee_23s"
   },
   {
     "dex": 701,
