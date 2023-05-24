@@ -1391,6 +1391,13 @@
     "released_date": "2018/11/15"
   },
   {
+    "dex": 125,
+    "family": "Electabuzz_23s",
+    "aa_fn": "pm125.cSPRING_2023_INSTINCT",
+    "isotope": "_2023s",
+    "released_date": "2023/05/02"
+  },
+  {
     "dex": 126,
     "family": "Magmar",
     "released_date": "2018/03/22"
@@ -2514,6 +2521,14 @@
     "order": -1,
     "family": "Electabuzz",
     "released_date": "2018/11/15"
+  },
+  {
+    "dex": 239,
+    "order": -1,
+    "family": "Electabuzz_23s",
+    "isotope": "_2023s",
+    "aa_fn": "pm239.cSPRING_2023_INSTINCT",
+    "released_date": "2023/05/02"
   },
   {
     "dex": 240,
@@ -4080,6 +4095,7 @@
   {
     "dex": 458,
     "order": -1,
+    "released_date": "2023/05/02",
     "family": "Mantine"
   },
   {
@@ -4128,6 +4144,13 @@
     "dex": 466,
     "family": "Electabuzz",
     "released_date": "2018/11/15"
+  },
+  {
+    "dex": 466,
+    "family": "Electabuzz_23s",
+    "aa_fn": "pm466.cSPRING_2023_INSTINCT",
+    "isotope": "_2023s",
+    "released_date": "2023/05/02"
   },
   {
     "dex": 467,
