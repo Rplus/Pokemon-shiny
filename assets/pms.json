@@ -1436,6 +1436,14 @@
     "family": "Lapras"
   },
   {
+    "dex": 131,
+    "shiny_released": true,
+    "aa_fn": "pm131.cSPRING_2023_MYSTIC",
+    "isotope": "_2023s",
+    "released_date": "2023/04/13",
+    "family": "Lapras"
+  },
+  {
     "dex": 132,
     "released_date": "2021/02/20",
     "family": "Ditto"
