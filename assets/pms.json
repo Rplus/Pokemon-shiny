@@ -6354,7 +6354,10 @@
     "dex": 899
   },
   {
-    "dex": 900
+    "dex": 900,
+    "released_date": "2023/05/06",
+    "aa_fn": "pm900",
+    "family": "Kleavor"
   },
   {
     "dex": 901,
