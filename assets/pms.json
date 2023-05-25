@@ -1408,6 +1408,14 @@
     "family": "Pinsir"
   },
   {
+    "dex": 127,
+    "released_date": "2023/05/11",
+    "type": "_51",
+    "aa_fn": "pm127.fMEGA",
+    "name_suffix": "(M)",
+    "family": "Pinsir"
+  },
+  {
     "dex": 128,
     "shiny_released": true,
     "family": "Tauros"
