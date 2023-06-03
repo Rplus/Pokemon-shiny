@@ -1030,6 +1030,20 @@
     "released_date": "2021/07/17"
   },
   {
+    "dex": 77,
+    "family": "Ponyta_23s",
+    "type": "_23s",
+    "aa_fn": "pm77.cSPRING_2023_VALOR",
+    "released_date": "2023/05/11"
+  },
+  {
+    "dex": 78,
+    "family": "Ponyta_23s",
+    "type": "_23s",
+    "aa_fn": "pm78.cSPRING_2023_VALOR",
+    "released_date": "2023/05/11"
+  },
+  {
     "dex": 79,
     "released_date": "2020/11/16",
     "family": "Slowpoke"
