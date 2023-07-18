@@ -5852,6 +5852,9 @@
   },
   {
     "dex": 776,
+    "aa_fn": "pm776",
+    "style": "--l:10%;--t:10%;",
+    "released_date": "2023/06/29",
     "family": "turtonator"
   },
   {
