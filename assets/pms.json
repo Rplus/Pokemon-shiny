@@ -5928,6 +5928,9 @@
   },
   {
     "dex": 793,
+    "aa_fn": "pm793",
+    "style": "--l:-5%;--t:-10%;--w:140%;",
+    "released_date": "2023/06/16",
     "family": "nihilego"
   },
   {
