@@ -644,6 +644,45 @@
     "family": "Pikachu_23j"
   },
   {
+    "dex": 25,
+    "isotope": "_23se",
+    "released_date": "2023/08/04",
+    "aa_fn": "pm25.fSUMMER_2023_E",
+    "family": "Pikachu_23sun"
+  },
+  {
+    "dex": 25,
+    "isotope": "_23sa",
+    "released_date": "2023/08/04",
+    "aa_fn": "pm25.fSUMMER_2023_A",
+    "name_suffix": "(A)",
+    "family": "Pikachu_23sun"
+  },
+  {
+    "dex": 25,
+    "isotope": "_23sb",
+    "released_date": "2023/08/04",
+    "aa_fn": "pm25.fSUMMER_2023_B",
+    "name_suffix": "(B)",
+    "family": "Pikachu_23sun"
+  },
+  {
+    "dex": 25,
+    "isotope": "_23sc",
+    "released_date": "2023/08/04",
+    "aa_fn": "pm25.fSUMMER_2023_C",
+    "name_suffix": "(C)",
+    "family": "Pikachu_23sun"
+  },
+  {
+    "dex": 25,
+    "isotope": "_23sd",
+    "released_date": "2023/08/04",
+    "aa_fn": "pm25.fSUMMER_2023_D",
+    "name_suffix": "(D)",
+    "family": "Pikachu_23sun"
+  },
+  {
     "dex": 26,
     "isotope": "_23s",
     "released_date": "2023/04/04",
