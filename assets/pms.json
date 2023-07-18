@@ -5581,10 +5581,16 @@
   },
   {
     "dex": 696,
+    "aa_fn": "pm696",
+    "style": "--l:15%;--t:10%",
+    "released_date": "2023/07/27",
     "family": "Tyrunt"
   },
   {
     "dex": 697,
+    "aa_fn": "pm697",
+    "style": "--l:15%;--t:10%",
+    "released_date": "2023/07/27",
     "family": "Tyrunt"
   },
   {
