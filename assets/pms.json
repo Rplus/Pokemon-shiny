@@ -5758,6 +5758,20 @@
     "aa_fn": "pm745.fMIDNIGHT"
   },
   {
+    "dex": 753,
+    "aa_fn": "pm753",
+    "style": "--l:15%;--t:5%;",
+    "released_date": "2023/06/16",
+    "family": "Fomantis"
+  },
+  {
+    "dex": 754,
+    "aa_fn": "pm754",
+    "style": "--l:15%;--t:5%;",
+    "released_date": "2023/06/16",
+    "family": "Fomantis"
+  },
+  {
     "dex": 759,
     "family": "Stufful",
     "released_date": "2022/04/23",
