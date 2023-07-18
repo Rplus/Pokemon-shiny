@@ -5493,10 +5493,14 @@
   },
   {
     "dex": 692,
+    "style": "--l: 20%; --t: 10%;",
+    "released_date": "2023/06/06",
     "family": "Clauncher"
   },
   {
     "dex": 693,
+    "style": "--l: 20%; --t: 10%;",
+    "released_date": "2023/06/06",
     "family": "Clauncher"
   },
   {
