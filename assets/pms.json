@@ -5340,10 +5340,16 @@
   },
   {
     "dex": 674,
+    "aa_fn": "pm674",
+    "style": "--l:15%;--t:10%;",
+    "released_date": "2023/06/16",
     "family": "Pancham"
   },
   {
     "dex": 675,
+    "aa_fn": "pm675",
+    "style": "--l:15%;--t:10%;",
+    "released_date": "2023/06/16",
     "family": "Pancham"
   },
   {
