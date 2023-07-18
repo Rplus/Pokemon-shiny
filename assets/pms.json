@@ -4712,10 +4712,14 @@
   },
   {
     "dex": 548,
+    "style": "--l:10%; --t:10%",
+    "released_date": "2022/08/04",
     "family": "Petilil"
   },
   {
     "dex": 549,
+    "style": "--l:10%; --t:10%",
+    "released_date": "2022/08/04",
     "family": "Petilil"
   },
   {
