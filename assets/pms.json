@@ -157,6 +157,22 @@
     "family": "Squirtle_11"
   },
   {
+    "dex": 8,
+    "isotope": "_11",
+    "order": 11,
+    "aa_fn": "pm8.cJAN_2020_NOEVOLVE",
+    "released_date": "2023/07/03",
+    "family": "Squirtle_11"
+  },
+  {
+    "dex": 9,
+    "isotope": "_11",
+    "order": 11,
+    "aa_fn": "pm9.cJAN_2020_NOEVOLVE",
+    "released_date": "2023/07/03",
+    "family": "Squirtle_11"
+  },
+  {
     "dex": 7,
     "shiny_released": true,
     "isotope": "_14",
