@@ -2636,6 +2636,14 @@
     "released_date": "2018/06/16"
   },
   {
+    "dex": 248,
+    "family": "Larvitar",
+    "type": "_51",
+    "aa_fn": "pm248.fMEGA",
+    "name_suffix": "(M)",
+    "released_date": "2023/07/27"
+  },
+  {
     "dex": 249,
     "shiny_released": true,
     "family": "Lugia"
