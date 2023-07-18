@@ -1659,6 +1659,14 @@
     "family": "Snorlax"
   },
   {
+    "dex": 143,
+    "released_date": "2023/07/15",
+    "isotope": "_23",
+    "aa_fn": "pm143",
+    "name_suffix": "(zZ)",
+    "family": "Snorlax"
+  },
+  {
     "dex": 144,
     "shiny_released": true,
     "family": "Articuno"
