@@ -5595,10 +5595,16 @@
   },
   {
     "dex": 698,
+    "aa_fn": "pm698",
+    "style": "--l:15%;--t:10%",
+    "released_date": "2023/07/27",
     "family": "Amaura"
   },
   {
     "dex": 699,
+    "aa_fn": "pm699",
+    "style": "--l:15%;--t:10%",
+    "released_date": "2023/07/27",
     "family": "Amaura"
   },
   {
