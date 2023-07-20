@@ -3031,7 +3031,7 @@
     "type": "_51",
     "aa_fn": "pm302.fMEGA",
     "name_suffix": "(M)",
-    "style": "--t:20%",
+    "style": "--t:-20%",
     "released_date": "2023/06/29",
     "family": "Sableye"
   },
