@@ -1679,6 +1679,13 @@
   },
   {
     "dex": 142,
+    "released_date": "2023/08/04",
+    "type": "_23s",
+    "aa_fn": "pm142.fSUMMER_2023",
+    "family": "Aerodactyl"
+  },
+  {
+    "dex": 142,
     "shiny_released": true,
     "type": "_51",
     "aa_fn": "pm142.fMEGA",
