@@ -683,6 +683,13 @@
     "family": "Pikachu_23sun"
   },
   {
+    "dex": 25,
+    "isotope": "_23fly",
+    "released_date": "2023/07/28",
+    "aa_fn": "pm25.fFLYING_03",
+    "family": "Pikachu_23fly"
+  },
+  {
     "dex": 26,
     "isotope": "_23s",
     "released_date": "2023/04/04",
