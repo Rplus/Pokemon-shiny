@@ -6675,5 +6675,11 @@
   {
     "dex": 904,
     "family": "Qwilfish"
+  },
+  {
+    "dex": 962,
+    "released_date": "2023/10/10",
+    "aa_fn": "pm962",
+    "family": "Bombirdier"
   }
 ]
