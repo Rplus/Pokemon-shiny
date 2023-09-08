@@ -582,6 +582,13 @@
   },
   {
     "dex": 25,
+    "isotope": "_23fWCS",
+    "released_date": "2023/08/23",
+    "aa_fn": "pm25.fWCS_2023.s.icon.png",
+    "family": "Pikachu_23fWCS"
+  },
+  {
+    "dex": 25,
     "isotope": "_f01",
     "released_date": "2022/10/20",
     "aa_fn": "pm25.fFLYING_01",
