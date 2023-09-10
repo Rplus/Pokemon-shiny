@@ -5824,7 +5824,7 @@
     "isotope": "_xs",
     "aa_fn": "pm711.fSMALL",
     "style": "--w: 110%; --t: 3%; --l: 5%;",
-    "name_suffix": "(xS)",
+    "name_suffix": "(XS)",
     "family": "Pumpkaboo"
   },
   {
@@ -5893,7 +5893,7 @@
     "isotope": "_c22xs",
     "aa_fn": "pm711.fSMALL.cFALL_2022",
     "style": "--w: 110%; --t: 3%; --l: 5%;",
-    "name_suffix": "(xS)",
+    "name_suffix": "(XS)",
     "family": "Pumpkaboo_2022"
   },
   {
