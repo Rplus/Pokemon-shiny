@@ -9491,5 +9491,55 @@
     "es": "Ursaluna",
     "it": "Ursaluna",
     "en": "Ursaluna"
+  },
+  "902": {
+    "ja": "イダイトウ",
+    "kr": "대쓰여너",
+    "zh": "幽尾玄魚",
+    "fr": "Paragruel",
+    "de": "Salmagnis",
+    "es": "Basculegion",
+    "it": "Basculegion",
+    "en": "Basculegion"
+  },
+  "903": {
+    "ja": "オオニューラ",
+    "kr": "포푸니크",
+    "zh": "大狃拉",
+    "fr": "Farfurex",
+    "de": "Sneasler",
+    "es": "Snieboss",
+    "it": "Sneasler",
+    "en": "Sneasler"
+  },
+  "904": {
+    "ja": "ハリーマン",
+    "kr": "장침바루",
+    "zh": "萬針魚",
+    "fr": "Qwilpik",
+    "de": "Myriador",
+    "es": "Overqwil",
+    "it": "Overqwil",
+    "en": "Overqwil"
+  },
+  "915": {
+    "ja": "グルトン",
+    "kr": "맛보돈",
+    "zh": "愛吃豚",
+    "fr": "Gourmelet",
+    "de": "Ferkuli",
+    "es": "Lechonk",
+    "it": "Lechonk",
+    "en": "Lechonk"
+  },
+  "916": {
+    "ja": "パフュートン",
+    "kr": "퍼퓨돈",
+    "zh": "飄香豚",
+    "fr": "Fragroin",
+    "de": "Fragrunz",
+    "es": "Oinkologne",
+    "it": "Oinkologne",
+    "en": "Oinkologne"
   }
 }
