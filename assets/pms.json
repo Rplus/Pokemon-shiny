@@ -582,6 +582,13 @@
   },
   {
     "dex": 25,
+    "isotope": "_23fWCS",
+    "released_date": "2023/08/23",
+    "aa_fn": "pm25.fWCS_2023.s.icon.png",
+    "family": "Pikachu_23fWCS"
+  },
+  {
+    "dex": 25,
     "isotope": "_f01",
     "released_date": "2022/10/20",
     "aa_fn": "pm25.fFLYING_01",
@@ -4853,10 +4860,14 @@
   },
   {
     "dex": 559,
+    "released_date": "2023/08/11",
+    "aa_fn": "pm559",
     "family": "Scraggy"
   },
   {
     "dex": 560,
+    "released_date": "2023/08/11",
+    "aa_fn": "pm560",
     "family": "Scraggy"
   },
   {
@@ -6695,5 +6706,11 @@
     "released_date": "2023/10/05",
     "isotope": "_f",
     "aa_fn": "pm916.fFEMALE"
+  },
+  {
+    "dex": 962,
+    "released_date": "2023/10/10",
+    "aa_fn": "pm962",
+    "family": "Bombirdier"
   }
 ]
