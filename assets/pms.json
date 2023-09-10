@@ -6688,6 +6688,26 @@
     "family": "Qwilfish"
   },
   {
+    "dex": 915,
+    "family": "Lechonk",
+    "released_date": "2023/10/05",
+    "aa_fn": "pm915"
+  },
+  {
+    "dex": 916,
+    "family": "Lechonk",
+    "released_date": "2023/10/05",
+    "isotope": "_m",
+    "aa_fn": "pm916"
+  },
+  {
+    "dex": 916,
+    "family": "Lechonk",
+    "released_date": "2023/10/05",
+    "isotope": "_f",
+    "aa_fn": "pm916.fFEMALE"
+  },
+  {
     "dex": 962,
     "released_date": "2023/10/10",
     "aa_fn": "pm962",
