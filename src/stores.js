@@ -3,7 +3,7 @@ import { saveItem, getItem, updateColor } from './u.js';
 
 export const nickname = writable('?');
 
-export const langs = ['de', 'en', 'it', 'fr', 'ja', 'kr', 'zh'];
+export const langs = ['de', 'en', 'it', 'fr', 'ja', 'ko', 'zh'];
 
 let _langIndex = langs.indexOf(
   navigator.language && navigator.language.split('-').shift()
