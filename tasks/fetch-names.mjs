@@ -54,5 +54,6 @@ fetch('https://beta.pokeapi.co/graphql/v1beta', {
 		return all;
 	}, {});
 
-	outputJSON(op, './assets/name.json');
+	outputJSON(op, './assets/name.json', 0);
+	outputJSON(op, './assets/name.src.json');
 })
