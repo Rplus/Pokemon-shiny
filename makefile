@@ -23,3 +23,6 @@ updateTime:
 
 init: copy-assets
 	npm install;
+
+fetch-names:
+	node ./tasks/fetch-names.mjs;
