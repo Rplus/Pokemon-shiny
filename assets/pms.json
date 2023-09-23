@@ -4952,15 +4952,21 @@
   },
   {
     "dex": 577,
-    "family": "Solosis"
+    "family": "Solosis",
+    "released_date": "2023/09/20",
+    "aa_fn": "pm577"
   },
   {
     "dex": 578,
-    "family": "Solosis"
+    "family": "Solosis",
+    "released_date": "2023/09/20",
+    "aa_fn": "pm578"
   },
   {
     "dex": 579,
-    "family": "Solosis"
+    "family": "Solosis",
+    "released_date": "2023/09/20",
+    "aa_fn": "pm579"
   },
   {
     "dex": 580,
