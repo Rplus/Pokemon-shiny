@@ -5371,20 +5371,35 @@
   {
     "dex": 649,
     "released_date": "2020/08/15",
-    "type": "_11",
+    "aa_fn": "pm649.fNORMAL",
     "family": "Genesect"
+    "name_suffix": "(N)"
   },
   {
     "dex": 649,
     "released_date": "2023/05/02",
-    "type": "_13",
+    "aa_fn": "pm649.fSHOCK",
     "family": "Genesect"
+    "name_suffix": "(S)"
   },
   {
     "dex": 649,
     "released_date": "2023/09/16",
     "aa_fn": "pm649.fBURN",
     "family": "Genesect"
+    "name_suffix": "(B)"
+  },
+  {
+    "dex": 649,
+    "aa_fn": "pm649.fCHILL",
+    "family": "Genesect"
+    "name_suffix": "(C)"
+  },
+  {
+    "dex": 649,
+    "aa_fn": "pm649.fDOUSE",
+    "family": "Genesect"
+    "name_suffix": "(D)"
   },
   {
     "dex": 650,
