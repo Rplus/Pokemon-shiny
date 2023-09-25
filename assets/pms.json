@@ -5372,34 +5372,34 @@
     "dex": 649,
     "released_date": "2020/08/15",
     "aa_fn": "pm649.fNORMAL",
+    "name_suffix": "(N)",
     "family": "Genesect"
-    "name_suffix": "(N)"
   },
   {
     "dex": 649,
     "released_date": "2023/05/02",
     "aa_fn": "pm649.fSHOCK",
+    "name_suffix": "(S)",
     "family": "Genesect"
-    "name_suffix": "(S)"
   },
   {
     "dex": 649,
     "released_date": "2023/09/16",
     "aa_fn": "pm649.fBURN",
+    "name_suffix": "(B)",
     "family": "Genesect"
-    "name_suffix": "(B)"
   },
   {
     "dex": 649,
     "aa_fn": "pm649.fCHILL",
+    "name_suffix": "(C)",
     "family": "Genesect"
-    "name_suffix": "(C)"
   },
   {
     "dex": 649,
     "aa_fn": "pm649.fDOUSE",
+    "name_suffix": "(D)",
     "family": "Genesect"
-    "name_suffix": "(D)"
   },
   {
     "dex": 650,
@@ -6007,24 +6007,6 @@
     "family": "Yungoos",
     "released_date": "2022/03/01",
     "aa_fn": "pm735"
-  },
-  {
-    "dex": 736,
-    "family": "Grubbin",
-    "released_date": "2023/09/23",
-    "aa_fn": "pm736"
-  },
-  {
-    "dex": 737,
-    "family": "Grubbin",
-    "released_date": "2023/09/23",
-    "aa_fn": "pm737"
-  },
-  {
-    "dex": 738,
-    "family": "Grubbin",
-    "released_date": "2023/09/23",
-    "aa_fn": "pm738"
   },
   {
     "dex": 744,
