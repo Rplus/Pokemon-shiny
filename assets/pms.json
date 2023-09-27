@@ -963,9 +963,23 @@
     "released_date": "2018/09/01"
   },
   {
+    "dex": 58,
+    "family": "Growlithe",
+    "isotope": "_01",
+    "released_date": "2023/09/27",
+    "aa_fn": "pm58.fHISUIAN"
+  },
+  {
     "dex": 59,
     "family": "Growlithe",
     "released_date": "2018/09/01"
+  },
+  {
+    "dex": 59,
+    "family": "Growlithe",
+    "isotope": "_01",
+    "released_date": "2023/09/27",
+    "aa_fn": "pm59.fHISUIAN"
   },
   {
     "dex": 60,
