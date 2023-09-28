@@ -10,8 +10,7 @@ jobs:
         run: echo "TODAY=$(date '+%F')" >> $GITHUB_ENV
       - name: set latset commit date as environment variable
         shell: bash
-        # run: "LATEST_COMMIT_DATE=$(git rev-parse --short "$GITHUB_SHA")" >> "$GITHUB_ENV"
-        run: "LATEST_COMMIT_DATE=$(git log -1 --format="%at" | xargs -I{} date -d @{} +%F)" >> "$GITHUB_ENV"
+        run: "LATEST_COMMIT_DATE=$(git rev-parse --short "$GITHUB_SHA")" >> "$GITHUB_ENV"
       - name: show latest date
         run: |
           echo "= today: ${{ TODAY }}"
