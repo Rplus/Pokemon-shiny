@@ -11,11 +11,7 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
-        # env:
-        #   today: |
-        #     echo "$(date '+%F')"
-        #   latest_commit_date: |
-        #     echo $(git log -1 --format=%cd --date=format:%F)
+      - name: set l-day
         run: echo "latest_commit_date=$(git log -1 --format=%cd --date=format:%F)" >> $GITHUB_ENV
       - name: show today
         run: |
