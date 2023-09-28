@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Dynamically set latset commit date as environment variable
-        run: echo "LATEST_DATE=$(git log -1 --format=%cd --date=format:%F)" >> $GITHUB_ENV
+        run: echo "LATEST_DATE=$(date '+%F')" >> $GITHUB_ENV
       - name: show latest date
         run: echo "latest commit date is ${{ env.LATEST_DATE }}"
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event. :)"
