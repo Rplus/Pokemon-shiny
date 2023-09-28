@@ -4,15 +4,19 @@ on: [push]
 env:
   today: |
     echo "$(date '+%F')"
+  latest_commit_date: |
+    echo $(git log -1 --format=%cd --date=format:%F)
 
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      # - name: Dynamically set latset commit date as environment variable
-      #   run: echo "LATEST_DATE=$(git log -1 --format=%cd --date=format:%F)" >> $GITHUB_ENV
+      - name: Dynamically set latset commit date as environment variable
+        run: echo "LATEST_DATE=$(git log -1 --format=%cd --date=format:%F)" >> $GITHUB_ENV
       - name: show today
-        run: echo "today ${{ env.today }}"
+        run: |
+          echo "today.. ${{ env.today }}"
+          echo "l-day.. ${{ env.latest_commit_date }}"
       # - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event. :)"
       # - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       # - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
