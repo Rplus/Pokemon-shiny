@@ -1,16 +1,18 @@
 name: GitHub Actions Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
-env:
-  today: |
-    echo "$(date '+%F')"
-  latest_commit_date: |
-    echo $(git log -1 --format=%cd --date=format:%F)
 
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+        env:
+          today: |
+            echo "$(date '+%F')"
+          latest_commit_date: |
+            echo $(git log -1 --format=%cd --date=format:%F)
       - name: Dynamically set latset commit date as environment variable
         run: echo "LATEST_DATE=$(git log -1 --format=%cd --date=format:%F)" >> $GITHUB_ENV
       - name: show today
