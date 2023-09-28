@@ -6,10 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: set today
-        shell: bash
         run: echo "TODAY=$(date '+%F')" >> $GITHUB_ENV
       - name: set latset commit date as environment variable
-        shell: bash
         run: "LATEST_COMMIT_DATE=$(git rev-parse --short "$GITHUB_SHA")" >> "$GITHUB_ENV"
       - name: show latest date
         run: |
