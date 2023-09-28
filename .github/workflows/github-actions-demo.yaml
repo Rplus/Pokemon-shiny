@@ -8,13 +8,13 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
-        env:
-          today: |
-            echo "$(date '+%F')"
-          latest_commit_date: |
-            echo $(git log -1 --format=%cd --date=format:%F)
-      - name: Dynamically set latset commit date as environment variable
-        run: echo "LATEST_DATE=$(git log -1 --format=%cd --date=format:%F)" >> $GITHUB_ENV
+        # env:
+        #   today: |
+        #     echo "$(date '+%F')"
+        #   latest_commit_date: |
+        #     echo $(git log -1 --format=%cd --date=format:%F)
+        run: echo "today=$(date '+%F')" >> $GITHUB_ENV
+        run: echo "latest_commit_date=$(git log -1 --format=%cd --date=format:%F)" >> $GITHUB_ENV
       - name: show today
         run: |
           echo "today.. ${{ env.today }}"
