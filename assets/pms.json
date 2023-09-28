@@ -5373,7 +5373,6 @@
     "released_date": "2020/08/15",
     "type": "_11",
     "aa_fn": "pm649.fNORMAL",
-    "name_suffix": "(N)",
     "family": "Genesect"
   },
   {
@@ -5381,7 +5380,7 @@
     "released_date": "2023/05/02",
     "type": "_13",
     "aa_fn": "pm649.fSHOCK",
-    "name_suffix": "(S)",
+    "name_suffix": "⚡",
     "family": "Genesect"
   },
   {
@@ -5389,21 +5388,21 @@
     "released_date": "2023/09/16",
     "type": "_14",
     "aa_fn": "pm649.fBURN",
-    "name_suffix": "(B)",
+    "name_suffix": "🔥",
     "family": "Genesect"
   },
   {
     "dex": 649,
     "aa_fn": "pm649.fCHILL",
     "type": "_15",
-    "name_suffix": "(C)",
+    "name_suffix": "❄️",
     "family": "Genesect"
   },
   {
     "dex": 649,
     "aa_fn": "pm649.fDOUSE",
     "type": "_12",
-    "name_suffix": "(D)",
+    "name_suffix": "💧",
     "family": "Genesect"
   },
   {
