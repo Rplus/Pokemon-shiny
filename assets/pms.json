@@ -698,6 +698,20 @@
     "family": "Pikachu_23fly"
   },
   {
+    "dex": 25,
+    "isotope": "_cFEB_2019",
+    "released_date": "2023/10/05",
+    "aa_fn": "pm25.cFEB_2019",
+    "family": "Pikachu"
+  },
+  {
+    "dex": 26,
+    "isotope": "_cFEB_2019",
+    "released_date": "2023/10/05",
+    "aa_fn": "pm26.cFEB_2019",
+    "family": "Pikachu"
+  },
+  {
     "dex": 26,
     "isotope": "_23s",
     "released_date": "2023/04/04",
