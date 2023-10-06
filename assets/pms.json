@@ -1602,6 +1602,14 @@
     "family": "Eevee_23s"
   },
   {
+    "dex": 133,
+    "released_date": "2023/10/07",
+    "isotope": "_23m",
+    "aa_fn": "pm133.cMAY_2023",
+    "style": "--t: -50%",
+    "family": "Eevee_23m"
+  },
+  {
     "dex": 134,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -1625,6 +1633,13 @@
     "isotope": "_23s",
     "aa_fn": "pm134.cSPRING_2023",
     "family": "Eevee_23s"
+  },
+  {
+    "dex": 134,
+    "released_date": "2023/10/07",
+    "isotope": "_23m",
+    "aa_fn": "pm134.cMAY_2023",
+    "family": "Eevee_23m"
   },
   {
     "dex": 135,
@@ -1652,6 +1667,13 @@
     "family": "Eevee_23s"
   },
   {
+    "dex": 135,
+    "released_date": "2023/10/07",
+    "isotope": "_23m",
+    "aa_fn": "pm135.cMAY_2023",
+    "family": "Eevee_23m"
+  },
+  {
     "dex": 136,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -1675,6 +1697,13 @@
     "isotope": "_23s",
     "aa_fn": "pm136.cSPRING_2023",
     "family": "Eevee_23s"
+  },
+  {
+    "dex": 136,
+    "released_date": "2023/10/07",
+    "isotope": "_23m",
+    "aa_fn": "pm136.cMAY_2023",
+    "family": "Eevee_23m"
   },
   {
     "dex": 137,
@@ -2128,6 +2157,13 @@
     "family": "Eevee_23s"
   },
   {
+    "dex": 196,
+    "released_date": "2023/10/07",
+    "isotope": "_23m",
+    "aa_fn": "pm196.cMAY_2023",
+    "family": "Eevee_23m"
+  },
+  {
     "dex": 197,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -2151,6 +2187,13 @@
     "isotope": "_23s",
     "aa_fn": "pm197.cSPRING_2023",
     "family": "Eevee_23s"
+  },
+  {
+    "dex": 197,
+    "released_date": "2023/10/07",
+    "isotope": "_23m",
+    "aa_fn": "pm197.cMAY_2023",
+    "family": "Eevee_23m"
   },
   {
     "dex": 198,
@@ -4377,6 +4420,13 @@
     "family": "Eevee_23s"
   },
   {
+    "dex": 470,
+    "released_date": "2023/10/07",
+    "isotope": "_23m",
+    "aa_fn": "pm470.cMAY_2023",
+    "family": "Eevee_23m"
+  },
+  {
     "dex": 471,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -4407,6 +4457,13 @@
     "isotope": "_23s",
     "aa_fn": "pm471.cSPRING_2023",
     "family": "Eevee_23s"
+  },
+  {
+    "dex": 471,
+    "released_date": "2023/10/07",
+    "isotope": "_23m",
+    "aa_fn": "pm471.cMAY_2023",
+    "family": "Eevee_23m"
   },
   {
     "dex": 472,
@@ -5784,6 +5841,13 @@
     "isotope": "_23s",
     "aa_fn": "pm700.cSPRING_2023",
     "family": "Eevee_23s"
+  },
+  {
+    "dex": 700,
+    "released_date": "2023/10/07",
+    "isotope": "_23m",
+    "aa_fn": "pm700.cMAY_2023",
+    "family": "Eevee_23m"
   },
   {
     "dex": 701,
