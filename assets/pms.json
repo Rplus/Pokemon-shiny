@@ -1188,6 +1188,14 @@
     "family": "Slowpoke_51"
   },
   {
+    "dex": 79,
+    "isotope": "_23",
+    "released_date": "2023/10/05",
+    "aa_fn": "pm79.cPI_NOEVOLVE",
+    "style": "--t: -10%",
+    "family": "Slowpoke_23"
+  },
+  {
     "dex": 80,
     "isotope": "_31",
     "released_date": "2023/03/18",
