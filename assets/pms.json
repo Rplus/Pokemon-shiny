@@ -699,6 +699,13 @@
   },
   {
     "dex": 25,
+    "isotope": "_23H",
+    "released_date": "2023/10/26",
+    "aa_fn": "pm25.cFALL_2023_NOEVOLVE",
+    "family": "Pikachu_23H"
+  },
+  {
+    "dex": 25,
     "isotope": "_23d",
     "released_date": "2023/10/05",
     "aa_fn": "pm25.cFEB_2019",
