@@ -1332,6 +1332,13 @@
     "family": "Gastly_2022"
   },
   {
+    "dex": 94,
+    "released_date": "2023/10/26",
+    "isotope": "_c23",
+    "aa_fn": "pm94.cFALL_2023_NOEVOLVE",
+    "family": "Gastly_2023"
+  },
+  {
     "dex": 95,
     "family": "Onix",
     "released_date": "2019/06/04"
