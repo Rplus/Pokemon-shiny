@@ -1381,6 +1381,20 @@
     "released_date": "2018/11/05"
   },
   {
+    "dex": 104,
+    "family": "Cubone_f23",
+    "isotope": "_f23",
+    "aa_fn": "pm104.cFALL_2023_NOEVOLVE",
+    "released_date": "2023/11/01"
+  },
+  {
+    "dex": 105,
+    "family": "Cubone_f23",
+    "isotope": "_f23",
+    "aa_fn": "pm105.cFALL_2023_NOEVOLVE",
+    "released_date": "2023/11/01"
+  },
+  {
     "dex": 105,
     "family": "Cubone",
     "released_date": "2018/11/05"
@@ -3551,20 +3565,6 @@
     "isotope": "_f22",
     "aa_fn": "pm356.cFALL_2022_NOEVOLVE",
     "released_date": "2022/11/01"
-  },
-  {
-    "dex": 355,
-    "family": "Duskull_f23",
-    "isotope": "_f23",
-    "aa_fn": "pm355.cFALL_2023_NOEVOLVE",
-    "released_date": "2023/11/01"
-  },
-  {
-    "dex": 356,
-    "family": "Duskull_f23",
-    "isotope": "_f23",
-    "aa_fn": "pm356.cFALL_2023_NOEVOLVE",
-    "released_date": "2023/11/01"
   },
   {
     "dex": 357,
