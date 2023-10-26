@@ -6203,6 +6203,18 @@
     "family": "Fomantis"
   },
   {
+    "dex": 755,
+    "aa_fn": "pm755",
+    "released_date": "2023/11/07",
+    "family": "Morelull"
+  },
+  {
+    "dex": 756,
+    "aa_fn": "pm756",
+    "released_date": "2023/11/07",
+    "family": "Morelull"
+  },
+  {
     "dex": 759,
     "family": "Stufful",
     "released_date": "2022/04/23",
