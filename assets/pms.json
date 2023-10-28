@@ -2177,6 +2177,13 @@
     "family": "Wooper"
   },
   {
+    "dex": 194,
+    "released_date": "2023/11/05",
+    "aa_fn": "pm194.fPALDEA",
+    "isotope": "_P",
+    "family": "Wooper_P"
+  },
+  {
     "dex": 195,
     "released_date": "2020/12/11",
     "family": "Wooper"
@@ -6915,5 +6922,12 @@
     "released_date": "2023/09/10",
     "aa_fn": "pm962",
     "family": "Bombirdier"
+  },
+  {
+    "dex": 980,
+    "released_date": "2023/11/05",
+    "aa_fn": "pm980",
+    "isotope": "_P",
+    "family": "Wooper_P"
   }
 ]
