@@ -1395,6 +1395,20 @@
     "released_date": "2018/11/05"
   },
   {
+    "dex": 104,
+    "family": "Cubone_f23",
+    "isotope": "_f23",
+    "aa_fn": "pm104.cFALL_2023",
+    "released_date": "2023/11/01"
+  },
+  {
+    "dex": 105,
+    "family": "Cubone_f23",
+    "isotope": "_f23",
+    "aa_fn": "pm105.cFALL_2023",
+    "released_date": "2023/11/01"
+  },
+  {
     "dex": 105,
     "family": "Cubone",
     "released_date": "2018/11/05"
