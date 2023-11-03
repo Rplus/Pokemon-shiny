@@ -4285,6 +4285,14 @@
     "released_date": "2019/12/17"
   },
   {
+    "dex": 445,
+    "type": "_51",
+    "aa_fn": "pm445.fMEGA",
+    "name_suffix": "(M)",
+    "released_date": "2023/11/03",
+    "family": "Gible"
+  },
+  {
     "dex": 446,
     "family": "Snorlax",
     "released_date": "2022/11/09",
