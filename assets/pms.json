@@ -1851,6 +1851,13 @@
     "released_date": "2018/02/24"
   },
   {
+    "dex": 149,
+    "family": "Dratini",
+    "released_date": "2023/11/15",
+    "isotope": "_f23",
+    "aa_fn": "pm149.cFALL_2023"
+  },
+  {
     "dex": 150,
     "shiny_released": true,
     "family": "Mewtwo"
@@ -2182,6 +2189,20 @@
     "aa_fn": "pm194.fPALDEA",
     "isotope": "_P",
     "family": "Wooper_P"
+  },
+  {
+    "dex": 194,
+    "released_date": "2023/11/15",
+    "aa_fn": "pm194.cFALL_2023",
+    "isotope": "_F",
+    "family": "Wooper_F"
+  },
+  {
+    "dex": 195,
+    "released_date": "2023/11/15",
+    "aa_fn": "pm195.cFALL_2023",
+    "isotope": "_F",
+    "family": "Wooper_F"
   },
   {
     "dex": 195,
