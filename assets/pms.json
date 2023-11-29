@@ -4721,6 +4721,13 @@
     "family": "Oshawott"
   },
   {
+    "dex": 503,
+    "family": "Oshawott",
+    "isotope": "_01",
+    "released_date": "2023/12/03",
+    "aa_fn": "pm503.fHISUIAN"
+  },
+  {
     "dex": 504,
     "family": "Patrat",
     "released_date": "2019/09/16"
