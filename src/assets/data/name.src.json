@@ -1,0 +1,10172 @@
+{
+  "1": {
+    "ko": "이상해씨",
+    "zh": "妙蛙種子",
+    "fr": "Bulbizarre",
+    "de": "Bisasam",
+    "es": "Bulbasaur",
+    "it": "Bulbasaur",
+    "en": "Bulbasaur",
+    "ja": "フシギダネ"
+  },
+  "2": {
+    "ko": "이상해풀",
+    "zh": "妙蛙草",
+    "fr": "Herbizarre",
+    "de": "Bisaknosp",
+    "es": "Ivysaur",
+    "it": "Ivysaur",
+    "en": "Ivysaur",
+    "ja": "フシギソウ"
+  },
+  "3": {
+    "ko": "이상해꽃",
+    "zh": "妙蛙花",
+    "fr": "Florizarre",
+    "de": "Bisaflor",
+    "es": "Venusaur",
+    "it": "Venusaur",
+    "en": "Venusaur",
+    "ja": "フシギバナ"
+  },
+  "4": {
+    "ko": "파이리",
+    "zh": "小火龍",
+    "fr": "Salamèche",
+    "de": "Glumanda",
+    "es": "Charmander",
+    "it": "Charmander",
+    "en": "Charmander",
+    "ja": "ヒトカゲ"
+  },
+  "5": {
+    "ko": "리자드",
+    "zh": "火恐龍",
+    "fr": "Reptincel",
+    "de": "Glutexo",
+    "es": "Charmeleon",
+    "it": "Charmeleon",
+    "en": "Charmeleon",
+    "ja": "リザード"
+  },
+  "6": {
+    "ko": "리자몽",
+    "zh": "噴火龍",
+    "fr": "Dracaufeu",
+    "de": "Glurak",
+    "es": "Charizard",
+    "it": "Charizard",
+    "en": "Charizard",
+    "ja": "リザードン"
+  },
+  "7": {
+    "ko": "꼬부기",
+    "zh": "傑尼龜",
+    "fr": "Carapuce",
+    "de": "Schiggy",
+    "es": "Squirtle",
+    "it": "Squirtle",
+    "en": "Squirtle",
+    "ja": "ゼニガメ"
+  },
+  "8": {
+    "ko": "어니부기",
+    "zh": "卡咪龜",
+    "fr": "Carabaffe",
+    "de": "Schillok",
+    "es": "Wartortle",
+    "it": "Wartortle",
+    "en": "Wartortle",
+    "ja": "カメール"
+  },
+  "9": {
+    "ko": "거북왕",
+    "zh": "水箭龜",
+    "fr": "Tortank",
+    "de": "Turtok",
+    "es": "Blastoise",
+    "it": "Blastoise",
+    "en": "Blastoise",
+    "ja": "カメックス"
+  },
+  "10": {
+    "ko": "캐터피",
+    "zh": "綠毛蟲",
+    "fr": "Chenipan",
+    "de": "Raupy",
+    "es": "Caterpie",
+    "it": "Caterpie",
+    "en": "Caterpie",
+    "ja": "キャタピー"
+  },
+  "11": {
+    "ko": "단데기",
+    "zh": "鐵甲蛹",
+    "fr": "Chrysacier",
+    "de": "Safcon",
+    "es": "Metapod",
+    "it": "Metapod",
+    "en": "Metapod",
+    "ja": "トランセル"
+  },
+  "12": {
+    "ko": "버터플",
+    "zh": "巴大蝶",
+    "fr": "Papilusion",
+    "de": "Smettbo",
+    "es": "Butterfree",
+    "it": "Butterfree",
+    "en": "Butterfree",
+    "ja": "バタフリー"
+  },
+  "13": {
+    "ko": "뿔충이",
+    "zh": "獨角蟲",
+    "fr": "Aspicot",
+    "de": "Hornliu",
+    "es": "Weedle",
+    "it": "Weedle",
+    "en": "Weedle",
+    "ja": "ビードル"
+  },
+  "14": {
+    "ko": "딱충이",
+    "zh": "鐵殼蛹",
+    "fr": "Coconfort",
+    "de": "Kokuna",
+    "es": "Kakuna",
+    "it": "Kakuna",
+    "en": "Kakuna",
+    "ja": "コクーン"
+  },
+  "15": {
+    "ko": "독침붕",
+    "zh": "大針蜂",
+    "fr": "Dardargnan",
+    "de": "Bibor",
+    "es": "Beedrill",
+    "it": "Beedrill",
+    "en": "Beedrill",
+    "ja": "スピアー"
+  },
+  "16": {
+    "ko": "구구",
+    "zh": "波波",
+    "fr": "Roucool",
+    "de": "Taubsi",
+    "es": "Pidgey",
+    "it": "Pidgey",
+    "en": "Pidgey",
+    "ja": "ポッポ"
+  },
+  "17": {
+    "ko": "피죤",
+    "zh": "比比鳥",
+    "fr": "Roucoups",
+    "de": "Tauboga",
+    "es": "Pidgeotto",
+    "it": "Pidgeotto",
+    "en": "Pidgeotto",
+    "ja": "ピジョン"
+  },
+  "18": {
+    "ko": "피죤투",
+    "zh": "大比鳥",
+    "fr": "Roucarnage",
+    "de": "Tauboss",
+    "es": "Pidgeot",
+    "it": "Pidgeot",
+    "en": "Pidgeot",
+    "ja": "ピジョット"
+  },
+  "19": {
+    "ko": "꼬렛",
+    "zh": "小拉達",
+    "fr": "Rattata",
+    "de": "Rattfratz",
+    "es": "Rattata",
+    "it": "Rattata",
+    "en": "Rattata",
+    "ja": "コラッタ"
+  },
+  "20": {
+    "ko": "레트라",
+    "zh": "拉達",
+    "fr": "Rattatac",
+    "de": "Rattikarl",
+    "es": "Raticate",
+    "it": "Raticate",
+    "en": "Raticate",
+    "ja": "ラッタ"
+  },
+  "21": {
+    "ko": "깨비참",
+    "zh": "烈雀",
+    "fr": "Piafabec",
+    "de": "Habitak",
+    "es": "Spearow",
+    "it": "Spearow",
+    "en": "Spearow",
+    "ja": "オニスズメ"
+  },
+  "22": {
+    "ko": "깨비드릴조",
+    "zh": "大嘴雀",
+    "fr": "Rapasdepic",
+    "de": "Ibitak",
+    "es": "Fearow",
+    "it": "Fearow",
+    "en": "Fearow",
+    "ja": "オニドリル"
+  },
+  "23": {
+    "ko": "아보",
+    "zh": "阿柏蛇",
+    "fr": "Abo",
+    "de": "Rettan",
+    "es": "Ekans",
+    "it": "Ekans",
+    "en": "Ekans",
+    "ja": "アーボ"
+  },
+  "24": {
+    "ko": "아보크",
+    "zh": "阿柏怪",
+    "fr": "Arbok",
+    "de": "Arbok",
+    "es": "Arbok",
+    "it": "Arbok",
+    "en": "Arbok",
+    "ja": "アーボック"
+  },
+  "25": {
+    "ko": "피카츄",
+    "zh": "皮卡丘",
+    "fr": "Pikachu",
+    "de": "Pikachu",
+    "es": "Pikachu",
+    "it": "Pikachu",
+    "en": "Pikachu",
+    "ja": "ピカチュウ"
+  },
+  "26": {
+    "ko": "라이츄",
+    "zh": "雷丘",
+    "fr": "Raichu",
+    "de": "Raichu",
+    "es": "Raichu",
+    "it": "Raichu",
+    "en": "Raichu",
+    "ja": "ライチュウ"
+  },
+  "27": {
+    "ko": "모래두지",
+    "zh": "穿山鼠",
+    "fr": "Sabelette",
+    "de": "Sandan",
+    "es": "Sandshrew",
+    "it": "Sandshrew",
+    "en": "Sandshrew",
+    "ja": "サンド"
+  },
+  "28": {
+    "ko": "고지",
+    "zh": "穿山王",
+    "fr": "Sablaireau",
+    "de": "Sandamer",
+    "es": "Sandslash",
+    "it": "Sandslash",
+    "en": "Sandslash",
+    "ja": "サンドパン"
+  },
+  "29": {
+    "ko": "니드런♀",
+    "zh": "尼多蘭",
+    "fr": "Nidoran♀",
+    "de": "Nidoran♀",
+    "es": "Nidoran♀",
+    "it": "Nidoran♀",
+    "en": "Nidoran♀",
+    "ja": "ニドラン♀"
+  },
+  "30": {
+    "ko": "니드리나",
+    "zh": "尼多娜",
+    "fr": "Nidorina",
+    "de": "Nidorina",
+    "es": "Nidorina",
+    "it": "Nidorina",
+    "en": "Nidorina",
+    "ja": "ニドリーナ"
+  },
+  "31": {
+    "ko": "니드퀸",
+    "zh": "尼多后",
+    "fr": "Nidoqueen",
+    "de": "Nidoqueen",
+    "es": "Nidoqueen",
+    "it": "Nidoqueen",
+    "en": "Nidoqueen",
+    "ja": "ニドクイン"
+  },
+  "32": {
+    "ko": "니드런♂",
+    "zh": "尼多朗",
+    "fr": "Nidoran♂",
+    "de": "Nidoran♂",
+    "es": "Nidoran♂",
+    "it": "Nidoran♂",
+    "en": "Nidoran♂",
+    "ja": "ニドラン♂"
+  },
+  "33": {
+    "ko": "니드리노",
+    "zh": "尼多力諾",
+    "fr": "Nidorino",
+    "de": "Nidorino",
+    "es": "Nidorino",
+    "it": "Nidorino",
+    "en": "Nidorino",
+    "ja": "ニドリーノ"
+  },
+  "34": {
+    "ko": "니드킹",
+    "zh": "尼多王",
+    "fr": "Nidoking",
+    "de": "Nidoking",
+    "es": "Nidoking",
+    "it": "Nidoking",
+    "en": "Nidoking",
+    "ja": "ニドキング"
+  },
+  "35": {
+    "ko": "삐삐",
+    "zh": "皮皮",
+    "fr": "Mélofée",
+    "de": "Piepi",
+    "es": "Clefairy",
+    "it": "Clefairy",
+    "en": "Clefairy",
+    "ja": "ピッピ"
+  },
+  "36": {
+    "ko": "픽시",
+    "zh": "皮可西",
+    "fr": "Mélodelfe",
+    "de": "Pixi",
+    "es": "Clefable",
+    "it": "Clefable",
+    "en": "Clefable",
+    "ja": "ピクシー"
+  },
+  "37": {
+    "ko": "식스테일",
+    "zh": "六尾",
+    "fr": "Goupix",
+    "de": "Vulpix",
+    "es": "Vulpix",
+    "it": "Vulpix",
+    "en": "Vulpix",
+    "ja": "ロコン"
+  },
+  "38": {
+    "ko": "나인테일",
+    "zh": "九尾",
+    "fr": "Feunard",
+    "de": "Vulnona",
+    "es": "Ninetales",
+    "it": "Ninetales",
+    "en": "Ninetales",
+    "ja": "キュウコン"
+  },
+  "39": {
+    "ko": "푸린",
+    "zh": "胖丁",
+    "fr": "Rondoudou",
+    "de": "Pummeluff",
+    "es": "Jigglypuff",
+    "it": "Jigglypuff",
+    "en": "Jigglypuff",
+    "ja": "プリン"
+  },
+  "40": {
+    "ko": "푸크린",
+    "zh": "胖可丁",
+    "fr": "Grodoudou",
+    "de": "Knuddeluff",
+    "es": "Wigglytuff",
+    "it": "Wigglytuff",
+    "en": "Wigglytuff",
+    "ja": "プクリン"
+  },
+  "41": {
+    "ko": "주뱃",
+    "zh": "超音蝠",
+    "fr": "Nosferapti",
+    "de": "Zubat",
+    "es": "Zubat",
+    "it": "Zubat",
+    "en": "Zubat",
+    "ja": "ズバット"
+  },
+  "42": {
+    "ko": "골뱃",
+    "zh": "大嘴蝠",
+    "fr": "Nosferalto",
+    "de": "Golbat",
+    "es": "Golbat",
+    "it": "Golbat",
+    "en": "Golbat",
+    "ja": "ゴルバット"
+  },
+  "43": {
+    "ko": "뚜벅쵸",
+    "zh": "走路草",
+    "fr": "Mystherbe",
+    "de": "Myrapla",
+    "es": "Oddish",
+    "it": "Oddish",
+    "en": "Oddish",
+    "ja": "ナゾノクサ"
+  },
+  "44": {
+    "ko": "냄새꼬",
+    "zh": "臭臭花",
+    "fr": "Ortide",
+    "de": "Duflor",
+    "es": "Gloom",
+    "it": "Gloom",
+    "en": "Gloom",
+    "ja": "クサイハナ"
+  },
+  "45": {
+    "ko": "라플레시아",
+    "zh": "霸王花",
+    "fr": "Rafflesia",
+    "de": "Giflor",
+    "es": "Vileplume",
+    "it": "Vileplume",
+    "en": "Vileplume",
+    "ja": "ラフレシア"
+  },
+  "46": {
+    "ko": "파라스",
+    "zh": "派拉斯",
+    "fr": "Paras",
+    "de": "Paras",
+    "es": "Paras",
+    "it": "Paras",
+    "en": "Paras",
+    "ja": "パラス"
+  },
+  "47": {
+    "ko": "파라섹트",
+    "zh": "派拉斯特",
+    "fr": "Parasect",
+    "de": "Parasek",
+    "es": "Parasect",
+    "it": "Parasect",
+    "en": "Parasect",
+    "ja": "パラセクト"
+  },
+  "48": {
+    "ko": "콘팡",
+    "zh": "毛球",
+    "fr": "Mimitoss",
+    "de": "Bluzuk",
+    "es": "Venonat",
+    "it": "Venonat",
+    "en": "Venonat",
+    "ja": "コンパン"
+  },
+  "49": {
+    "ko": "도나리",
+    "zh": "摩魯蛾",
+    "fr": "Aéromite",
+    "de": "Omot",
+    "es": "Venomoth",
+    "it": "Venomoth",
+    "en": "Venomoth",
+    "ja": "モルフォン"
+  },
+  "50": {
+    "ko": "디그다",
+    "zh": "地鼠",
+    "fr": "Taupiqueur",
+    "de": "Digda",
+    "es": "Diglett",
+    "it": "Diglett",
+    "en": "Diglett",
+    "ja": "ディグダ"
+  },
+  "51": {
+    "ko": "닥트리오",
+    "zh": "三地鼠",
+    "fr": "Triopikeur",
+    "de": "Digdri",
+    "es": "Dugtrio",
+    "it": "Dugtrio",
+    "en": "Dugtrio",
+    "ja": "ダグトリオ"
+  },
+  "52": {
+    "ko": "나옹",
+    "zh": "喵喵",
+    "fr": "Miaouss",
+    "de": "Mauzi",
+    "es": "Meowth",
+    "it": "Meowth",
+    "en": "Meowth",
+    "ja": "ニャース"
+  },
+  "53": {
+    "ko": "페르시온",
+    "zh": "貓老大",
+    "fr": "Persian",
+    "de": "Snobilikat",
+    "es": "Persian",
+    "it": "Persian",
+    "en": "Persian",
+    "ja": "ペルシアン"
+  },
+  "54": {
+    "ko": "고라파덕",
+    "zh": "可達鴨",
+    "fr": "Psykokwak",
+    "de": "Enton",
+    "es": "Psyduck",
+    "it": "Psyduck",
+    "en": "Psyduck",
+    "ja": "コダック"
+  },
+  "55": {
+    "ko": "골덕",
+    "zh": "哥達鴨",
+    "fr": "Akwakwak",
+    "de": "Entoron",
+    "es": "Golduck",
+    "it": "Golduck",
+    "en": "Golduck",
+    "ja": "ゴルダック"
+  },
+  "56": {
+    "ko": "망키",
+    "zh": "猴怪",
+    "fr": "Férosinge",
+    "de": "Menki",
+    "es": "Mankey",
+    "it": "Mankey",
+    "en": "Mankey",
+    "ja": "マンキー"
+  },
+  "57": {
+    "ko": "성원숭",
+    "zh": "火爆猴",
+    "fr": "Colossinge",
+    "de": "Rasaff",
+    "es": "Primeape",
+    "it": "Primeape",
+    "en": "Primeape",
+    "ja": "オコリザル"
+  },
+  "58": {
+    "ko": "가디",
+    "zh": "卡蒂狗",
+    "fr": "Caninos",
+    "de": "Fukano",
+    "es": "Growlithe",
+    "it": "Growlithe",
+    "en": "Growlithe",
+    "ja": "ガーディ"
+  },
+  "59": {
+    "ko": "윈디",
+    "zh": "風速狗",
+    "fr": "Arcanin",
+    "de": "Arkani",
+    "es": "Arcanine",
+    "it": "Arcanine",
+    "en": "Arcanine",
+    "ja": "ウインディ"
+  },
+  "60": {
+    "ko": "발챙이",
+    "zh": "蚊香蝌蚪",
+    "fr": "Ptitard",
+    "de": "Quapsel",
+    "es": "Poliwag",
+    "it": "Poliwag",
+    "en": "Poliwag",
+    "ja": "ニョロモ"
+  },
+  "61": {
+    "ko": "슈륙챙이",
+    "zh": "蚊香君",
+    "fr": "Têtarte",
+    "de": "Quaputzi",
+    "es": "Poliwhirl",
+    "it": "Poliwhirl",
+    "en": "Poliwhirl",
+    "ja": "ニョロゾ"
+  },
+  "62": {
+    "ko": "강챙이",
+    "zh": "蚊香泳士",
+    "fr": "Tartard",
+    "de": "Quappo",
+    "es": "Poliwrath",
+    "it": "Poliwrath",
+    "en": "Poliwrath",
+    "ja": "ニョロボン"
+  },
+  "63": {
+    "ko": "캐이시",
+    "zh": "凱西",
+    "fr": "Abra",
+    "de": "Abra",
+    "es": "Abra",
+    "it": "Abra",
+    "en": "Abra",
+    "ja": "ケーシィ"
+  },
+  "64": {
+    "ko": "윤겔라",
+    "zh": "勇基拉",
+    "fr": "Kadabra",
+    "de": "Kadabra",
+    "es": "Kadabra",
+    "it": "Kadabra",
+    "en": "Kadabra",
+    "ja": "ユンゲラー"
+  },
+  "65": {
+    "ko": "후딘",
+    "zh": "胡地",
+    "fr": "Alakazam",
+    "de": "Simsala",
+    "es": "Alakazam",
+    "it": "Alakazam",
+    "en": "Alakazam",
+    "ja": "フーディン"
+  },
+  "66": {
+    "ko": "알통몬",
+    "zh": "腕力",
+    "fr": "Machoc",
+    "de": "Machollo",
+    "es": "Machop",
+    "it": "Machop",
+    "en": "Machop",
+    "ja": "ワンリキー"
+  },
+  "67": {
+    "ko": "근육몬",
+    "zh": "豪力",
+    "fr": "Machopeur",
+    "de": "Maschock",
+    "es": "Machoke",
+    "it": "Machoke",
+    "en": "Machoke",
+    "ja": "ゴーリキー"
+  },
+  "68": {
+    "ko": "괴력몬",
+    "zh": "怪力",
+    "fr": "Mackogneur",
+    "de": "Machomei",
+    "es": "Machamp",
+    "it": "Machamp",
+    "en": "Machamp",
+    "ja": "カイリキー"
+  },
+  "69": {
+    "ko": "모다피",
+    "zh": "喇叭芽",
+    "fr": "Chétiflor",
+    "de": "Knofensa",
+    "es": "Bellsprout",
+    "it": "Bellsprout",
+    "en": "Bellsprout",
+    "ja": "マダツボミ"
+  },
+  "70": {
+    "ko": "우츠동",
+    "zh": "口呆花",
+    "fr": "Boustiflor",
+    "de": "Ultrigaria",
+    "es": "Weepinbell",
+    "it": "Weepinbell",
+    "en": "Weepinbell",
+    "ja": "ウツドン"
+  },
+  "71": {
+    "ko": "우츠보트",
+    "zh": "大食花",
+    "fr": "Empiflor",
+    "de": "Sarzenia",
+    "es": "Victreebel",
+    "it": "Victreebel",
+    "en": "Victreebel",
+    "ja": "ウツボット"
+  },
+  "72": {
+    "ko": "왕눈해",
+    "zh": "瑪瑙水母",
+    "fr": "Tentacool",
+    "de": "Tentacha",
+    "es": "Tentacool",
+    "it": "Tentacool",
+    "en": "Tentacool",
+    "ja": "メノクラゲ"
+  },
+  "73": {
+    "ko": "독파리",
+    "zh": "毒刺水母",
+    "fr": "Tentacruel",
+    "de": "Tentoxa",
+    "es": "Tentacruel",
+    "it": "Tentacruel",
+    "en": "Tentacruel",
+    "ja": "ドククラゲ"
+  },
+  "74": {
+    "ko": "꼬마돌",
+    "zh": "小拳石",
+    "fr": "Racaillou",
+    "de": "Kleinstein",
+    "es": "Geodude",
+    "it": "Geodude",
+    "en": "Geodude",
+    "ja": "イシツブテ"
+  },
+  "75": {
+    "ko": "데구리",
+    "zh": "隆隆石",
+    "fr": "Gravalanch",
+    "de": "Georok",
+    "es": "Graveler",
+    "it": "Graveler",
+    "en": "Graveler",
+    "ja": "ゴローン"
+  },
+  "76": {
+    "ko": "딱구리",
+    "zh": "隆隆岩",
+    "fr": "Grolem",
+    "de": "Geowaz",
+    "es": "Golem",
+    "it": "Golem",
+    "en": "Golem",
+    "ja": "ゴローニャ"
+  },
+  "77": {
+    "ko": "포니타",
+    "zh": "小火馬",
+    "fr": "Ponyta",
+    "de": "Ponita",
+    "es": "Ponyta",
+    "it": "Ponyta",
+    "en": "Ponyta",
+    "ja": "ポニータ"
+  },
+  "78": {
+    "ko": "날쌩마",
+    "zh": "烈焰馬",
+    "fr": "Galopa",
+    "de": "Gallopa",
+    "es": "Rapidash",
+    "it": "Rapidash",
+    "en": "Rapidash",
+    "ja": "ギャロップ"
+  },
+  "79": {
+    "ko": "야돈",
+    "zh": "呆呆獸",
+    "fr": "Ramoloss",
+    "de": "Flegmon",
+    "es": "Slowpoke",
+    "it": "Slowpoke",
+    "en": "Slowpoke",
+    "ja": "ヤドン"
+  },
+  "80": {
+    "ko": "야도란",
+    "zh": "呆殼獸",
+    "fr": "Flagadoss",
+    "de": "Lahmus",
+    "es": "Slowbro",
+    "it": "Slowbro",
+    "en": "Slowbro",
+    "ja": "ヤドラン"
+  },
+  "81": {
+    "ko": "코일",
+    "zh": "小磁怪",
+    "fr": "Magnéti",
+    "de": "Magnetilo",
+    "es": "Magnemite",
+    "it": "Magnemite",
+    "en": "Magnemite",
+    "ja": "コイル"
+  },
+  "82": {
+    "ko": "레어코일",
+    "zh": "三合一磁怪",
+    "fr": "Magnéton",
+    "de": "Magneton",
+    "es": "Magneton",
+    "it": "Magneton",
+    "en": "Magneton",
+    "ja": "レアコイル"
+  },
+  "83": {
+    "ko": "파오리",
+    "zh": "大蔥鴨",
+    "fr": "Canarticho",
+    "de": "Porenta",
+    "es": "Farfetch’d",
+    "it": "Farfetch’d",
+    "en": "Farfetch’d",
+    "ja": "カモネギ"
+  },
+  "84": {
+    "ko": "두두",
+    "zh": "嘟嘟",
+    "fr": "Doduo",
+    "de": "Dodu",
+    "es": "Doduo",
+    "it": "Doduo",
+    "en": "Doduo",
+    "ja": "ドードー"
+  },
+  "85": {
+    "ko": "두트리오",
+    "zh": "嘟嘟利",
+    "fr": "Dodrio",
+    "de": "Dodri",
+    "es": "Dodrio",
+    "it": "Dodrio",
+    "en": "Dodrio",
+    "ja": "ドードリオ"
+  },
+  "86": {
+    "ko": "쥬쥬",
+    "zh": "小海獅",
+    "fr": "Otaria",
+    "de": "Jurob",
+    "es": "Seel",
+    "it": "Seel",
+    "en": "Seel",
+    "ja": "パウワウ"
+  },
+  "87": {
+    "ko": "쥬레곤",
+    "zh": "白海獅",
+    "fr": "Lamantine",
+    "de": "Jugong",
+    "es": "Dewgong",
+    "it": "Dewgong",
+    "en": "Dewgong",
+    "ja": "ジュゴン"
+  },
+  "88": {
+    "ko": "질퍽이",
+    "zh": "臭泥",
+    "fr": "Tadmorv",
+    "de": "Sleima",
+    "es": "Grimer",
+    "it": "Grimer",
+    "en": "Grimer",
+    "ja": "ベトベター"
+  },
+  "89": {
+    "ko": "질뻐기",
+    "zh": "臭臭泥",
+    "fr": "Grotadmorv",
+    "de": "Sleimok",
+    "es": "Muk",
+    "it": "Muk",
+    "en": "Muk",
+    "ja": "ベトベトン"
+  },
+  "90": {
+    "ko": "셀러",
+    "zh": "大舌貝",
+    "fr": "Kokiyas",
+    "de": "Muschas",
+    "es": "Shellder",
+    "it": "Shellder",
+    "en": "Shellder",
+    "ja": "シェルダー"
+  },
+  "91": {
+    "ko": "파르셀",
+    "zh": "刺甲貝",
+    "fr": "Crustabri",
+    "de": "Austos",
+    "es": "Cloyster",
+    "it": "Cloyster",
+    "en": "Cloyster",
+    "ja": "パルシェン"
+  },
+  "92": {
+    "ko": "고오스",
+    "zh": "鬼斯",
+    "fr": "Fantominus",
+    "de": "Nebulak",
+    "es": "Gastly",
+    "it": "Gastly",
+    "en": "Gastly",
+    "ja": "ゴース"
+  },
+  "93": {
+    "ko": "고우스트",
+    "zh": "鬼斯通",
+    "fr": "Spectrum",
+    "de": "Alpollo",
+    "es": "Haunter",
+    "it": "Haunter",
+    "en": "Haunter",
+    "ja": "ゴースト"
+  },
+  "94": {
+    "ko": "팬텀",
+    "zh": "耿鬼",
+    "fr": "Ectoplasma",
+    "de": "Gengar",
+    "es": "Gengar",
+    "it": "Gengar",
+    "en": "Gengar",
+    "ja": "ゲンガー"
+  },
+  "95": {
+    "ko": "롱스톤",
+    "zh": "大岩蛇",
+    "fr": "Onix",
+    "de": "Onix",
+    "es": "Onix",
+    "it": "Onix",
+    "en": "Onix",
+    "ja": "イワーク"
+  },
+  "96": {
+    "ko": "슬리프",
+    "zh": "催眠貘",
+    "fr": "Soporifik",
+    "de": "Traumato",
+    "es": "Drowzee",
+    "it": "Drowzee",
+    "en": "Drowzee",
+    "ja": "スリープ"
+  },
+  "97": {
+    "ko": "슬리퍼",
+    "zh": "引夢貘人",
+    "fr": "Hypnomade",
+    "de": "Hypno",
+    "es": "Hypno",
+    "it": "Hypno",
+    "en": "Hypno",
+    "ja": "スリーパー"
+  },
+  "98": {
+    "ko": "크랩",
+    "zh": "大鉗蟹",
+    "fr": "Krabby",
+    "de": "Krabby",
+    "es": "Krabby",
+    "it": "Krabby",
+    "en": "Krabby",
+    "ja": "クラブ"
+  },
+  "99": {
+    "ko": "킹크랩",
+    "zh": "巨鉗蟹",
+    "fr": "Krabboss",
+    "de": "Kingler",
+    "es": "Kingler",
+    "it": "Kingler",
+    "en": "Kingler",
+    "ja": "キングラー"
+  },
+  "100": {
+    "ko": "찌리리공",
+    "zh": "霹靂電球",
+    "fr": "Voltorbe",
+    "de": "Voltobal",
+    "es": "Voltorb",
+    "it": "Voltorb",
+    "en": "Voltorb",
+    "ja": "ビリリダマ"
+  },
+  "101": {
+    "ko": "붐볼",
+    "zh": "頑皮雷彈",
+    "fr": "Électrode",
+    "de": "Lektrobal",
+    "es": "Electrode",
+    "it": "Electrode",
+    "en": "Electrode",
+    "ja": "マルマイン"
+  },
+  "102": {
+    "ko": "아라리",
+    "zh": "蛋蛋",
+    "fr": "Noeunoeuf",
+    "de": "Owei",
+    "es": "Exeggcute",
+    "it": "Exeggcute",
+    "en": "Exeggcute",
+    "ja": "タマタマ"
+  },
+  "103": {
+    "ko": "나시",
+    "zh": "椰蛋樹",
+    "fr": "Noadkoko",
+    "de": "Kokowei",
+    "es": "Exeggutor",
+    "it": "Exeggutor",
+    "en": "Exeggutor",
+    "ja": "ナッシー"
+  },
+  "104": {
+    "ko": "탕구리",
+    "zh": "卡拉卡拉",
+    "fr": "Osselait",
+    "de": "Tragosso",
+    "es": "Cubone",
+    "it": "Cubone",
+    "en": "Cubone",
+    "ja": "カラカラ"
+  },
+  "105": {
+    "ko": "텅구리",
+    "zh": "嘎啦嘎啦",
+    "fr": "Ossatueur",
+    "de": "Knogga",
+    "es": "Marowak",
+    "it": "Marowak",
+    "en": "Marowak",
+    "ja": "ガラガラ"
+  },
+  "106": {
+    "ko": "시라소몬",
+    "zh": "飛腿郎",
+    "fr": "Kicklee",
+    "de": "Kicklee",
+    "es": "Hitmonlee",
+    "it": "Hitmonlee",
+    "en": "Hitmonlee",
+    "ja": "サワムラー"
+  },
+  "107": {
+    "ko": "홍수몬",
+    "zh": "快拳郎",
+    "fr": "Tygnon",
+    "de": "Nockchan",
+    "es": "Hitmonchan",
+    "it": "Hitmonchan",
+    "en": "Hitmonchan",
+    "ja": "エビワラー"
+  },
+  "108": {
+    "ko": "내루미",
+    "zh": "大舌頭",
+    "fr": "Excelangue",
+    "de": "Schlurp",
+    "es": "Lickitung",
+    "it": "Lickitung",
+    "en": "Lickitung",
+    "ja": "ベロリンガ"
+  },
+  "109": {
+    "ko": "또가스",
+    "zh": "瓦斯彈",
+    "fr": "Smogo",
+    "de": "Smogon",
+    "es": "Koffing",
+    "it": "Koffing",
+    "en": "Koffing",
+    "ja": "ドガース"
+  },
+  "110": {
+    "ko": "또도가스",
+    "zh": "雙彈瓦斯",
+    "fr": "Smogogo",
+    "de": "Smogmog",
+    "es": "Weezing",
+    "it": "Weezing",
+    "en": "Weezing",
+    "ja": "マタドガス"
+  },
+  "111": {
+    "ko": "뿔카노",
+    "zh": "獨角犀牛",
+    "fr": "Rhinocorne",
+    "de": "Rihorn",
+    "es": "Rhyhorn",
+    "it": "Rhyhorn",
+    "en": "Rhyhorn",
+    "ja": "サイホーン"
+  },
+  "112": {
+    "ko": "코뿌리",
+    "zh": "鑽角犀獸",
+    "fr": "Rhinoféros",
+    "de": "Rizeros",
+    "es": "Rhydon",
+    "it": "Rhydon",
+    "en": "Rhydon",
+    "ja": "サイドン"
+  },
+  "113": {
+    "ko": "럭키",
+    "zh": "吉利蛋",
+    "fr": "Leveinard",
+    "de": "Chaneira",
+    "es": "Chansey",
+    "it": "Chansey",
+    "en": "Chansey",
+    "ja": "ラッキー"
+  },
+  "114": {
+    "ko": "덩쿠리",
+    "zh": "蔓藤怪",
+    "fr": "Saquedeneu",
+    "de": "Tangela",
+    "es": "Tangela",
+    "it": "Tangela",
+    "en": "Tangela",
+    "ja": "モンジャラ"
+  },
+  "115": {
+    "ko": "캥카",
+    "zh": "袋獸",
+    "fr": "Kangourex",
+    "de": "Kangama",
+    "es": "Kangaskhan",
+    "it": "Kangaskhan",
+    "en": "Kangaskhan",
+    "ja": "ガルーラ"
+  },
+  "116": {
+    "ko": "쏘드라",
+    "zh": "墨海馬",
+    "fr": "Hypotrempe",
+    "de": "Seeper",
+    "es": "Horsea",
+    "it": "Horsea",
+    "en": "Horsea",
+    "ja": "タッツー"
+  },
+  "117": {
+    "ko": "시드라",
+    "zh": "海刺龍",
+    "fr": "Hypocéan",
+    "de": "Seemon",
+    "es": "Seadra",
+    "it": "Seadra",
+    "en": "Seadra",
+    "ja": "シードラ"
+  },
+  "118": {
+    "ko": "콘치",
+    "zh": "角金魚",
+    "fr": "Poissirène",
+    "de": "Goldini",
+    "es": "Goldeen",
+    "it": "Goldeen",
+    "en": "Goldeen",
+    "ja": "トサキント"
+  },
+  "119": {
+    "ko": "왕콘치",
+    "zh": "金魚王",
+    "fr": "Poissoroy",
+    "de": "Golking",
+    "es": "Seaking",
+    "it": "Seaking",
+    "en": "Seaking",
+    "ja": "アズマオウ"
+  },
+  "120": {
+    "ko": "별가사리",
+    "zh": "海星星",
+    "fr": "Stari",
+    "de": "Sterndu",
+    "es": "Staryu",
+    "it": "Staryu",
+    "en": "Staryu",
+    "ja": "ヒトデマン"
+  },
+  "121": {
+    "ko": "아쿠스타",
+    "zh": "寶石海星",
+    "fr": "Staross",
+    "de": "Starmie",
+    "es": "Starmie",
+    "it": "Starmie",
+    "en": "Starmie",
+    "ja": "スターミー"
+  },
+  "122": {
+    "ko": "마임맨",
+    "zh": "魔牆人偶",
+    "fr": "M. Mime",
+    "de": "Pantimos",
+    "es": "Mr. Mime",
+    "it": "Mr. Mime",
+    "en": "Mr. Mime",
+    "ja": "バリヤード"
+  },
+  "123": {
+    "ko": "스라크",
+    "zh": "飛天螳螂",
+    "fr": "Insécateur",
+    "de": "Sichlor",
+    "es": "Scyther",
+    "it": "Scyther",
+    "en": "Scyther",
+    "ja": "ストライク"
+  },
+  "124": {
+    "ko": "루주라",
+    "zh": "迷唇姐",
+    "fr": "Lippoutou",
+    "de": "Rossana",
+    "es": "Jynx",
+    "it": "Jynx",
+    "en": "Jynx",
+    "ja": "ルージュラ"
+  },
+  "125": {
+    "ko": "에레브",
+    "zh": "電擊獸",
+    "fr": "Élektek",
+    "de": "Elektek",
+    "es": "Electabuzz",
+    "it": "Electabuzz",
+    "en": "Electabuzz",
+    "ja": "エレブー"
+  },
+  "126": {
+    "ko": "마그마",
+    "zh": "鴨嘴火獸",
+    "fr": "Magmar",
+    "de": "Magmar",
+    "es": "Magmar",
+    "it": "Magmar",
+    "en": "Magmar",
+    "ja": "ブーバー"
+  },
+  "127": {
+    "ko": "쁘사이저",
+    "zh": "凱羅斯",
+    "fr": "Scarabrute",
+    "de": "Pinsir",
+    "es": "Pinsir",
+    "it": "Pinsir",
+    "en": "Pinsir",
+    "ja": "カイロス"
+  },
+  "128": {
+    "ko": "켄타로스",
+    "zh": "肯泰羅",
+    "fr": "Tauros",
+    "de": "Tauros",
+    "es": "Tauros",
+    "it": "Tauros",
+    "en": "Tauros",
+    "ja": "ケンタロス"
+  },
+  "129": {
+    "ko": "잉어킹",
+    "zh": "鯉魚王",
+    "fr": "Magicarpe",
+    "de": "Karpador",
+    "es": "Magikarp",
+    "it": "Magikarp",
+    "en": "Magikarp",
+    "ja": "コイキング"
+  },
+  "130": {
+    "ko": "갸라도스",
+    "zh": "暴鯉龍",
+    "fr": "Léviator",
+    "de": "Garados",
+    "es": "Gyarados",
+    "it": "Gyarados",
+    "en": "Gyarados",
+    "ja": "ギャラドス"
+  },
+  "131": {
+    "ko": "라프라스",
+    "zh": "拉普拉斯",
+    "fr": "Lokhlass",
+    "de": "Lapras",
+    "es": "Lapras",
+    "it": "Lapras",
+    "en": "Lapras",
+    "ja": "ラプラス"
+  },
+  "132": {
+    "ko": "메타몽",
+    "zh": "百變怪",
+    "fr": "Métamorph",
+    "de": "Ditto",
+    "es": "Ditto",
+    "it": "Ditto",
+    "en": "Ditto",
+    "ja": "メタモン"
+  },
+  "133": {
+    "ko": "이브이",
+    "zh": "伊布",
+    "fr": "Évoli",
+    "de": "Evoli",
+    "es": "Eevee",
+    "it": "Eevee",
+    "en": "Eevee",
+    "ja": "イーブイ"
+  },
+  "134": {
+    "ko": "샤미드",
+    "zh": "水伊布",
+    "fr": "Aquali",
+    "de": "Aquana",
+    "es": "Vaporeon",
+    "it": "Vaporeon",
+    "en": "Vaporeon",
+    "ja": "シャワーズ"
+  },
+  "135": {
+    "ko": "쥬피썬더",
+    "zh": "雷伊布",
+    "fr": "Voltali",
+    "de": "Blitza",
+    "es": "Jolteon",
+    "it": "Jolteon",
+    "en": "Jolteon",
+    "ja": "サンダース"
+  },
+  "136": {
+    "ko": "부스터",
+    "zh": "火伊布",
+    "fr": "Pyroli",
+    "de": "Flamara",
+    "es": "Flareon",
+    "it": "Flareon",
+    "en": "Flareon",
+    "ja": "ブースター"
+  },
+  "137": {
+    "ko": "폴리곤",
+    "zh": "多邊獸",
+    "fr": "Porygon",
+    "de": "Porygon",
+    "es": "Porygon",
+    "it": "Porygon",
+    "en": "Porygon",
+    "ja": "ポリゴン"
+  },
+  "138": {
+    "ko": "암나이트",
+    "zh": "菊石獸",
+    "fr": "Amonita",
+    "de": "Amonitas",
+    "es": "Omanyte",
+    "it": "Omanyte",
+    "en": "Omanyte",
+    "ja": "オムナイト"
+  },
+  "139": {
+    "ko": "암스타",
+    "zh": "多刺菊石獸",
+    "fr": "Amonistar",
+    "de": "Amoroso",
+    "es": "Omastar",
+    "it": "Omastar",
+    "en": "Omastar",
+    "ja": "オムスター"
+  },
+  "140": {
+    "ko": "투구",
+    "zh": "化石盔",
+    "fr": "Kabuto",
+    "de": "Kabuto",
+    "es": "Kabuto",
+    "it": "Kabuto",
+    "en": "Kabuto",
+    "ja": "カブト"
+  },
+  "141": {
+    "ko": "투구푸스",
+    "zh": "鐮刀盔",
+    "fr": "Kabutops",
+    "de": "Kabutops",
+    "es": "Kabutops",
+    "it": "Kabutops",
+    "en": "Kabutops",
+    "ja": "カブトプス"
+  },
+  "142": {
+    "ko": "프테라",
+    "zh": "化石翼龍",
+    "fr": "Ptéra",
+    "de": "Aerodactyl",
+    "es": "Aerodactyl",
+    "it": "Aerodactyl",
+    "en": "Aerodactyl",
+    "ja": "プテラ"
+  },
+  "143": {
+    "ko": "잠만보",
+    "zh": "卡比獸",
+    "fr": "Ronflex",
+    "de": "Relaxo",
+    "es": "Snorlax",
+    "it": "Snorlax",
+    "en": "Snorlax",
+    "ja": "カビゴン"
+  },
+  "144": {
+    "ko": "프리져",
+    "zh": "急凍鳥",
+    "fr": "Artikodin",
+    "de": "Arktos",
+    "es": "Articuno",
+    "it": "Articuno",
+    "en": "Articuno",
+    "ja": "フリーザー"
+  },
+  "145": {
+    "ko": "썬더",
+    "zh": "閃電鳥",
+    "fr": "Électhor",
+    "de": "Zapdos",
+    "es": "Zapdos",
+    "it": "Zapdos",
+    "en": "Zapdos",
+    "ja": "サンダー"
+  },
+  "146": {
+    "ko": "파이어",
+    "zh": "火焰鳥",
+    "fr": "Sulfura",
+    "de": "Lavados",
+    "es": "Moltres",
+    "it": "Moltres",
+    "en": "Moltres",
+    "ja": "ファイヤー"
+  },
+  "147": {
+    "ko": "미뇽",
+    "zh": "迷你龍",
+    "fr": "Minidraco",
+    "de": "Dratini",
+    "es": "Dratini",
+    "it": "Dratini",
+    "en": "Dratini",
+    "ja": "ミニリュウ"
+  },
+  "148": {
+    "ko": "신뇽",
+    "zh": "哈克龍",
+    "fr": "Draco",
+    "de": "Dragonir",
+    "es": "Dragonair",
+    "it": "Dragonair",
+    "en": "Dragonair",
+    "ja": "ハクリュー"
+  },
+  "149": {
+    "ko": "망나뇽",
+    "zh": "快龍",
+    "fr": "Dracolosse",
+    "de": "Dragoran",
+    "es": "Dragonite",
+    "it": "Dragonite",
+    "en": "Dragonite",
+    "ja": "カイリュー"
+  },
+  "150": {
+    "ko": "뮤츠",
+    "zh": "超夢",
+    "fr": "Mewtwo",
+    "de": "Mewtu",
+    "es": "Mewtwo",
+    "it": "Mewtwo",
+    "en": "Mewtwo",
+    "ja": "ミュウツー"
+  },
+  "151": {
+    "ko": "뮤",
+    "zh": "夢幻",
+    "fr": "Mew",
+    "de": "Mew",
+    "es": "Mew",
+    "it": "Mew",
+    "en": "Mew",
+    "ja": "ミュウ"
+  },
+  "152": {
+    "ko": "치코리타",
+    "zh": "菊草葉",
+    "fr": "Germignon",
+    "de": "Endivie",
+    "es": "Chikorita",
+    "it": "Chikorita",
+    "en": "Chikorita",
+    "ja": "チコリータ"
+  },
+  "153": {
+    "ko": "베이리프",
+    "zh": "月桂葉",
+    "fr": "Macronium",
+    "de": "Lorblatt",
+    "es": "Bayleef",
+    "it": "Bayleef",
+    "en": "Bayleef",
+    "ja": "ベイリーフ"
+  },
+  "154": {
+    "ko": "메가니움",
+    "zh": "大竺葵",
+    "fr": "Méganium",
+    "de": "Meganie",
+    "es": "Meganium",
+    "it": "Meganium",
+    "en": "Meganium",
+    "ja": "メガニウム"
+  },
+  "155": {
+    "ko": "브케인",
+    "zh": "火球鼠",
+    "fr": "Héricendre",
+    "de": "Feurigel",
+    "es": "Cyndaquil",
+    "it": "Cyndaquil",
+    "en": "Cyndaquil",
+    "ja": "ヒノアラシ"
+  },
+  "156": {
+    "ko": "마그케인",
+    "zh": "火岩鼠",
+    "fr": "Feurisson",
+    "de": "Igelavar",
+    "es": "Quilava",
+    "it": "Quilava",
+    "en": "Quilava",
+    "ja": "マグマラシ"
+  },
+  "157": {
+    "ko": "블레이범",
+    "zh": "火爆獸",
+    "fr": "Typhlosion",
+    "de": "Tornupto",
+    "es": "Typhlosion",
+    "it": "Typhlosion",
+    "en": "Typhlosion",
+    "ja": "バクフーン"
+  },
+  "158": {
+    "ko": "리아코",
+    "zh": "小鋸鱷",
+    "fr": "Kaiminus",
+    "de": "Karnimani",
+    "es": "Totodile",
+    "it": "Totodile",
+    "en": "Totodile",
+    "ja": "ワニノコ"
+  },
+  "159": {
+    "ko": "엘리게이",
+    "zh": "藍鱷",
+    "fr": "Crocrodil",
+    "de": "Tyracroc",
+    "es": "Croconaw",
+    "it": "Croconaw",
+    "en": "Croconaw",
+    "ja": "アリゲイツ"
+  },
+  "160": {
+    "ko": "장크로다일",
+    "zh": "大力鱷",
+    "fr": "Aligatueur",
+    "de": "Impergator",
+    "es": "Feraligatr",
+    "it": "Feraligatr",
+    "en": "Feraligatr",
+    "ja": "オーダイル"
+  },
+  "161": {
+    "ko": "꼬리선",
+    "zh": "尾立",
+    "fr": "Fouinette",
+    "de": "Wiesor",
+    "es": "Sentret",
+    "it": "Sentret",
+    "en": "Sentret",
+    "ja": "オタチ"
+  },
+  "162": {
+    "ko": "다꼬리",
+    "zh": "大尾立",
+    "fr": "Fouinar",
+    "de": "Wiesenior",
+    "es": "Furret",
+    "it": "Furret",
+    "en": "Furret",
+    "ja": "オオタチ"
+  },
+  "163": {
+    "ko": "부우부",
+    "zh": "咕咕",
+    "fr": "Hoothoot",
+    "de": "Hoothoot",
+    "es": "Hoothoot",
+    "it": "Hoothoot",
+    "en": "Hoothoot",
+    "ja": "ホーホー"
+  },
+  "164": {
+    "ko": "야부엉",
+    "zh": "貓頭夜鷹",
+    "fr": "Noarfang",
+    "de": "Noctuh",
+    "es": "Noctowl",
+    "it": "Noctowl",
+    "en": "Noctowl",
+    "ja": "ヨルノズク"
+  },
+  "165": {
+    "ko": "레디바",
+    "zh": "芭瓢蟲",
+    "fr": "Coxy",
+    "de": "Ledyba",
+    "es": "Ledyba",
+    "it": "Ledyba",
+    "en": "Ledyba",
+    "ja": "レディバ"
+  },
+  "166": {
+    "ko": "레디안",
+    "zh": "安瓢蟲",
+    "fr": "Coxyclaque",
+    "de": "Ledian",
+    "es": "Ledian",
+    "it": "Ledian",
+    "en": "Ledian",
+    "ja": "レディアン"
+  },
+  "167": {
+    "ko": "페이검",
+    "zh": "圓絲蛛",
+    "fr": "Mimigal",
+    "de": "Webarak",
+    "es": "Spinarak",
+    "it": "Spinarak",
+    "en": "Spinarak",
+    "ja": "イトマル"
+  },
+  "168": {
+    "ko": "아리아도스",
+    "zh": "阿利多斯",
+    "fr": "Migalos",
+    "de": "Ariados",
+    "es": "Ariados",
+    "it": "Ariados",
+    "en": "Ariados",
+    "ja": "アリアドス"
+  },
+  "169": {
+    "ko": "크로뱃",
+    "zh": "叉字蝠",
+    "fr": "Nostenfer",
+    "de": "Iksbat",
+    "es": "Crobat",
+    "it": "Crobat",
+    "en": "Crobat",
+    "ja": "クロバット"
+  },
+  "170": {
+    "ko": "초라기",
+    "zh": "燈籠魚",
+    "fr": "Loupio",
+    "de": "Lampi",
+    "es": "Chinchou",
+    "it": "Chinchou",
+    "en": "Chinchou",
+    "ja": "チョンチー"
+  },
+  "171": {
+    "ko": "랜턴",
+    "zh": "電燈怪",
+    "fr": "Lanturn",
+    "de": "Lanturn",
+    "es": "Lanturn",
+    "it": "Lanturn",
+    "en": "Lanturn",
+    "ja": "ランターン"
+  },
+  "172": {
+    "ko": "피츄",
+    "zh": "皮丘",
+    "fr": "Pichu",
+    "de": "Pichu",
+    "es": "Pichu",
+    "it": "Pichu",
+    "en": "Pichu",
+    "ja": "ピチュー"
+  },
+  "173": {
+    "ko": "삐",
+    "zh": "皮寶寶",
+    "fr": "Mélo",
+    "de": "Pii",
+    "es": "Cleffa",
+    "it": "Cleffa",
+    "en": "Cleffa",
+    "ja": "ピィ"
+  },
+  "174": {
+    "ko": "푸푸린",
+    "zh": "寶寶丁",
+    "fr": "Toudoudou",
+    "de": "Fluffeluff",
+    "es": "Igglybuff",
+    "it": "Igglybuff",
+    "en": "Igglybuff",
+    "ja": "ププリン"
+  },
+  "175": {
+    "ko": "토게피",
+    "zh": "波克比",
+    "fr": "Togepi",
+    "de": "Togepi",
+    "es": "Togepi",
+    "it": "Togepi",
+    "en": "Togepi",
+    "ja": "トゲピー"
+  },
+  "176": {
+    "ko": "토게틱",
+    "zh": "波克基古",
+    "fr": "Togetic",
+    "de": "Togetic",
+    "es": "Togetic",
+    "it": "Togetic",
+    "en": "Togetic",
+    "ja": "トゲチック"
+  },
+  "177": {
+    "ko": "네이티",
+    "zh": "天然雀",
+    "fr": "Natu",
+    "de": "Natu",
+    "es": "Natu",
+    "it": "Natu",
+    "en": "Natu",
+    "ja": "ネイティ"
+  },
+  "178": {
+    "ko": "네이티오",
+    "zh": "天然鳥",
+    "fr": "Xatu",
+    "de": "Xatu",
+    "es": "Xatu",
+    "it": "Xatu",
+    "en": "Xatu",
+    "ja": "ネイティオ"
+  },
+  "179": {
+    "ko": "메리프",
+    "zh": "咩利羊",
+    "fr": "Wattouat",
+    "de": "Voltilamm",
+    "es": "Mareep",
+    "it": "Mareep",
+    "en": "Mareep",
+    "ja": "メリープ"
+  },
+  "180": {
+    "ko": "보송송",
+    "zh": "茸茸羊",
+    "fr": "Lainergie",
+    "de": "Waaty",
+    "es": "Flaaffy",
+    "it": "Flaaffy",
+    "en": "Flaaffy",
+    "ja": "モココ"
+  },
+  "181": {
+    "ko": "전룡",
+    "zh": "電龍",
+    "fr": "Pharamp",
+    "de": "Ampharos",
+    "es": "Ampharos",
+    "it": "Ampharos",
+    "en": "Ampharos",
+    "ja": "デンリュウ"
+  },
+  "182": {
+    "ko": "아르코",
+    "zh": "美麗花",
+    "fr": "Joliflor",
+    "de": "Blubella",
+    "es": "Bellossom",
+    "it": "Bellossom",
+    "en": "Bellossom",
+    "ja": "キレイハナ"
+  },
+  "183": {
+    "ko": "마릴",
+    "zh": "瑪力露",
+    "fr": "Marill",
+    "de": "Marill",
+    "es": "Marill",
+    "it": "Marill",
+    "en": "Marill",
+    "ja": "マリル"
+  },
+  "184": {
+    "ko": "마릴리",
+    "zh": "瑪力露麗",
+    "fr": "Azumarill",
+    "de": "Azumarill",
+    "es": "Azumarill",
+    "it": "Azumarill",
+    "en": "Azumarill",
+    "ja": "マリルリ"
+  },
+  "185": {
+    "ko": "꼬지모",
+    "zh": "樹才怪",
+    "fr": "Simularbre",
+    "de": "Mogelbaum",
+    "es": "Sudowoodo",
+    "it": "Sudowoodo",
+    "en": "Sudowoodo",
+    "ja": "ウソッキー"
+  },
+  "186": {
+    "ko": "왕구리",
+    "zh": "蚊香蛙皇",
+    "fr": "Tarpaud",
+    "de": "Quaxo",
+    "es": "Politoed",
+    "it": "Politoed",
+    "en": "Politoed",
+    "ja": "ニョロトノ"
+  },
+  "187": {
+    "ko": "통통코",
+    "zh": "毽子草",
+    "fr": "Granivol",
+    "de": "Hoppspross",
+    "es": "Hoppip",
+    "it": "Hoppip",
+    "en": "Hoppip",
+    "ja": "ハネッコ"
+  },
+  "188": {
+    "ko": "두코",
+    "zh": "毽子花",
+    "fr": "Floravol",
+    "de": "Hubelupf",
+    "es": "Skiploom",
+    "it": "Skiploom",
+    "en": "Skiploom",
+    "ja": "ポポッコ"
+  },
+  "189": {
+    "ko": "솜솜코",
+    "zh": "毽子棉",
+    "fr": "Cotovol",
+    "de": "Papungha",
+    "es": "Jumpluff",
+    "it": "Jumpluff",
+    "en": "Jumpluff",
+    "ja": "ワタッコ"
+  },
+  "190": {
+    "ko": "에이팜",
+    "zh": "長尾怪手",
+    "fr": "Capumain",
+    "de": "Griffel",
+    "es": "Aipom",
+    "it": "Aipom",
+    "en": "Aipom",
+    "ja": "エイパム"
+  },
+  "191": {
+    "ko": "해너츠",
+    "zh": "向日種子",
+    "fr": "Tournegrin",
+    "de": "Sonnkern",
+    "es": "Sunkern",
+    "it": "Sunkern",
+    "en": "Sunkern",
+    "ja": "ヒマナッツ"
+  },
+  "192": {
+    "ko": "해루미",
+    "zh": "向日花怪",
+    "fr": "Héliatronc",
+    "de": "Sonnflora",
+    "es": "Sunflora",
+    "it": "Sunflora",
+    "en": "Sunflora",
+    "ja": "キマワリ"
+  },
+  "193": {
+    "ko": "왕자리",
+    "zh": "蜻蜻蜓",
+    "fr": "Yanma",
+    "de": "Yanma",
+    "es": "Yanma",
+    "it": "Yanma",
+    "en": "Yanma",
+    "ja": "ヤンヤンマ"
+  },
+  "194": {
+    "ko": "우파",
+    "zh": "烏波",
+    "fr": "Axoloto",
+    "de": "Felino",
+    "es": "Wooper",
+    "it": "Wooper",
+    "en": "Wooper",
+    "ja": "ウパー"
+  },
+  "195": {
+    "ko": "누오",
+    "zh": "沼王",
+    "fr": "Maraiste",
+    "de": "Morlord",
+    "es": "Quagsire",
+    "it": "Quagsire",
+    "en": "Quagsire",
+    "ja": "ヌオー"
+  },
+  "196": {
+    "ko": "에브이",
+    "zh": "太陽伊布",
+    "fr": "Mentali",
+    "de": "Psiana",
+    "es": "Espeon",
+    "it": "Espeon",
+    "en": "Espeon",
+    "ja": "エーフィ"
+  },
+  "197": {
+    "ko": "블래키",
+    "zh": "月亮伊布",
+    "fr": "Noctali",
+    "de": "Nachtara",
+    "es": "Umbreon",
+    "it": "Umbreon",
+    "en": "Umbreon",
+    "ja": "ブラッキー"
+  },
+  "198": {
+    "ko": "니로우",
+    "zh": "黑暗鴉",
+    "fr": "Cornèbre",
+    "de": "Kramurx",
+    "es": "Murkrow",
+    "it": "Murkrow",
+    "en": "Murkrow",
+    "ja": "ヤミカラス"
+  },
+  "199": {
+    "ko": "야도킹",
+    "zh": "呆呆王",
+    "fr": "Roigada",
+    "de": "Laschoking",
+    "es": "Slowking",
+    "it": "Slowking",
+    "en": "Slowking",
+    "ja": "ヤドキング"
+  },
+  "200": {
+    "ko": "무우마",
+    "zh": "夢妖",
+    "fr": "Feuforêve",
+    "de": "Traunfugil",
+    "es": "Misdreavus",
+    "it": "Misdreavus",
+    "en": "Misdreavus",
+    "ja": "ムウマ"
+  },
+  "201": {
+    "ko": "안농",
+    "zh": "未知圖騰",
+    "fr": "Zarbi",
+    "de": "Icognito",
+    "es": "Unown",
+    "it": "Unown",
+    "en": "Unown",
+    "ja": "アンノーン"
+  },
+  "202": {
+    "ko": "마자용",
+    "zh": "果然翁",
+    "fr": "Qulbutoké",
+    "de": "Woingenau",
+    "es": "Wobbuffet",
+    "it": "Wobbuffet",
+    "en": "Wobbuffet",
+    "ja": "ソーナンス"
+  },
+  "203": {
+    "ko": "키링키",
+    "zh": "麒麟奇",
+    "fr": "Girafarig",
+    "de": "Girafarig",
+    "es": "Girafarig",
+    "it": "Girafarig",
+    "en": "Girafarig",
+    "ja": "キリンリキ"
+  },
+  "204": {
+    "ko": "피콘",
+    "zh": "榛果球",
+    "fr": "Pomdepik",
+    "de": "Tannza",
+    "es": "Pineco",
+    "it": "Pineco",
+    "en": "Pineco",
+    "ja": "クヌギダマ"
+  },
+  "205": {
+    "ko": "쏘콘",
+    "zh": "佛烈托斯",
+    "fr": "Foretress",
+    "de": "Forstellka",
+    "es": "Forretress",
+    "it": "Forretress",
+    "en": "Forretress",
+    "ja": "フォレトス"
+  },
+  "206": {
+    "ko": "노고치",
+    "zh": "土龍弟弟",
+    "fr": "Insolourdo",
+    "de": "Dummisel",
+    "es": "Dunsparce",
+    "it": "Dunsparce",
+    "en": "Dunsparce",
+    "ja": "ノコッチ"
+  },
+  "207": {
+    "ko": "글라이거",
+    "zh": "天蠍",
+    "fr": "Scorplane",
+    "de": "Skorgla",
+    "es": "Gligar",
+    "it": "Gligar",
+    "en": "Gligar",
+    "ja": "グライガー"
+  },
+  "208": {
+    "ko": "강철톤",
+    "zh": "大鋼蛇",
+    "fr": "Steelix",
+    "de": "Stahlos",
+    "es": "Steelix",
+    "it": "Steelix",
+    "en": "Steelix",
+    "ja": "ハガネール"
+  },
+  "209": {
+    "ko": "블루",
+    "zh": "布魯",
+    "fr": "Snubbull",
+    "de": "Snubbull",
+    "es": "Snubbull",
+    "it": "Snubbull",
+    "en": "Snubbull",
+    "ja": "ブルー"
+  },
+  "210": {
+    "ko": "그랑블루",
+    "zh": "布魯皇",
+    "fr": "Granbull",
+    "de": "Granbull",
+    "es": "Granbull",
+    "it": "Granbull",
+    "en": "Granbull",
+    "ja": "グランブル"
+  },
+  "211": {
+    "ko": "침바루",
+    "zh": "千針魚",
+    "fr": "Qwilfish",
+    "de": "Baldorfish",
+    "es": "Qwilfish",
+    "it": "Qwilfish",
+    "en": "Qwilfish",
+    "ja": "ハリーセン"
+  },
+  "212": {
+    "ko": "핫삼",
+    "zh": "巨鉗螳螂",
+    "fr": "Cizayox",
+    "de": "Scherox",
+    "es": "Scizor",
+    "it": "Scizor",
+    "en": "Scizor",
+    "ja": "ハッサム"
+  },
+  "213": {
+    "ko": "단단지",
+    "zh": "壺壺",
+    "fr": "Caratroc",
+    "de": "Pottrott",
+    "es": "Shuckle",
+    "it": "Shuckle",
+    "en": "Shuckle",
+    "ja": "ツボツボ"
+  },
+  "214": {
+    "ko": "헤라크로스",
+    "zh": "赫拉克羅斯",
+    "fr": "Scarhino",
+    "de": "Skaraborn",
+    "es": "Heracross",
+    "it": "Heracross",
+    "en": "Heracross",
+    "ja": "ヘラクロス"
+  },
+  "215": {
+    "ko": "포푸니",
+    "zh": "狃拉",
+    "fr": "Farfuret",
+    "de": "Sniebel",
+    "es": "Sneasel",
+    "it": "Sneasel",
+    "en": "Sneasel",
+    "ja": "ニューラ"
+  },
+  "216": {
+    "ko": "깜지곰",
+    "zh": "熊寶寶",
+    "fr": "Teddiursa",
+    "de": "Teddiursa",
+    "es": "Teddiursa",
+    "it": "Teddiursa",
+    "en": "Teddiursa",
+    "ja": "ヒメグマ"
+  },
+  "217": {
+    "ko": "링곰",
+    "zh": "圈圈熊",
+    "fr": "Ursaring",
+    "de": "Ursaring",
+    "es": "Ursaring",
+    "it": "Ursaring",
+    "en": "Ursaring",
+    "ja": "リングマ"
+  },
+  "218": {
+    "ko": "마그마그",
+    "zh": "熔岩蟲",
+    "fr": "Limagma",
+    "de": "Schneckmag",
+    "es": "Slugma",
+    "it": "Slugma",
+    "en": "Slugma",
+    "ja": "マグマッグ"
+  },
+  "219": {
+    "ko": "마그카르고",
+    "zh": "熔岩蝸牛",
+    "fr": "Volcaropod",
+    "de": "Magcargo",
+    "es": "Magcargo",
+    "it": "Magcargo",
+    "en": "Magcargo",
+    "ja": "マグカルゴ"
+  },
+  "220": {
+    "ko": "꾸꾸리",
+    "zh": "小山豬",
+    "fr": "Marcacrin",
+    "de": "Quiekel",
+    "es": "Swinub",
+    "it": "Swinub",
+    "en": "Swinub",
+    "ja": "ウリムー"
+  },
+  "221": {
+    "ko": "메꾸리",
+    "zh": "長毛豬",
+    "fr": "Cochignon",
+    "de": "Keifel",
+    "es": "Piloswine",
+    "it": "Piloswine",
+    "en": "Piloswine",
+    "ja": "イノムー"
+  },
+  "222": {
+    "ko": "코산호",
+    "zh": "太陽珊瑚",
+    "fr": "Corayon",
+    "de": "Corasonn",
+    "es": "Corsola",
+    "it": "Corsola",
+    "en": "Corsola",
+    "ja": "サニーゴ"
+  },
+  "223": {
+    "ko": "총어",
+    "zh": "鐵炮魚",
+    "fr": "Rémoraid",
+    "de": "Remoraid",
+    "es": "Remoraid",
+    "it": "Remoraid",
+    "en": "Remoraid",
+    "ja": "テッポウオ"
+  },
+  "224": {
+    "ko": "대포무노",
+    "zh": "章魚桶",
+    "fr": "Octillery",
+    "de": "Octillery",
+    "es": "Octillery",
+    "it": "Octillery",
+    "en": "Octillery",
+    "ja": "オクタン"
+  },
+  "225": {
+    "ko": "딜리버드",
+    "zh": "信使鳥",
+    "fr": "Cadoizo",
+    "de": "Botogel",
+    "es": "Delibird",
+    "it": "Delibird",
+    "en": "Delibird",
+    "ja": "デリバード"
+  },
+  "226": {
+    "ko": "만타인",
+    "zh": "巨翅飛魚",
+    "fr": "Démanta",
+    "de": "Mantax",
+    "es": "Mantine",
+    "it": "Mantine",
+    "en": "Mantine",
+    "ja": "マンタイン"
+  },
+  "227": {
+    "ko": "무장조",
+    "zh": "盔甲鳥",
+    "fr": "Airmure",
+    "de": "Panzaeron",
+    "es": "Skarmory",
+    "it": "Skarmory",
+    "en": "Skarmory",
+    "ja": "エアームド"
+  },
+  "228": {
+    "ko": "델빌",
+    "zh": "戴魯比",
+    "fr": "Malosse",
+    "de": "Hunduster",
+    "es": "Houndour",
+    "it": "Houndour",
+    "en": "Houndour",
+    "ja": "デルビル"
+  },
+  "229": {
+    "ko": "헬가",
+    "zh": "黑魯加",
+    "fr": "Démolosse",
+    "de": "Hundemon",
+    "es": "Houndoom",
+    "it": "Houndoom",
+    "en": "Houndoom",
+    "ja": "ヘルガー"
+  },
+  "230": {
+    "ko": "킹드라",
+    "zh": "刺龍王",
+    "fr": "Hyporoi",
+    "de": "Seedraking",
+    "es": "Kingdra",
+    "it": "Kingdra",
+    "en": "Kingdra",
+    "ja": "キングドラ"
+  },
+  "231": {
+    "ko": "코코리",
+    "zh": "小小象",
+    "fr": "Phanpy",
+    "de": "Phanpy",
+    "es": "Phanpy",
+    "it": "Phanpy",
+    "en": "Phanpy",
+    "ja": "ゴマゾウ"
+  },
+  "232": {
+    "ko": "코리갑",
+    "zh": "頓甲",
+    "fr": "Donphan",
+    "de": "Donphan",
+    "es": "Donphan",
+    "it": "Donphan",
+    "en": "Donphan",
+    "ja": "ドンファン"
+  },
+  "233": {
+    "ko": "폴리곤2",
+    "zh": "多邊獸Ⅱ",
+    "fr": "Porygon2",
+    "de": "Porygon2",
+    "es": "Porygon2",
+    "it": "Porygon2",
+    "en": "Porygon2",
+    "ja": "ポリゴン２"
+  },
+  "234": {
+    "ko": "노라키",
+    "zh": "驚角鹿",
+    "fr": "Cerfrousse",
+    "de": "Damhirplex",
+    "es": "Stantler",
+    "it": "Stantler",
+    "en": "Stantler",
+    "ja": "オドシシ"
+  },
+  "235": {
+    "ko": "루브도",
+    "zh": "圖圖犬",
+    "fr": "Queulorior",
+    "de": "Farbeagle",
+    "es": "Smeargle",
+    "it": "Smeargle",
+    "en": "Smeargle",
+    "ja": "ドーブル"
+  },
+  "236": {
+    "ko": "배루키",
+    "zh": "無畏小子",
+    "fr": "Debugant",
+    "de": "Rabauz",
+    "es": "Tyrogue",
+    "it": "Tyrogue",
+    "en": "Tyrogue",
+    "ja": "バルキー"
+  },
+  "237": {
+    "ko": "카포에라",
+    "zh": "戰舞郎",
+    "fr": "Kapoera",
+    "de": "Kapoera",
+    "es": "Hitmontop",
+    "it": "Hitmontop",
+    "en": "Hitmontop",
+    "ja": "カポエラー"
+  },
+  "238": {
+    "ko": "뽀뽀라",
+    "zh": "迷唇娃",
+    "fr": "Lippouti",
+    "de": "Kussilla",
+    "es": "Smoochum",
+    "it": "Smoochum",
+    "en": "Smoochum",
+    "ja": "ムチュール"
+  },
+  "239": {
+    "ko": "에레키드",
+    "zh": "電擊怪",
+    "fr": "Élekid",
+    "de": "Elekid",
+    "es": "Elekid",
+    "it": "Elekid",
+    "en": "Elekid",
+    "ja": "エレキッド"
+  },
+  "240": {
+    "ko": "마그비",
+    "zh": "鴨嘴寶寶",
+    "fr": "Magby",
+    "de": "Magby",
+    "es": "Magby",
+    "it": "Magby",
+    "en": "Magby",
+    "ja": "ブビィ"
+  },
+  "241": {
+    "ko": "밀탱크",
+    "zh": "大奶罐",
+    "fr": "Écrémeuh",
+    "de": "Miltank",
+    "es": "Miltank",
+    "it": "Miltank",
+    "en": "Miltank",
+    "ja": "ミルタンク"
+  },
+  "242": {
+    "ko": "해피너스",
+    "zh": "幸福蛋",
+    "fr": "Leuphorie",
+    "de": "Heiteira",
+    "es": "Blissey",
+    "it": "Blissey",
+    "en": "Blissey",
+    "ja": "ハピナス"
+  },
+  "243": {
+    "ko": "라이코",
+    "zh": "雷公",
+    "fr": "Raikou",
+    "de": "Raikou",
+    "es": "Raikou",
+    "it": "Raikou",
+    "en": "Raikou",
+    "ja": "ライコウ"
+  },
+  "244": {
+    "ko": "앤테이",
+    "zh": "炎帝",
+    "fr": "Entei",
+    "de": "Entei",
+    "es": "Entei",
+    "it": "Entei",
+    "en": "Entei",
+    "ja": "エンテイ"
+  },
+  "245": {
+    "ko": "스이쿤",
+    "zh": "水君",
+    "fr": "Suicune",
+    "de": "Suicune",
+    "es": "Suicune",
+    "it": "Suicune",
+    "en": "Suicune",
+    "ja": "スイクン"
+  },
+  "246": {
+    "ko": "애버라스",
+    "zh": "幼基拉斯",
+    "fr": "Embrylex",
+    "de": "Larvitar",
+    "es": "Larvitar",
+    "it": "Larvitar",
+    "en": "Larvitar",
+    "ja": "ヨーギラス"
+  },
+  "247": {
+    "ko": "데기라스",
+    "zh": "沙基拉斯",
+    "fr": "Ymphect",
+    "de": "Pupitar",
+    "es": "Pupitar",
+    "it": "Pupitar",
+    "en": "Pupitar",
+    "ja": "サナギラス"
+  },
+  "248": {
+    "ko": "마기라스",
+    "zh": "班基拉斯",
+    "fr": "Tyranocif",
+    "de": "Despotar",
+    "es": "Tyranitar",
+    "it": "Tyranitar",
+    "en": "Tyranitar",
+    "ja": "バンギラス"
+  },
+  "249": {
+    "ko": "루기아",
+    "zh": "洛奇亞",
+    "fr": "Lugia",
+    "de": "Lugia",
+    "es": "Lugia",
+    "it": "Lugia",
+    "en": "Lugia",
+    "ja": "ルギア"
+  },
+  "250": {
+    "ko": "칠색조",
+    "zh": "鳳王",
+    "fr": "Ho-Oh",
+    "de": "Ho-Oh",
+    "es": "Ho-Oh",
+    "it": "Ho-Oh",
+    "en": "Ho-Oh",
+    "ja": "ホウオウ"
+  },
+  "251": {
+    "ko": "세레비",
+    "zh": "時拉比",
+    "fr": "Celebi",
+    "de": "Celebi",
+    "es": "Celebi",
+    "it": "Celebi",
+    "en": "Celebi",
+    "ja": "セレビィ"
+  },
+  "252": {
+    "ko": "나무지기",
+    "zh": "木守宮",
+    "fr": "Arcko",
+    "de": "Geckarbor",
+    "es": "Treecko",
+    "it": "Treecko",
+    "en": "Treecko",
+    "ja": "キモリ"
+  },
+  "253": {
+    "ko": "나무돌이",
+    "zh": "森林蜥蜴",
+    "fr": "Massko",
+    "de": "Reptain",
+    "es": "Grovyle",
+    "it": "Grovyle",
+    "en": "Grovyle",
+    "ja": "ジュプトル"
+  },
+  "254": {
+    "ko": "나무킹",
+    "zh": "蜥蜴王",
+    "fr": "Jungko",
+    "de": "Gewaldro",
+    "es": "Sceptile",
+    "it": "Sceptile",
+    "en": "Sceptile",
+    "ja": "ジュカイン"
+  },
+  "255": {
+    "ko": "아차모",
+    "zh": "火稚雞",
+    "fr": "Poussifeu",
+    "de": "Flemmli",
+    "es": "Torchic",
+    "it": "Torchic",
+    "en": "Torchic",
+    "ja": "アチャモ"
+  },
+  "256": {
+    "ko": "영치코",
+    "zh": "力壯雞",
+    "fr": "Galifeu",
+    "de": "Jungglut",
+    "es": "Combusken",
+    "it": "Combusken",
+    "en": "Combusken",
+    "ja": "ワカシャモ"
+  },
+  "257": {
+    "ko": "번치코",
+    "zh": "火焰雞",
+    "fr": "Braségali",
+    "de": "Lohgock",
+    "es": "Blaziken",
+    "it": "Blaziken",
+    "en": "Blaziken",
+    "ja": "バシャーモ"
+  },
+  "258": {
+    "ko": "물짱이",
+    "zh": "水躍魚",
+    "fr": "Gobou",
+    "de": "Hydropi",
+    "es": "Mudkip",
+    "it": "Mudkip",
+    "en": "Mudkip",
+    "ja": "ミズゴロウ"
+  },
+  "259": {
+    "ko": "늪짱이",
+    "zh": "沼躍魚",
+    "fr": "Flobio",
+    "de": "Moorabbel",
+    "es": "Marshtomp",
+    "it": "Marshtomp",
+    "en": "Marshtomp",
+    "ja": "ヌマクロー"
+  },
+  "260": {
+    "ko": "대짱이",
+    "zh": "巨沼怪",
+    "fr": "Laggron",
+    "de": "Sumpex",
+    "es": "Swampert",
+    "it": "Swampert",
+    "en": "Swampert",
+    "ja": "ラグラージ"
+  },
+  "261": {
+    "ko": "포챠나",
+    "zh": "土狼犬",
+    "fr": "Medhyèna",
+    "de": "Fiffyen",
+    "es": "Poochyena",
+    "it": "Poochyena",
+    "en": "Poochyena",
+    "ja": "ポチエナ"
+  },
+  "262": {
+    "ko": "그라에나",
+    "zh": "大狼犬",
+    "fr": "Grahyèna",
+    "de": "Magnayen",
+    "es": "Mightyena",
+    "it": "Mightyena",
+    "en": "Mightyena",
+    "ja": "グラエナ"
+  },
+  "263": {
+    "ko": "지그제구리",
+    "zh": "蛇紋熊",
+    "fr": "Zigzaton",
+    "de": "Zigzachs",
+    "es": "Zigzagoon",
+    "it": "Zigzagoon",
+    "en": "Zigzagoon",
+    "ja": "ジグザグマ"
+  },
+  "264": {
+    "ko": "직구리",
+    "zh": "直衝熊",
+    "fr": "Linéon",
+    "de": "Geradaks",
+    "es": "Linoone",
+    "it": "Linoone",
+    "en": "Linoone",
+    "ja": "マッスグマ"
+  },
+  "265": {
+    "ko": "개무소",
+    "zh": "刺尾蟲",
+    "fr": "Chenipotte",
+    "de": "Waumpel",
+    "es": "Wurmple",
+    "it": "Wurmple",
+    "en": "Wurmple",
+    "ja": "ケムッソ"
+  },
+  "266": {
+    "ko": "실쿤",
+    "zh": "甲殼繭",
+    "fr": "Armulys",
+    "de": "Schaloko",
+    "es": "Silcoon",
+    "it": "Silcoon",
+    "en": "Silcoon",
+    "ja": "カラサリス"
+  },
+  "267": {
+    "ko": "뷰티플라이",
+    "zh": "狩獵鳳蝶",
+    "fr": "Charmillon",
+    "de": "Papinella",
+    "es": "Beautifly",
+    "it": "Beautifly",
+    "en": "Beautifly",
+    "ja": "アゲハント"
+  },
+  "268": {
+    "ko": "카스쿤",
+    "zh": "盾甲繭",
+    "fr": "Blindalys",
+    "de": "Panekon",
+    "es": "Cascoon",
+    "it": "Cascoon",
+    "en": "Cascoon",
+    "ja": "マユルド"
+  },
+  "269": {
+    "ko": "독케일",
+    "zh": "毒粉蛾",
+    "fr": "Papinox",
+    "de": "Pudox",
+    "es": "Dustox",
+    "it": "Dustox",
+    "en": "Dustox",
+    "ja": "ドクケイル"
+  },
+  "270": {
+    "ko": "연꽃몬",
+    "zh": "蓮葉童子",
+    "fr": "Nénupiot",
+    "de": "Loturzel",
+    "es": "Lotad",
+    "it": "Lotad",
+    "en": "Lotad",
+    "ja": "ハスボー"
+  },
+  "271": {
+    "ko": "로토스",
+    "zh": "蓮帽小童",
+    "fr": "Lombre",
+    "de": "Lombrero",
+    "es": "Lombre",
+    "it": "Lombre",
+    "en": "Lombre",
+    "ja": "ハスブレロ"
+  },
+  "272": {
+    "ko": "로파파",
+    "zh": "樂天河童",
+    "fr": "Ludicolo",
+    "de": "Kappalores",
+    "es": "Ludicolo",
+    "it": "Ludicolo",
+    "en": "Ludicolo",
+    "ja": "ルンパッパ"
+  },
+  "273": {
+    "ko": "도토링",
+    "zh": "橡實果",
+    "fr": "Grainipiot",
+    "de": "Samurzel",
+    "es": "Seedot",
+    "it": "Seedot",
+    "en": "Seedot",
+    "ja": "タネボー"
+  },
+  "274": {
+    "ko": "잎새코",
+    "zh": "長鼻葉",
+    "fr": "Pifeuil",
+    "de": "Blanas",
+    "es": "Nuzleaf",
+    "it": "Nuzleaf",
+    "en": "Nuzleaf",
+    "ja": "コノハナ"
+  },
+  "275": {
+    "ko": "다탱구",
+    "zh": "狡猾天狗",
+    "fr": "Tengalice",
+    "de": "Tengulist",
+    "es": "Shiftry",
+    "it": "Shiftry",
+    "en": "Shiftry",
+    "ja": "ダーテング"
+  },
+  "276": {
+    "ko": "테일로",
+    "zh": "傲骨燕",
+    "fr": "Nirondelle",
+    "de": "Schwalbini",
+    "es": "Taillow",
+    "it": "Taillow",
+    "en": "Taillow",
+    "ja": "スバメ"
+  },
+  "277": {
+    "ko": "스왈로",
+    "zh": "大王燕",
+    "fr": "Hélédelle",
+    "de": "Schwalboss",
+    "es": "Swellow",
+    "it": "Swellow",
+    "en": "Swellow",
+    "ja": "オオスバメ"
+  },
+  "278": {
+    "ko": "갈모매",
+    "zh": "長翅鷗",
+    "fr": "Goélise",
+    "de": "Wingull",
+    "es": "Wingull",
+    "it": "Wingull",
+    "en": "Wingull",
+    "ja": "キャモメ"
+  },
+  "279": {
+    "ko": "패리퍼",
+    "zh": "大嘴鷗",
+    "fr": "Bekipan",
+    "de": "Pelipper",
+    "es": "Pelipper",
+    "it": "Pelipper",
+    "en": "Pelipper",
+    "ja": "ペリッパー"
+  },
+  "280": {
+    "ko": "랄토스",
+    "zh": "拉魯拉絲",
+    "fr": "Tarsal",
+    "de": "Trasla",
+    "es": "Ralts",
+    "it": "Ralts",
+    "en": "Ralts",
+    "ja": "ラルトス"
+  },
+  "281": {
+    "ko": "킬리아",
+    "zh": "奇魯莉安",
+    "fr": "Kirlia",
+    "de": "Kirlia",
+    "es": "Kirlia",
+    "it": "Kirlia",
+    "en": "Kirlia",
+    "ja": "キルリア"
+  },
+  "282": {
+    "ko": "가디안",
+    "zh": "沙奈朵",
+    "fr": "Gardevoir",
+    "de": "Guardevoir",
+    "es": "Gardevoir",
+    "it": "Gardevoir",
+    "en": "Gardevoir",
+    "ja": "サーナイト"
+  },
+  "283": {
+    "ko": "비구술",
+    "zh": "溜溜糖球",
+    "fr": "Arakdo",
+    "de": "Gehweiher",
+    "es": "Surskit",
+    "it": "Surskit",
+    "en": "Surskit",
+    "ja": "アメタマ"
+  },
+  "284": {
+    "ko": "비나방",
+    "zh": "雨翅蛾",
+    "fr": "Maskadra",
+    "de": "Maskeregen",
+    "es": "Masquerain",
+    "it": "Masquerain",
+    "en": "Masquerain",
+    "ja": "アメモース"
+  },
+  "285": {
+    "ko": "버섯꼬",
+    "zh": "蘑蘑菇",
+    "fr": "Balignon",
+    "de": "Knilz",
+    "es": "Shroomish",
+    "it": "Shroomish",
+    "en": "Shroomish",
+    "ja": "キノココ"
+  },
+  "286": {
+    "ko": "버섯모",
+    "zh": "斗笠菇",
+    "fr": "Chapignon",
+    "de": "Kapilz",
+    "es": "Breloom",
+    "it": "Breloom",
+    "en": "Breloom",
+    "ja": "キノガッサ"
+  },
+  "287": {
+    "ko": "게을로",
+    "zh": "懶人獺",
+    "fr": "Parecool",
+    "de": "Bummelz",
+    "es": "Slakoth",
+    "it": "Slakoth",
+    "en": "Slakoth",
+    "ja": "ナマケロ"
+  },
+  "288": {
+    "ko": "발바로",
+    "zh": "過動猿",
+    "fr": "Vigoroth",
+    "de": "Muntier",
+    "es": "Vigoroth",
+    "it": "Vigoroth",
+    "en": "Vigoroth",
+    "ja": "ヤルキモノ"
+  },
+  "289": {
+    "ko": "게을킹",
+    "zh": "請假王",
+    "fr": "Monaflèmit",
+    "de": "Letarking",
+    "es": "Slaking",
+    "it": "Slaking",
+    "en": "Slaking",
+    "ja": "ケッキング"
+  },
+  "290": {
+    "ko": "토중몬",
+    "zh": "土居忍士",
+    "fr": "Ningale",
+    "de": "Nincada",
+    "es": "Nincada",
+    "it": "Nincada",
+    "en": "Nincada",
+    "ja": "ツチニン"
+  },
+  "291": {
+    "ko": "아이스크",
+    "zh": "鐵面忍者",
+    "fr": "Ninjask",
+    "de": "Ninjask",
+    "es": "Ninjask",
+    "it": "Ninjask",
+    "en": "Ninjask",
+    "ja": "テッカニン"
+  },
+  "292": {
+    "ko": "껍질몬",
+    "zh": "脫殼忍者",
+    "fr": "Munja",
+    "de": "Ninjatom",
+    "es": "Shedinja",
+    "it": "Shedinja",
+    "en": "Shedinja",
+    "ja": "ヌケニン"
+  },
+  "293": {
+    "ko": "소곤룡",
+    "zh": "咕妞妞",
+    "fr": "Chuchmur",
+    "de": "Flurmel",
+    "es": "Whismur",
+    "it": "Whismur",
+    "en": "Whismur",
+    "ja": "ゴニョニョ"
+  },
+  "294": {
+    "ko": "노공룡",
+    "zh": "吼爆彈",
+    "fr": "Ramboum",
+    "de": "Krakeelo",
+    "es": "Loudred",
+    "it": "Loudred",
+    "en": "Loudred",
+    "ja": "ドゴーム"
+  },
+  "295": {
+    "ko": "폭음룡",
+    "zh": "爆音怪",
+    "fr": "Brouhabam",
+    "de": "Krawumms",
+    "es": "Exploud",
+    "it": "Exploud",
+    "en": "Exploud",
+    "ja": "バクオング"
+  },
+  "296": {
+    "ko": "마크탕",
+    "zh": "幕下力士",
+    "fr": "Makuhita",
+    "de": "Makuhita",
+    "es": "Makuhita",
+    "it": "Makuhita",
+    "en": "Makuhita",
+    "ja": "マクノシタ"
+  },
+  "297": {
+    "ko": "하리뭉",
+    "zh": "鐵掌力士",
+    "fr": "Hariyama",
+    "de": "Hariyama",
+    "es": "Hariyama",
+    "it": "Hariyama",
+    "en": "Hariyama",
+    "ja": "ハリテヤマ"
+  },
+  "298": {
+    "ko": "루리리",
+    "zh": "露力麗",
+    "fr": "Azurill",
+    "de": "Azurill",
+    "es": "Azurill",
+    "it": "Azurill",
+    "en": "Azurill",
+    "ja": "ルリリ"
+  },
+  "299": {
+    "ko": "코코파스",
+    "zh": "朝北鼻",
+    "fr": "Tarinor",
+    "de": "Nasgnet",
+    "es": "Nosepass",
+    "it": "Nosepass",
+    "en": "Nosepass",
+    "ja": "ノズパス"
+  },
+  "300": {
+    "ko": "에나비",
+    "zh": "向尾喵",
+    "fr": "Skitty",
+    "de": "Eneco",
+    "es": "Skitty",
+    "it": "Skitty",
+    "en": "Skitty",
+    "ja": "エネコ"
+  },
+  "301": {
+    "ko": "델케티",
+    "zh": "優雅貓",
+    "fr": "Delcatty",
+    "de": "Enekoro",
+    "es": "Delcatty",
+    "it": "Delcatty",
+    "en": "Delcatty",
+    "ja": "エネコロロ"
+  },
+  "302": {
+    "ko": "깜까미",
+    "zh": "勾魂眼",
+    "fr": "Ténéfix",
+    "de": "Zobiris",
+    "es": "Sableye",
+    "it": "Sableye",
+    "en": "Sableye",
+    "ja": "ヤミラミ"
+  },
+  "303": {
+    "ko": "입치트",
+    "zh": "大嘴娃",
+    "fr": "Mysdibule",
+    "de": "Flunkifer",
+    "es": "Mawile",
+    "it": "Mawile",
+    "en": "Mawile",
+    "ja": "クチート"
+  },
+  "304": {
+    "ko": "가보리",
+    "zh": "可可多拉",
+    "fr": "Galekid",
+    "de": "Stollunior",
+    "es": "Aron",
+    "it": "Aron",
+    "en": "Aron",
+    "ja": "ココドラ"
+  },
+  "305": {
+    "ko": "갱도라",
+    "zh": "可多拉",
+    "fr": "Galegon",
+    "de": "Stollrak",
+    "es": "Lairon",
+    "it": "Lairon",
+    "en": "Lairon",
+    "ja": "コドラ"
+  },
+  "306": {
+    "ko": "보스로라",
+    "zh": "波士可多拉",
+    "fr": "Galeking",
+    "de": "Stolloss",
+    "es": "Aggron",
+    "it": "Aggron",
+    "en": "Aggron",
+    "ja": "ボスゴドラ"
+  },
+  "307": {
+    "ko": "요가랑",
+    "zh": "瑪沙那",
+    "fr": "Méditikka",
+    "de": "Meditie",
+    "es": "Meditite",
+    "it": "Meditite",
+    "en": "Meditite",
+    "ja": "アサナン"
+  },
+  "308": {
+    "ko": "요가램",
+    "zh": "恰雷姆",
+    "fr": "Charmina",
+    "de": "Meditalis",
+    "es": "Medicham",
+    "it": "Medicham",
+    "en": "Medicham",
+    "ja": "チャーレム"
+  },
+  "309": {
+    "ko": "썬더라이",
+    "zh": "落雷獸",
+    "fr": "Dynavolt",
+    "de": "Frizelbliz",
+    "es": "Electrike",
+    "it": "Electrike",
+    "en": "Electrike",
+    "ja": "ラクライ"
+  },
+  "310": {
+    "ko": "썬더볼트",
+    "zh": "雷電獸",
+    "fr": "Élecsprint",
+    "de": "Voltenso",
+    "es": "Manectric",
+    "it": "Manectric",
+    "en": "Manectric",
+    "ja": "ライボルト"
+  },
+  "311": {
+    "ko": "플러시",
+    "zh": "正電拍拍",
+    "fr": "Posipi",
+    "de": "Plusle",
+    "es": "Plusle",
+    "it": "Plusle",
+    "en": "Plusle",
+    "ja": "プラスル"
+  },
+  "312": {
+    "ko": "마이농",
+    "zh": "負電拍拍",
+    "fr": "Négapi",
+    "de": "Minun",
+    "es": "Minun",
+    "it": "Minun",
+    "en": "Minun",
+    "ja": "マイナン"
+  },
+  "313": {
+    "ko": "볼비트",
+    "zh": "電螢蟲",
+    "fr": "Muciole",
+    "de": "Volbeat",
+    "es": "Volbeat",
+    "it": "Volbeat",
+    "en": "Volbeat",
+    "ja": "バルビート"
+  },
+  "314": {
+    "ko": "네오비트",
+    "zh": "甜甜螢",
+    "fr": "Lumivole",
+    "de": "Illumise",
+    "es": "Illumise",
+    "it": "Illumise",
+    "en": "Illumise",
+    "ja": "イルミーゼ"
+  },
+  "315": {
+    "ko": "로젤리아",
+    "zh": "毒薔薇",
+    "fr": "Rosélia",
+    "de": "Roselia",
+    "es": "Roselia",
+    "it": "Roselia",
+    "en": "Roselia",
+    "ja": "ロゼリア"
+  },
+  "316": {
+    "ko": "꼴깍몬",
+    "zh": "溶食獸",
+    "fr": "Gloupti",
+    "de": "Schluppuck",
+    "es": "Gulpin",
+    "it": "Gulpin",
+    "en": "Gulpin",
+    "ja": "ゴクリン"
+  },
+  "317": {
+    "ko": "꿀꺽몬",
+    "zh": "吞食獸",
+    "fr": "Avaltout",
+    "de": "Schlukwech",
+    "es": "Swalot",
+    "it": "Swalot",
+    "en": "Swalot",
+    "ja": "マルノーム"
+  },
+  "318": {
+    "ko": "샤프니아",
+    "zh": "利牙魚",
+    "fr": "Carvanha",
+    "de": "Kanivanha",
+    "es": "Carvanha",
+    "it": "Carvanha",
+    "en": "Carvanha",
+    "ja": "キバニア"
+  },
+  "319": {
+    "ko": "샤크니아",
+    "zh": "巨牙鯊",
+    "fr": "Sharpedo",
+    "de": "Tohaido",
+    "es": "Sharpedo",
+    "it": "Sharpedo",
+    "en": "Sharpedo",
+    "ja": "サメハダー"
+  },
+  "320": {
+    "ko": "고래왕자",
+    "zh": "吼吼鯨",
+    "fr": "Wailmer",
+    "de": "Wailmer",
+    "es": "Wailmer",
+    "it": "Wailmer",
+    "en": "Wailmer",
+    "ja": "ホエルコ"
+  },
+  "321": {
+    "ko": "고래왕",
+    "zh": "吼鯨王",
+    "fr": "Wailord",
+    "de": "Wailord",
+    "es": "Wailord",
+    "it": "Wailord",
+    "en": "Wailord",
+    "ja": "ホエルオー"
+  },
+  "322": {
+    "ko": "둔타",
+    "zh": "呆火駝",
+    "fr": "Chamallot",
+    "de": "Camaub",
+    "es": "Numel",
+    "it": "Numel",
+    "en": "Numel",
+    "ja": "ドンメル"
+  },
+  "323": {
+    "ko": "폭타",
+    "zh": "噴火駝",
+    "fr": "Camérupt",
+    "de": "Camerupt",
+    "es": "Camerupt",
+    "it": "Camerupt",
+    "en": "Camerupt",
+    "ja": "バクーダ"
+  },
+  "324": {
+    "ko": "코터스",
+    "zh": "煤炭龜",
+    "fr": "Chartor",
+    "de": "Qurtel",
+    "es": "Torkoal",
+    "it": "Torkoal",
+    "en": "Torkoal",
+    "ja": "コータス"
+  },
+  "325": {
+    "ko": "피그점프",
+    "zh": "跳跳豬",
+    "fr": "Spoink",
+    "de": "Spoink",
+    "es": "Spoink",
+    "it": "Spoink",
+    "en": "Spoink",
+    "ja": "バネブー"
+  },
+  "326": {
+    "ko": "피그킹",
+    "zh": "噗噗豬",
+    "fr": "Groret",
+    "de": "Groink",
+    "es": "Grumpig",
+    "it": "Grumpig",
+    "en": "Grumpig",
+    "ja": "ブーピッグ"
+  },
+  "327": {
+    "ko": "얼루기",
+    "zh": "晃晃斑",
+    "fr": "Spinda",
+    "de": "Pandir",
+    "es": "Spinda",
+    "it": "Spinda",
+    "en": "Spinda",
+    "ja": "パッチール"
+  },
+  "328": {
+    "ko": "톱치",
+    "zh": "大顎蟻",
+    "fr": "Kraknoix",
+    "de": "Knacklion",
+    "es": "Trapinch",
+    "it": "Trapinch",
+    "en": "Trapinch",
+    "ja": "ナックラー"
+  },
+  "329": {
+    "ko": "비브라바",
+    "zh": "超音波幼蟲",
+    "fr": "Vibraninf",
+    "de": "Vibrava",
+    "es": "Vibrava",
+    "it": "Vibrava",
+    "en": "Vibrava",
+    "ja": "ビブラーバ"
+  },
+  "330": {
+    "ko": "플라이곤",
+    "zh": "沙漠蜻蜓",
+    "fr": "Libégon",
+    "de": "Libelldra",
+    "es": "Flygon",
+    "it": "Flygon",
+    "en": "Flygon",
+    "ja": "フライゴン"
+  },
+  "331": {
+    "ko": "선인왕",
+    "zh": "刺球仙人掌",
+    "fr": "Cacnea",
+    "de": "Tuska",
+    "es": "Cacnea",
+    "it": "Cacnea",
+    "en": "Cacnea",
+    "ja": "サボネア"
+  },
+  "332": {
+    "ko": "밤선인",
+    "zh": "夢歌仙人掌",
+    "fr": "Cacturne",
+    "de": "Noktuska",
+    "es": "Cacturne",
+    "it": "Cacturne",
+    "en": "Cacturne",
+    "ja": "ノクタス"
+  },
+  "333": {
+    "ko": "파비코",
+    "zh": "青綿鳥",
+    "fr": "Tylton",
+    "de": "Wablu",
+    "es": "Swablu",
+    "it": "Swablu",
+    "en": "Swablu",
+    "ja": "チルット"
+  },
+  "334": {
+    "ko": "파비코리",
+    "zh": "七夕青鳥",
+    "fr": "Altaria",
+    "de": "Altaria",
+    "es": "Altaria",
+    "it": "Altaria",
+    "en": "Altaria",
+    "ja": "チルタリス"
+  },
+  "335": {
+    "ko": "쟝고",
+    "zh": "貓鼬斬",
+    "fr": "Mangriff",
+    "de": "Sengo",
+    "es": "Zangoose",
+    "it": "Zangoose",
+    "en": "Zangoose",
+    "ja": "ザングース"
+  },
+  "336": {
+    "ko": "세비퍼",
+    "zh": "飯匙蛇",
+    "fr": "Séviper",
+    "de": "Vipitis",
+    "es": "Seviper",
+    "it": "Seviper",
+    "en": "Seviper",
+    "ja": "ハブネーク"
+  },
+  "337": {
+    "ko": "루나톤",
+    "zh": "月石",
+    "fr": "Séléroc",
+    "de": "Lunastein",
+    "es": "Lunatone",
+    "it": "Lunatone",
+    "en": "Lunatone",
+    "ja": "ルナトーン"
+  },
+  "338": {
+    "ko": "솔록",
+    "zh": "太陽岩",
+    "fr": "Solaroc",
+    "de": "Sonnfel",
+    "es": "Solrock",
+    "it": "Solrock",
+    "en": "Solrock",
+    "ja": "ソルロック"
+  },
+  "339": {
+    "ko": "미꾸리",
+    "zh": "泥泥鰍",
+    "fr": "Barloche",
+    "de": "Schmerbe",
+    "es": "Barboach",
+    "it": "Barboach",
+    "en": "Barboach",
+    "ja": "ドジョッチ"
+  },
+  "340": {
+    "ko": "메깅",
+    "zh": "鯰魚王",
+    "fr": "Barbicha",
+    "de": "Welsar",
+    "es": "Whiscash",
+    "it": "Whiscash",
+    "en": "Whiscash",
+    "ja": "ナマズン"
+  },
+  "341": {
+    "ko": "가재군",
+    "zh": "龍蝦小兵",
+    "fr": "Écrapince",
+    "de": "Krebscorps",
+    "es": "Corphish",
+    "it": "Corphish",
+    "en": "Corphish",
+    "ja": "ヘイガニ"
+  },
+  "342": {
+    "ko": "가재장군",
+    "zh": "鐵螯龍蝦",
+    "fr": "Colhomard",
+    "de": "Krebutack",
+    "es": "Crawdaunt",
+    "it": "Crawdaunt",
+    "en": "Crawdaunt",
+    "ja": "シザリガー"
+  },
+  "343": {
+    "ko": "오뚝군",
+    "zh": "天秤偶",
+    "fr": "Balbuto",
+    "de": "Puppance",
+    "es": "Baltoy",
+    "it": "Baltoy",
+    "en": "Baltoy",
+    "ja": "ヤジロン"
+  },
+  "344": {
+    "ko": "점토도리",
+    "zh": "念力土偶",
+    "fr": "Kaorine",
+    "de": "Lepumentas",
+    "es": "Claydol",
+    "it": "Claydol",
+    "en": "Claydol",
+    "ja": "ネンドール"
+  },
+  "345": {
+    "ko": "릴링",
+    "zh": "觸手百合",
+    "fr": "Lilia",
+    "de": "Liliep",
+    "es": "Lileep",
+    "it": "Lileep",
+    "en": "Lileep",
+    "ja": "リリーラ"
+  },
+  "346": {
+    "ko": "릴리요",
+    "zh": "搖籃百合",
+    "fr": "Vacilys",
+    "de": "Wielie",
+    "es": "Cradily",
+    "it": "Cradily",
+    "en": "Cradily",
+    "ja": "ユレイドル"
+  },
+  "347": {
+    "ko": "아노딥스",
+    "zh": "太古羽蟲",
+    "fr": "Anorith",
+    "de": "Anorith",
+    "es": "Anorith",
+    "it": "Anorith",
+    "en": "Anorith",
+    "ja": "アノプス"
+  },
+  "348": {
+    "ko": "아말도",
+    "zh": "太古盔甲",
+    "fr": "Armaldo",
+    "de": "Armaldo",
+    "es": "Armaldo",
+    "it": "Armaldo",
+    "en": "Armaldo",
+    "ja": "アーマルド"
+  },
+  "349": {
+    "ko": "빈티나",
+    "zh": "醜醜魚",
+    "fr": "Barpau",
+    "de": "Barschwa",
+    "es": "Feebas",
+    "it": "Feebas",
+    "en": "Feebas",
+    "ja": "ヒンバス"
+  },
+  "350": {
+    "ko": "밀로틱",
+    "zh": "美納斯",
+    "fr": "Milobellus",
+    "de": "Milotic",
+    "es": "Milotic",
+    "it": "Milotic",
+    "en": "Milotic",
+    "ja": "ミロカロス"
+  },
+  "351": {
+    "ko": "캐스퐁",
+    "zh": "飄浮泡泡",
+    "fr": "Morphéo",
+    "de": "Formeo",
+    "es": "Castform",
+    "it": "Castform",
+    "en": "Castform",
+    "ja": "ポワルン"
+  },
+  "352": {
+    "ko": "켈리몬",
+    "zh": "變隱龍",
+    "fr": "Kecleon",
+    "de": "Kecleon",
+    "es": "Kecleon",
+    "it": "Kecleon",
+    "en": "Kecleon",
+    "ja": "カクレオン"
+  },
+  "353": {
+    "ko": "어둠대신",
+    "zh": "怨影娃娃",
+    "fr": "Polichombr",
+    "de": "Shuppet",
+    "es": "Shuppet",
+    "it": "Shuppet",
+    "en": "Shuppet",
+    "ja": "カゲボウズ"
+  },
+  "354": {
+    "ko": "다크펫",
+    "zh": "詛咒娃娃",
+    "fr": "Branette",
+    "de": "Banette",
+    "es": "Banette",
+    "it": "Banette",
+    "en": "Banette",
+    "ja": "ジュペッタ"
+  },
+  "355": {
+    "ko": "해골몽",
+    "zh": "夜巡靈",
+    "fr": "Skelénox",
+    "de": "Zwirrlicht",
+    "es": "Duskull",
+    "it": "Duskull",
+    "en": "Duskull",
+    "ja": "ヨマワル"
+  },
+  "356": {
+    "ko": "미라몽",
+    "zh": "彷徨夜靈",
+    "fr": "Téraclope",
+    "de": "Zwirrklop",
+    "es": "Dusclops",
+    "it": "Dusclops",
+    "en": "Dusclops",
+    "ja": "サマヨール"
+  },
+  "357": {
+    "ko": "트로피우스",
+    "zh": "熱帶龍",
+    "fr": "Tropius",
+    "de": "Tropius",
+    "es": "Tropius",
+    "it": "Tropius",
+    "en": "Tropius",
+    "ja": "トロピウス"
+  },
+  "358": {
+    "ko": "치렁",
+    "zh": "風鈴鈴",
+    "fr": "Éoko",
+    "de": "Palimpalim",
+    "es": "Chimecho",
+    "it": "Chimecho",
+    "en": "Chimecho",
+    "ja": "チリーン"
+  },
+  "359": {
+    "ko": "앱솔",
+    "zh": "阿勃梭魯",
+    "fr": "Absol",
+    "de": "Absol",
+    "es": "Absol",
+    "it": "Absol",
+    "en": "Absol",
+    "ja": "アブソル"
+  },
+  "360": {
+    "ko": "마자",
+    "zh": "小果然",
+    "fr": "Okéoké",
+    "de": "Isso",
+    "es": "Wynaut",
+    "it": "Wynaut",
+    "en": "Wynaut",
+    "ja": "ソーナノ"
+  },
+  "361": {
+    "ko": "눈꼬마",
+    "zh": "雪童子",
+    "fr": "Stalgamin",
+    "de": "Schneppke",
+    "es": "Snorunt",
+    "it": "Snorunt",
+    "en": "Snorunt",
+    "ja": "ユキワラシ"
+  },
+  "362": {
+    "ko": "얼음귀신",
+    "zh": "冰鬼護",
+    "fr": "Oniglali",
+    "de": "Firnontor",
+    "es": "Glalie",
+    "it": "Glalie",
+    "en": "Glalie",
+    "ja": "オニゴーリ"
+  },
+  "363": {
+    "ko": "대굴레오",
+    "zh": "海豹球",
+    "fr": "Obalie",
+    "de": "Seemops",
+    "es": "Spheal",
+    "it": "Spheal",
+    "en": "Spheal",
+    "ja": "タマザラシ"
+  },
+  "364": {
+    "ko": "씨레오",
+    "zh": "海魔獅",
+    "fr": "Phogleur",
+    "de": "Seejong",
+    "es": "Sealeo",
+    "it": "Sealeo",
+    "en": "Sealeo",
+    "ja": "トドグラー"
+  },
+  "365": {
+    "ko": "씨카이저",
+    "zh": "帝牙海獅",
+    "fr": "Kaimorse",
+    "de": "Walraisa",
+    "es": "Walrein",
+    "it": "Walrein",
+    "en": "Walrein",
+    "ja": "トドゼルガ"
+  },
+  "366": {
+    "ko": "진주몽",
+    "zh": "珍珠貝",
+    "fr": "Coquiperl",
+    "de": "Perlu",
+    "es": "Clamperl",
+    "it": "Clamperl",
+    "en": "Clamperl",
+    "ja": "パールル"
+  },
+  "367": {
+    "ko": "헌테일",
+    "zh": "獵斑魚",
+    "fr": "Serpang",
+    "de": "Aalabyss",
+    "es": "Huntail",
+    "it": "Huntail",
+    "en": "Huntail",
+    "ja": "ハンテール"
+  },
+  "368": {
+    "ko": "분홍장이",
+    "zh": "櫻花魚",
+    "fr": "Rosabyss",
+    "de": "Saganabyss",
+    "es": "Gorebyss",
+    "it": "Gorebyss",
+    "en": "Gorebyss",
+    "ja": "サクラビス"
+  },
+  "369": {
+    "ko": "시라칸",
+    "zh": "古空棘魚",
+    "fr": "Relicanth",
+    "de": "Relicanth",
+    "es": "Relicanth",
+    "it": "Relicanth",
+    "en": "Relicanth",
+    "ja": "ジーランス"
+  },
+  "370": {
+    "ko": "사랑동이",
+    "zh": "愛心魚",
+    "fr": "Lovdisc",
+    "de": "Liebiskus",
+    "es": "Luvdisc",
+    "it": "Luvdisc",
+    "en": "Luvdisc",
+    "ja": "ラブカス"
+  },
+  "371": {
+    "ko": "아공이",
+    "zh": "寶貝龍",
+    "fr": "Draby",
+    "de": "Kindwurm",
+    "es": "Bagon",
+    "it": "Bagon",
+    "en": "Bagon",
+    "ja": "タツベイ"
+  },
+  "372": {
+    "ko": "쉘곤",
+    "zh": "甲殼龍",
+    "fr": "Drackhaus",
+    "de": "Draschel",
+    "es": "Shelgon",
+    "it": "Shelgon",
+    "en": "Shelgon",
+    "ja": "コモルー"
+  },
+  "373": {
+    "ko": "보만다",
+    "zh": "暴飛龍",
+    "fr": "Drattak",
+    "de": "Brutalanda",
+    "es": "Salamence",
+    "it": "Salamence",
+    "en": "Salamence",
+    "ja": "ボーマンダ"
+  },
+  "374": {
+    "ko": "메탕",
+    "zh": "鐵啞鈴",
+    "fr": "Terhal",
+    "de": "Tanhel",
+    "es": "Beldum",
+    "it": "Beldum",
+    "en": "Beldum",
+    "ja": "ダンバル"
+  },
+  "375": {
+    "ko": "메탕구",
+    "zh": "金屬怪",
+    "fr": "Métang",
+    "de": "Metang",
+    "es": "Metang",
+    "it": "Metang",
+    "en": "Metang",
+    "ja": "メタング"
+  },
+  "376": {
+    "ko": "메타그로스",
+    "zh": "巨金怪",
+    "fr": "Métalosse",
+    "de": "Metagross",
+    "es": "Metagross",
+    "it": "Metagross",
+    "en": "Metagross",
+    "ja": "メタグロス"
+  },
+  "377": {
+    "ko": "레지락",
+    "zh": "雷吉洛克",
+    "fr": "Regirock",
+    "de": "Regirock",
+    "es": "Regirock",
+    "it": "Regirock",
+    "en": "Regirock",
+    "ja": "レジロック"
+  },
+  "378": {
+    "ko": "레지아이스",
+    "zh": "雷吉艾斯",
+    "fr": "Regice",
+    "de": "Regice",
+    "es": "Regice",
+    "it": "Regice",
+    "en": "Regice",
+    "ja": "レジアイス"
+  },
+  "379": {
+    "ko": "레지스틸",
+    "zh": "雷吉斯奇魯",
+    "fr": "Registeel",
+    "de": "Registeel",
+    "es": "Registeel",
+    "it": "Registeel",
+    "en": "Registeel",
+    "ja": "レジスチル"
+  },
+  "380": {
+    "ko": "라티아스",
+    "zh": "拉帝亞斯",
+    "fr": "Latias",
+    "de": "Latias",
+    "es": "Latias",
+    "it": "Latias",
+    "en": "Latias",
+    "ja": "ラティアス"
+  },
+  "381": {
+    "ko": "라티오스",
+    "zh": "拉帝歐斯",
+    "fr": "Latios",
+    "de": "Latios",
+    "es": "Latios",
+    "it": "Latios",
+    "en": "Latios",
+    "ja": "ラティオス"
+  },
+  "382": {
+    "ko": "가이오가",
+    "zh": "蓋歐卡",
+    "fr": "Kyogre",
+    "de": "Kyogre",
+    "es": "Kyogre",
+    "it": "Kyogre",
+    "en": "Kyogre",
+    "ja": "カイオーガ"
+  },
+  "383": {
+    "ko": "그란돈",
+    "zh": "固拉多",
+    "fr": "Groudon",
+    "de": "Groudon",
+    "es": "Groudon",
+    "it": "Groudon",
+    "en": "Groudon",
+    "ja": "グラードン"
+  },
+  "384": {
+    "ko": "레쿠쟈",
+    "zh": "烈空坐",
+    "fr": "Rayquaza",
+    "de": "Rayquaza",
+    "es": "Rayquaza",
+    "it": "Rayquaza",
+    "en": "Rayquaza",
+    "ja": "レックウザ"
+  },
+  "385": {
+    "ko": "지라치",
+    "zh": "基拉祈",
+    "fr": "Jirachi",
+    "de": "Jirachi",
+    "es": "Jirachi",
+    "it": "Jirachi",
+    "en": "Jirachi",
+    "ja": "ジラーチ"
+  },
+  "386": {
+    "ko": "테오키스",
+    "zh": "代歐奇希斯",
+    "fr": "Deoxys",
+    "de": "Deoxys",
+    "es": "Deoxys",
+    "it": "Deoxys",
+    "en": "Deoxys",
+    "ja": "デオキシス"
+  },
+  "387": {
+    "ko": "모부기",
+    "zh": "草苗龜",
+    "fr": "Tortipouss",
+    "de": "Chelast",
+    "es": "Turtwig",
+    "it": "Turtwig",
+    "en": "Turtwig",
+    "ja": "ナエトル"
+  },
+  "388": {
+    "ko": "수풀부기",
+    "zh": "樹林龜",
+    "fr": "Boskara",
+    "de": "Chelcarain",
+    "es": "Grotle",
+    "it": "Grotle",
+    "en": "Grotle",
+    "ja": "ハヤシガメ"
+  },
+  "389": {
+    "ko": "토대부기",
+    "zh": "土台龜",
+    "fr": "Torterra",
+    "de": "Chelterrar",
+    "es": "Torterra",
+    "it": "Torterra",
+    "en": "Torterra",
+    "ja": "ドダイトス"
+  },
+  "390": {
+    "ko": "불꽃숭이",
+    "zh": "小火焰猴",
+    "fr": "Ouisticram",
+    "de": "Panflam",
+    "es": "Chimchar",
+    "it": "Chimchar",
+    "en": "Chimchar",
+    "ja": "ヒコザル"
+  },
+  "391": {
+    "ko": "파이숭이",
+    "zh": "猛火猴",
+    "fr": "Chimpenfeu",
+    "de": "Panpyro",
+    "es": "Monferno",
+    "it": "Monferno",
+    "en": "Monferno",
+    "ja": "モウカザル"
+  },
+  "392": {
+    "ko": "초염몽",
+    "zh": "烈焰猴",
+    "fr": "Simiabraz",
+    "de": "Panferno",
+    "es": "Infernape",
+    "it": "Infernape",
+    "en": "Infernape",
+    "ja": "ゴウカザル"
+  },
+  "393": {
+    "ko": "팽도리",
+    "zh": "波加曼",
+    "fr": "Tiplouf",
+    "de": "Plinfa",
+    "es": "Piplup",
+    "it": "Piplup",
+    "en": "Piplup",
+    "ja": "ポッチャマ"
+  },
+  "394": {
+    "ko": "팽태자",
+    "zh": "波皇子",
+    "fr": "Prinplouf",
+    "de": "Pliprin",
+    "es": "Prinplup",
+    "it": "Prinplup",
+    "en": "Prinplup",
+    "ja": "ポッタイシ"
+  },
+  "395": {
+    "ko": "엠페르트",
+    "zh": "帝王拿波",
+    "fr": "Pingoléon",
+    "de": "Impoleon",
+    "es": "Empoleon",
+    "it": "Empoleon",
+    "en": "Empoleon",
+    "ja": "エンペルト"
+  },
+  "396": {
+    "ko": "찌르꼬",
+    "zh": "姆克兒",
+    "fr": "Étourmi",
+    "de": "Staralili",
+    "es": "Starly",
+    "it": "Starly",
+    "en": "Starly",
+    "ja": "ムックル"
+  },
+  "397": {
+    "ko": "찌르버드",
+    "zh": "姆克鳥",
+    "fr": "Étourvol",
+    "de": "Staravia",
+    "es": "Staravia",
+    "it": "Staravia",
+    "en": "Staravia",
+    "ja": "ムクバード"
+  },
+  "398": {
+    "ko": "찌르호크",
+    "zh": "姆克鷹",
+    "fr": "Étouraptor",
+    "de": "Staraptor",
+    "es": "Staraptor",
+    "it": "Staraptor",
+    "en": "Staraptor",
+    "ja": "ムクホーク"
+  },
+  "399": {
+    "ko": "비버니",
+    "zh": "大牙狸",
+    "fr": "Keunotor",
+    "de": "Bidiza",
+    "es": "Bidoof",
+    "it": "Bidoof",
+    "en": "Bidoof",
+    "ja": "ビッパ"
+  },
+  "400": {
+    "ko": "비버통",
+    "zh": "大尾狸",
+    "fr": "Castorno",
+    "de": "Bidifas",
+    "es": "Bibarel",
+    "it": "Bibarel",
+    "en": "Bibarel",
+    "ja": "ビーダル"
+  },
+  "401": {
+    "ko": "귀뚤뚜기",
+    "zh": "圓法師",
+    "fr": "Crikzik",
+    "de": "Zirpurze",
+    "es": "Kricketot",
+    "it": "Kricketot",
+    "en": "Kricketot",
+    "ja": "コロボーシ"
+  },
+  "402": {
+    "ko": "귀뚤톡크",
+    "zh": "音箱蟀",
+    "fr": "Mélokrik",
+    "de": "Zirpeise",
+    "es": "Kricketune",
+    "it": "Kricketune",
+    "en": "Kricketune",
+    "ja": "コロトック"
+  },
+  "403": {
+    "ko": "꼬링크",
+    "zh": "小貓怪",
+    "fr": "Lixy",
+    "de": "Sheinux",
+    "es": "Shinx",
+    "it": "Shinx",
+    "en": "Shinx",
+    "ja": "コリンク"
+  },
+  "404": {
+    "ko": "럭시오",
+    "zh": "勒克貓",
+    "fr": "Luxio",
+    "de": "Luxio",
+    "es": "Luxio",
+    "it": "Luxio",
+    "en": "Luxio",
+    "ja": "ルクシオ"
+  },
+  "405": {
+    "ko": "렌트라",
+    "zh": "倫琴貓",
+    "fr": "Luxray",
+    "de": "Luxtra",
+    "es": "Luxray",
+    "it": "Luxray",
+    "en": "Luxray",
+    "ja": "レントラー"
+  },
+  "406": {
+    "ko": "꼬몽울",
+    "zh": "含羞苞",
+    "fr": "Rozbouton",
+    "de": "Knospi",
+    "es": "Budew",
+    "it": "Budew",
+    "en": "Budew",
+    "ja": "スボミー"
+  },
+  "407": {
+    "ko": "로즈레이드",
+    "zh": "羅絲雷朵",
+    "fr": "Roserade",
+    "de": "Roserade",
+    "es": "Roserade",
+    "it": "Roserade",
+    "en": "Roserade",
+    "ja": "ロズレイド"
+  },
+  "408": {
+    "ko": "두개도스",
+    "zh": "頭蓋龍",
+    "fr": "Kranidos",
+    "de": "Koknodon",
+    "es": "Cranidos",
+    "it": "Cranidos",
+    "en": "Cranidos",
+    "ja": "ズガイドス"
+  },
+  "409": {
+    "ko": "램펄드",
+    "zh": "戰槌龍",
+    "fr": "Charkos",
+    "de": "Rameidon",
+    "es": "Rampardos",
+    "it": "Rampardos",
+    "en": "Rampardos",
+    "ja": "ラムパルド"
+  },
+  "410": {
+    "ko": "방패톱스",
+    "zh": "盾甲龍",
+    "fr": "Dinoclier",
+    "de": "Schilterus",
+    "es": "Shieldon",
+    "it": "Shieldon",
+    "en": "Shieldon",
+    "ja": "タテトプス"
+  },
+  "411": {
+    "ko": "바리톱스",
+    "zh": "護城龍",
+    "fr": "Bastiodon",
+    "de": "Bollterus",
+    "es": "Bastiodon",
+    "it": "Bastiodon",
+    "en": "Bastiodon",
+    "ja": "トリデプス"
+  },
+  "412": {
+    "ko": "도롱충이",
+    "zh": "結草兒",
+    "fr": "Cheniti",
+    "de": "Burmy",
+    "es": "Burmy",
+    "it": "Burmy",
+    "en": "Burmy",
+    "ja": "ミノムッチ"
+  },
+  "413": {
+    "ko": "도롱마담",
+    "zh": "結草貴婦",
+    "fr": "Cheniselle",
+    "de": "Burmadame",
+    "es": "Wormadam",
+    "it": "Wormadam",
+    "en": "Wormadam",
+    "ja": "ミノマダム"
+  },
+  "414": {
+    "ko": "나메일",
+    "zh": "紳士蛾",
+    "fr": "Papilord",
+    "de": "Moterpel",
+    "es": "Mothim",
+    "it": "Mothim",
+    "en": "Mothim",
+    "ja": "ガーメイル"
+  },
+  "415": {
+    "ko": "세꿀버리",
+    "zh": "三蜜蜂",
+    "fr": "Apitrini",
+    "de": "Wadribie",
+    "es": "Combee",
+    "it": "Combee",
+    "en": "Combee",
+    "ja": "ミツハニー"
+  },
+  "416": {
+    "ko": "비퀸",
+    "zh": "蜂女王",
+    "fr": "Apireine",
+    "de": "Honweisel",
+    "es": "Vespiquen",
+    "it": "Vespiquen",
+    "en": "Vespiquen",
+    "ja": "ビークイン"
+  },
+  "417": {
+    "ko": "파치리스",
+    "zh": "帕奇利茲",
+    "fr": "Pachirisu",
+    "de": "Pachirisu",
+    "es": "Pachirisu",
+    "it": "Pachirisu",
+    "en": "Pachirisu",
+    "ja": "パチリス"
+  },
+  "418": {
+    "ko": "브이젤",
+    "zh": "泳圈鼬",
+    "fr": "Mustébouée",
+    "de": "Bamelin",
+    "es": "Buizel",
+    "it": "Buizel",
+    "en": "Buizel",
+    "ja": "ブイゼル"
+  },
+  "419": {
+    "ko": "플로젤",
+    "zh": "浮潛鼬",
+    "fr": "Mustéflott",
+    "de": "Bojelin",
+    "es": "Floatzel",
+    "it": "Floatzel",
+    "en": "Floatzel",
+    "ja": "フローゼル"
+  },
+  "420": {
+    "ko": "체리버",
+    "zh": "櫻花寶",
+    "fr": "Ceribou",
+    "de": "Kikugi",
+    "es": "Cherubi",
+    "it": "Cherubi",
+    "en": "Cherubi",
+    "ja": "チェリンボ"
+  },
+  "421": {
+    "zh": "櫻花兒",
+    "ko": "체리꼬",
+    "fr": "Ceriflor",
+    "de": "Kinoso",
+    "es": "Cherrim",
+    "it": "Cherrim",
+    "en": "Cherrim",
+    "ja": "チェリム"
+  },
+  "422": {
+    "ko": "깝질무",
+    "zh": "無殼海兔",
+    "fr": "Sancoki",
+    "de": "Schalellos",
+    "es": "Shellos",
+    "it": "Shellos",
+    "en": "Shellos",
+    "ja": "カラナクシ"
+  },
+  "423": {
+    "ko": "트리토돈",
+    "zh": "海兔獸",
+    "fr": "Tritosor",
+    "de": "Gastrodon",
+    "es": "Gastrodon",
+    "it": "Gastrodon",
+    "en": "Gastrodon",
+    "ja": "トリトドン"
+  },
+  "424": {
+    "ko": "겟핸보숭",
+    "zh": "雙尾怪手",
+    "fr": "Capidextre",
+    "de": "Ambidiffel",
+    "es": "Ambipom",
+    "it": "Ambipom",
+    "en": "Ambipom",
+    "ja": "エテボース"
+  },
+  "425": {
+    "ko": "흔들풍손",
+    "zh": "飄飄球",
+    "fr": "Baudrive",
+    "de": "Driftlon",
+    "es": "Drifloon",
+    "it": "Drifloon",
+    "en": "Drifloon",
+    "ja": "フワンテ"
+  },
+  "426": {
+    "ko": "둥실라이드",
+    "zh": "隨風球",
+    "fr": "Grodrive",
+    "de": "Drifzepeli",
+    "es": "Drifblim",
+    "it": "Drifblim",
+    "en": "Drifblim",
+    "ja": "フワライド"
+  },
+  "427": {
+    "ko": "이어롤",
+    "zh": "捲捲耳",
+    "fr": "Laporeille",
+    "de": "Haspiror",
+    "es": "Buneary",
+    "it": "Buneary",
+    "en": "Buneary",
+    "ja": "ミミロル"
+  },
+  "428": {
+    "ko": "이어롭",
+    "zh": "長耳兔",
+    "fr": "Lockpin",
+    "de": "Schlapor",
+    "es": "Lopunny",
+    "it": "Lopunny",
+    "en": "Lopunny",
+    "ja": "ミミロップ"
+  },
+  "429": {
+    "ko": "무우마직",
+    "zh": "夢妖魔",
+    "fr": "Magirêve",
+    "de": "Traunmagil",
+    "es": "Mismagius",
+    "it": "Mismagius",
+    "en": "Mismagius",
+    "ja": "ムウマージ"
+  },
+  "430": {
+    "ko": "돈크로우",
+    "zh": "烏鴉頭頭",
+    "fr": "Corboss",
+    "de": "Kramshef",
+    "es": "Honchkrow",
+    "it": "Honchkrow",
+    "en": "Honchkrow",
+    "ja": "ドンカラス"
+  },
+  "431": {
+    "ko": "나옹마",
+    "zh": "魅力喵",
+    "fr": "Chaglam",
+    "de": "Charmian",
+    "es": "Glameow",
+    "it": "Glameow",
+    "en": "Glameow",
+    "ja": "ニャルマー"
+  },
+  "432": {
+    "ko": "몬냥이",
+    "zh": "東施喵",
+    "fr": "Chaffreux",
+    "de": "Shnurgarst",
+    "es": "Purugly",
+    "it": "Purugly",
+    "en": "Purugly",
+    "ja": "ブニャット"
+  },
+  "433": {
+    "ko": "랑딸랑",
+    "zh": "鈴鐺響",
+    "fr": "Korillon",
+    "de": "Klingplim",
+    "es": "Chingling",
+    "it": "Chingling",
+    "en": "Chingling",
+    "ja": "リーシャン"
+  },
+  "434": {
+    "ko": "스컹뿡",
+    "zh": "臭鼬噗",
+    "fr": "Moufouette",
+    "de": "Skunkapuh",
+    "es": "Stunky",
+    "it": "Stunky",
+    "en": "Stunky",
+    "ja": "スカンプー"
+  },
+  "435": {
+    "ko": "스컹탱크",
+    "zh": "坦克臭鼬",
+    "fr": "Moufflair",
+    "de": "Skuntank",
+    "es": "Skuntank",
+    "it": "Skuntank",
+    "en": "Skuntank",
+    "ja": "スカタンク"
+  },
+  "436": {
+    "ko": "동미러",
+    "zh": "銅鏡怪",
+    "fr": "Archéomire",
+    "de": "Bronzel",
+    "es": "Bronzor",
+    "it": "Bronzor",
+    "en": "Bronzor",
+    "ja": "ドーミラー"
+  },
+  "437": {
+    "ko": "동탁군",
+    "zh": "青銅鐘",
+    "fr": "Archéodong",
+    "de": "Bronzong",
+    "es": "Bronzong",
+    "it": "Bronzong",
+    "en": "Bronzong",
+    "ja": "ドータクン"
+  },
+  "438": {
+    "ko": "꼬지지",
+    "zh": "盆才怪",
+    "fr": "Manzaï",
+    "de": "Mobai",
+    "es": "Bonsly",
+    "it": "Bonsly",
+    "en": "Bonsly",
+    "ja": "ウソハチ"
+  },
+  "439": {
+    "ko": "흉내내",
+    "zh": "魔尼尼",
+    "fr": "Mime Jr.",
+    "de": "Pantimimi",
+    "es": "Mime Jr.",
+    "it": "Mime Jr.",
+    "en": "Mime Jr.",
+    "ja": "マネネ"
+  },
+  "440": {
+    "ko": "핑복",
+    "zh": "小福蛋",
+    "fr": "Ptiravi",
+    "de": "Wonneira",
+    "es": "Happiny",
+    "it": "Happiny",
+    "en": "Happiny",
+    "ja": "ピンプク"
+  },
+  "441": {
+    "ko": "페라페",
+    "zh": "聒噪鳥",
+    "fr": "Pijako",
+    "de": "Plaudagei",
+    "es": "Chatot",
+    "it": "Chatot",
+    "en": "Chatot",
+    "ja": "ペラップ"
+  },
+  "442": {
+    "ko": "화강돌",
+    "zh": "花岩怪",
+    "fr": "Spiritomb",
+    "de": "Kryppuk",
+    "es": "Spiritomb",
+    "it": "Spiritomb",
+    "en": "Spiritomb",
+    "ja": "ミカルゲ"
+  },
+  "443": {
+    "ko": "딥상어동",
+    "zh": "圓陸鯊",
+    "fr": "Griknot",
+    "de": "Kaumalat",
+    "es": "Gible",
+    "it": "Gible",
+    "en": "Gible",
+    "ja": "フカマル"
+  },
+  "444": {
+    "ko": "한바이트",
+    "zh": "尖牙陸鯊",
+    "fr": "Carmache",
+    "de": "Knarksel",
+    "es": "Gabite",
+    "it": "Gabite",
+    "en": "Gabite",
+    "ja": "ガバイト"
+  },
+  "445": {
+    "ko": "한카리아스",
+    "zh": "烈咬陸鯊",
+    "fr": "Carchacrok",
+    "de": "Knakrack",
+    "es": "Garchomp",
+    "it": "Garchomp",
+    "en": "Garchomp",
+    "ja": "ガブリアス"
+  },
+  "446": {
+    "ko": "먹고자",
+    "zh": "小卡比獸",
+    "fr": "Goinfrex",
+    "de": "Mampfaxo",
+    "es": "Munchlax",
+    "it": "Munchlax",
+    "en": "Munchlax",
+    "ja": "ゴンベ"
+  },
+  "447": {
+    "ko": "리오르",
+    "zh": "利歐路",
+    "fr": "Riolu",
+    "de": "Riolu",
+    "es": "Riolu",
+    "it": "Riolu",
+    "en": "Riolu",
+    "ja": "リオル"
+  },
+  "448": {
+    "ko": "루카리오",
+    "zh": "路卡利歐",
+    "fr": "Lucario",
+    "de": "Lucario",
+    "es": "Lucario",
+    "it": "Lucario",
+    "en": "Lucario",
+    "ja": "ルカリオ"
+  },
+  "449": {
+    "ko": "히포포타스",
+    "zh": "沙河馬",
+    "fr": "Hippopotas",
+    "de": "Hippopotas",
+    "es": "Hippopotas",
+    "it": "Hippopotas",
+    "en": "Hippopotas",
+    "ja": "ヒポポタス"
+  },
+  "450": {
+    "ko": "하마돈",
+    "zh": "河馬獸",
+    "fr": "Hippodocus",
+    "de": "Hippoterus",
+    "es": "Hippowdon",
+    "it": "Hippowdon",
+    "en": "Hippowdon",
+    "ja": "カバルドン"
+  },
+  "451": {
+    "ko": "스콜피",
+    "zh": "鉗尾蠍",
+    "fr": "Rapion",
+    "de": "Pionskora",
+    "es": "Skorupi",
+    "it": "Skorupi",
+    "en": "Skorupi",
+    "ja": "スコルピ"
+  },
+  "452": {
+    "ko": "드래피온",
+    "zh": "龍王蠍",
+    "fr": "Drascore",
+    "de": "Piondragi",
+    "es": "Drapion",
+    "it": "Drapion",
+    "en": "Drapion",
+    "ja": "ドラピオン"
+  },
+  "453": {
+    "ko": "삐딱구리",
+    "zh": "不良蛙",
+    "fr": "Cradopaud",
+    "de": "Glibunkel",
+    "es": "Croagunk",
+    "it": "Croagunk",
+    "en": "Croagunk",
+    "ja": "グレッグル"
+  },
+  "454": {
+    "ko": "독개굴",
+    "zh": "毒骷蛙",
+    "fr": "Coatox",
+    "de": "Toxiquak",
+    "es": "Toxicroak",
+    "it": "Toxicroak",
+    "en": "Toxicroak",
+    "ja": "ドクロッグ"
+  },
+  "455": {
+    "ko": "무스틈니",
+    "zh": "尖牙籠",
+    "fr": "Vortente",
+    "de": "Venuflibis",
+    "es": "Carnivine",
+    "it": "Carnivine",
+    "en": "Carnivine",
+    "ja": "マスキッパ"
+  },
+  "456": {
+    "ko": "형광어",
+    "zh": "螢光魚",
+    "fr": "Écayon",
+    "de": "Finneon",
+    "es": "Finneon",
+    "it": "Finneon",
+    "en": "Finneon",
+    "ja": "ケイコウオ"
+  },
+  "457": {
+    "ko": "네오라이트",
+    "zh": "霓虹魚",
+    "fr": "Luminéon",
+    "de": "Lumineon",
+    "es": "Lumineon",
+    "it": "Lumineon",
+    "en": "Lumineon",
+    "ja": "ネオラント"
+  },
+  "458": {
+    "ko": "타만타",
+    "zh": "小球飛魚",
+    "fr": "Babimanta",
+    "de": "Mantirps",
+    "es": "Mantyke",
+    "it": "Mantyke",
+    "en": "Mantyke",
+    "ja": "タマンタ"
+  },
+  "459": {
+    "ko": "눈쓰개",
+    "zh": "雪笠怪",
+    "fr": "Blizzi",
+    "de": "Shnebedeck",
+    "es": "Snover",
+    "it": "Snover",
+    "en": "Snover",
+    "ja": "ユキカブリ"
+  },
+  "460": {
+    "ko": "눈설왕",
+    "zh": "暴雪王",
+    "fr": "Blizzaroi",
+    "de": "Rexblisar",
+    "es": "Abomasnow",
+    "it": "Abomasnow",
+    "en": "Abomasnow",
+    "ja": "ユキノオー"
+  },
+  "461": {
+    "ko": "포푸니라",
+    "zh": "瑪狃拉",
+    "fr": "Dimoret",
+    "de": "Snibunna",
+    "es": "Weavile",
+    "it": "Weavile",
+    "en": "Weavile",
+    "ja": "マニューラ"
+  },
+  "462": {
+    "ko": "자포코일",
+    "zh": "自爆磁怪",
+    "fr": "Magnézone",
+    "de": "Magnezone",
+    "es": "Magnezone",
+    "it": "Magnezone",
+    "en": "Magnezone",
+    "ja": "ジバコイル"
+  },
+  "463": {
+    "ko": "내룸벨트",
+    "zh": "大舌舔",
+    "fr": "Coudlangue",
+    "de": "Schlurplek",
+    "es": "Lickilicky",
+    "it": "Lickilicky",
+    "en": "Lickilicky",
+    "ja": "ベロベルト"
+  },
+  "464": {
+    "ko": "거대코뿌리",
+    "zh": "超甲狂犀",
+    "fr": "Rhinastoc",
+    "de": "Rihornior",
+    "es": "Rhyperior",
+    "it": "Rhyperior",
+    "en": "Rhyperior",
+    "ja": "ドサイドン"
+  },
+  "465": {
+    "ko": "덩쿠림보",
+    "zh": "巨蔓藤",
+    "fr": "Bouldeneu",
+    "de": "Tangoloss",
+    "es": "Tangrowth",
+    "it": "Tangrowth",
+    "en": "Tangrowth",
+    "ja": "モジャンボ"
+  },
+  "466": {
+    "ko": "에레키블",
+    "zh": "電擊魔獸",
+    "fr": "Élekable",
+    "de": "Elevoltek",
+    "es": "Electivire",
+    "it": "Electivire",
+    "en": "Electivire",
+    "ja": "エレキブル"
+  },
+  "467": {
+    "ko": "마그마번",
+    "zh": "鴨嘴炎獸",
+    "fr": "Maganon",
+    "de": "Magbrant",
+    "es": "Magmortar",
+    "it": "Magmortar",
+    "en": "Magmortar",
+    "ja": "ブーバーン"
+  },
+  "468": {
+    "ko": "토게키스",
+    "zh": "波克基斯",
+    "fr": "Togekiss",
+    "de": "Togekiss",
+    "es": "Togekiss",
+    "it": "Togekiss",
+    "en": "Togekiss",
+    "ja": "トゲキッス"
+  },
+  "469": {
+    "ko": "메가자리",
+    "zh": "遠古巨蜓",
+    "fr": "Yanmega",
+    "de": "Yanmega",
+    "es": "Yanmega",
+    "it": "Yanmega",
+    "en": "Yanmega",
+    "ja": "メガヤンマ"
+  },
+  "470": {
+    "ko": "리피아",
+    "zh": "葉伊布",
+    "fr": "Phyllali",
+    "de": "Folipurba",
+    "es": "Leafeon",
+    "it": "Leafeon",
+    "en": "Leafeon",
+    "ja": "リーフィア"
+  },
+  "471": {
+    "ko": "글레이시아",
+    "zh": "冰伊布",
+    "fr": "Givrali",
+    "de": "Glaziola",
+    "es": "Glaceon",
+    "it": "Glaceon",
+    "en": "Glaceon",
+    "ja": "グレイシア"
+  },
+  "472": {
+    "ko": "글라이온",
+    "zh": "天蠍王",
+    "fr": "Scorvol",
+    "de": "Skorgro",
+    "es": "Gliscor",
+    "it": "Gliscor",
+    "en": "Gliscor",
+    "ja": "グライオン"
+  },
+  "473": {
+    "ko": "맘모꾸리",
+    "zh": "象牙豬",
+    "fr": "Mammochon",
+    "de": "Mamutel",
+    "es": "Mamoswine",
+    "it": "Mamoswine",
+    "en": "Mamoswine",
+    "ja": "マンムー"
+  },
+  "474": {
+    "ko": "폴리곤Z",
+    "zh": "多邊獸Ｚ",
+    "fr": "Porygon-Z",
+    "de": "Porygon-Z",
+    "es": "Porygon-Z",
+    "it": "Porygon-Z",
+    "en": "Porygon-Z",
+    "ja": "ポリゴンＺ"
+  },
+  "475": {
+    "ko": "엘레이드",
+    "zh": "艾路雷朵",
+    "fr": "Gallame",
+    "de": "Galagladi",
+    "es": "Gallade",
+    "it": "Gallade",
+    "en": "Gallade",
+    "ja": "エルレイド"
+  },
+  "476": {
+    "ko": "대코파스",
+    "zh": "大朝北鼻",
+    "fr": "Tarinorme",
+    "de": "Voluminas",
+    "es": "Probopass",
+    "it": "Probopass",
+    "en": "Probopass",
+    "ja": "ダイノーズ"
+  },
+  "477": {
+    "ko": "야느와르몽",
+    "zh": "黑夜魔靈",
+    "fr": "Noctunoir",
+    "de": "Zwirrfinst",
+    "es": "Dusknoir",
+    "it": "Dusknoir",
+    "en": "Dusknoir",
+    "ja": "ヨノワール"
+  },
+  "478": {
+    "ko": "눈여아",
+    "zh": "雪妖女",
+    "fr": "Momartik",
+    "de": "Frosdedje",
+    "es": "Froslass",
+    "it": "Froslass",
+    "en": "Froslass",
+    "ja": "ユキメノコ"
+  },
+  "479": {
+    "ko": "로토무",
+    "zh": "洛托姆",
+    "fr": "Motisma",
+    "de": "Rotom",
+    "es": "Rotom",
+    "it": "Rotom",
+    "en": "Rotom",
+    "ja": "ロトム"
+  },
+  "480": {
+    "ko": "유크시",
+    "zh": "由克希",
+    "fr": "Créhelf",
+    "de": "Selfe",
+    "es": "Uxie",
+    "it": "Uxie",
+    "en": "Uxie",
+    "ja": "ユクシー"
+  },
+  "481": {
+    "ko": "엠라이트",
+    "zh": "艾姆利多",
+    "fr": "Créfollet",
+    "de": "Vesprit",
+    "es": "Mesprit",
+    "it": "Mesprit",
+    "en": "Mesprit",
+    "ja": "エムリット"
+  },
+  "482": {
+    "ko": "아그놈",
+    "zh": "亞克諾姆",
+    "fr": "Créfadet",
+    "de": "Tobutz",
+    "es": "Azelf",
+    "it": "Azelf",
+    "en": "Azelf",
+    "ja": "アグノム"
+  },
+  "483": {
+    "ko": "디아루가",
+    "zh": "帝牙盧卡",
+    "fr": "Dialga",
+    "de": "Dialga",
+    "es": "Dialga",
+    "it": "Dialga",
+    "en": "Dialga",
+    "ja": "ディアルガ"
+  },
+  "484": {
+    "ko": "펄기아",
+    "zh": "帕路奇亞",
+    "fr": "Palkia",
+    "de": "Palkia",
+    "es": "Palkia",
+    "it": "Palkia",
+    "en": "Palkia",
+    "ja": "パルキア"
+  },
+  "485": {
+    "ko": "히드런",
+    "zh": "席多藍恩",
+    "fr": "Heatran",
+    "de": "Heatran",
+    "es": "Heatran",
+    "it": "Heatran",
+    "en": "Heatran",
+    "ja": "ヒードラン"
+  },
+  "486": {
+    "ko": "레지기가스",
+    "zh": "雷吉奇卡斯",
+    "fr": "Regigigas",
+    "de": "Regigigas",
+    "es": "Regigigas",
+    "it": "Regigigas",
+    "en": "Regigigas",
+    "ja": "レジギガス"
+  },
+  "487": {
+    "ko": "기라티나",
+    "zh": "騎拉帝納",
+    "fr": "Giratina",
+    "de": "Giratina",
+    "es": "Giratina",
+    "it": "Giratina",
+    "en": "Giratina",
+    "ja": "ギラティナ"
+  },
+  "488": {
+    "ko": "크레세리아",
+    "zh": "克雷色利亞",
+    "fr": "Cresselia",
+    "de": "Cresselia",
+    "es": "Cresselia",
+    "it": "Cresselia",
+    "en": "Cresselia",
+    "ja": "クレセリア"
+  },
+  "489": {
+    "ko": "피오네",
+    "zh": "霏歐納",
+    "fr": "Phione",
+    "de": "Phione",
+    "es": "Phione",
+    "it": "Phione",
+    "en": "Phione",
+    "ja": "フィオネ"
+  },
+  "490": {
+    "ko": "마나피",
+    "zh": "瑪納霏",
+    "fr": "Manaphy",
+    "de": "Manaphy",
+    "es": "Manaphy",
+    "it": "Manaphy",
+    "en": "Manaphy",
+    "ja": "マナフィ"
+  },
+  "491": {
+    "ko": "다크라이",
+    "zh": "達克萊伊",
+    "fr": "Darkrai",
+    "de": "Darkrai",
+    "es": "Darkrai",
+    "it": "Darkrai",
+    "en": "Darkrai",
+    "ja": "ダークライ"
+  },
+  "492": {
+    "ko": "쉐이미",
+    "zh": "謝米",
+    "fr": "Shaymin",
+    "de": "Shaymin",
+    "es": "Shaymin",
+    "it": "Shaymin",
+    "en": "Shaymin",
+    "ja": "シェイミ"
+  },
+  "493": {
+    "ko": "아르세우스",
+    "zh": "阿爾宙斯",
+    "fr": "Arceus",
+    "de": "Arceus",
+    "es": "Arceus",
+    "it": "Arceus",
+    "en": "Arceus",
+    "ja": "アルセウス"
+  },
+  "494": {
+    "ko": "비크티니",
+    "zh": "比克提尼",
+    "fr": "Victini",
+    "de": "Victini",
+    "es": "Victini",
+    "it": "Victini",
+    "en": "Victini",
+    "ja": "ビクティニ"
+  },
+  "495": {
+    "ko": "주리비얀",
+    "zh": "藤藤蛇",
+    "fr": "Vipélierre",
+    "de": "Serpifeu",
+    "es": "Snivy",
+    "it": "Snivy",
+    "en": "Snivy",
+    "ja": "ツタージャ"
+  },
+  "496": {
+    "ko": "샤비",
+    "zh": "青藤蛇",
+    "fr": "Lianaja",
+    "de": "Efoserp",
+    "es": "Servine",
+    "it": "Servine",
+    "en": "Servine",
+    "ja": "ジャノビー"
+  },
+  "497": {
+    "ko": "샤로다",
+    "zh": "君主蛇",
+    "fr": "Majaspic",
+    "de": "Serpiroyal",
+    "es": "Serperior",
+    "it": "Serperior",
+    "en": "Serperior",
+    "ja": "ジャローダ"
+  },
+  "498": {
+    "ko": "뚜꾸리",
+    "zh": "暖暖豬",
+    "fr": "Gruikui",
+    "de": "Floink",
+    "es": "Tepig",
+    "it": "Tepig",
+    "en": "Tepig",
+    "ja": "ポカブ"
+  },
+  "499": {
+    "ko": "차오꿀",
+    "zh": "炒炒豬",
+    "fr": "Grotichon",
+    "de": "Ferkokel",
+    "es": "Pignite",
+    "it": "Pignite",
+    "en": "Pignite",
+    "ja": "チャオブー"
+  },
+  "500": {
+    "ko": "염무왕",
+    "zh": "炎武王",
+    "fr": "Roitiflam",
+    "de": "Flambirex",
+    "es": "Emboar",
+    "it": "Emboar",
+    "en": "Emboar",
+    "ja": "エンブオー"
+  },
+  "501": {
+    "ko": "수댕이",
+    "zh": "水水獺",
+    "fr": "Moustillon",
+    "de": "Ottaro",
+    "es": "Oshawott",
+    "it": "Oshawott",
+    "en": "Oshawott",
+    "ja": "ミジュマル"
+  },
+  "502": {
+    "ko": "쌍검자비",
+    "zh": "雙刃丸",
+    "fr": "Mateloutre",
+    "de": "Zwottronin",
+    "es": "Dewott",
+    "it": "Dewott",
+    "en": "Dewott",
+    "ja": "フタチマル"
+  },
+  "503": {
+    "ko": "대검귀",
+    "zh": "大劍鬼",
+    "fr": "Clamiral",
+    "de": "Admurai",
+    "es": "Samurott",
+    "it": "Samurott",
+    "en": "Samurott",
+    "ja": "ダイケンキ"
+  },
+  "504": {
+    "ko": "보르쥐",
+    "zh": "探探鼠",
+    "fr": "Ratentif",
+    "de": "Nagelotz",
+    "es": "Patrat",
+    "it": "Patrat",
+    "en": "Patrat",
+    "ja": "ミネズミ"
+  },
+  "505": {
+    "ko": "보르그",
+    "zh": "步哨鼠",
+    "fr": "Miradar",
+    "de": "Kukmarda",
+    "es": "Watchog",
+    "it": "Watchog",
+    "en": "Watchog",
+    "ja": "ミルホッグ"
+  },
+  "506": {
+    "ko": "요테리",
+    "zh": "小約克",
+    "fr": "Ponchiot",
+    "de": "Yorkleff",
+    "es": "Lillipup",
+    "it": "Lillipup",
+    "en": "Lillipup",
+    "ja": "ヨーテリー"
+  },
+  "507": {
+    "ko": "하데리어",
+    "zh": "哈約克",
+    "fr": "Ponchien",
+    "de": "Terribark",
+    "es": "Herdier",
+    "it": "Herdier",
+    "en": "Herdier",
+    "ja": "ハーデリア"
+  },
+  "508": {
+    "ko": "바랜드",
+    "zh": "長毛狗",
+    "fr": "Mastouffe",
+    "de": "Bissbark",
+    "es": "Stoutland",
+    "it": "Stoutland",
+    "en": "Stoutland",
+    "ja": "ムーランド"
+  },
+  "509": {
+    "ko": "쌔비냥",
+    "zh": "扒手貓",
+    "fr": "Chacripan",
+    "de": "Felilou",
+    "es": "Purrloin",
+    "it": "Purrloin",
+    "en": "Purrloin",
+    "ja": "チョロネコ"
+  },
+  "510": {
+    "ko": "레파르다스",
+    "zh": "酷豹",
+    "fr": "Léopardus",
+    "de": "Kleoparda",
+    "es": "Liepard",
+    "it": "Liepard",
+    "en": "Liepard",
+    "ja": "レパルダス"
+  },
+  "511": {
+    "ko": "야나프",
+    "zh": "花椰猴",
+    "fr": "Feuillajou",
+    "de": "Vegimak",
+    "es": "Pansage",
+    "it": "Pansage",
+    "en": "Pansage",
+    "ja": "ヤナップ"
+  },
+  "512": {
+    "ko": "야나키",
+    "zh": "花椰猿",
+    "fr": "Feuiloutan",
+    "de": "Vegichita",
+    "es": "Simisage",
+    "it": "Simisage",
+    "en": "Simisage",
+    "ja": "ヤナッキー"
+  },
+  "513": {
+    "ko": "바오프",
+    "zh": "爆香猴",
+    "fr": "Flamajou",
+    "de": "Grillmak",
+    "es": "Pansear",
+    "it": "Pansear",
+    "en": "Pansear",
+    "ja": "バオップ"
+  },
+  "514": {
+    "ko": "바오키",
+    "zh": "爆香猿",
+    "fr": "Flamoutan",
+    "de": "Grillchita",
+    "es": "Simisear",
+    "it": "Simisear",
+    "en": "Simisear",
+    "ja": "バオッキー"
+  },
+  "515": {
+    "ko": "앗차프",
+    "zh": "冷水猴",
+    "fr": "Flotajou",
+    "de": "Sodamak",
+    "es": "Panpour",
+    "it": "Panpour",
+    "en": "Panpour",
+    "ja": "ヒヤップ"
+  },
+  "516": {
+    "ko": "앗차키",
+    "zh": "冷水猿",
+    "fr": "Flotoutan",
+    "de": "Sodachita",
+    "es": "Simipour",
+    "it": "Simipour",
+    "en": "Simipour",
+    "ja": "ヒヤッキー"
+  },
+  "517": {
+    "ko": "몽나",
+    "zh": "食夢夢",
+    "fr": "Munna",
+    "de": "Somniam",
+    "es": "Munna",
+    "it": "Munna",
+    "en": "Munna",
+    "ja": "ムンナ"
+  },
+  "518": {
+    "ko": "몽얌나",
+    "zh": "夢夢蝕",
+    "fr": "Mushana",
+    "de": "Somnivora",
+    "es": "Musharna",
+    "it": "Musharna",
+    "en": "Musharna",
+    "ja": "ムシャーナ"
+  },
+  "519": {
+    "ko": "콩둘기",
+    "zh": "豆豆鴿",
+    "fr": "Poichigeon",
+    "de": "Dusselgurr",
+    "es": "Pidove",
+    "it": "Pidove",
+    "en": "Pidove",
+    "ja": "マメパト"
+  },
+  "520": {
+    "ko": "유토브",
+    "zh": "咕咕鴿",
+    "fr": "Colombeau",
+    "de": "Navitaub",
+    "es": "Tranquill",
+    "it": "Tranquill",
+    "en": "Tranquill",
+    "ja": "ハトーボー"
+  },
+  "521": {
+    "ko": "켄호로우",
+    "zh": "高傲雉雞",
+    "fr": "Déflaisan",
+    "de": "Fasasnob",
+    "es": "Unfezant",
+    "it": "Unfezant",
+    "en": "Unfezant",
+    "ja": "ケンホロウ"
+  },
+  "522": {
+    "ko": "줄뮤마",
+    "zh": "斑斑馬",
+    "fr": "Zébibron",
+    "de": "Elezeba",
+    "es": "Blitzle",
+    "it": "Blitzle",
+    "en": "Blitzle",
+    "ja": "シママ"
+  },
+  "523": {
+    "ko": "제브라이카",
+    "zh": "雷電斑馬",
+    "fr": "Zéblitz",
+    "de": "Zebritz",
+    "es": "Zebstrika",
+    "it": "Zebstrika",
+    "en": "Zebstrika",
+    "ja": "ゼブライカ"
+  },
+  "524": {
+    "ko": "단굴",
+    "zh": "石丸子",
+    "fr": "Nodulithe",
+    "de": "Kiesling",
+    "es": "Roggenrola",
+    "it": "Roggenrola",
+    "en": "Roggenrola",
+    "ja": "ダンゴロ"
+  },
+  "525": {
+    "ko": "암트르",
+    "zh": "地幔岩",
+    "fr": "Géolithe",
+    "de": "Sedimantur",
+    "es": "Boldore",
+    "it": "Boldore",
+    "en": "Boldore",
+    "ja": "ガントル"
+  },
+  "526": {
+    "ko": "기가이어스",
+    "zh": "龐岩怪",
+    "fr": "Gigalithe",
+    "de": "Brockoloss",
+    "es": "Gigalith",
+    "it": "Gigalith",
+    "en": "Gigalith",
+    "ja": "ギガイアス"
+  },
+  "527": {
+    "ko": "또르박쥐",
+    "zh": "滾滾蝙蝠",
+    "fr": "Chovsourir",
+    "de": "Fleknoil",
+    "es": "Woobat",
+    "it": "Woobat",
+    "en": "Woobat",
+    "ja": "コロモリ"
+  },
+  "528": {
+    "ko": "맘박쥐",
+    "zh": "心蝙蝠",
+    "fr": "Rhinolove",
+    "de": "Fletiamo",
+    "es": "Swoobat",
+    "it": "Swoobat",
+    "en": "Swoobat",
+    "ja": "ココロモリ"
+  },
+  "529": {
+    "ko": "두더류",
+    "zh": "螺釘地鼠",
+    "fr": "Rototaupe",
+    "de": "Rotomurf",
+    "es": "Drilbur",
+    "it": "Drilbur",
+    "en": "Drilbur",
+    "ja": "モグリュー"
+  },
+  "530": {
+    "ko": "몰드류",
+    "zh": "龍頭地鼠",
+    "fr": "Minotaupe",
+    "de": "Stalobor",
+    "es": "Excadrill",
+    "it": "Excadrill",
+    "en": "Excadrill",
+    "ja": "ドリュウズ"
+  },
+  "531": {
+    "ko": "다부니",
+    "zh": "差不多娃娃",
+    "fr": "Nanméouïe",
+    "de": "Ohrdoch",
+    "es": "Audino",
+    "it": "Audino",
+    "en": "Audino",
+    "ja": "タブンネ"
+  },
+  "532": {
+    "ko": "으랏차",
+    "zh": "搬運小匠",
+    "fr": "Charpenti",
+    "de": "Praktibalk",
+    "es": "Timburr",
+    "it": "Timburr",
+    "en": "Timburr",
+    "ja": "ドッコラー"
+  },
+  "533": {
+    "ko": "토쇠골",
+    "zh": "鐵骨土人",
+    "fr": "Ouvrifier",
+    "de": "Strepoli",
+    "es": "Gurdurr",
+    "it": "Gurdurr",
+    "en": "Gurdurr",
+    "ja": "ドテッコツ"
+  },
+  "534": {
+    "ko": "노보청",
+    "zh": "修建老匠",
+    "fr": "Bétochef",
+    "de": "Meistagrif",
+    "es": "Conkeldurr",
+    "it": "Conkeldurr",
+    "en": "Conkeldurr",
+    "ja": "ローブシン"
+  },
+  "535": {
+    "ko": "동챙이",
+    "zh": "圓蝌蚪",
+    "fr": "Tritonde",
+    "de": "Schallquap",
+    "es": "Tympole",
+    "it": "Tympole",
+    "en": "Tympole",
+    "ja": "オタマロ"
+  },
+  "536": {
+    "ko": "두까비",
+    "zh": "藍蟾蜍",
+    "fr": "Batracné",
+    "de": "Mebrana",
+    "es": "Palpitoad",
+    "it": "Palpitoad",
+    "en": "Palpitoad",
+    "ja": "ガマガル"
+  },
+  "537": {
+    "ko": "두빅굴",
+    "zh": "蟾蜍王",
+    "fr": "Crapustule",
+    "de": "Branawarz",
+    "es": "Seismitoad",
+    "it": "Seismitoad",
+    "en": "Seismitoad",
+    "ja": "ガマゲロゲ"
+  },
+  "538": {
+    "ko": "던지미",
+    "zh": "投摔鬼",
+    "fr": "Judokrak",
+    "de": "Jiutesto",
+    "es": "Throh",
+    "it": "Throh",
+    "en": "Throh",
+    "ja": "ナゲキ"
+  },
+  "539": {
+    "ko": "타격귀",
+    "zh": "打擊鬼",
+    "fr": "Karaclée",
+    "de": "Karadonis",
+    "es": "Sawk",
+    "it": "Sawk",
+    "en": "Sawk",
+    "ja": "ダゲキ"
+  },
+  "540": {
+    "ko": "두르보",
+    "zh": "蟲寶包",
+    "fr": "Larveyette",
+    "de": "Strawickl",
+    "es": "Sewaddle",
+    "it": "Sewaddle",
+    "en": "Sewaddle",
+    "ja": "クルミル"
+  },
+  "541": {
+    "ko": "두르쿤",
+    "zh": "寶包繭",
+    "fr": "Couverdure",
+    "de": "Folikon",
+    "es": "Swadloon",
+    "it": "Swadloon",
+    "en": "Swadloon",
+    "ja": "クルマユ"
+  },
+  "542": {
+    "ko": "모아머",
+    "zh": "保母蟲",
+    "fr": "Manternel",
+    "de": "Matrifol",
+    "es": "Leavanny",
+    "it": "Leavanny",
+    "en": "Leavanny",
+    "ja": "ハハコモリ"
+  },
+  "543": {
+    "ko": "마디네",
+    "zh": "百足蜈蚣",
+    "fr": "Venipatte",
+    "de": "Toxiped",
+    "es": "Venipede",
+    "it": "Venipede",
+    "en": "Venipede",
+    "ja": "フシデ"
+  },
+  "544": {
+    "ko": "휠구",
+    "zh": "車輪毬",
+    "fr": "Scobolide",
+    "de": "Rollum",
+    "es": "Whirlipede",
+    "it": "Whirlipede",
+    "en": "Whirlipede",
+    "ja": "ホイーガ"
+  },
+  "545": {
+    "ko": "펜드라",
+    "zh": "蜈蚣王",
+    "fr": "Brutapode",
+    "de": "Cerapendra",
+    "es": "Scolipede",
+    "it": "Scolipede",
+    "en": "Scolipede",
+    "ja": "ペンドラー"
+  },
+  "546": {
+    "ko": "소미안",
+    "zh": "木棉球",
+    "fr": "Doudouvet",
+    "de": "Waumboll",
+    "es": "Cottonee",
+    "it": "Cottonee",
+    "en": "Cottonee",
+    "ja": "モンメン"
+  },
+  "547": {
+    "ko": "엘풍",
+    "zh": "風妖精",
+    "fr": "Farfaduvet",
+    "de": "Elfun",
+    "es": "Whimsicott",
+    "it": "Whimsicott",
+    "en": "Whimsicott",
+    "ja": "エルフーン"
+  },
+  "548": {
+    "ko": "치릴리",
+    "zh": "百合根娃娃",
+    "fr": "Chlorobule",
+    "de": "Lilminip",
+    "es": "Petilil",
+    "it": "Petilil",
+    "en": "Petilil",
+    "ja": "チュリネ"
+  },
+  "549": {
+    "ko": "드레디어",
+    "zh": "裙兒小姐",
+    "fr": "Fragilady",
+    "de": "Dressella",
+    "es": "Lilligant",
+    "it": "Lilligant",
+    "en": "Lilligant",
+    "ja": "ドレディア"
+  },
+  "550": {
+    "ko": "배쓰나이",
+    "zh": "野蠻鱸魚",
+    "fr": "Bargantua",
+    "de": "Barschuft",
+    "es": "Basculin",
+    "it": "Basculin",
+    "en": "Basculin",
+    "ja": "バスラオ"
+  },
+  "551": {
+    "ko": "깜눈크",
+    "zh": "黑眼鱷",
+    "fr": "Mascaïman",
+    "de": "Ganovil",
+    "es": "Sandile",
+    "it": "Sandile",
+    "en": "Sandile",
+    "ja": "メグロコ"
+  },
+  "552": {
+    "ko": "악비르",
+    "zh": "混混鱷",
+    "fr": "Escroco",
+    "de": "Rokkaiman",
+    "es": "Krokorok",
+    "it": "Krokorok",
+    "en": "Krokorok",
+    "ja": "ワルビル"
+  },
+  "553": {
+    "ko": "악비아르",
+    "zh": "流氓鱷",
+    "fr": "Crocorible",
+    "de": "Rabigator",
+    "es": "Krookodile",
+    "it": "Krookodile",
+    "en": "Krookodile",
+    "ja": "ワルビアル"
+  },
+  "554": {
+    "ko": "달막화",
+    "zh": "火紅不倒翁",
+    "fr": "Darumarond",
+    "de": "Flampion",
+    "es": "Darumaka",
+    "it": "Darumaka",
+    "en": "Darumaka",
+    "ja": "ダルマッカ"
+  },
+  "555": {
+    "ko": "불비달마",
+    "zh": "達摩狒狒",
+    "fr": "Darumacho",
+    "de": "Flampivian",
+    "es": "Darmanitan",
+    "it": "Darmanitan",
+    "en": "Darmanitan",
+    "ja": "ヒヒダルマ"
+  },
+  "556": {
+    "ko": "마라카치",
+    "zh": "沙鈴仙人掌",
+    "fr": "Maracachi",
+    "de": "Maracamba",
+    "es": "Maractus",
+    "it": "Maractus",
+    "en": "Maractus",
+    "ja": "マラカッチ"
+  },
+  "557": {
+    "ko": "돌살이",
+    "zh": "石居蟹",
+    "fr": "Crabicoque",
+    "de": "Lithomith",
+    "es": "Dwebble",
+    "it": "Dwebble",
+    "en": "Dwebble",
+    "ja": "イシズマイ"
+  },
+  "558": {
+    "ko": "암팰리스",
+    "zh": "岩殿居蟹",
+    "fr": "Crabaraque",
+    "de": "Castellith",
+    "es": "Crustle",
+    "it": "Crustle",
+    "en": "Crustle",
+    "ja": "イワパレス"
+  },
+  "559": {
+    "ko": "곤율랭",
+    "zh": "滑滑小子",
+    "fr": "Baggiguane",
+    "de": "Zurrokex",
+    "es": "Scraggy",
+    "it": "Scraggy",
+    "en": "Scraggy",
+    "ja": "ズルッグ"
+  },
+  "560": {
+    "ko": "곤율거니",
+    "zh": "頭巾混混",
+    "fr": "Baggaïd",
+    "de": "Irokex",
+    "es": "Scrafty",
+    "it": "Scrafty",
+    "en": "Scrafty",
+    "ja": "ズルズキン"
+  },
+  "561": {
+    "ko": "심보러",
+    "zh": "象徵鳥",
+    "fr": "Cryptéro",
+    "de": "Symvolara",
+    "es": "Sigilyph",
+    "it": "Sigilyph",
+    "en": "Sigilyph",
+    "ja": "シンボラー"
+  },
+  "562": {
+    "ko": "데스마스",
+    "zh": "哭哭面具",
+    "fr": "Tutafeh",
+    "de": "Makabaja",
+    "es": "Yamask",
+    "it": "Yamask",
+    "en": "Yamask",
+    "ja": "デスマス"
+  },
+  "563": {
+    "ko": "데스니칸",
+    "zh": "死神棺",
+    "fr": "Tutankafer",
+    "de": "Echnatoll",
+    "es": "Cofagrigus",
+    "it": "Cofagrigus",
+    "en": "Cofagrigus",
+    "ja": "デスカーン"
+  },
+  "564": {
+    "ko": "프로토가",
+    "zh": "原蓋海龜",
+    "fr": "Carapagos",
+    "de": "Galapaflos",
+    "es": "Tirtouga",
+    "it": "Tirtouga",
+    "en": "Tirtouga",
+    "ja": "プロトーガ"
+  },
+  "565": {
+    "ko": "늑골라",
+    "zh": "肋骨海龜",
+    "fr": "Mégapagos",
+    "de": "Karippas",
+    "es": "Carracosta",
+    "it": "Carracosta",
+    "en": "Carracosta",
+    "ja": "アバゴーラ"
+  },
+  "566": {
+    "ko": "아켄",
+    "zh": "始祖小鳥",
+    "fr": "Arkéapti",
+    "de": "Flapteryx",
+    "es": "Archen",
+    "it": "Archen",
+    "en": "Archen",
+    "ja": "アーケン"
+  },
+  "567": {
+    "ko": "아케오스",
+    "zh": "始祖大鳥",
+    "fr": "Aéroptéryx",
+    "de": "Aeropteryx",
+    "es": "Archeops",
+    "it": "Archeops",
+    "en": "Archeops",
+    "ja": "アーケオス"
+  },
+  "568": {
+    "ko": "깨봉이",
+    "zh": "破破袋",
+    "fr": "Miamiasme",
+    "de": "Unratütox",
+    "es": "Trubbish",
+    "it": "Trubbish",
+    "en": "Trubbish",
+    "ja": "ヤブクロン"
+  },
+  "569": {
+    "ko": "더스트나",
+    "zh": "灰塵山",
+    "fr": "Miasmax",
+    "de": "Deponitox",
+    "es": "Garbodor",
+    "it": "Garbodor",
+    "en": "Garbodor",
+    "ja": "ダストダス"
+  },
+  "570": {
+    "ko": "조로아",
+    "zh": "索羅亞",
+    "fr": "Zorua",
+    "de": "Zorua",
+    "es": "Zorua",
+    "it": "Zorua",
+    "en": "Zorua",
+    "ja": "ゾロア"
+  },
+  "571": {
+    "ko": "조로아크",
+    "zh": "索羅亞克",
+    "fr": "Zoroark",
+    "de": "Zoroark",
+    "es": "Zoroark",
+    "it": "Zoroark",
+    "en": "Zoroark",
+    "ja": "ゾロアーク"
+  },
+  "572": {
+    "ko": "치라미",
+    "zh": "泡沫栗鼠",
+    "fr": "Chinchidou",
+    "de": "Picochilla",
+    "es": "Minccino",
+    "it": "Minccino",
+    "en": "Minccino",
+    "ja": "チラーミィ"
+  },
+  "573": {
+    "ko": "치라치노",
+    "zh": "奇諾栗鼠",
+    "fr": "Pashmilla",
+    "de": "Chillabell",
+    "es": "Cinccino",
+    "it": "Cinccino",
+    "en": "Cinccino",
+    "ja": "チラチーノ"
+  },
+  "574": {
+    "ko": "고디탱",
+    "zh": "哥德寶寶",
+    "fr": "Scrutella",
+    "de": "Mollimorba",
+    "es": "Gothita",
+    "it": "Gothita",
+    "en": "Gothita",
+    "ja": "ゴチム"
+  },
+  "575": {
+    "ko": "고디보미",
+    "zh": "哥德小童",
+    "fr": "Mesmérella",
+    "de": "Hypnomorba",
+    "es": "Gothorita",
+    "it": "Gothorita",
+    "en": "Gothorita",
+    "ja": "ゴチミル"
+  },
+  "576": {
+    "ko": "고디모아젤",
+    "zh": "哥德小姐",
+    "fr": "Sidérella",
+    "de": "Morbitesse",
+    "es": "Gothitelle",
+    "it": "Gothitelle",
+    "en": "Gothitelle",
+    "ja": "ゴチルゼル"
+  },
+  "577": {
+    "ko": "유니란",
+    "zh": "單卵細胞球",
+    "fr": "Nucléos",
+    "de": "Monozyto",
+    "es": "Solosis",
+    "it": "Solosis",
+    "en": "Solosis",
+    "ja": "ユニラン"
+  },
+  "578": {
+    "ko": "듀란",
+    "zh": "雙卵細胞球",
+    "fr": "Méios",
+    "de": "Mitodos",
+    "es": "Duosion",
+    "it": "Duosion",
+    "en": "Duosion",
+    "ja": "ダブラン"
+  },
+  "579": {
+    "ko": "란쿨루스",
+    "zh": "人造細胞卵",
+    "fr": "Symbios",
+    "de": "Zytomega",
+    "es": "Reuniclus",
+    "it": "Reuniclus",
+    "en": "Reuniclus",
+    "ja": "ランクルス"
+  },
+  "580": {
+    "ko": "꼬지보리",
+    "zh": "鴨寶寶",
+    "fr": "Couaneton",
+    "de": "Piccolente",
+    "es": "Ducklett",
+    "it": "Ducklett",
+    "en": "Ducklett",
+    "ja": "コアルヒー"
+  },
+  "581": {
+    "ko": "스완나",
+    "zh": "舞天鵝",
+    "fr": "Lakmécygne",
+    "de": "Swaroness",
+    "es": "Swanna",
+    "it": "Swanna",
+    "en": "Swanna",
+    "ja": "スワンナ"
+  },
+  "582": {
+    "ko": "바닐프티",
+    "zh": "迷你冰",
+    "fr": "Sorbébé",
+    "de": "Gelatini",
+    "es": "Vanillite",
+    "it": "Vanillite",
+    "en": "Vanillite",
+    "ja": "バニプッチ"
+  },
+  "583": {
+    "ko": "바닐리치",
+    "zh": "多多冰",
+    "fr": "Sorboul",
+    "de": "Gelatroppo",
+    "es": "Vanillish",
+    "it": "Vanillish",
+    "en": "Vanillish",
+    "ja": "バニリッチ"
+  },
+  "584": {
+    "ko": "배바닐라",
+    "zh": "雙倍多多冰",
+    "fr": "Sorbouboul",
+    "de": "Gelatwino",
+    "es": "Vanilluxe",
+    "it": "Vanilluxe",
+    "en": "Vanilluxe",
+    "ja": "バイバニラ"
+  },
+  "585": {
+    "ko": "사철록",
+    "zh": "四季鹿",
+    "fr": "Vivaldaim",
+    "de": "Sesokitz",
+    "es": "Deerling",
+    "it": "Deerling",
+    "en": "Deerling",
+    "ja": "シキジカ"
+  },
+  "586": {
+    "ko": "바라철록",
+    "zh": "萌芽鹿",
+    "fr": "Haydaim",
+    "de": "Kronjuwild",
+    "es": "Sawsbuck",
+    "it": "Sawsbuck",
+    "en": "Sawsbuck",
+    "ja": "メブキジカ"
+  },
+  "587": {
+    "ko": "에몽가",
+    "zh": "電飛鼠",
+    "fr": "Emolga",
+    "de": "Emolga",
+    "es": "Emolga",
+    "it": "Emolga",
+    "en": "Emolga",
+    "ja": "エモンガ"
+  },
+  "588": {
+    "ko": "딱정곤",
+    "zh": "蓋蓋蟲",
+    "fr": "Carabing",
+    "de": "Laukaps",
+    "es": "Karrablast",
+    "it": "Karrablast",
+    "en": "Karrablast",
+    "ja": "カブルモ"
+  },
+  "589": {
+    "ko": "슈바르고",
+    "zh": "騎士蝸牛",
+    "fr": "Lançargot",
+    "de": "Cavalanzas",
+    "es": "Escavalier",
+    "it": "Escavalier",
+    "en": "Escavalier",
+    "ja": "シュバルゴ"
+  },
+  "590": {
+    "ko": "깜놀버슬",
+    "zh": "哎呀球菇",
+    "fr": "Trompignon",
+    "de": "Tarnpignon",
+    "es": "Foongus",
+    "it": "Foongus",
+    "en": "Foongus",
+    "ja": "タマゲタケ"
+  },
+  "591": {
+    "ko": "뽀록나",
+    "zh": "敗露球菇",
+    "fr": "Gaulet",
+    "de": "Hutsassa",
+    "es": "Amoonguss",
+    "it": "Amoonguss",
+    "en": "Amoonguss",
+    "ja": "モロバレル"
+  },
+  "592": {
+    "ko": "탱그릴",
+    "zh": "輕飄飄",
+    "fr": "Viskuse",
+    "de": "Quabbel",
+    "es": "Frillish",
+    "it": "Frillish",
+    "en": "Frillish",
+    "ja": "プルリル"
+  },
+  "593": {
+    "ko": "탱탱겔",
+    "zh": "胖嘟嘟",
+    "fr": "Moyade",
+    "de": "Apoquallyp",
+    "es": "Jellicent",
+    "it": "Jellicent",
+    "en": "Jellicent",
+    "ja": "ブルンゲル"
+  },
+  "594": {
+    "ko": "맘복치",
+    "zh": "保母曼波",
+    "fr": "Mamanbo",
+    "de": "Mamolida",
+    "es": "Alomomola",
+    "it": "Alomomola",
+    "en": "Alomomola",
+    "ja": "ママンボウ"
+  },
+  "595": {
+    "ko": "파쪼옥",
+    "zh": "電電蟲",
+    "fr": "Statitik",
+    "de": "Wattzapf",
+    "es": "Joltik",
+    "it": "Joltik",
+    "en": "Joltik",
+    "ja": "バチュル"
+  },
+  "596": {
+    "ko": "전툴라",
+    "zh": "電蜘蛛",
+    "fr": "Mygavolt",
+    "de": "Voltula",
+    "es": "Galvantula",
+    "it": "Galvantula",
+    "en": "Galvantula",
+    "ja": "デンチュラ"
+  },
+  "597": {
+    "ko": "철시드",
+    "zh": "種子鐵球",
+    "fr": "Grindur",
+    "de": "Kastadur",
+    "es": "Ferroseed",
+    "it": "Ferroseed",
+    "en": "Ferroseed",
+    "ja": "テッシード"
+  },
+  "598": {
+    "ko": "너트령",
+    "zh": "堅果啞鈴",
+    "fr": "Noacier",
+    "de": "Tentantel",
+    "es": "Ferrothorn",
+    "it": "Ferrothorn",
+    "en": "Ferrothorn",
+    "ja": "ナットレイ"
+  },
+  "599": {
+    "ko": "기어르",
+    "zh": "齒輪兒",
+    "fr": "Tic",
+    "de": "Klikk",
+    "es": "Klink",
+    "it": "Klink",
+    "en": "Klink",
+    "ja": "ギアル"
+  },
+  "600": {
+    "ko": "기기어르",
+    "zh": "齒輪組",
+    "fr": "Clic",
+    "de": "Kliklak",
+    "es": "Klang",
+    "it": "Klang",
+    "en": "Klang",
+    "ja": "ギギアル"
+  },
+  "601": {
+    "ko": "기기기어르",
+    "zh": "齒輪怪",
+    "fr": "Cliticlic",
+    "de": "Klikdiklak",
+    "es": "Klinklang",
+    "it": "Klinklang",
+    "en": "Klinklang",
+    "ja": "ギギギアル"
+  },
+  "602": {
+    "ko": "저리어",
+    "zh": "麻麻小魚",
+    "fr": "Anchwatt",
+    "de": "Zapplardin",
+    "es": "Tynamo",
+    "it": "Tynamo",
+    "en": "Tynamo",
+    "ja": "シビシラス"
+  },
+  "603": {
+    "ko": "저리릴",
+    "zh": "麻麻鰻",
+    "fr": "Lampéroie",
+    "de": "Zapplalek",
+    "es": "Eelektrik",
+    "it": "Eelektrik",
+    "en": "Eelektrik",
+    "ja": "シビビール"
+  },
+  "604": {
+    "ko": "저리더프",
+    "zh": "麻麻鰻魚王",
+    "fr": "Ohmassacre",
+    "de": "Zapplarang",
+    "es": "Eelektross",
+    "it": "Eelektross",
+    "en": "Eelektross",
+    "ja": "シビルドン"
+  },
+  "605": {
+    "ko": "리그레",
+    "zh": "小灰怪",
+    "fr": "Lewsor",
+    "de": "Pygraulon",
+    "es": "Elgyem",
+    "it": "Elgyem",
+    "en": "Elgyem",
+    "ja": "リグレー"
+  },
+  "606": {
+    "ko": "벰크",
+    "zh": "大宇怪",
+    "fr": "Neitram",
+    "de": "Megalon",
+    "es": "Beheeyem",
+    "it": "Beheeyem",
+    "en": "Beheeyem",
+    "ja": "オーベム"
+  },
+  "607": {
+    "ko": "불켜미",
+    "zh": "燭光靈",
+    "fr": "Funécire",
+    "de": "Lichtel",
+    "es": "Litwick",
+    "it": "Litwick",
+    "en": "Litwick",
+    "ja": "ヒトモシ"
+  },
+  "608": {
+    "fr": "Mélancolux",
+    "ko": "램프라",
+    "zh": "燈火幽靈",
+    "de": "Laternecto",
+    "es": "Lampent",
+    "it": "Lampent",
+    "en": "Lampent",
+    "ja": "ランプラー"
+  },
+  "609": {
+    "ko": "샹델라",
+    "zh": "水晶燈火靈",
+    "fr": "Lugulabre",
+    "de": "Skelabra",
+    "es": "Chandelure",
+    "it": "Chandelure",
+    "en": "Chandelure",
+    "ja": "シャンデラ"
+  },
+  "610": {
+    "ko": "터검니",
+    "zh": "牙牙",
+    "fr": "Coupenotte",
+    "de": "Milza",
+    "es": "Axew",
+    "it": "Axew",
+    "en": "Axew",
+    "ja": "キバゴ"
+  },
+  "611": {
+    "ko": "액슨도",
+    "zh": "斧牙龍",
+    "fr": "Incisache",
+    "de": "Sharfax",
+    "es": "Fraxure",
+    "it": "Fraxure",
+    "en": "Fraxure",
+    "ja": "オノンド"
+  },
+  "612": {
+    "ko": "액스라이즈",
+    "zh": "雙斧戰龍",
+    "fr": "Tranchodon",
+    "de": "Maxax",
+    "es": "Haxorus",
+    "it": "Haxorus",
+    "en": "Haxorus",
+    "ja": "オノノクス"
+  },
+  "613": {
+    "ko": "코고미",
+    "zh": "噴嚏熊",
+    "fr": "Polarhume",
+    "de": "Petznief",
+    "es": "Cubchoo",
+    "it": "Cubchoo",
+    "en": "Cubchoo",
+    "ja": "クマシュン"
+  },
+  "614": {
+    "ko": "툰베어",
+    "zh": "凍原熊",
+    "fr": "Polagriffe",
+    "de": "Siberio",
+    "es": "Beartic",
+    "it": "Beartic",
+    "en": "Beartic",
+    "ja": "ツンベアー"
+  },
+  "615": {
+    "ko": "프리지오",
+    "zh": "幾何雪花",
+    "fr": "Hexagel",
+    "de": "Frigometri",
+    "es": "Cryogonal",
+    "it": "Cryogonal",
+    "en": "Cryogonal",
+    "ja": "フリージオ"
+  },
+  "616": {
+    "ko": "쪼마리",
+    "zh": "小嘴蝸",
+    "fr": "Escargaume",
+    "de": "Schnuthelm",
+    "es": "Shelmet",
+    "it": "Shelmet",
+    "en": "Shelmet",
+    "ja": "チョボマキ"
+  },
+  "617": {
+    "ko": "어지리더",
+    "zh": "敏捷蟲",
+    "fr": "Limaspeed",
+    "de": "Hydragil",
+    "es": "Accelgor",
+    "it": "Accelgor",
+    "en": "Accelgor",
+    "ja": "アギルダー"
+  },
+  "618": {
+    "ko": "메더",
+    "zh": "泥巴魚",
+    "fr": "Limonde",
+    "de": "Flunschlik",
+    "es": "Stunfisk",
+    "it": "Stunfisk",
+    "en": "Stunfisk",
+    "ja": "マッギョ"
+  },
+  "619": {
+    "ko": "비조푸",
+    "zh": "功夫鼬",
+    "fr": "Kungfouine",
+    "de": "Lin-Fu",
+    "es": "Mienfoo",
+    "it": "Mienfoo",
+    "en": "Mienfoo",
+    "ja": "コジョフー"
+  },
+  "620": {
+    "ko": "비조도",
+    "zh": "師父鼬",
+    "fr": "Shaofouine",
+    "de": "Wie-Shu",
+    "es": "Mienshao",
+    "it": "Mienshao",
+    "en": "Mienshao",
+    "ja": "コジョンド"
+  },
+  "621": {
+    "ko": "크리만",
+    "zh": "赤面龍",
+    "fr": "Drakkarmin",
+    "de": "Shardrago",
+    "es": "Druddigon",
+    "it": "Druddigon",
+    "en": "Druddigon",
+    "ja": "クリムガン"
+  },
+  "622": {
+    "ko": "골비람",
+    "zh": "泥偶小人",
+    "fr": "Gringolem",
+    "de": "Golbit",
+    "es": "Golett",
+    "it": "Golett",
+    "en": "Golett",
+    "ja": "ゴビット"
+  },
+  "623": {
+    "ko": "골루그",
+    "zh": "泥偶巨人",
+    "fr": "Golemastoc",
+    "de": "Golgantes",
+    "es": "Golurk",
+    "it": "Golurk",
+    "en": "Golurk",
+    "ja": "ゴルーグ"
+  },
+  "624": {
+    "ko": "자망칼",
+    "zh": "駒刀小兵",
+    "fr": "Scalpion",
+    "de": "Gladiantri",
+    "es": "Pawniard",
+    "it": "Pawniard",
+    "en": "Pawniard",
+    "ja": "コマタナ"
+  },
+  "625": {
+    "ko": "절각참",
+    "zh": "劈斬司令",
+    "fr": "Scalproie",
+    "de": "Caesurio",
+    "es": "Bisharp",
+    "it": "Bisharp",
+    "en": "Bisharp",
+    "ja": "キリキザン"
+  },
+  "626": {
+    "ko": "버프론",
+    "zh": "爆炸頭水牛",
+    "fr": "Frison",
+    "de": "Bisofank",
+    "es": "Bouffalant",
+    "it": "Bouffalant",
+    "en": "Bouffalant",
+    "ja": "バッフロン"
+  },
+  "627": {
+    "ko": "수리둥보",
+    "zh": "毛頭小鷹",
+    "fr": "Furaiglon",
+    "de": "Geronimatz",
+    "es": "Rufflet",
+    "it": "Rufflet",
+    "en": "Rufflet",
+    "ja": "ワシボン"
+  },
+  "628": {
+    "ko": "워글",
+    "zh": "勇士雄鷹",
+    "fr": "Gueriaigle",
+    "de": "Washakwil",
+    "es": "Braviary",
+    "it": "Braviary",
+    "en": "Braviary",
+    "ja": "ウォーグル"
+  },
+  "629": {
+    "ko": "벌차이",
+    "zh": "禿鷹丫頭",
+    "fr": "Vostourno",
+    "de": "Skallyk",
+    "es": "Vullaby",
+    "it": "Vullaby",
+    "en": "Vullaby",
+    "ja": "バルチャイ"
+  },
+  "630": {
+    "ko": "버랜지나",
+    "zh": "禿鷹娜",
+    "fr": "Vaututrice",
+    "de": "Grypheldis",
+    "es": "Mandibuzz",
+    "it": "Mandibuzz",
+    "en": "Mandibuzz",
+    "ja": "バルジーナ"
+  },
+  "631": {
+    "ko": "앤티골",
+    "zh": "熔蟻獸",
+    "fr": "Aflamanoir",
+    "de": "Furnifraß",
+    "es": "Heatmor",
+    "it": "Heatmor",
+    "en": "Heatmor",
+    "ja": "クイタラン"
+  },
+  "632": {
+    "ko": "아이앤트",
+    "zh": "鐵蟻",
+    "fr": "Fermite",
+    "de": "Fermicula",
+    "es": "Durant",
+    "it": "Durant",
+    "en": "Durant",
+    "ja": "アイアント"
+  },
+  "633": {
+    "ko": "모노두",
+    "zh": "單首龍",
+    "fr": "Solochi",
+    "de": "Kapuno",
+    "es": "Deino",
+    "it": "Deino",
+    "en": "Deino",
+    "ja": "モノズ"
+  },
+  "634": {
+    "ko": "디헤드",
+    "zh": "雙首暴龍",
+    "fr": "Diamat",
+    "de": "Duodino",
+    "es": "Zweilous",
+    "it": "Zweilous",
+    "en": "Zweilous",
+    "ja": "ジヘッド"
+  },
+  "635": {
+    "ko": "삼삼드래",
+    "zh": "三首惡龍",
+    "fr": "Trioxhydre",
+    "de": "Trikephalo",
+    "es": "Hydreigon",
+    "it": "Hydreigon",
+    "en": "Hydreigon",
+    "ja": "サザンドラ"
+  },
+  "636": {
+    "ko": "활화르바",
+    "zh": "燃燒蟲",
+    "fr": "Pyronille",
+    "de": "Ignivor",
+    "es": "Larvesta",
+    "it": "Larvesta",
+    "en": "Larvesta",
+    "ja": "メラルバ"
+  },
+  "637": {
+    "ko": "불카모스",
+    "zh": "火神蛾",
+    "fr": "Pyrax",
+    "de": "Ramoth",
+    "es": "Volcarona",
+    "it": "Volcarona",
+    "en": "Volcarona",
+    "ja": "ウルガモス"
+  },
+  "638": {
+    "ko": "코바르온",
+    "zh": "勾帕路翁",
+    "fr": "Cobaltium",
+    "de": "Kobalium",
+    "es": "Cobalion",
+    "it": "Cobalion",
+    "en": "Cobalion",
+    "ja": "コバルオン"
+  },
+  "639": {
+    "ko": "테라키온",
+    "zh": "代拉基翁",
+    "fr": "Terrakium",
+    "de": "Terrakium",
+    "es": "Terrakion",
+    "it": "Terrakion",
+    "en": "Terrakion",
+    "ja": "テラキオン"
+  },
+  "640": {
+    "ko": "비리디온",
+    "zh": "畢力吉翁",
+    "fr": "Viridium",
+    "de": "Viridium",
+    "es": "Virizion",
+    "it": "Virizion",
+    "en": "Virizion",
+    "ja": "ビリジオン"
+  },
+  "641": {
+    "ko": "토네로스",
+    "zh": "龍捲雲",
+    "fr": "Boréas",
+    "de": "Boreos",
+    "es": "Tornadus",
+    "it": "Tornadus",
+    "en": "Tornadus",
+    "ja": "トルネロス"
+  },
+  "642": {
+    "ko": "볼트로스",
+    "zh": "雷電雲",
+    "fr": "Fulguris",
+    "de": "Voltolos",
+    "es": "Thundurus",
+    "it": "Thundurus",
+    "en": "Thundurus",
+    "ja": "ボルトロス"
+  },
+  "643": {
+    "ko": "레시라무",
+    "zh": "萊希拉姆",
+    "fr": "Reshiram",
+    "de": "Reshiram",
+    "es": "Reshiram",
+    "it": "Reshiram",
+    "en": "Reshiram",
+    "ja": "レシラム"
+  },
+  "644": {
+    "ko": "제크로무",
+    "zh": "捷克羅姆",
+    "fr": "Zekrom",
+    "de": "Zekrom",
+    "es": "Zekrom",
+    "it": "Zekrom",
+    "en": "Zekrom",
+    "ja": "ゼクロム"
+  },
+  "645": {
+    "ko": "랜드로스",
+    "zh": "土地雲",
+    "fr": "Démétéros",
+    "de": "Demeteros",
+    "es": "Landorus",
+    "it": "Landorus",
+    "en": "Landorus",
+    "ja": "ランドロス"
+  },
+  "646": {
+    "ko": "큐레무",
+    "zh": "酋雷姆",
+    "fr": "Kyurem",
+    "de": "Kyurem",
+    "es": "Kyurem",
+    "it": "Kyurem",
+    "en": "Kyurem",
+    "ja": "キュレム"
+  },
+  "647": {
+    "ko": "케르디오",
+    "zh": "凱路迪歐",
+    "fr": "Keldeo",
+    "de": "Keldeo",
+    "es": "Keldeo",
+    "it": "Keldeo",
+    "en": "Keldeo",
+    "ja": "ケルディオ"
+  },
+  "648": {
+    "ko": "메로엣타",
+    "zh": "美洛耶塔",
+    "fr": "Meloetta",
+    "de": "Meloetta",
+    "es": "Meloetta",
+    "it": "Meloetta",
+    "en": "Meloetta",
+    "ja": "メロエッタ"
+  },
+  "649": {
+    "ko": "게노세크트",
+    "zh": "蓋諾賽克特",
+    "fr": "Genesect",
+    "de": "Genesect",
+    "es": "Genesect",
+    "it": "Genesect",
+    "en": "Genesect",
+    "ja": "ゲノセクト"
+  },
+  "650": {
+    "ko": "도치마론",
+    "zh": "哈力栗",
+    "fr": "Marisson",
+    "de": "Igamaro",
+    "es": "Chespin",
+    "it": "Chespin",
+    "en": "Chespin",
+    "ja": "ハリマロン"
+  },
+  "651": {
+    "ko": "도치보구",
+    "zh": "胖胖哈力",
+    "fr": "Boguérisse",
+    "de": "Igastarnish",
+    "es": "Quilladin",
+    "it": "Quilladin",
+    "en": "Quilladin",
+    "ja": "ハリボーグ"
+  },
+  "652": {
+    "ko": "브리가론",
+    "zh": "布里卡隆",
+    "fr": "Blindépique",
+    "de": "Brigaron",
+    "es": "Chesnaught",
+    "it": "Chesnaught",
+    "en": "Chesnaught",
+    "ja": "ブリガロン"
+  },
+  "653": {
+    "ko": "푸호꼬",
+    "zh": "火狐狸",
+    "fr": "Feunnec",
+    "de": "Fynx",
+    "es": "Fennekin",
+    "it": "Fennekin",
+    "en": "Fennekin",
+    "ja": "フォッコ"
+  },
+  "654": {
+    "ko": "테르나",
+    "zh": "長尾火狐",
+    "fr": "Roussil",
+    "de": "Rutena",
+    "es": "Braixen",
+    "it": "Braixen",
+    "en": "Braixen",
+    "ja": "テールナー"
+  },
+  "655": {
+    "ko": "마폭시",
+    "zh": "妖火紅狐",
+    "fr": "Goupelin",
+    "de": "Fennexis",
+    "es": "Delphox",
+    "it": "Delphox",
+    "en": "Delphox",
+    "ja": "マフォクシー"
+  },
+  "656": {
+    "ko": "개구마르",
+    "zh": "呱呱泡蛙",
+    "fr": "Grenousse",
+    "de": "Froxy",
+    "es": "Froakie",
+    "it": "Froakie",
+    "en": "Froakie",
+    "ja": "ケロマツ"
+  },
+  "657": {
+    "ko": "개굴반장",
+    "zh": "呱頭蛙",
+    "fr": "Croâporal",
+    "de": "Amphizel",
+    "es": "Frogadier",
+    "it": "Frogadier",
+    "en": "Frogadier",
+    "ja": "ゲコガシラ"
+  },
+  "658": {
+    "ko": "개굴닌자",
+    "zh": "甲賀忍蛙",
+    "fr": "Amphinobi",
+    "de": "Quajutsu",
+    "es": "Greninja",
+    "it": "Greninja",
+    "en": "Greninja",
+    "ja": "ゲッコウガ"
+  },
+  "659": {
+    "ko": "파르빗",
+    "zh": "掘掘兔",
+    "fr": "Sapereau",
+    "de": "Scoppel",
+    "es": "Bunnelby",
+    "it": "Bunnelby",
+    "en": "Bunnelby",
+    "ja": "ホルビー"
+  },
+  "660": {
+    "ko": "파르토",
+    "zh": "掘地兔",
+    "fr": "Excavarenne",
+    "de": "Grebbit",
+    "es": "Diggersby",
+    "it": "Diggersby",
+    "en": "Diggersby",
+    "ja": "ホルード"
+  },
+  "661": {
+    "ko": "화살꼬빈",
+    "zh": "小箭雀",
+    "fr": "Passerouge",
+    "de": "Dartiri",
+    "es": "Fletchling",
+    "it": "Fletchling",
+    "en": "Fletchling",
+    "ja": "ヤヤコマ"
+  },
+  "662": {
+    "ko": "불화살빈",
+    "zh": "火箭雀",
+    "fr": "Braisillon",
+    "de": "Dartignis",
+    "es": "Fletchinder",
+    "it": "Fletchinder",
+    "en": "Fletchinder",
+    "ja": "ヒノヤコマ"
+  },
+  "663": {
+    "ko": "파이어로",
+    "zh": "烈箭鷹",
+    "fr": "Flambusard",
+    "de": "Fiaro",
+    "es": "Talonflame",
+    "it": "Talonflame",
+    "en": "Talonflame",
+    "ja": "ファイアロー"
+  },
+  "664": {
+    "ko": "분이벌레",
+    "zh": "粉蝶蟲",
+    "fr": "Lépidonille",
+    "de": "Purmel",
+    "es": "Scatterbug",
+    "it": "Scatterbug",
+    "en": "Scatterbug",
+    "ja": "コフキムシ"
+  },
+  "665": {
+    "ko": "분떠도리",
+    "zh": "粉蝶蛹",
+    "fr": "Pérégrain",
+    "de": "Puponcho",
+    "es": "Spewpa",
+    "it": "Spewpa",
+    "en": "Spewpa",
+    "ja": "コフーライ"
+  },
+  "666": {
+    "ko": "비비용",
+    "zh": "彩粉蝶",
+    "fr": "Prismillon",
+    "de": "Vivillon",
+    "es": "Vivillon",
+    "it": "Vivillon",
+    "en": "Vivillon",
+    "ja": "ビビヨン"
+  },
+  "667": {
+    "ko": "레오꼬",
+    "zh": "小獅獅",
+    "fr": "Hélionceau",
+    "de": "Leufeo",
+    "es": "Litleo",
+    "it": "Litleo",
+    "en": "Litleo",
+    "ja": "シシコ"
+  },
+  "668": {
+    "ko": "화염레오",
+    "zh": "火炎獅",
+    "fr": "Némélios",
+    "de": "Pyroleo",
+    "es": "Pyroar",
+    "it": "Pyroar",
+    "en": "Pyroar",
+    "ja": "カエンジシ"
+  },
+  "669": {
+    "ko": "플라베베",
+    "zh": "花蓓蓓",
+    "fr": "Flabébé",
+    "de": "Flabébé",
+    "es": "Flabébé",
+    "it": "Flabébé",
+    "en": "Flabébé",
+    "ja": "フラベベ"
+  },
+  "670": {
+    "ko": "플라엣테",
+    "zh": "花葉蒂",
+    "fr": "Floette",
+    "de": "Floette",
+    "es": "Floette",
+    "it": "Floette",
+    "en": "Floette",
+    "ja": "フラエッテ"
+  },
+  "671": {
+    "ko": "플라제스",
+    "zh": "花潔夫人",
+    "fr": "Florges",
+    "de": "Florges",
+    "es": "Florges",
+    "it": "Florges",
+    "en": "Florges",
+    "ja": "フラージェス"
+  },
+  "672": {
+    "ko": "메이클",
+    "zh": "坐騎小羊",
+    "fr": "Cabriolaine",
+    "de": "Mähikel",
+    "es": "Skiddo",
+    "it": "Skiddo",
+    "en": "Skiddo",
+    "ja": "メェークル"
+  },
+  "673": {
+    "ko": "고고트",
+    "zh": "坐騎山羊",
+    "fr": "Chevroum",
+    "de": "Chevrumm",
+    "es": "Gogoat",
+    "it": "Gogoat",
+    "en": "Gogoat",
+    "ja": "ゴーゴート"
+  },
+  "674": {
+    "ko": "판짱",
+    "zh": "頑皮熊貓",
+    "fr": "Pandespiègle",
+    "de": "Pam-Pam",
+    "es": "Pancham",
+    "it": "Pancham",
+    "en": "Pancham",
+    "ja": "ヤンチャム"
+  },
+  "675": {
+    "ko": "부란다",
+    "zh": "流氓熊貓",
+    "fr": "Pandarbare",
+    "de": "Pandagro",
+    "es": "Pangoro",
+    "it": "Pangoro",
+    "en": "Pangoro",
+    "ja": "ゴロンダ"
+  },
+  "676": {
+    "ko": "트리미앙",
+    "zh": "多麗米亞",
+    "fr": "Couafarel",
+    "de": "Coiffwaff",
+    "es": "Furfrou",
+    "it": "Furfrou",
+    "en": "Furfrou",
+    "ja": "トリミアン"
+  },
+  "677": {
+    "ko": "냐스퍼",
+    "zh": "妙喵",
+    "fr": "Psystigri",
+    "de": "Psiau",
+    "es": "Espurr",
+    "it": "Espurr",
+    "en": "Espurr",
+    "ja": "ニャスパー"
+  },
+  "678": {
+    "ko": "냐오닉스",
+    "zh": "超能妙喵",
+    "fr": "Mistigrix",
+    "de": "Psiaugon",
+    "es": "Meowstic",
+    "it": "Meowstic",
+    "en": "Meowstic",
+    "ja": "ニャオニクス"
+  },
+  "679": {
+    "ko": "단칼빙",
+    "zh": "獨劍鞘",
+    "fr": "Monorpale",
+    "de": "Gramokles",
+    "es": "Honedge",
+    "it": "Honedge",
+    "en": "Honedge",
+    "ja": "ヒトツキ"
+  },
+  "680": {
+    "es": "Doublade",
+    "ko": "쌍검킬",
+    "zh": "雙劍鞘",
+    "fr": "Dimoclès",
+    "de": "Duokles",
+    "it": "Doublade",
+    "en": "Doublade",
+    "ja": "ニダンギル"
+  },
+  "681": {
+    "ko": "킬가르도",
+    "zh": "堅盾劍怪",
+    "fr": "Exagide",
+    "de": "Durengard",
+    "es": "Aegislash",
+    "it": "Aegislash",
+    "en": "Aegislash",
+    "ja": "ギルガルド"
+  },
+  "682": {
+    "ko": "슈쁘",
+    "zh": "粉香香",
+    "fr": "Fluvetin",
+    "de": "Parfi",
+    "es": "Spritzee",
+    "it": "Spritzee",
+    "en": "Spritzee",
+    "ja": "シュシュプ"
+  },
+  "683": {
+    "ko": "프레프티르",
+    "zh": "芳香精",
+    "fr": "Cocotine",
+    "de": "Parfinesse",
+    "es": "Aromatisse",
+    "it": "Aromatisse",
+    "en": "Aromatisse",
+    "ja": "フレフワン"
+  },
+  "684": {
+    "ko": "나룸퍼프",
+    "zh": "綿綿泡芙",
+    "fr": "Sucroquin",
+    "de": "Flauschling",
+    "es": "Swirlix",
+    "it": "Swirlix",
+    "en": "Swirlix",
+    "ja": "ペロッパフ"
+  },
+  "685": {
+    "ko": "나루림",
+    "zh": "胖甜妮",
+    "fr": "Cupcanaille",
+    "de": "Sabbaione",
+    "es": "Slurpuff",
+    "it": "Slurpuff",
+    "en": "Slurpuff",
+    "ja": "ペロリーム"
+  },
+  "686": {
+    "ko": "오케이징",
+    "zh": "好啦魷",
+    "fr": "Sepiatop",
+    "de": "Iscalar",
+    "es": "Inkay",
+    "it": "Inkay",
+    "en": "Inkay",
+    "ja": "マーイーカ"
+  },
+  "687": {
+    "ko": "칼라마네로",
+    "zh": "烏賊王",
+    "fr": "Sepiatroce",
+    "de": "Calamanero",
+    "es": "Malamar",
+    "it": "Malamar",
+    "en": "Malamar",
+    "ja": "カラマネロ"
+  },
+  "688": {
+    "ko": "거북손손",
+    "zh": "龜腳腳",
+    "fr": "Opermine",
+    "de": "Bithora",
+    "es": "Binacle",
+    "it": "Binacle",
+    "en": "Binacle",
+    "ja": "カメテテ"
+  },
+  "689": {
+    "ko": "거북손데스",
+    "zh": "龜足巨鎧",
+    "fr": "Golgopathe",
+    "de": "Thanathora",
+    "es": "Barbaracle",
+    "it": "Barbaracle",
+    "en": "Barbaracle",
+    "ja": "ガメノデス"
+  },
+  "690": {
+    "ko": "수레기",
+    "zh": "垃垃藻",
+    "fr": "Venalgue",
+    "de": "Algitt",
+    "es": "Skrelp",
+    "it": "Skrelp",
+    "en": "Skrelp",
+    "ja": "クズモー"
+  },
+  "691": {
+    "ko": "드래캄",
+    "zh": "毒藻龍",
+    "fr": "Kravarech",
+    "de": "Tandrak",
+    "es": "Dragalge",
+    "it": "Dragalge",
+    "en": "Dragalge",
+    "ja": "ドラミドロ"
+  },
+  "692": {
+    "ko": "완철포",
+    "zh": "鐵臂槍蝦",
+    "fr": "Flingouste",
+    "de": "Scampisto",
+    "es": "Clauncher",
+    "it": "Clauncher",
+    "en": "Clauncher",
+    "ja": "ウデッポウ"
+  },
+  "693": {
+    "ko": "블로스터",
+    "zh": "鋼炮臂蝦",
+    "fr": "Gamblast",
+    "de": "Wummer",
+    "es": "Clawitzer",
+    "it": "Clawitzer",
+    "en": "Clawitzer",
+    "ja": "ブロスター"
+  },
+  "694": {
+    "ko": "목도리키텔",
+    "zh": "傘電蜥",
+    "fr": "Galvaran",
+    "de": "Eguana",
+    "es": "Helioptile",
+    "it": "Helioptile",
+    "en": "Helioptile",
+    "ja": "エリキテル"
+  },
+  "695": {
+    "ko": "일레도리자드",
+    "zh": "光電傘蜥",
+    "fr": "Iguolta",
+    "de": "Elezard",
+    "es": "Heliolisk",
+    "it": "Heliolisk",
+    "en": "Heliolisk",
+    "ja": "エレザード"
+  },
+  "696": {
+    "ko": "티고라스",
+    "zh": "寶寶暴龍",
+    "fr": "Ptyranidur",
+    "de": "Balgoras",
+    "es": "Tyrunt",
+    "it": "Tyrunt",
+    "en": "Tyrunt",
+    "ja": "チゴラス"
+  },
+  "697": {
+    "ko": "견고라스",
+    "zh": "怪顎龍",
+    "fr": "Rexillius",
+    "de": "Monargoras",
+    "es": "Tyrantrum",
+    "it": "Tyrantrum",
+    "en": "Tyrantrum",
+    "ja": "ガチゴラス"
+  },
+  "698": {
+    "ko": "아마루스",
+    "zh": "冰雪龍",
+    "fr": "Amagara",
+    "de": "Amarino",
+    "es": "Amaura",
+    "it": "Amaura",
+    "en": "Amaura",
+    "ja": "アマルス"
+  },
+  "699": {
+    "ko": "아마루르가",
+    "zh": "冰雪巨龍",
+    "fr": "Dragmara",
+    "de": "Amagarga",
+    "es": "Aurorus",
+    "it": "Aurorus",
+    "en": "Aurorus",
+    "ja": "アマルルガ"
+  },
+  "700": {
+    "ko": "님피아",
+    "zh": "仙子伊布",
+    "fr": "Nymphali",
+    "de": "Feelinara",
+    "es": "Sylveon",
+    "it": "Sylveon",
+    "en": "Sylveon",
+    "ja": "ニンフィア"
+  },
+  "701": {
+    "ko": "루차불",
+    "zh": "摔角鷹人",
+    "fr": "Brutalibré",
+    "de": "Resladero",
+    "es": "Hawlucha",
+    "it": "Hawlucha",
+    "en": "Hawlucha",
+    "ja": "ルチャブル"
+  },
+  "702": {
+    "ko": "데덴네",
+    "zh": "咚咚鼠",
+    "fr": "Dedenne",
+    "de": "Dedenne",
+    "es": "Dedenne",
+    "it": "Dedenne",
+    "en": "Dedenne",
+    "ja": "デデンネ"
+  },
+  "703": {
+    "ko": "멜리시",
+    "zh": "小碎鑽",
+    "fr": "Strassie",
+    "de": "Rocara",
+    "es": "Carbink",
+    "it": "Carbink",
+    "en": "Carbink",
+    "ja": "メレシー"
+  },
+  "704": {
+    "ko": "미끄메라",
+    "zh": "黏黏寶",
+    "fr": "Mucuscule",
+    "de": "Viscora",
+    "es": "Goomy",
+    "it": "Goomy",
+    "en": "Goomy",
+    "ja": "ヌメラ"
+  },
+  "705": {
+    "ko": "미끄네일",
+    "zh": "黏美兒",
+    "fr": "Colimucus",
+    "de": "Viscargot",
+    "es": "Sliggoo",
+    "it": "Sliggoo",
+    "en": "Sliggoo",
+    "ja": "ヌメイル"
+  },
+  "706": {
+    "ko": "미끄래곤",
+    "zh": "黏美龍",
+    "fr": "Muplodocus",
+    "de": "Viscogon",
+    "es": "Goodra",
+    "it": "Goodra",
+    "en": "Goodra",
+    "ja": "ヌメルゴン"
+  },
+  "707": {
+    "ko": "클레피",
+    "zh": "鑰圈兒",
+    "fr": "Trousselin",
+    "de": "Clavion",
+    "es": "Klefki",
+    "it": "Klefki",
+    "en": "Klefki",
+    "ja": "クレッフィ"
+  },
+  "708": {
+    "ko": "나목령",
+    "zh": "小木靈",
+    "fr": "Brocélôme",
+    "de": "Paragoni",
+    "es": "Phantump",
+    "it": "Phantump",
+    "en": "Phantump",
+    "ja": "ボクレー"
+  },
+  "709": {
+    "ko": "대로트",
+    "zh": "朽木妖",
+    "fr": "Desséliande",
+    "de": "Trombork",
+    "es": "Trevenant",
+    "it": "Trevenant",
+    "en": "Trevenant",
+    "ja": "オーロット"
+  },
+  "710": {
+    "ko": "호바귀",
+    "zh": "南瓜精",
+    "fr": "Pitrouille",
+    "de": "Irrbis",
+    "es": "Pumpkaboo",
+    "it": "Pumpkaboo",
+    "en": "Pumpkaboo",
+    "ja": "バケッチャ"
+  },
+  "711": {
+    "ko": "펌킨인",
+    "zh": "南瓜怪人",
+    "fr": "Banshitrouye",
+    "de": "Pumpdjinn",
+    "es": "Gourgeist",
+    "it": "Gourgeist",
+    "en": "Gourgeist",
+    "ja": "パンプジン"
+  },
+  "712": {
+    "ko": "꽁어름",
+    "zh": "冰寶",
+    "fr": "Grelaçon",
+    "de": "Arktip",
+    "es": "Bergmite",
+    "it": "Bergmite",
+    "en": "Bergmite",
+    "ja": "カチコール"
+  },
+  "713": {
+    "ko": "크레베이스",
+    "zh": "冰岩怪",
+    "fr": "Séracrawl",
+    "de": "Arktilas",
+    "es": "Avalugg",
+    "it": "Avalugg",
+    "en": "Avalugg",
+    "ja": "クレベース"
+  },
+  "714": {
+    "ko": "음뱃",
+    "zh": "嗡蝠",
+    "fr": "Sonistrelle",
+    "de": "eF-eM",
+    "es": "Noibat",
+    "it": "Noibat",
+    "en": "Noibat",
+    "ja": "オンバット"
+  },
+  "715": {
+    "ko": "음번",
+    "zh": "音波龍",
+    "fr": "Bruyverne",
+    "de": "UHaFnir",
+    "es": "Noivern",
+    "it": "Noivern",
+    "en": "Noivern",
+    "ja": "オンバーン"
+  },
+  "716": {
+    "ko": "제르네아스",
+    "zh": "哲爾尼亞斯",
+    "fr": "Xerneas",
+    "de": "Xerneas",
+    "es": "Xerneas",
+    "it": "Xerneas",
+    "en": "Xerneas",
+    "ja": "ゼルネアス"
+  },
+  "717": {
+    "ko": "이벨타르",
+    "zh": "伊裴爾塔爾",
+    "fr": "Yveltal",
+    "de": "Yveltal",
+    "es": "Yveltal",
+    "it": "Yveltal",
+    "en": "Yveltal",
+    "ja": "イベルタル"
+  },
+  "718": {
+    "ko": "지가르데",
+    "zh": "基格爾德",
+    "fr": "Zygarde",
+    "de": "Zygarde",
+    "es": "Zygarde",
+    "it": "Zygarde",
+    "en": "Zygarde",
+    "ja": "ジガルデ"
+  },
+  "719": {
+    "ko": "디안시",
+    "zh": "蒂安希",
+    "fr": "Diancie",
+    "de": "Diancie",
+    "es": "Diancie",
+    "it": "Diancie",
+    "en": "Diancie",
+    "ja": "ディアンシー"
+  },
+  "720": {
+    "ko": "후파",
+    "zh": "胡帕",
+    "fr": "Hoopa",
+    "de": "Hoopa",
+    "es": "Hoopa",
+    "it": "Hoopa",
+    "en": "Hoopa",
+    "ja": "フーパ"
+  },
+  "721": {
+    "ko": "볼케니온",
+    "zh": "波爾凱尼恩",
+    "fr": "Volcanion",
+    "de": "Volcanion",
+    "es": "Volcanion",
+    "it": "Volcanion",
+    "en": "Volcanion",
+    "ja": "ボルケニオン"
+  },
+  "722": {
+    "ko": "나몰빼미",
+    "zh": "木木梟",
+    "fr": "Brindibou",
+    "de": "Bauz",
+    "es": "Rowlet",
+    "it": "Rowlet",
+    "en": "Rowlet",
+    "ja": "モクロー"
+  },
+  "723": {
+    "ko": "빼미스로우",
+    "zh": "投羽梟",
+    "fr": "Efflèche",
+    "de": "Arboretoss",
+    "es": "Dartrix",
+    "it": "Dartrix",
+    "en": "Dartrix",
+    "ja": "フクスロー"
+  },
+  "724": {
+    "ko": "모크나이퍼",
+    "zh": "狙射樹梟",
+    "fr": "Archéduc",
+    "de": "Silvarro",
+    "es": "Decidueye",
+    "it": "Decidueye",
+    "en": "Decidueye",
+    "ja": "ジュナイパー"
+  },
+  "725": {
+    "ko": "냐오불",
+    "zh": "火斑喵",
+    "fr": "Flamiaou",
+    "de": "Flamiau",
+    "es": "Litten",
+    "it": "Litten",
+    "en": "Litten",
+    "ja": "ニャビー"
+  },
+  "726": {
+    "ko": "냐오히트",
+    "zh": "炎熱喵",
+    "fr": "Matoufeu",
+    "de": "Miezunder",
+    "es": "Torracat",
+    "it": "Torracat",
+    "en": "Torracat",
+    "ja": "ニャヒート"
+  },
+  "727": {
+    "ko": "어흥염",
+    "zh": "熾焰咆哮虎",
+    "fr": "Félinferno",
+    "de": "Fuegro",
+    "es": "Incineroar",
+    "it": "Incineroar",
+    "en": "Incineroar",
+    "ja": "ガオガエン"
+  },
+  "728": {
+    "ko": "누리공",
+    "zh": "球球海獅",
+    "fr": "Otaquin",
+    "de": "Robball",
+    "es": "Popplio",
+    "it": "Popplio",
+    "en": "Popplio",
+    "ja": "アシマリ"
+  },
+  "729": {
+    "ko": "키요공",
+    "zh": "花漾海獅",
+    "fr": "Otarlette",
+    "de": "Marikeck",
+    "es": "Brionne",
+    "it": "Brionne",
+    "en": "Brionne",
+    "ja": "オシャマリ"
+  },
+  "730": {
+    "ko": "누리레느",
+    "zh": "西獅海壬",
+    "fr": "Oratoria",
+    "de": "Primarene",
+    "es": "Primarina",
+    "it": "Primarina",
+    "en": "Primarina",
+    "ja": "アシレーヌ"
+  },
+  "731": {
+    "ko": "콕코구리",
+    "zh": "小篤兒",
+    "fr": "Picassaut",
+    "de": "Peppeck",
+    "es": "Pikipek",
+    "it": "Pikipek",
+    "en": "Pikipek",
+    "ja": "ツツケラ"
+  },
+  "732": {
+    "ko": "크라파",
+    "zh": "喇叭啄鳥",
+    "fr": "Piclairon",
+    "de": "Trompeck",
+    "es": "Trumbeak",
+    "it": "Trumbeak",
+    "en": "Trumbeak",
+    "ja": "ケララッパ"
+  },
+  "733": {
+    "ko": "왕큰부리",
+    "zh": "銃嘴大鳥",
+    "fr": "Bazoucan",
+    "de": "Tukanon",
+    "es": "Toucannon",
+    "it": "Toucannon",
+    "en": "Toucannon",
+    "ja": "ドデカバシ"
+  },
+  "734": {
+    "ko": "영구스",
+    "zh": "貓鼬少",
+    "fr": "Manglouton",
+    "de": "Mangunior",
+    "es": "Yungoos",
+    "it": "Yungoos",
+    "en": "Yungoos",
+    "ja": "ヤングース"
+  },
+  "735": {
+    "ko": "형사구스",
+    "zh": "貓鼬探長",
+    "fr": "Argouste",
+    "de": "Manguspektor",
+    "es": "Gumshoos",
+    "it": "Gumshoos",
+    "en": "Gumshoos",
+    "ja": "デカグース"
+  },
+  "736": {
+    "ko": "턱지충이",
+    "zh": "強顎雞母蟲",
+    "fr": "Larvibule",
+    "de": "Mabula",
+    "es": "Grubbin",
+    "it": "Grubbin",
+    "en": "Grubbin",
+    "ja": "アゴジムシ"
+  },
+  "737": {
+    "ko": "전지충이",
+    "zh": "蟲電寶",
+    "fr": "Chrysapile",
+    "de": "Akkup",
+    "es": "Charjabug",
+    "it": "Charjabug",
+    "en": "Charjabug",
+    "ja": "デンヂムシ"
+  },
+  "738": {
+    "ko": "투구뿌논",
+    "zh": "鍬農炮蟲",
+    "fr": "Lucanon",
+    "de": "Donarion",
+    "es": "Vikavolt",
+    "it": "Vikavolt",
+    "en": "Vikavolt",
+    "ja": "クワガノン"
+  },
+  "739": {
+    "ko": "오기지게",
+    "zh": "好勝蟹",
+    "fr": "Crabagarre",
+    "de": "Krabbox",
+    "es": "Crabrawler",
+    "it": "Crabrawler",
+    "en": "Crabrawler",
+    "ja": "マケンカニ"
+  },
+  "740": {
+    "ko": "모단단게",
+    "zh": "好勝毛蟹",
+    "fr": "Crabominable",
+    "de": "Krawell",
+    "es": "Crabominable",
+    "it": "Crabominable",
+    "en": "Crabominable",
+    "ja": "ケケンカニ"
+  },
+  "741": {
+    "ko": "춤추새",
+    "zh": "花舞鳥",
+    "fr": "Plumeline",
+    "de": "Choreogel",
+    "es": "Oricorio",
+    "it": "Oricorio",
+    "en": "Oricorio",
+    "ja": "オドリドリ"
+  },
+  "742": {
+    "ko": "에블리",
+    "zh": "萌虻",
+    "fr": "Bombydou",
+    "de": "Wommel",
+    "es": "Cutiefly",
+    "it": "Cutiefly",
+    "en": "Cutiefly",
+    "ja": "アブリー"
+  },
+  "743": {
+    "ko": "에리본",
+    "zh": "蝶結萌虻",
+    "fr": "Rubombelle",
+    "de": "Bandelby",
+    "es": "Ribombee",
+    "it": "Ribombee",
+    "en": "Ribombee",
+    "ja": "アブリボン"
+  },
+  "744": {
+    "ko": "암멍이",
+    "zh": "岩狗狗",
+    "fr": "Rocabot",
+    "de": "Wuffels",
+    "es": "Rockruff",
+    "it": "Rockruff",
+    "en": "Rockruff",
+    "ja": "イワンコ"
+  },
+  "745": {
+    "ko": "루가루암",
+    "zh": "鬃岩狼人",
+    "fr": "Lougaroc",
+    "de": "Wolwerock",
+    "es": "Lycanroc",
+    "it": "Lycanroc",
+    "en": "Lycanroc",
+    "ja": "ルガルガン"
+  },
+  "746": {
+    "ko": "약어리",
+    "zh": "弱丁魚",
+    "fr": "Froussardine",
+    "de": "Lusardin",
+    "es": "Wishiwashi",
+    "it": "Wishiwashi",
+    "en": "Wishiwashi",
+    "ja": "ヨワシ"
+  },
+  "747": {
+    "ko": "시마사리",
+    "zh": "好壞星",
+    "fr": "Vorastérie",
+    "de": "Garstella",
+    "es": "Mareanie",
+    "it": "Mareanie",
+    "en": "Mareanie",
+    "ja": "ヒドイデ"
+  },
+  "748": {
+    "ko": "더시마사리",
+    "zh": "超壞星",
+    "fr": "Prédastérie",
+    "de": "Aggrostella",
+    "es": "Toxapex",
+    "it": "Toxapex",
+    "en": "Toxapex",
+    "ja": "ドヒドイデ"
+  },
+  "749": {
+    "ko": "머드나기",
+    "zh": "泥驢仔",
+    "fr": "Tiboudet",
+    "de": "Pampuli",
+    "es": "Mudbray",
+    "it": "Mudbray",
+    "en": "Mudbray",
+    "ja": "ドロバンコ"
+  },
+  "750": {
+    "ko": "만마드",
+    "zh": "重泥挽馬",
+    "fr": "Bourrinos",
+    "de": "Pampross",
+    "es": "Mudsdale",
+    "it": "Mudsdale",
+    "en": "Mudsdale",
+    "ja": "バンバドロ"
+  },
+  "751": {
+    "ko": "물거미",
+    "zh": "滴蛛",
+    "fr": "Araqua",
+    "de": "Araqua",
+    "es": "Dewpider",
+    "it": "Dewpider",
+    "en": "Dewpider",
+    "ja": "シズクモ"
+  },
+  "752": {
+    "ko": "깨비물거미",
+    "zh": "滴蛛霸",
+    "fr": "Tarenbulle",
+    "de": "Aranestro",
+    "es": "Araquanid",
+    "it": "Araquanid",
+    "en": "Araquanid",
+    "ja": "オニシズクモ"
+  },
+  "753": {
+    "ko": "짜랑랑",
+    "zh": "偽螳草",
+    "fr": "Mimantis",
+    "de": "Imantis",
+    "es": "Fomantis",
+    "it": "Fomantis",
+    "en": "Fomantis",
+    "ja": "カリキリ"
+  },
+  "754": {
+    "ko": "라란티스",
+    "zh": "蘭螳花",
+    "fr": "Floramantis",
+    "de": "Mantidea",
+    "es": "Lurantis",
+    "it": "Lurantis",
+    "en": "Lurantis",
+    "ja": "ラランテス"
+  },
+  "755": {
+    "ko": "자마슈",
+    "zh": "睡睡菇",
+    "fr": "Spododo",
+    "de": "Bubungus",
+    "es": "Morelull",
+    "it": "Morelull",
+    "en": "Morelull",
+    "ja": "ネマシュ"
+  },
+  "756": {
+    "ko": "마셰이드",
+    "zh": "燈罩夜菇",
+    "fr": "Lampignon",
+    "de": "Lamellux",
+    "es": "Shiinotic",
+    "it": "Shiinotic",
+    "en": "Shiinotic",
+    "ja": "マシェード"
+  },
+  "757": {
+    "ko": "야도뇽",
+    "zh": "夜盜火蜥",
+    "fr": "Tritox",
+    "de": "Molunk",
+    "es": "Salandit",
+    "it": "Salandit",
+    "en": "Salandit",
+    "ja": "ヤトウモリ"
+  },
+  "758": {
+    "ko": "염뉴트",
+    "zh": "焰后蜥",
+    "fr": "Malamandre",
+    "de": "Amfira",
+    "es": "Salazzle",
+    "it": "Salazzle",
+    "en": "Salazzle",
+    "ja": "エンニュート"
+  },
+  "759": {
+    "ko": "포곰곰",
+    "zh": "童偶熊",
+    "fr": "Nounourson",
+    "de": "Velursi",
+    "es": "Stufful",
+    "it": "Stufful",
+    "en": "Stufful",
+    "ja": "ヌイコグマ"
+  },
+  "760": {
+    "ko": "이븐곰",
+    "zh": "穿著熊",
+    "fr": "Chelours",
+    "de": "Kosturso",
+    "es": "Bewear",
+    "it": "Bewear",
+    "en": "Bewear",
+    "ja": "キテルグマ"
+  },
+  "761": {
+    "ko": "달콤아",
+    "zh": "甜竹竹",
+    "fr": "Croquine",
+    "de": "Frubberl",
+    "es": "Bounsweet",
+    "it": "Bounsweet",
+    "en": "Bounsweet",
+    "ja": "アマカジ"
+  },
+  "762": {
+    "ko": "달무리나",
+    "zh": "甜舞妮",
+    "fr": "Candine",
+    "de": "Frubaila",
+    "es": "Steenee",
+    "it": "Steenee",
+    "en": "Steenee",
+    "ja": "アママイコ"
+  },
+  "763": {
+    "ko": "달코퀸",
+    "zh": "甜冷美后",
+    "fr": "Sucreine",
+    "de": "Fruyal",
+    "es": "Tsareena",
+    "it": "Tsareena",
+    "en": "Tsareena",
+    "ja": "アマージョ"
+  },
+  "764": {
+    "ko": "큐아링",
+    "zh": "花療環環",
+    "fr": "Guérilande",
+    "de": "Curelei",
+    "es": "Comfey",
+    "it": "Comfey",
+    "en": "Comfey",
+    "ja": "キュワワー"
+  },
+  "765": {
+    "ko": "하랑우탄",
+    "zh": "智揮猩",
+    "fr": "Gouroutan",
+    "de": "Kommandutan",
+    "es": "Oranguru",
+    "it": "Oranguru",
+    "en": "Oranguru",
+    "ja": "ヤレユータン"
+  },
+  "766": {
+    "ko": "내던숭이",
+    "zh": "投擲猴",
+    "fr": "Quartermac",
+    "de": "Quartermak",
+    "es": "Passimian",
+    "it": "Passimian",
+    "en": "Passimian",
+    "ja": "ナゲツケサル"
+  },
+  "767": {
+    "ko": "꼬시레",
+    "zh": "膽小蟲",
+    "fr": "Sovkipou",
+    "de": "Reißlaus",
+    "es": "Wimpod",
+    "it": "Wimpod",
+    "en": "Wimpod",
+    "ja": "コソクムシ"
+  },
+  "768": {
+    "ko": "갑주무사",
+    "zh": "具甲武者",
+    "fr": "Sarmuraï",
+    "de": "Tectass",
+    "es": "Golisopod",
+    "it": "Golisopod",
+    "en": "Golisopod",
+    "ja": "グソクムシャ"
+  },
+  "769": {
+    "ko": "모래꿍",
+    "zh": "沙丘娃",
+    "fr": "Bacabouh",
+    "de": "Sankabuh",
+    "es": "Sandygast",
+    "it": "Sandygast",
+    "en": "Sandygast",
+    "ja": "スナバァ"
+  },
+  "770": {
+    "ko": "모래성이당",
+    "zh": "噬沙堡爺",
+    "fr": "Trépassable",
+    "de": "Colossand",
+    "es": "Palossand",
+    "it": "Palossand",
+    "en": "Palossand",
+    "ja": "シロデスナ"
+  },
+  "771": {
+    "ko": "해무기",
+    "zh": "拳海參",
+    "fr": "Concombaffe",
+    "de": "Gufa",
+    "es": "Pyukumuku",
+    "it": "Pyukumuku",
+    "en": "Pyukumuku",
+    "ja": "ナマコブシ"
+  },
+  "772": {
+    "ko": "타입:널",
+    "zh": "屬性：空",
+    "fr": "Type:0",
+    "de": "Typ:Null",
+    "es": "Código Cero",
+    "it": "Tipo Zero",
+    "en": "Type: Null",
+    "ja": "タイプ：ヌル"
+  },
+  "773": {
+    "ko": "실버디",
+    "zh": "銀伴戰獸",
+    "fr": "Silvallié",
+    "de": "Amigento",
+    "es": "Silvally",
+    "it": "Silvally",
+    "en": "Silvally",
+    "ja": "シルヴァディ"
+  },
+  "774": {
+    "ko": "메테노",
+    "zh": "小隕星",
+    "fr": "Météno",
+    "de": "Meteno",
+    "es": "Minior",
+    "it": "Minior",
+    "en": "Minior",
+    "ja": "メテノ"
+  },
+  "775": {
+    "ko": "자말라",
+    "zh": "樹枕尾熊",
+    "fr": "Dodoala",
+    "de": "Koalelu",
+    "es": "Komala",
+    "it": "Komala",
+    "en": "Komala",
+    "ja": "ネッコアラ"
+  },
+  "776": {
+    "ko": "폭거북스",
+    "zh": "爆焰龜獸",
+    "fr": "Boumata",
+    "de": "Tortunator",
+    "es": "Turtonator",
+    "it": "Turtonator",
+    "en": "Turtonator",
+    "ja": "バクガメス"
+  },
+  "777": {
+    "ko": "토게데마루",
+    "zh": "托戈德瑪爾",
+    "fr": "Togedemaru",
+    "de": "Togedemaru",
+    "es": "Togedemaru",
+    "it": "Togedemaru",
+    "en": "Togedemaru",
+    "ja": "トゲデマル"
+  },
+  "778": {
+    "ko": "따라큐",
+    "zh": "謎擬Ｑ",
+    "fr": "Mimiqui",
+    "de": "Mimigma",
+    "es": "Mimikyu",
+    "it": "Mimikyu",
+    "en": "Mimikyu",
+    "ja": "ミミッキュ"
+  },
+  "779": {
+    "ko": "치갈기",
+    "zh": "磨牙彩皮魚",
+    "fr": "Denticrisse",
+    "de": "Knirfish",
+    "es": "Bruxish",
+    "it": "Bruxish",
+    "en": "Bruxish",
+    "ja": "ハギギシリ"
+  },
+  "780": {
+    "ko": "할비롱",
+    "zh": "老翁龍",
+    "fr": "Draïeul",
+    "de": "Sen-Long",
+    "es": "Drampa",
+    "it": "Drampa",
+    "en": "Drampa",
+    "ja": "ジジーロン"
+  },
+  "781": {
+    "ko": "타타륜",
+    "zh": "破破舵輪",
+    "fr": "Sinistrail",
+    "de": "Moruda",
+    "es": "Dhelmise",
+    "it": "Dhelmise",
+    "en": "Dhelmise",
+    "ja": "ダダリン"
+  },
+  "782": {
+    "ko": "짜랑꼬",
+    "zh": "心鱗寶",
+    "fr": "Bébécaille",
+    "de": "Miniras",
+    "es": "Jangmo-o",
+    "it": "Jangmo-o",
+    "en": "Jangmo-o",
+    "ja": "ジャラコ"
+  },
+  "783": {
+    "ko": "짜랑고우",
+    "zh": "鱗甲龍",
+    "fr": "Écaïd",
+    "de": "Mediras",
+    "es": "Hakamo-o",
+    "it": "Hakamo-o",
+    "en": "Hakamo-o",
+    "ja": "ジャランゴ"
+  },
+  "784": {
+    "ko": "짜랑고우거",
+    "zh": "杖尾鱗甲龍",
+    "fr": "Ékaïser",
+    "de": "Grandiras",
+    "es": "Kommo-o",
+    "it": "Kommo-o",
+    "en": "Kommo-o",
+    "ja": "ジャラランガ"
+  },
+  "785": {
+    "ko": "카푸꼬꼬꼭",
+    "zh": "卡璞・鳴鳴",
+    "fr": "Tokorico",
+    "de": "Kapu-Riki",
+    "es": "Tapu Koko",
+    "it": "Tapu Koko",
+    "en": "Tapu Koko",
+    "ja": "カプ・コケコ"
+  },
+  "786": {
+    "ko": "카푸나비나",
+    "zh": "卡璞・蝶蝶",
+    "fr": "Tokopiyon",
+    "de": "Kapu-Fala",
+    "es": "Tapu Lele",
+    "it": "Tapu Lele",
+    "en": "Tapu Lele",
+    "ja": "カプ・テテフ"
+  },
+  "787": {
+    "ko": "카푸브루루",
+    "zh": "卡璞・哞哞",
+    "fr": "Tokotoro",
+    "de": "Kapu-Toro",
+    "es": "Tapu Bulu",
+    "it": "Tapu Bulu",
+    "en": "Tapu Bulu",
+    "ja": "カプ・ブルル"
+  },
+  "788": {
+    "ko": "카푸느지느",
+    "zh": "卡璞・鰭鰭",
+    "fr": "Tokopisco",
+    "de": "Kapu-Kime",
+    "es": "Tapu Fini",
+    "it": "Tapu Fini",
+    "en": "Tapu Fini",
+    "ja": "カプ・レヒレ"
+  },
+  "789": {
+    "ko": "코스모그",
+    "zh": "科斯莫古",
+    "fr": "Cosmog",
+    "de": "Cosmog",
+    "es": "Cosmog",
+    "it": "Cosmog",
+    "en": "Cosmog",
+    "ja": "コスモッグ"
+  },
+  "790": {
+    "ko": "코스모움",
+    "zh": "科斯莫姆",
+    "fr": "Cosmovum",
+    "de": "Cosmovum",
+    "es": "Cosmoem",
+    "it": "Cosmoem",
+    "en": "Cosmoem",
+    "ja": "コスモウム"
+  },
+  "791": {
+    "ko": "솔가레오",
+    "zh": "索爾迦雷歐",
+    "fr": "Solgaleo",
+    "de": "Solgaleo",
+    "es": "Solgaleo",
+    "it": "Solgaleo",
+    "en": "Solgaleo",
+    "ja": "ソルガレオ"
+  },
+  "792": {
+    "ko": "루나아라",
+    "zh": "露奈雅拉",
+    "fr": "Lunala",
+    "de": "Lunala",
+    "es": "Lunala",
+    "it": "Lunala",
+    "en": "Lunala",
+    "ja": "ルナアーラ"
+  },
+  "793": {
+    "ko": "텅비드",
+    "zh": "虛吾伊德",
+    "fr": "Zéroïd",
+    "de": "Anego",
+    "es": "Nihilego",
+    "it": "Nihilego",
+    "en": "Nihilego",
+    "ja": "ウツロイド"
+  },
+  "794": {
+    "ko": "매시붕",
+    "zh": "爆肌蚊",
+    "fr": "Mouscoto",
+    "de": "Masskito",
+    "es": "Buzzwole",
+    "it": "Buzzwole",
+    "en": "Buzzwole",
+    "ja": "マッシブーン"
+  },
+  "795": {
+    "ko": "페로코체",
+    "zh": "費洛美螂",
+    "fr": "Cancrelove",
+    "de": "Schabelle",
+    "es": "Pheromosa",
+    "it": "Pheromosa",
+    "en": "Pheromosa",
+    "ja": "フェローチェ"
+  },
+  "796": {
+    "ko": "전수목",
+    "zh": "電束木",
+    "fr": "Câblifère",
+    "de": "Voltriant",
+    "es": "Xurkitree",
+    "it": "Xurkitree",
+    "en": "Xurkitree",
+    "ja": "デンジュモク"
+  },
+  "797": {
+    "ko": "철화구야",
+    "zh": "鐵火輝夜",
+    "fr": "Bamboiselle",
+    "de": "Kaguron",
+    "es": "Celesteela",
+    "it": "Celesteela",
+    "en": "Celesteela",
+    "ja": "テッカグヤ"
+  },
+  "798": {
+    "ko": "종이신도",
+    "zh": "紙御劍",
+    "fr": "Katagami",
+    "de": "Katagami",
+    "es": "Kartana",
+    "it": "Kartana",
+    "en": "Kartana",
+    "ja": "カミツルギ"
+  },
+  "799": {
+    "ko": "악식킹",
+    "zh": "惡食大王",
+    "fr": "Engloutyran",
+    "de": "Schlingking",
+    "es": "Guzzlord",
+    "it": "Guzzlord",
+    "en": "Guzzlord",
+    "ja": "アクジキング"
+  },
+  "800": {
+    "ko": "네크로즈마",
+    "zh": "奈克洛茲瑪",
+    "fr": "Necrozma",
+    "de": "Necrozma",
+    "es": "Necrozma",
+    "it": "Necrozma",
+    "en": "Necrozma",
+    "ja": "ネクロズマ"
+  },
+  "801": {
+    "ko": "마기아나",
+    "zh": "瑪機雅娜",
+    "fr": "Magearna",
+    "de": "Magearna",
+    "es": "Magearna",
+    "it": "Magearna",
+    "en": "Magearna",
+    "ja": "マギアナ"
+  },
+  "802": {
+    "ko": "마샤도",
+    "zh": "瑪夏多",
+    "fr": "Marshadow",
+    "de": "Marshadow",
+    "es": "Marshadow",
+    "it": "Marshadow",
+    "en": "Marshadow",
+    "ja": "マーシャドー"
+  },
+  "803": {
+    "ko": "베베놈",
+    "zh": "毒貝比",
+    "fr": "Vémini",
+    "de": "Venicro",
+    "es": "Poipole",
+    "it": "Poipole",
+    "en": "Poipole",
+    "ja": "ベベノム"
+  },
+  "804": {
+    "ko": "아고용",
+    "zh": "四顎針龍",
+    "fr": "Mandrillon",
+    "de": "Agoyon",
+    "es": "Naganadel",
+    "it": "Naganadel",
+    "en": "Naganadel",
+    "ja": "アーゴヨン"
+  },
+  "805": {
+    "ko": "차곡차곡",
+    "zh": "壘磊石",
+    "fr": "Ama-Ama",
+    "de": "Muramura",
+    "es": "Stakataka",
+    "it": "Stakataka",
+    "en": "Stakataka",
+    "ja": "ツンデツンデ"
+  },
+  "806": {
+    "ko": "두파팡",
+    "zh": "砰頭小丑",
+    "fr": "Pierroteknik",
+    "de": "Kopplosio",
+    "es": "Blacephalon",
+    "it": "Blacephalon",
+    "en": "Blacephalon",
+    "ja": "ズガドーン"
+  },
+  "807": {
+    "ko": "제라오라",
+    "zh": "捷拉奧拉",
+    "fr": "Zeraora",
+    "de": "Zeraora",
+    "es": "Zeraora",
+    "it": "Zeraora",
+    "en": "Zeraora",
+    "ja": "ゼラオラ"
+  },
+  "808": {
+    "ko": "멜탄",
+    "zh": "美錄坦",
+    "fr": "Meltan",
+    "de": "Meltan",
+    "es": "Meltan",
+    "it": "Meltan",
+    "en": "Meltan",
+    "ja": "メルタン"
+  },
+  "809": {
+    "ko": "멜메탈",
+    "zh": "美錄梅塔",
+    "fr": "Melmetal",
+    "de": "Melmetal",
+    "es": "Melmetal",
+    "it": "Melmetal",
+    "en": "Melmetal",
+    "ja": "メルメタル"
+  },
+  "810": {
+    "ko": "흥나숭",
+    "zh": "敲音猴",
+    "fr": "Ouistempo",
+    "de": "Chimpep",
+    "es": "Grookey",
+    "it": "Grookey",
+    "en": "Grookey",
+    "ja": "サルノリ"
+  },
+  "811": {
+    "ko": "채키몽",
+    "zh": "啪咚猴",
+    "fr": "Badabouin",
+    "de": "Chimstix",
+    "es": "Thwackey",
+    "it": "Thwackey",
+    "en": "Thwackey",
+    "ja": "バチンキー"
+  },
+  "812": {
+    "ko": "고릴타",
+    "zh": "轟擂金剛猩",
+    "fr": "Gorythmic",
+    "de": "Gortrom",
+    "es": "Rillaboom",
+    "it": "Rillaboom",
+    "en": "Rillaboom",
+    "ja": "ゴリランダー"
+  },
+  "813": {
+    "ko": "염버니",
+    "zh": "炎兔兒",
+    "fr": "Flambino",
+    "de": "Hopplo",
+    "es": "Scorbunny",
+    "it": "Scorbunny",
+    "en": "Scorbunny",
+    "ja": "ヒバニー"
+  },
+  "814": {
+    "ko": "래비풋",
+    "zh": "騰蹴小將",
+    "fr": "Lapyro",
+    "de": "Kickerlo",
+    "es": "Raboot",
+    "it": "Raboot",
+    "en": "Raboot",
+    "ja": "ラビフット"
+  },
+  "815": {
+    "ko": "에이스번",
+    "zh": "閃焰王牌",
+    "fr": "Pyrobut",
+    "de": "Liberlo",
+    "es": "Cinderace",
+    "it": "Cinderace",
+    "en": "Cinderace",
+    "ja": "エースバーン"
+  },
+  "816": {
+    "ko": "울머기",
+    "zh": "淚眼蜥",
+    "fr": "Larméléon",
+    "de": "Memmeon",
+    "es": "Sobble",
+    "it": "Sobble",
+    "en": "Sobble",
+    "ja": "メッソン"
+  },
+  "817": {
+    "ko": "누겔레온",
+    "zh": "變澀蜥",
+    "fr": "Arrozard",
+    "de": "Phlegleon",
+    "es": "Drizzile",
+    "it": "Drizzile",
+    "en": "Drizzile",
+    "ja": "ジメレオン"
+  },
+  "818": {
+    "ko": "인텔리레온",
+    "zh": "千面避役",
+    "fr": "Lézargus",
+    "de": "Intelleon",
+    "es": "Inteleon",
+    "it": "Inteleon",
+    "en": "Inteleon",
+    "ja": "インテレオン"
+  },
+  "819": {
+    "ko": "탐리스",
+    "zh": "貪心栗鼠",
+    "fr": "Rongourmand",
+    "de": "Raffel",
+    "es": "Skwovet",
+    "it": "Skwovet",
+    "en": "Skwovet",
+    "ja": "ホシガリス"
+  },
+  "820": {
+    "ko": "요씽리스",
+    "zh": "藏飽栗鼠",
+    "fr": "Rongrigou",
+    "de": "Schlaraffel",
+    "es": "Greedent",
+    "it": "Greedent",
+    "en": "Greedent",
+    "ja": "ヨクバリス"
+  },
+  "821": {
+    "ko": "파라꼬",
+    "zh": "稚山雀",
+    "fr": "Minisange",
+    "de": "Meikro",
+    "es": "Rookidee",
+    "it": "Rookidee",
+    "en": "Rookidee",
+    "ja": "ココガラ"
+  },
+  "822": {
+    "ko": "파크로우",
+    "zh": "藍鴉",
+    "fr": "Bleuseille",
+    "de": "Kranoviz",
+    "es": "Corvisquire",
+    "it": "Corvisquire",
+    "en": "Corvisquire",
+    "ja": "アオガラス"
+  },
+  "823": {
+    "ko": "아머까오",
+    "zh": "鋼鎧鴉",
+    "fr": "Corvaillus",
+    "de": "Krarmor",
+    "es": "Corviknight",
+    "it": "Corviknight",
+    "en": "Corviknight",
+    "ja": "アーマーガア"
+  },
+  "824": {
+    "ko": "두루지벌레",
+    "zh": "索偵蟲",
+    "fr": "Larvadar",
+    "de": "Sensect",
+    "es": "Blipbug",
+    "it": "Blipbug",
+    "en": "Blipbug",
+    "ja": "サッチムシ"
+  },
+  "825": {
+    "ko": "레돔벌레",
+    "zh": "天罩蟲",
+    "fr": "Coléodôme",
+    "de": "Keradar",
+    "es": "Dottler",
+    "it": "Dottler",
+    "en": "Dottler",
+    "ja": "レドームシ"
+  },
+  "826": {
+    "ko": "이올브",
+    "zh": "以歐路普",
+    "fr": "Astronelle",
+    "de": "Maritellit",
+    "es": "Orbeetle",
+    "it": "Orbeetle",
+    "en": "Orbeetle",
+    "ja": "イオルブ"
+  },
+  "827": {
+    "ko": "훔처우",
+    "zh": "偷兒狐",
+    "fr": "Goupilou",
+    "de": "Kleptifux",
+    "es": "Nickit",
+    "it": "Nickit",
+    "en": "Nickit",
+    "ja": "クスネ"
+  },
+  "828": {
+    "ko": "폭슬라이",
+    "zh": "狐大盜",
+    "fr": "Roublenard",
+    "de": "Gaunux",
+    "es": "Thievul",
+    "it": "Thievul",
+    "en": "Thievul",
+    "ja": "フォクスライ"
+  },
+  "829": {
+    "ko": "꼬모카",
+    "zh": "幼棉棉",
+    "fr": "Tournicoton",
+    "de": "Cottini",
+    "es": "Gossifleur",
+    "it": "Gossifleur",
+    "en": "Gossifleur",
+    "ja": "ヒメンカ"
+  },
+  "830": {
+    "ko": "백솜모카",
+    "zh": "白蓬蓬",
+    "fr": "Blancoton",
+    "de": "Cottomi",
+    "es": "Eldegoss",
+    "it": "Eldegoss",
+    "en": "Eldegoss",
+    "ja": "ワタシラガ"
+  },
+  "831": {
+    "ko": "우르",
+    "zh": "毛辮羊",
+    "fr": "Moumouton",
+    "de": "Wolly",
+    "es": "Wooloo",
+    "it": "Wooloo",
+    "en": "Wooloo",
+    "ja": "ウールー"
+  },
+  "832": {
+    "ko": "배우르",
+    "zh": "毛毛角羊",
+    "fr": "Moumouflon",
+    "de": "Zwollock",
+    "es": "Dubwool",
+    "it": "Dubwool",
+    "en": "Dubwool",
+    "ja": "バイウールー"
+  },
+  "833": {
+    "ko": "깨물부기",
+    "zh": "咬咬龜",
+    "fr": "Khélocrok",
+    "de": "Kamehaps",
+    "es": "Chewtle",
+    "it": "Chewtle",
+    "en": "Chewtle",
+    "ja": "カムカメ"
+  },
+  "834": {
+    "ko": "갈가부기",
+    "zh": "暴噬龜",
+    "fr": "Torgamord",
+    "de": "Kamalm",
+    "es": "Drednaw",
+    "it": "Drednaw",
+    "en": "Drednaw",
+    "ja": "カジリガメ"
+  },
+  "835": {
+    "ko": "멍파치",
+    "zh": "來電汪",
+    "fr": "Voltoutou",
+    "de": "Voldi",
+    "es": "Yamper",
+    "it": "Yamper",
+    "en": "Yamper",
+    "ja": "ワンパチ"
+  },
+  "836": {
+    "ko": "펄스멍",
+    "zh": "逐電犬",
+    "fr": "Fulgudog",
+    "de": "Bellektro",
+    "es": "Boltund",
+    "it": "Boltund",
+    "en": "Boltund",
+    "ja": "パルスワン"
+  },
+  "837": {
+    "ko": "탄동",
+    "zh": "小炭仔",
+    "fr": "Charbi",
+    "de": "Klonkett",
+    "es": "Rolycoly",
+    "it": "Rolycoly",
+    "en": "Rolycoly",
+    "ja": "タンドン"
+  },
+  "838": {
+    "ko": "탄차곤",
+    "zh": "大炭車",
+    "fr": "Wagomine",
+    "de": "Wagong",
+    "es": "Carkol",
+    "it": "Carkol",
+    "en": "Carkol",
+    "ja": "トロッゴン"
+  },
+  "839": {
+    "ko": "석탄산",
+    "zh": "巨炭山",
+    "fr": "Monthracite",
+    "de": "Montecarbo",
+    "es": "Coalossal",
+    "it": "Coalossal",
+    "en": "Coalossal",
+    "ja": "セキタンザン"
+  },
+  "840": {
+    "ko": "과사삭벌레",
+    "zh": "啃果蟲",
+    "fr": "Verpom",
+    "de": "Knapfel",
+    "es": "Applin",
+    "it": "Applin",
+    "en": "Applin",
+    "ja": "カジッチュ"
+  },
+  "841": {
+    "ko": "애프룡",
+    "zh": "蘋裹龍",
+    "fr": "Pomdrapi",
+    "de": "Drapfel",
+    "es": "Flapple",
+    "it": "Flapple",
+    "en": "Flapple",
+    "ja": "アップリュー"
+  },
+  "842": {
+    "ko": "단지래플",
+    "zh": "豐蜜龍",
+    "fr": "Dratatin",
+    "de": "Schlapfel",
+    "es": "Appletun",
+    "it": "Appletun",
+    "en": "Appletun",
+    "ja": "タルップル"
+  },
+  "843": {
+    "ko": "모래뱀",
+    "zh": "沙包蛇",
+    "fr": "Dunaja",
+    "de": "Salanga",
+    "es": "Silicobra",
+    "it": "Silicobra",
+    "en": "Silicobra",
+    "ja": "スナヘビ"
+  },
+  "844": {
+    "ko": "사다이사",
+    "zh": "沙螺蟒",
+    "fr": "Dunaconda",
+    "de": "Sanaconda",
+    "es": "Sandaconda",
+    "it": "Sandaconda",
+    "en": "Sandaconda",
+    "ja": "サダイジャ"
+  },
+  "845": {
+    "ko": "윽우지",
+    "zh": "古月鳥",
+    "fr": "Nigosier",
+    "de": "Urgl",
+    "es": "Cramorant",
+    "it": "Cramorant",
+    "en": "Cramorant",
+    "ja": "ウッウ"
+  },
+  "846": {
+    "ko": "찌로꼬치",
+    "zh": "刺梭魚",
+    "fr": "Embrochet",
+    "de": "Pikuda",
+    "es": "Arrokuda",
+    "it": "Arrokuda",
+    "en": "Arrokuda",
+    "ja": "サシカマス"
+  },
+  "847": {
+    "ko": "꼬치조",
+    "zh": "戽斗尖梭",
+    "fr": "Hastacuda",
+    "de": "Barrakiefa",
+    "es": "Barraskewda",
+    "it": "Barraskewda",
+    "en": "Barraskewda",
+    "ja": "カマスジョー"
+  },
+  "848": {
+    "ko": "일레즌",
+    "zh": "毒電嬰",
+    "fr": "Toxizap",
+    "de": "Toxel",
+    "es": "Toxel",
+    "it": "Toxel",
+    "en": "Toxel",
+    "ja": "エレズン"
+  },
+  "849": {
+    "ko": "스트린더",
+    "zh": "顫弦蠑螈",
+    "fr": "Salarsen",
+    "de": "Riffex",
+    "es": "Toxtricity",
+    "it": "Toxtricity",
+    "en": "Toxtricity",
+    "ja": "ストリンダー"
+  },
+  "850": {
+    "ko": "태우지네",
+    "zh": "燒火蚣",
+    "fr": "Grillepattes",
+    "de": "Thermopod",
+    "es": "Sizzlipede",
+    "it": "Sizzlipede",
+    "en": "Sizzlipede",
+    "ja": "ヤクデ"
+  },
+  "851": {
+    "ko": "다태우지네",
+    "zh": "焚焰蚣",
+    "fr": "Scolocendre",
+    "de": "Infernopod",
+    "es": "Centiskorch",
+    "it": "Centiskorch",
+    "en": "Centiskorch",
+    "ja": "マルヤクデ"
+  },
+  "852": {
+    "ko": "때때무노",
+    "zh": "拳拳蛸",
+    "fr": "Poulpaf",
+    "de": "Klopptopus",
+    "es": "Clobbopus",
+    "it": "Clobbopus",
+    "en": "Clobbopus",
+    "ja": "タタッコ"
+  },
+  "853": {
+    "ko": "케오퍼스",
+    "zh": "八爪武師",
+    "fr": "Krakos",
+    "de": "Kaocto",
+    "es": "Grapploct",
+    "it": "Grapploct",
+    "en": "Grapploct",
+    "ja": "オトスパス"
+  },
+  "854": {
+    "ko": "데인차",
+    "zh": "來悲茶",
+    "fr": "Théffroi",
+    "de": "Fatalitee",
+    "es": "Sinistea",
+    "it": "Sinistea",
+    "en": "Sinistea",
+    "ja": "ヤバチャ"
+  },
+  "855": {
+    "ko": "포트데스",
+    "zh": "怖思壺",
+    "fr": "Polthégeist",
+    "de": "Mortipot",
+    "es": "Polteageist",
+    "it": "Polteageist",
+    "en": "Polteageist",
+    "ja": "ポットデス"
+  },
+  "856": {
+    "ko": "몸지브림",
+    "zh": "迷布莉姆",
+    "fr": "Bibichut",
+    "de": "Brimova",
+    "es": "Hatenna",
+    "it": "Hatenna",
+    "en": "Hatenna",
+    "ja": "ミブリム"
+  },
+  "857": {
+    "ko": "손지브림",
+    "zh": "提布莉姆",
+    "fr": "Chapotus",
+    "de": "Brimano",
+    "es": "Hattrem",
+    "it": "Hattrem",
+    "en": "Hattrem",
+    "ja": "テブリム"
+  },
+  "858": {
+    "ko": "브리무음",
+    "zh": "布莉姆溫",
+    "fr": "Sorcilence",
+    "de": "Silembrim",
+    "es": "Hatterene",
+    "it": "Hatterene",
+    "en": "Hatterene",
+    "ja": "ブリムオン"
+  },
+  "859": {
+    "ko": "메롱꿍",
+    "zh": "搗蛋小妖",
+    "fr": "Grimalin",
+    "de": "Bähmon",
+    "es": "Impidimp",
+    "it": "Impidimp",
+    "en": "Impidimp",
+    "ja": "ベロバー"
+  },
+  "860": {
+    "ko": "쏘겨모",
+    "zh": "詐唬魔",
+    "fr": "Fourbelin",
+    "de": "Pelzebub",
+    "es": "Morgrem",
+    "it": "Morgrem",
+    "en": "Morgrem",
+    "ja": "ギモー"
+  },
+  "861": {
+    "ko": "오롱털",
+    "zh": "長毛巨魔",
+    "fr": "Angoliath",
+    "de": "Olangaar",
+    "es": "Grimmsnarl",
+    "it": "Grimmsnarl",
+    "en": "Grimmsnarl",
+    "ja": "オーロンゲ"
+  },
+  "862": {
+    "ko": "가로막구리",
+    "zh": "堵攔熊",
+    "fr": "Ixon",
+    "de": "Barrikadax",
+    "es": "Obstagoon",
+    "it": "Obstagoon",
+    "en": "Obstagoon",
+    "ja": "タチフサグマ"
+  },
+  "863": {
+    "ko": "나이킹",
+    "zh": "喵頭目",
+    "fr": "Berserkatt",
+    "de": "Mauzinger",
+    "es": "Perrserker",
+    "it": "Perrserker",
+    "en": "Perrserker",
+    "ja": "ニャイキング"
+  },
+  "864": {
+    "ko": "산호르곤",
+    "zh": "魔靈珊瑚",
+    "fr": "Corayôme",
+    "de": "Gorgasonn",
+    "es": "Cursola",
+    "it": "Cursola",
+    "en": "Cursola",
+    "ja": "サニゴーン"
+  },
+  "865": {
+    "ko": "창파나이트",
+    "zh": "蔥遊兵",
+    "fr": "Palarticho",
+    "de": "Lauchzelot",
+    "es": "Sirfetch’d",
+    "it": "Sirfetch’d",
+    "en": "Sirfetch’d",
+    "ja": "ネギガナイト"
+  },
+  "866": {
+    "ko": "마임꽁꽁",
+    "zh": "踏冰人偶",
+    "fr": "M. Glaquette",
+    "de": "Pantifrost",
+    "es": "Mr. Rime",
+    "it": "Mr. Rime",
+    "en": "Mr. Rime",
+    "ja": "バリコオル"
+  },
+  "867": {
+    "ko": "데스판",
+    "zh": "死神板",
+    "fr": "Tutétékri",
+    "de": "Oghnatoll",
+    "es": "Runerigus",
+    "it": "Runerigus",
+    "en": "Runerigus",
+    "ja": "デスバーン"
+  },
+  "868": {
+    "ko": "마빌크",
+    "zh": "小仙奶",
+    "fr": "Crèmy",
+    "de": "Hokumil",
+    "es": "Milcery",
+    "it": "Milcery",
+    "en": "Milcery",
+    "ja": "マホミル"
+  },
+  "869": {
+    "ko": "마휘핑",
+    "zh": "霜奶仙",
+    "fr": "Charmilly",
+    "de": "Pokusan",
+    "es": "Alcremie",
+    "it": "Alcremie",
+    "en": "Alcremie",
+    "ja": "マホイップ"
+  },
+  "870": {
+    "ko": "대여르",
+    "zh": "列陣兵",
+    "fr": "Hexadron",
+    "de": "Legios",
+    "es": "Falinks",
+    "it": "Falinks",
+    "en": "Falinks",
+    "ja": "タイレーツ"
+  },
+  "871": {
+    "ko": "찌르성게",
+    "zh": "啪嚓海膽",
+    "fr": "Wattapik",
+    "de": "Britzigel",
+    "es": "Pincurchin",
+    "it": "Pincurchin",
+    "en": "Pincurchin",
+    "ja": "バチンウニ"
+  },
+  "872": {
+    "ko": "누니머기",
+    "zh": "雪吞蟲",
+    "fr": "Frissonille",
+    "de": "Snomnom",
+    "es": "Snom",
+    "it": "Snom",
+    "en": "Snom",
+    "ja": "ユキハミ"
+  },
+  "873": {
+    "ko": "모스노우",
+    "zh": "雪絨蛾",
+    "fr": "Beldeneige",
+    "de": "Mottineva",
+    "es": "Frosmoth",
+    "it": "Frosmoth",
+    "en": "Frosmoth",
+    "ja": "モスノウ"
+  },
+  "874": {
+    "ko": "돌헨진",
+    "zh": "巨石丁",
+    "fr": "Dolman",
+    "de": "Humanolith",
+    "es": "Stonjourner",
+    "it": "Stonjourner",
+    "en": "Stonjourner",
+    "ja": "イシヘンジン"
+  },
+  "875": {
+    "de": "Kubuin",
+    "ko": "빙큐보",
+    "zh": "冰砌鵝",
+    "fr": "Bekaglaçon",
+    "es": "Eiscue",
+    "it": "Eiscue",
+    "en": "Eiscue",
+    "ja": "コオリッポ"
+  },
+  "876": {
+    "ko": "에써르",
+    "zh": "愛管侍",
+    "fr": "Wimessir",
+    "de": "Servol",
+    "es": "Indeedee",
+    "it": "Indeedee",
+    "en": "Indeedee",
+    "ja": "イエッサン"
+  },
+  "877": {
+    "ko": "모르페코",
+    "zh": "莫魯貝可",
+    "fr": "Morpeko",
+    "de": "Morpeko",
+    "es": "Morpeko",
+    "it": "Morpeko",
+    "en": "Morpeko",
+    "ja": "モルペコ"
+  },
+  "878": {
+    "ko": "끼리동",
+    "zh": "銅象",
+    "fr": "Charibari",
+    "de": "Kupfanti",
+    "es": "Cufant",
+    "it": "Cufant",
+    "en": "Cufant",
+    "ja": "ゾウドウ"
+  },
+  "879": {
+    "ko": "대왕끼리동",
+    "zh": "大王銅象",
+    "fr": "Pachyradjah",
+    "de": "Patinaraja",
+    "es": "Copperajah",
+    "it": "Copperajah",
+    "en": "Copperajah",
+    "ja": "ダイオウドウ"
+  },
+  "880": {
+    "ko": "파치래곤",
+    "zh": "雷鳥龍",
+    "fr": "Galvagon",
+    "de": "Lectragon",
+    "es": "Dracozolt",
+    "it": "Dracozolt",
+    "en": "Dracozolt",
+    "ja": "パッチラゴン"
+  },
+  "881": {
+    "ko": "파치르돈",
+    "zh": "雷鳥海獸",
+    "fr": "Galvagla",
+    "de": "Lecryodon",
+    "es": "Arctozolt",
+    "it": "Arctozolt",
+    "en": "Arctozolt",
+    "ja": "パッチルドン"
+  },
+  "882": {
+    "ko": "어래곤",
+    "zh": "鰓魚龍",
+    "fr": "Hydragon",
+    "de": "Pescragon",
+    "es": "Dracovish",
+    "it": "Dracovish",
+    "en": "Dracovish",
+    "ja": "ウオノラゴン"
+  },
+  "883": {
+    "ko": "어치르돈",
+    "zh": "鰓魚海獸",
+    "fr": "Hydragla",
+    "de": "Pescryodon",
+    "es": "Arctovish",
+    "it": "Arctovish",
+    "en": "Arctovish",
+    "ja": "ウオチルドン"
+  },
+  "884": {
+    "ko": "두랄루돈",
+    "zh": "鋁鋼龍",
+    "fr": "Duralugon",
+    "de": "Duraludon",
+    "es": "Duraludon",
+    "it": "Duraludon",
+    "en": "Duraludon",
+    "ja": "ジュラルドン"
+  },
+  "885": {
+    "ko": "드라꼰",
+    "zh": "多龍梅西亞",
+    "fr": "Fantyrm",
+    "de": "Grolldra",
+    "es": "Dreepy",
+    "it": "Dreepy",
+    "en": "Dreepy",
+    "ja": "ドラメシヤ"
+  },
+  "886": {
+    "ko": "드래런치",
+    "zh": "多龍奇",
+    "fr": "Dispareptil",
+    "de": "Phandra",
+    "es": "Drakloak",
+    "it": "Drakloak",
+    "en": "Drakloak",
+    "ja": "ドロンチ"
+  },
+  "887": {
+    "ko": "드래펄트",
+    "zh": "多龍巴魯托",
+    "fr": "Lanssorien",
+    "de": "Katapuldra",
+    "es": "Dragapult",
+    "it": "Dragapult",
+    "en": "Dragapult",
+    "ja": "ドラパルト"
+  },
+  "888": {
+    "ko": "자시안",
+    "zh": "蒼響",
+    "fr": "Zacian",
+    "de": "Zacian",
+    "es": "Zacian",
+    "it": "Zacian",
+    "en": "Zacian",
+    "ja": "ザシアン"
+  },
+  "889": {
+    "ko": "자마젠타",
+    "zh": "藏瑪然特",
+    "fr": "Zamazenta",
+    "de": "Zamazenta",
+    "es": "Zamazenta",
+    "it": "Zamazenta",
+    "en": "Zamazenta",
+    "ja": "ザマゼンタ"
+  },
+  "890": {
+    "ko": "무한다이노",
+    "zh": "無極汰那",
+    "fr": "Éthernatos",
+    "de": "Endynalos",
+    "es": "Eternatus",
+    "it": "Eternatus",
+    "en": "Eternatus",
+    "ja": "ムゲンダイナ"
+  },
+  "891": {
+    "ko": "치고마",
+    "zh": "熊徒弟",
+    "fr": "Wushours",
+    "de": "Dakuma",
+    "es": "Kubfu",
+    "it": "Kubfu",
+    "en": "Kubfu",
+    "ja": "ダクマ"
+  },
+  "892": {
+    "ko": "우라오스",
+    "zh": "武道熊師",
+    "fr": "Shifours",
+    "de": "Wulaosu",
+    "es": "Urshifu",
+    "it": "Urshifu",
+    "en": "Urshifu",
+    "ja": "ウーラオス"
+  },
+  "893": {
+    "ko": "자루도",
+    "zh": "薩戮德",
+    "fr": "Zarude",
+    "de": "Zarude",
+    "es": "Zarude",
+    "it": "Zarude",
+    "en": "Zarude",
+    "ja": "ザルード"
+  },
+  "894": {
+    "ko": "레지에레키",
+    "zh": "雷吉艾勒奇",
+    "fr": "Regieleki",
+    "de": "Regieleki",
+    "es": "Regieleki",
+    "it": "Regieleki",
+    "en": "Regieleki",
+    "ja": "レジエレキ"
+  },
+  "895": {
+    "ko": "레지드래고",
+    "zh": "雷吉鐸拉戈",
+    "fr": "Regidrago",
+    "de": "Regidrago",
+    "es": "Regidrago",
+    "it": "Regidrago",
+    "en": "Regidrago",
+    "ja": "レジドラゴ"
+  },
+  "896": {
+    "ko": "블리자포스",
+    "zh": "雪暴馬",
+    "fr": "Blizzeval",
+    "de": "Polaross",
+    "es": "Glastrier",
+    "it": "Glastrier",
+    "en": "Glastrier",
+    "ja": "ブリザポス"
+  },
+  "897": {
+    "ko": "레이스포스",
+    "zh": "靈幽馬",
+    "fr": "Spectreval",
+    "de": "Phantoross",
+    "es": "Spectrier",
+    "it": "Spectrier",
+    "en": "Spectrier",
+    "ja": "レイスポス"
+  },
+  "898": {
+    "ko": "버드렉스",
+    "zh": "蕾冠王",
+    "fr": "Sylveroy",
+    "de": "Coronospa",
+    "es": "Calyrex",
+    "it": "Calyrex",
+    "en": "Calyrex",
+    "ja": "バドレックス"
+  },
+  "899": {
+    "ko": "신비록",
+    "zh": "詭角鹿",
+    "fr": "Cerbyllin",
+    "de": "Damythir",
+    "es": "Wyrdeer",
+    "it": "Wyrdeer",
+    "en": "Wyrdeer",
+    "ja": "アヤシシ"
+  },
+  "900": {
+    "ko": "사마자르",
+    "zh": "劈斧螳螂",
+    "fr": "Hachécateur",
+    "de": "Axantor",
+    "es": "Kleavor",
+    "it": "Kleavor",
+    "en": "Kleavor",
+    "ja": "バサギリ"
+  },
+  "901": {
+    "ko": "다투곰",
+    "zh": "月月熊",
+    "fr": "Ursaking",
+    "de": "Ursaluna",
+    "es": "Ursaluna",
+    "it": "Ursaluna",
+    "en": "Ursaluna",
+    "ja": "ガチグマ"
+  },
+  "902": {
+    "ko": "대쓰여너",
+    "zh": "幽尾玄魚",
+    "fr": "Paragruel",
+    "de": "Salmagnis",
+    "es": "Basculegion",
+    "it": "Basculegion",
+    "en": "Basculegion",
+    "ja": "イダイトウ"
+  },
+  "903": {
+    "ko": "포푸니크",
+    "zh": "大狃拉",
+    "fr": "Farfurex",
+    "de": "Snieboss",
+    "es": "Sneasler",
+    "it": "Sneasler",
+    "en": "Sneasler",
+    "ja": "オオニューラ"
+  },
+  "904": {
+    "ko": "장침바루",
+    "zh": "萬針魚",
+    "fr": "Qwilpik",
+    "de": "Myriador",
+    "es": "Overqwil",
+    "it": "Overqwil",
+    "en": "Overqwil",
+    "ja": "ハリーマン"
+  },
+  "905": {
+    "ko": "러브로스",
+    "zh": "眷戀雲",
+    "fr": "Amovénus",
+    "de": "Cupidos",
+    "es": "Enamorus",
+    "it": "Enamorus",
+    "en": "Enamorus",
+    "ja": "ラブトロス"
+  },
+  "906": {
+    "ko": "나오하",
+    "zh": "新葉喵",
+    "fr": "Poussacha",
+    "de": "Felori",
+    "es": "Sprigatito",
+    "it": "Sprigatito",
+    "en": "Sprigatito",
+    "ja": "ニャオハ"
+  },
+  "907": {
+    "ko": "나로테",
+    "zh": "蒂蕾喵",
+    "fr": "Matourgeon",
+    "de": "Feliospa",
+    "es": "Floragato",
+    "it": "Floragato",
+    "en": "Floragato",
+    "ja": "ニャローテ"
+  },
+  "908": {
+    "ko": "마스카나",
+    "zh": "魔幻假面喵",
+    "fr": "Miascarade",
+    "de": "Maskagato",
+    "es": "Meowscarada",
+    "it": "Meowscarada",
+    "en": "Meowscarada",
+    "ja": "マスカーニャ"
+  },
+  "909": {
+    "ko": "뜨아거",
+    "zh": "呆火鱷",
+    "fr": "Chochodile",
+    "de": "Krokel",
+    "es": "Fuecoco",
+    "it": "Fuecoco",
+    "en": "Fuecoco",
+    "ja": "ホゲータ"
+  },
+  "910": {
+    "ko": "악뜨거",
+    "zh": "炙燙鱷",
+    "fr": "Crocogril",
+    "de": "Lokroko",
+    "es": "Crocalor",
+    "it": "Crocalor",
+    "en": "Crocalor",
+    "ja": "アチゲータ"
+  },
+  "911": {
+    "ko": "라우드본",
+    "zh": "骨紋巨聲鱷",
+    "fr": "Flâmigator",
+    "de": "Skelokrok",
+    "es": "Skeledirge",
+    "it": "Skeledirge",
+    "en": "Skeledirge",
+    "ja": "ラウドボーン"
+  },
+  "912": {
+    "ko": "꾸왁스",
+    "zh": "潤水鴨",
+    "fr": "Coiffeton",
+    "de": "Kwaks",
+    "es": "Quaxly",
+    "it": "Quaxly",
+    "en": "Quaxly",
+    "ja": "クワッス"
+  },
+  "913": {
+    "ko": "아꾸왁",
+    "zh": "湧躍鴨",
+    "fr": "Canarbello",
+    "de": "Fuentente",
+    "es": "Quaxwell",
+    "it": "Quaxwell",
+    "en": "Quaxwell",
+    "ja": "ウェルカモ"
+  },
+  "914": {
+    "ko": "웨이니발",
+    "zh": "狂歡浪舞鴨",
+    "fr": "Palmaval",
+    "de": "Bailonda",
+    "es": "Quaquaval",
+    "it": "Quaquaval",
+    "en": "Quaquaval",
+    "ja": "ウェーニバル"
+  },
+  "915": {
+    "ko": "맛보돈",
+    "zh": "愛吃豚",
+    "fr": "Gourmelet",
+    "de": "Ferkuli",
+    "es": "Lechonk",
+    "it": "Lechonk",
+    "en": "Lechonk",
+    "ja": "グルトン"
+  },
+  "916": {
+    "ko": "퍼퓨돈",
+    "zh": "飄香豚",
+    "fr": "Fragroin",
+    "de": "Fragrunz",
+    "es": "Oinkologne",
+    "it": "Oinkologne",
+    "en": "Oinkologne",
+    "ja": "パフュートン"
+  },
+  "917": {
+    "ko": "타랜툴라",
+    "zh": "團珠蛛",
+    "fr": "Tissenboule",
+    "de": "Tarundel",
+    "es": "Tarountula",
+    "it": "Tarountula",
+    "en": "Tarountula",
+    "ja": "タマンチュラ"
+  },
+  "918": {
+    "ko": "트래피더",
+    "zh": "操陷蛛",
+    "fr": "Filentrappe",
+    "de": "Spinsidias",
+    "es": "Spidops",
+    "it": "Spidops",
+    "en": "Spidops",
+    "ja": "ワナイダー"
+  },
+  "919": {
+    "ko": "콩알뚜기",
+    "zh": "豆蟋蟀",
+    "fr": "Lilliterelle",
+    "de": "Micrick",
+    "es": "Nymble",
+    "it": "Nymble",
+    "en": "Nymble",
+    "ja": "マメバッタ"
+  },
+  "920": {
+    "ko": "엑스레그",
+    "zh": "烈腿蝗",
+    "fr": "Gambex",
+    "de": "Lextremo",
+    "es": "Lokix",
+    "it": "Lokix",
+    "en": "Lokix",
+    "ja": "エクスレッグ"
+  },
+  "921": {
+    "ko": "빠모",
+    "zh": "布撥",
+    "fr": "Pohm",
+    "de": "Pamo",
+    "es": "Pawmi",
+    "it": "Pawmi",
+    "en": "Pawmi",
+    "ja": "パモ"
+  },
+  "922": {
+    "ko": "빠모트",
+    "zh": "布土撥",
+    "fr": "Pohmotte",
+    "de": "Pamamo",
+    "es": "Pawmo",
+    "it": "Pawmo",
+    "en": "Pawmo",
+    "ja": "パモット"
+  },
+  "923": {
+    "ko": "빠르모트",
+    "zh": "巴布土撥",
+    "fr": "Pohmarmotte",
+    "de": "Pamomamo",
+    "es": "Pawmot",
+    "it": "Pawmot",
+    "en": "Pawmot",
+    "ja": "パーモット"
+  },
+  "924": {
+    "ko": "두리쥐",
+    "zh": "一對鼠",
+    "fr": "Compagnol",
+    "de": "Zwieps",
+    "es": "Tandemaus",
+    "it": "Tandemaus",
+    "en": "Tandemaus",
+    "ja": "ワッカネズミ"
+  },
+  "925": {
+    "ko": "파밀리쥐",
+    "zh": "一家鼠",
+    "fr": "Famignol",
+    "de": "Famieps",
+    "es": "Maushold",
+    "it": "Maushold",
+    "en": "Maushold",
+    "ja": "イッカネズミ"
+  },
+  "926": {
+    "ko": "쫀도기",
+    "zh": "狗仔包",
+    "fr": "Pâtachiot",
+    "de": "Hefel",
+    "es": "Fidough",
+    "it": "Fidough",
+    "en": "Fidough",
+    "ja": "パピモッチ"
+  },
+  "927": {
+    "ko": "바우첼",
+    "zh": "麻花犬",
+    "fr": "Briochien",
+    "de": "Backel",
+    "es": "Dachsbun",
+    "it": "Dachsbun",
+    "en": "Dachsbun",
+    "ja": "バウッツェル"
+  },
+  "928": {
+    "ko": "미니브",
+    "zh": "迷你芙",
+    "fr": "Olivini",
+    "de": "Olini",
+    "es": "Smoliv",
+    "it": "Smoliv",
+    "en": "Smoliv",
+    "ja": "ミニーブ"
+  },
+  "929": {
+    "ko": "올리뇨",
+    "zh": "奧利紐",
+    "fr": "Olivado",
+    "de": "Olivinio",
+    "es": "Dolliv",
+    "it": "Dolliv",
+    "en": "Dolliv",
+    "ja": "オリーニョ"
+  },
+  "930": {
+    "ko": "올리르바",
+    "zh": "奧利瓦",
+    "fr": "Arboliva",
+    "de": "Olithena",
+    "es": "Arboliva",
+    "it": "Arboliva",
+    "en": "Arboliva",
+    "ja": "オリーヴァ"
+  },
+  "931": {
+    "ko": "시비꼬",
+    "zh": "怒鸚哥",
+    "fr": "Tapatoès",
+    "de": "Krawalloro",
+    "es": "Squawkabilly",
+    "it": "Squawkabilly",
+    "en": "Squawkabilly",
+    "ja": "イキリンコ"
+  },
+  "932": {
+    "ko": "베베솔트",
+    "zh": "鹽石寶",
+    "fr": "Selutin",
+    "de": "Geosali",
+    "es": "Nacli",
+    "it": "Nacli",
+    "en": "Nacli",
+    "ja": "コジオ"
+  },
+  "933": {
+    "ko": "스태솔트",
+    "zh": "鹽石壘",
+    "fr": "Amassel",
+    "de": "Sedisal",
+    "es": "Naclstack",
+    "it": "Naclstack",
+    "en": "Naclstack",
+    "ja": "ジオヅム"
+  },
+  "934": {
+    "ko": "콜로솔트",
+    "zh": "鹽石巨靈",
+    "fr": "Gigansel",
+    "de": "Saltigant",
+    "es": "Garganacl",
+    "it": "Garganacl",
+    "en": "Garganacl",
+    "ja": "キョジオーン"
+  },
+  "935": {
+    "ko": "카르본",
+    "zh": "炭小侍",
+    "fr": "Charbambin",
+    "de": "Knarbon",
+    "es": "Charcadet",
+    "it": "Charcadet",
+    "en": "Charcadet",
+    "ja": "カルボウ"
+  },
+  "936": {
+    "ko": "카디나르마",
+    "zh": "紅蓮鎧騎",
+    "fr": "Carmadura",
+    "de": "Crimanzo",
+    "es": "Armarouge",
+    "it": "Armarouge",
+    "en": "Armarouge",
+    "ja": "グレンアルマ"
+  },
+  "937": {
+    "ko": "파라블레이즈",
+    "zh": "蒼炎刃鬼",
+    "fr": "Malvalame",
+    "de": "Azugladis",
+    "es": "Ceruledge",
+    "it": "Ceruledge",
+    "en": "Ceruledge",
+    "ja": "ソウブレイズ"
+  },
+  "938": {
+    "ko": "빈나두",
+    "zh": "光蚪仔",
+    "fr": "Têtampoule",
+    "de": "Blipp",
+    "es": "Tadbulb",
+    "it": "Tadbulb",
+    "en": "Tadbulb",
+    "ja": "ズピカ"
+  },
+  "939": {
+    "ko": "찌리배리",
+    "zh": "電肚蛙",
+    "fr": "Ampibidou",
+    "de": "Wampitz",
+    "es": "Bellibolt",
+    "it": "Bellibolt",
+    "en": "Bellibolt",
+    "ja": "ハラバリー"
+  },
+  "940": {
+    "ko": "찌리비",
+    "zh": "電海燕",
+    "fr": "Zapétrel",
+    "de": "Voltrel",
+    "es": "Wattrel",
+    "it": "Wattrel",
+    "en": "Wattrel",
+    "ja": "カイデン"
+  },
+  "941": {
+    "ko": "찌리비크",
+    "zh": "大電海燕",
+    "fr": "Fulgulairo",
+    "de": "Voltrean",
+    "es": "Kilowattrel",
+    "it": "Kilowattrel",
+    "en": "Kilowattrel",
+    "ja": "タイカイデン"
+  },
+  "942": {
+    "ko": "오라티프",
+    "zh": "偶叫獒",
+    "fr": "Grondogue",
+    "de": "Mobtiff",
+    "es": "Maschiff",
+    "it": "Maschiff",
+    "en": "Maschiff",
+    "ja": "オラチフ"
+  },
+  "943": {
+    "ko": "마피티프",
+    "zh": "獒教父",
+    "fr": "Dogrino",
+    "de": "Mastifioso",
+    "es": "Mabosstiff",
+    "it": "Mabosstiff",
+    "en": "Mabosstiff",
+    "ja": "マフィティフ"
+  },
+  "944": {
+    "ko": "땃쭈르",
+    "zh": "滋汁鼴",
+    "fr": "Gribouraigne",
+    "de": "Sproxi",
+    "es": "Shroodle",
+    "it": "Shroodle",
+    "en": "Shroodle",
+    "ja": "シルシュルー"
+  },
+  "945": {
+    "ko": "태깅구르",
+    "zh": "塗標客",
+    "fr": "Tag-Tag",
+    "de": "Affiti",
+    "es": "Grafaiai",
+    "it": "Grafaiai",
+    "en": "Grafaiai",
+    "ja": "タギングル"
+  },
+  "946": {
+    "ko": "그푸리",
+    "zh": "納噬草",
+    "fr": "Virovent",
+    "de": "Weherba",
+    "es": "Bramblin",
+    "it": "Bramblin",
+    "en": "Bramblin",
+    "ja": "アノクサ"
+  },
+  "947": {
+    "ko": "공푸리",
+    "zh": "怖納噬草",
+    "fr": "Virevorreur",
+    "de": "Horrerba",
+    "es": "Brambleghast",
+    "it": "Brambleghast",
+    "en": "Brambleghast",
+    "ja": "アノホラグサ"
+  },
+  "948": {
+    "ko": "들눈해",
+    "zh": "原野水母",
+    "fr": "Terracool",
+    "de": "Tentagra",
+    "es": "Toedscool",
+    "it": "Toedscool",
+    "en": "Toedscool",
+    "ja": "ノノクラゲ"
+  },
+  "949": {
+    "ko": "육파리",
+    "zh": "陸地水母",
+    "fr": "Terracruel",
+    "de": "Tenterra",
+    "es": "Toedscruel",
+    "it": "Toedscruel",
+    "en": "Toedscruel",
+    "ja": "リククラゲ"
+  },
+  "950": {
+    "ko": "절벼게",
+    "zh": "毛崖蟹",
+    "fr": "Craparoi",
+    "de": "Klibbe",
+    "es": "Klawf",
+    "it": "Klawf",
+    "en": "Klawf",
+    "ja": "ガケガニ"
+  },
+  "951": {
+    "ko": "캡싸이",
+    "zh": "熱辣娃",
+    "fr": "Pimito",
+    "de": "Chilingel",
+    "es": "Capsakid",
+    "it": "Capsakid",
+    "en": "Capsakid",
+    "ja": "カプサイジ"
+  },
+  "952": {
+    "ko": "스코빌런",
+    "zh": "狠辣椒",
+    "fr": "Scovilain",
+    "de": "Halupenjo",
+    "es": "Scovillain",
+    "it": "Scovillain",
+    "en": "Scovillain",
+    "ja": "スコヴィラン"
+  },
+  "953": {
+    "ko": "구르데",
+    "zh": "蟲滾泥",
+    "fr": "Léboulérou",
+    "de": "Relluk",
+    "es": "Rellor",
+    "it": "Rellor",
+    "en": "Rellor",
+    "ja": "シガロコ"
+  },
+  "954": {
+    "ko": "베라카스",
+    "zh": "蟲甲聖",
+    "fr": "Bérasca",
+    "de": "Skarabaks",
+    "es": "Rabsca",
+    "it": "Rabsca",
+    "en": "Rabsca",
+    "ja": "ベラカス"
+  },
+  "955": {
+    "ko": "하느라기",
+    "zh": "飄飄雛",
+    "fr": "Flotillon",
+    "de": "Flattutu",
+    "es": "Flittle",
+    "it": "Flittle",
+    "en": "Flittle",
+    "ja": "ヒラヒナ"
+  },
+  "956": {
+    "ko": "클레스퍼트라",
+    "zh": "超能艷鴕",
+    "fr": "Cléopsytra",
+    "de": "Psiopatra",
+    "es": "Espathra",
+    "it": "Espathra",
+    "en": "Espathra",
+    "ja": "クエスパトラ"
+  },
+  "957": {
+    "ko": "어리짱",
+    "zh": "小鍛匠",
+    "fr": "Forgerette",
+    "de": "Forgita",
+    "es": "Tinkatink",
+    "it": "Tinkatink",
+    "en": "Tinkatink",
+    "ja": "カヌチャン"
+  },
+  "958": {
+    "ko": "벼리짱",
+    "zh": "巧鍛匠",
+    "fr": "Forgella",
+    "de": "Tafforgita",
+    "es": "Tinkatuff",
+    "it": "Tinkatuff",
+    "en": "Tinkatuff",
+    "ja": "ナカヌチャン"
+  },
+  "959": {
+    "ko": "두드리짱",
+    "zh": "巨鍛匠",
+    "fr": "Forgelina",
+    "de": "Granforgita",
+    "es": "Tinkaton",
+    "it": "Tinkaton",
+    "en": "Tinkaton",
+    "ja": "デカヌチャン"
+  },
+  "960": {
+    "ko": "바다그다",
+    "zh": "海地鼠",
+    "fr": "Taupikeau",
+    "de": "Schligda",
+    "es": "Wiglett",
+    "it": "Wiglett",
+    "en": "Wiglett",
+    "ja": "ウミディグダ"
+  },
+  "961": {
+    "ko": "바닥트리오",
+    "zh": "三海地鼠",
+    "fr": "Triopikeau",
+    "de": "Schligdri",
+    "es": "Wugtrio",
+    "it": "Wugtrio",
+    "en": "Wugtrio",
+    "ja": "ウミトリオ"
+  },
+  "962": {
+    "ko": "떨구새",
+    "zh": "下石鳥",
+    "fr": "Lestombaile",
+    "de": "Adebom",
+    "es": "Bombirdier",
+    "it": "Bombirdier",
+    "en": "Bombirdier",
+    "ja": "オトシドリ"
+  },
+  "963": {
+    "ko": "맨돌핀",
+    "zh": "波普海豚",
+    "fr": "Dofin",
+    "de": "Normifin",
+    "es": "Finizen",
+    "it": "Finizen",
+    "en": "Finizen",
+    "ja": "ナミイルカ"
+  },
+  "964": {
+    "ko": "돌핀맨",
+    "zh": "海豚俠",
+    "fr": "Superdofin",
+    "de": "Delfinator",
+    "es": "Palafin",
+    "it": "Palafin",
+    "en": "Palafin",
+    "ja": "イルカマン"
+  },
+  "965": {
+    "ko": "부르롱",
+    "zh": "噗隆隆",
+    "fr": "Vrombi",
+    "de": "Knattox",
+    "es": "Varoom",
+    "it": "Varoom",
+    "en": "Varoom",
+    "ja": "ブロロン"
+  },
+  "966": {
+    "ko": "부르르룸",
+    "zh": "普隆隆姆",
+    "fr": "Vrombotor",
+    "de": "Knattatox",
+    "es": "Revavroom",
+    "it": "Revavroom",
+    "en": "Revavroom",
+    "ja": "ブロロローム"
+  },
+  "967": {
+    "ko": "모토마",
+    "zh": "摩托蜥",
+    "fr": "Motorizard",
+    "de": "Mopex",
+    "es": "Cyclizar",
+    "it": "Cyclizar",
+    "en": "Cyclizar",
+    "ja": "モトトカゲ"
+  },
+  "968": {
+    "ko": "꿈트렁",
+    "zh": "拖拖蚓",
+    "fr": "Ferdeter",
+    "de": "Schlurm",
+    "es": "Orthworm",
+    "it": "Orthworm",
+    "en": "Orthworm",
+    "ja": "ミミズズ"
+  },
+  "969": {
+    "ko": "초롱순",
+    "zh": "晶光芽",
+    "fr": "Germéclat",
+    "de": "Lumispross",
+    "es": "Glimmet",
+    "it": "Glimmet",
+    "en": "Glimmet",
+    "ja": "キラーメ"
+  },
+  "970": {
+    "ko": "킬라플로르",
+    "zh": "晶光花",
+    "fr": "Floréclat",
+    "de": "Lumiflora",
+    "es": "Glimmora",
+    "it": "Glimmora",
+    "en": "Glimmora",
+    "ja": "キラフロル"
+  },
+  "971": {
+    "ko": "망망이",
+    "zh": "墓仔狗",
+    "fr": "Toutombe",
+    "de": "Gruff",
+    "es": "Greavard",
+    "it": "Greavard",
+    "en": "Greavard",
+    "ja": "ボチ"
+  },
+  "972": {
+    "ko": "묘두기",
+    "zh": "墓揚犬",
+    "fr": "Tomberro",
+    "de": "Friedwuff",
+    "es": "Houndstone",
+    "it": "Houndstone",
+    "en": "Houndstone",
+    "ja": "ハカドッグ"
+  },
+  "973": {
+    "ko": "꼬이밍고",
+    "zh": "纏紅鶴",
+    "fr": "Flamenroule",
+    "de": "Flaminkno",
+    "es": "Flamigo",
+    "it": "Flamigo",
+    "en": "Flamigo",
+    "ja": "カラミンゴ"
+  },
+  "974": {
+    "ko": "터벅고래",
+    "zh": "走鯨",
+    "fr": "Piétacé",
+    "de": "Flaniwal",
+    "es": "Cetoddle",
+    "it": "Cetoddle",
+    "en": "Cetoddle",
+    "ja": "アルクジラ"
+  },
+  "975": {
+    "ko": "우락고래",
+    "zh": "浩大鯨",
+    "fr": "Balbalèze",
+    "de": "Kolowal",
+    "es": "Cetitan",
+    "it": "Cetitan",
+    "en": "Cetitan",
+    "ja": "ハルクジラ"
+  },
+  "976": {
+    "ko": "가비루사",
+    "zh": "輕身鱈",
+    "fr": "Délestin",
+    "de": "Agiluza",
+    "es": "Veluza",
+    "it": "Veluza",
+    "en": "Veluza",
+    "ja": "ミガルーサ"
+  },
+  "977": {
+    "ko": "어써러셔",
+    "zh": "吃吼霸",
+    "fr": "Oyacata",
+    "de": "Heerashai",
+    "es": "Dondozo",
+    "it": "Dondozo",
+    "en": "Dondozo",
+    "ja": "ヘイラッシャ"
+  },
+  "978": {
+    "ko": "싸리용",
+    "zh": "米立龍",
+    "fr": "Nigirigon",
+    "de": "Nigiragi",
+    "es": "Tatsugiri",
+    "it": "Tatsugiri",
+    "en": "Tatsugiri",
+    "ja": "シャリタツ"
+  },
+  "979": {
+    "ko": "저승갓숭",
+    "zh": "棄世猴",
+    "fr": "Courrousinge",
+    "de": "Epitaff",
+    "es": "Annihilape",
+    "it": "Annihilape",
+    "en": "Annihilape",
+    "ja": "コノヨザル"
+  },
+  "980": {
+    "ko": "토오",
+    "zh": "土王",
+    "fr": "Terraiste",
+    "de": "Suelord",
+    "es": "Clodsire",
+    "it": "Clodsire",
+    "en": "Clodsire",
+    "ja": "ドオー"
+  },
+  "981": {
+    "ko": "키키링",
+    "zh": "奇麒麟",
+    "fr": "Farigiraf",
+    "de": "Farigiraf",
+    "es": "Farigiraf",
+    "it": "Farigiraf",
+    "en": "Farigiraf",
+    "ja": "リキキリン"
+  },
+  "982": {
+    "ko": "노고고치",
+    "zh": "土龍節節",
+    "fr": "Deusolourdo",
+    "de": "Dummimisel",
+    "es": "Dudunsparce",
+    "it": "Dudunsparce",
+    "en": "Dudunsparce",
+    "ja": "ノココッチ"
+  },
+  "983": {
+    "ko": "대도각참",
+    "zh": "仆刀將軍",
+    "fr": "Scalpereur",
+    "de": "Gladimperio",
+    "es": "Kingambit",
+    "it": "Kingambit",
+    "en": "Kingambit",
+    "ja": "ドドゲザン"
+  },
+  "984": {
+    "ko": "위대한엄니",
+    "zh": "雄偉牙",
+    "fr": "Fort-Ivoire",
+    "de": "Riesenzahn",
+    "es": "Colmilargo",
+    "it": "Grandizanne",
+    "en": "Great Tusk",
+    "ja": "イダイナキバ"
+  },
+  "985": {
+    "ko": "우렁찬꼬리",
+    "zh": "吼叫尾",
+    "fr": "Hurle-Queue",
+    "de": "Brüllschweif",
+    "es": "Colagrito",
+    "it": "Codaurlante",
+    "en": "Scream Tail",
+    "ja": "サケブシッポ"
+  },
+  "986": {
+    "ko": "사나운버섯",
+    "zh": "猛惡菇",
+    "fr": "Fongus-Furie",
+    "de": "Wutpilz",
+    "es": "Furioseta",
+    "it": "Fungofurioso",
+    "en": "Brute Bonnet",
+    "ja": "アラブルタケ"
+  },
+  "987": {
+    "ko": "날개치는머리",
+    "zh": "振翼髮",
+    "fr": "Flotte-Mèche",
+    "de": "Flatterhaar",
+    "es": "Melenaleteo",
+    "it": "Crinealato",
+    "en": "Flutter Mane",
+    "ja": "ハバタクカミ"
+  },
+  "988": {
+    "ko": "땅을기는날개",
+    "zh": "爬地翅",
+    "fr": "Rampe-Ailes",
+    "de": "Kriechflügel",
+    "es": "Reptalada",
+    "it": "Alirasenti",
+    "en": "Slither Wing",
+    "ja": "チヲハウハネ"
+  },
+  "989": {
+    "ko": "모래털가죽",
+    "zh": "沙鐵皮",
+    "fr": "Pelage-Sablé",
+    "de": "Sandfell",
+    "es": "Pelarena",
+    "it": "Peldisabbia",
+    "en": "Sandy Shocks",
+    "ja": "スナノケガワ"
+  },
+  "990": {
+    "ko": "무쇠바퀴",
+    "zh": "鐵轍跡",
+    "fr": "Roue-de-Fer",
+    "de": "Eisenrad",
+    "es": "Ferrodada",
+    "it": "Solcoferreo",
+    "en": "Iron Treads",
+    "ja": "テツノワダチ"
+  },
+  "991": {
+    "ko": "무쇠보따리",
+    "zh": "鐵包袱",
+    "fr": "Hotte-de-Fer",
+    "de": "Eisenbündel",
+    "es": "Ferrosaco",
+    "it": "Saccoferreo",
+    "en": "Iron Bundle",
+    "ja": "テツノツツミ"
+  },
+  "992": {
+    "ko": "무쇠손",
+    "zh": "鐵臂膀",
+    "fr": "Paume-de-Fer",
+    "de": "Eisenhand",
+    "es": "Ferropalmas",
+    "it": "Manoferrea",
+    "en": "Iron Hands",
+    "ja": "テツノカイナ"
+  },
+  "993": {
+    "ko": "무쇠머리",
+    "zh": "鐵脖頸",
+    "fr": "Têtes-de-Fer",
+    "de": "Eisenhals",
+    "es": "Ferrocuello",
+    "it": "Colloferreo",
+    "en": "Iron Jugulis",
+    "ja": "テツノコウベ"
+  },
+  "994": {
+    "ko": "무쇠독나방",
+    "zh": "鐵毒蛾",
+    "fr": "Mite-de-Fer",
+    "de": "Eisenfalter",
+    "es": "Ferropolilla",
+    "it": "Falenaferrea",
+    "en": "Iron Moth",
+    "ja": "テツノドクガ"
+  },
+  "995": {
+    "ko": "무쇠가시",
+    "zh": "鐵荊棘",
+    "fr": "Épine-de-Fer",
+    "de": "Eisendorn",
+    "es": "Ferropúas",
+    "it": "Spineferree",
+    "en": "Iron Thorns",
+    "ja": "テツノイバラ"
+  },
+  "996": {
+    "ko": "드니차",
+    "zh": "涼脊龍",
+    "fr": "Frigodo",
+    "de": "Frospino",
+    "es": "Frigibax",
+    "it": "Frigibax",
+    "en": "Frigibax",
+    "ja": "セビエ"
+  },
+  "997": {
+    "ko": "드니꽁",
+    "zh": "凍脊龍",
+    "fr": "Cryodo",
+    "de": "Cryospino",
+    "es": "Arctibax",
+    "it": "Arctibax",
+    "en": "Arctibax",
+    "ja": "セゴール"
+  },
+  "998": {
+    "ko": "드닐레이브",
+    "zh": "戟脊龍",
+    "fr": "Glaivodo",
+    "de": "Espinodon",
+    "es": "Baxcalibur",
+    "it": "Baxcalibur",
+    "en": "Baxcalibur",
+    "ja": "セグレイブ"
+  },
+  "999": {
+    "ko": "모으령",
+    "zh": "索財靈",
+    "fr": "Mordudor",
+    "de": "Gierspenst",
+    "es": "Gimmighoul",
+    "it": "Gimmighoul",
+    "en": "Gimmighoul",
+    "ja": "コレクレー"
+  },
+  "1000": {
+    "ko": "타부자고",
+    "zh": "賽富豪",
+    "fr": "Gromago",
+    "de": "Monetigo",
+    "es": "Gholdengo",
+    "it": "Gholdengo",
+    "en": "Gholdengo",
+    "ja": "サーフゴー"
+  },
+  "1001": {
+    "ko": "총지엔",
+    "zh": "古簡蝸",
+    "fr": "Chongjian",
+    "de": "Chongjian",
+    "es": "Wo-Chien",
+    "it": "Wo-Chien",
+    "en": "Wo-Chien",
+    "ja": "チオンジェン"
+  },
+  "1002": {
+    "ko": "파오젠",
+    "zh": "古劍豹",
+    "fr": "Baojian",
+    "de": "Baojian",
+    "es": "Chien-Pao",
+    "it": "Chien-Pao",
+    "en": "Chien-Pao",
+    "ja": "パオジアン"
+  },
+  "1003": {
+    "ko": "딩루",
+    "zh": "古鼎鹿",
+    "fr": "Dinglu",
+    "de": "Dinglu",
+    "es": "Ting-Lu",
+    "it": "Ting-Lu",
+    "en": "Ting-Lu",
+    "ja": "ディンルー"
+  },
+  "1004": {
+    "ko": "위유이",
+    "zh": "古玉魚",
+    "fr": "Yuyu",
+    "de": "Yuyu",
+    "es": "Chi-Yu",
+    "it": "Chi-Yu",
+    "en": "Chi-Yu",
+    "ja": "イーユイ"
+  },
+  "1005": {
+    "ko": "고동치는달",
+    "zh": "轟鳴月",
+    "fr": "Rugit-Lune",
+    "de": "Donnersichel",
+    "es": "Bramaluna",
+    "it": "Lunaruggente",
+    "en": "Roaring Moon",
+    "ja": "トドロクツキ"
+  },
+  "1006": {
+    "ko": "무쇠무인",
+    "zh": "鐵武者",
+    "fr": "Garde-de-Fer",
+    "de": "Eisenkrieger",
+    "es": "Ferropaladín",
+    "it": "Eroeferreo",
+    "en": "Iron Valiant",
+    "ja": "テツノブジン"
+  },
+  "1007": {
+    "ko": "코라이돈",
+    "zh": "故勒頓",
+    "fr": "Koraidon",
+    "de": "Koraidon",
+    "es": "Koraidon",
+    "it": "Koraidon",
+    "en": "Koraidon",
+    "ja": "コライドン"
+  },
+  "1008": {
+    "ko": "미라이돈",
+    "zh": "密勒頓",
+    "fr": "Miraidon",
+    "de": "Miraidon",
+    "es": "Miraidon",
+    "it": "Miraidon",
+    "en": "Miraidon",
+    "ja": "ミライドン"
+  },
+  "1009": {
+    "ko": "굽이치는물결",
+    "zh": "波盪水",
+    "fr": "Serpente-Eau",
+    "de": "Windewoge",
+    "es": "Ondulagua",
+    "it": "Acquecrespe",
+    "en": "Walking Wake",
+    "ja": "ウネルミナモ"
+  },
+  "1010": {
+    "ko": "무쇠잎새",
+    "zh": "鐵斑葉",
+    "fr": "Vert-de-Fer",
+    "de": "Eisenblatt",
+    "es": "Ferroverdor",
+    "it": "Fogliaferrea",
+    "en": "Iron Leaves",
+    "ja": "テツノイサハ"
+  },
+  "1011": {
+    "ko": "과미르",
+    "zh": "裹蜜蟲",
+    "fr": "Pomdramour",
+    "de": "Sirapfel",
+    "es": "Dipplin",
+    "it": "Dipplin",
+    "en": "Dipplin",
+    "ja": "カミッチュ"
+  },
+  "1012": {
+    "ko": "차데스",
+    "zh": "斯魔茶",
+    "fr": "Poltchageist",
+    "de": "Mortcha",
+    "es": "Poltchageist",
+    "it": "Poltchageist",
+    "en": "Poltchageist",
+    "ja": "チャデス"
+  },
+  "1013": {
+    "ko": "그우린차",
+    "zh": "來悲粗茶",
+    "fr": "Théffroyable",
+    "de": "Fatalitcha",
+    "es": "Sinistcha",
+    "it": "Sinistcha",
+    "en": "Sinistcha",
+    "ja": "ヤバソチャ"
+  },
+  "1014": {
+    "ko": "조타구",
+    "zh": "夠讚狗",
+    "fr": "Félicanis",
+    "de": "Boninu",
+    "es": "Okidogi",
+    "it": "Okidogi",
+    "en": "Okidogi",
+    "ja": "イイネイヌ"
+  },
+  "1015": {
+    "ko": "이야후",
+    "zh": "願增猿",
+    "fr": "Fortusimia",
+    "de": "Benesaru",
+    "es": "Munkidori",
+    "it": "Munkidori",
+    "en": "Munkidori",
+    "ja": "マシマシラ"
+  },
+  "1016": {
+    "ko": "기로치",
+    "zh": "吉雉雞",
+    "fr": "Favianos",
+    "de": "Beatori",
+    "es": "Fezandipiti",
+    "it": "Fezandipiti",
+    "en": "Fezandipiti",
+    "ja": "キチキギス"
+  },
+  "1017": {
+    "ko": "오거폰",
+    "zh": "厄鬼椪",
+    "fr": "Ogerpon",
+    "de": "Ogerpon",
+    "es": "Ogerpon",
+    "it": "Ogerpon",
+    "en": "Ogerpon",
+    "ja": "オーガポン"
+  }
+}

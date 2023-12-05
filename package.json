@@ -1,0 +1,21 @@
+{
+  "name": "shiny",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.0",
+    "json-2-csv": "^5.0.1",
+    "node-fetch": "^3.3.2",
+    "svelte": "^4.2.3",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "svelte-i18n": "^4.0.0"
+  }
+}
