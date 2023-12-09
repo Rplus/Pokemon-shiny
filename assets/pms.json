@@ -2617,6 +2617,13 @@
     "released_date": "2021/09/21"
   },
   {
+    "dex": 215,
+    "family": "Sneasel",
+    "aa_fn": "pm215.fHISUIAN",
+    "isotope": "_01",
+    "released_date": "2023/12/05"
+  },
+  {
     "dex": 216,
     "family": "Teddiursa",
     "released_date": "2020/03/26"
@@ -6934,6 +6941,8 @@
   },
   {
     "dex": 903,
+    "released_date": "2023/12/05",
+    "aa_fn": "pm903",
     "family": "Sneasel"
   },
   {
