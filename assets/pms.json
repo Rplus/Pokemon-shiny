@@ -6926,7 +6926,10 @@
     "family": "Calyrex"
   },
   {
-    "dex": 899
+    "dex": 899,
+    "released_date": "2023/12/23",
+    "aa_fn": "pm899",
+    "family": "Wyrdeer",
   },
   {
     "dex": 900,
