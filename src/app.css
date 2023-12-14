@@ -150,6 +150,7 @@ input[type="text"] {
 
 .float-btn {
 	position: fixed;
+	left: .5em;
 	bottom: .5rem;
 	z-index: 20;
 	width: 2rem;
