@@ -29,4 +29,8 @@
 
 	<List />
 
+	<footer>
+		<a href="https://leekduck.com/shiny/">https://leekduck.com/shiny/</a>
+	</footer>
+
 </main>

@@ -119,6 +119,8 @@ button:focus-visible {
  */
 
 .flex { display: flex; }
+.block { display: block; }
+.text-right { text-align: right; }
 
 
 .visually-hidden {

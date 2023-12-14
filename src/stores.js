@@ -8,6 +8,7 @@ export const default_config = {
 	order_by: 'group',
 	visible_status: [true, true, true, true, ],
 	colors: ['#dada0b', '#a1a112'],
+	tab: {},
 };
 
 export const config = writable({
@@ -75,8 +76,7 @@ if (init_urls[0]) {
 
 export const nickname = writable(init_nickname);
 
-
-
 const _data = await fetch_data(init_status);
+export const MAX_DEX = _data.MAX_DEX;
 export const pms = readable(_data.pms);
 export const pms_status = writable(_data.status);

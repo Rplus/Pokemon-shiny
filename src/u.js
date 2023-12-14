@@ -77,6 +77,13 @@ export function trans_qs_to_status(qs = '', fns) {
 	});
 }
 
+export function gen_href(record) {
+	if (!record) {
+		return '';
+	}
+	return `${location.origin}/?status=${record.status}&title=${record.title}}`
+}
+
 
 export function sort_by_prop(prop, dir = -1) {
 	return (dir === 1)

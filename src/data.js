@@ -30,9 +30,14 @@ export async function fetch_data(init_status = '') {
 	groups = [...new Set(groups)];
 	const len_factor = Math.pow(10, Math.ceil(Math.log10(pms.length))) + pms.length;
 
+	let MAX_DEX = 0;
 	pms = pms.map(pm => {
 		let dex_str = pm.fn.match(/pm(\d+)/)?.[1];
 		let dex = +dex_str;
+
+		if (dex > MAX_DEX) {
+			MAX_DEX = dex;
+		}
 
 		let group_index = groups.indexOf(pm.group);
 		if (group_index === -1) {
@@ -71,6 +76,7 @@ export async function fetch_data(init_status = '') {
 	pms = pms.slice(0, 87);
 
 	return {
+		MAX_DEX,
 		pms: pms,
 		status: trans_qs_to_status(init_status, pms),
 	};
