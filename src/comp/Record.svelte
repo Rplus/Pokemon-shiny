@@ -1,4 +1,5 @@
 <script>
+	import { _, locale } from 'svelte-i18n';
 	import {
 		default_nickname,
 		nickname,
@@ -7,9 +8,10 @@
 	} from '@/stores.js';
 
 	import {
-	  saveItem,
-	  trans_status_to_qs,
-	  trans_qs_to_status,
+		saveItem,
+		trans_status_to_qs,
+		trans_qs_to_status,
+		gen_href,
 	} from '@/u.js';
 
 	$: {
@@ -25,7 +27,14 @@
 	}
 
 	function remove(url) {
-		urls.remove(url);
+		let ans = window.confirm($_('remove.record', {
+			values: {
+				title: url.title,
+			}
+		}));
+		if (ans) {
+			urls.remove(url);
+		}
 	}
 
 	function apply(url) {
@@ -34,7 +43,7 @@
 	}
 
 	function gen_title(record) {
-  	return `${(record.time)}\x0A\x0A${decodeURIComponent(record.status).split('&').join('\x0A')}`;
+		return `${(record.time)}\x0A\x0A${decodeURIComponent(record.status).split('&').join('\x0A')}`;
 	}
 
 </script>
@@ -44,21 +53,14 @@
 	on:click={save}
 >💾</button>
 
-<fieldset>
-	<legend>Records</legend>
-
-	<div>
-		<button on:click={save}>💾 save</button>
-		<button>🔀 share</button>
-		<button>📦 export</button>
-	</div>
+<div>
 
 	{#if $urls.length}
 		<ul>
 			{#each $urls as url}
 				<li class:active={url.title === $nickname}>
 					<button on:click={() => remove(url)}>❌🗑️ </button>
-					<a href=""
+					<a href={gen_href(url)}
 						on:click|preventDefault={() => apply(url)}
 						title={gen_title(url)}
 					>
@@ -68,7 +70,13 @@
 			{/each}
 		</ul>
 	{/if}
-</fieldset>
+
+	<div class="text-right">
+		<hr>
+		<button on:click={save}>💾 save</button>
+	</div>
+
+</div>
 
 
 <style>

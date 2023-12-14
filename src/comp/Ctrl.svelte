@@ -5,9 +5,12 @@
 		default_config,
 	} from '@/stores.js';
 
+	import Order from '@comp/Order.svelte';
 	import Record from '@comp/Record.svelte';
+	import Share from '@comp/Share.svelte';
+	import Export from '@comp/Export.svelte';
 
-	let panel_visibility = false;
+	let panel_visibility = !false;
 
 	function reset_colors() {
 		$config.colors = {...default_config.colors};
@@ -31,61 +34,48 @@
 
 	<div class="ctrl-content" class:active={ panel_visibility }>
 
-		<fieldset>
-			<legend>Order by</legend>
+		<details bind:open={$config.tab.orderby}>
+			<summary>🔃 {$_('order')}</summary>
+			<Order />
+		</details>
 
-			<label>
-				<input type="radio"
-					bind:group={$config.order_by}
-					value="group"
-				/>
-				Group
-			</label>
+		<details bind:open={$config.tab.record}>
+			<summary>💾 {$_('record')}</summary>
+			<Record />
+		</details>
 
-			<label>
-				<input type="radio"
-					bind:group={$config.order_by}
-					value="dex"
-				/>
-				Pokedex
-			</label>
+		<details bind:open={$config.tab.share}>
+			<summary>🔀 {$_('share')}</summary>
+			<Share />
+		</details>
 
-			<label>
-				<input type="radio"
-					bind:group={$config.order_by}
-					value="time"
-				/>
-				Time
-			</label>
+		<details bind:open={$config.tab.export}>
+			<summary>📥 {$_('export')}</summary>
+			<Export />
+		</details>
 
-			<!-- TODO: -->
-			<!-- Dex Filter -->
-		</fieldset>
+		<details bind:open={$config.tab.ui}>
+			<summary>🔧 {$_('UI')}</summary>
+			<div>
+				<label>
+					🌐 {$_('lang')}
+					<select bind:value={$locale}>
+						{#each $locales as lang}
+							<option value={lang} label={lang} />
+						{/each}
+					</select>
+				</label>
 
-		<fieldset>
-			<legend>UI</legend>
+				<hr>
 
-			<label>
-				🌐 {$_('lang')}
-				<select bind:value={$locale}>
-					{#each $locales as lang}
-						<option value={lang} label={lang} />
-					{/each}
-				</select>
-			</label>
-
-			<hr>
-
-			<div>🎨 {$_('colors')}</div>
-			<div class="flex" style="gap: .5em">
-				<input type="color" bind:value={$config.colors[0]}>
-				<input type="color" bind:value={$config.colors[1]}>
-				<input type="reset" on:click={reset_colors}>
+				<div>🎨 {$_('colors')}</div>
+				<div class="flex" style="gap: .5em; margin-inline-start: 1.5em;">
+					<input type="color" bind:value={$config.colors[0]}>
+					<input type="color" bind:value={$config.colors[1]}>
+					<input type="reset" on:click={reset_colors}>
+				</div>
 			</div>
-		</fieldset>
-
-
-		<Record />
+		</details>
 
 	</div>
 
@@ -106,8 +96,9 @@
 		left: 1em;
 		bottom: 1em;
 		z-index: 11;
+		min-width: 250px;
 		max-width: calc(100% - 2em);
-		padding: 1em 5vmin 5em;
+		padding: 1em .5em 2em;
 		background-color: #fff;
 		overflow: auto;
 		box-shadow: .1em 0 .5em #0006;
@@ -139,5 +130,50 @@
 			-webkit-backdrop-filter: blur(3px);
 			backdrop-filter: blur(3px);
 		}
+	}
+
+	details {
+		margin-bottom: 1em;
+		padding: .5em .5rem;
+
+		& ul {
+			padding-left: 2em;
+		}
+
+		&:not([open]) summary::after {
+			rotate: 0deg;
+		}
+	}
+
+	summary {
+		position: relative;
+		padding: .5em 2em .5em 1em;
+		margin-left: -1em;
+		margin-right: -1em;
+		background-color: #eee;
+		cursor: pointer;
+
+		&::before,
+		&::after {
+			content: '';
+			position: absolute;
+			top: 50%;
+			translate: 0 -50%;
+			right: 1em;
+			width: 3px;
+			height: 1em;
+			background-color: #ccc;
+			rotate: 90deg;
+			transition: rotate .2s;
+		}
+
+		&::marker {
+			content: '';
+		}
+
+		& + div {
+			margin-top: 0.5em;
+		}
+
 	}
 </style>

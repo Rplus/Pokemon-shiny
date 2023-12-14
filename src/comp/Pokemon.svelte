@@ -16,7 +16,7 @@
 </script>
 
 
-<div class="item"
+<div class="item pokedex-{pm.dex}"
 	class:group-end={pm.group_end}
 	class:group-start={pm.group_start}
 
