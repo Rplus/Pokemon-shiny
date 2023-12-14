@@ -706,6 +706,20 @@
   },
   {
     "dex": 25,
+    "isotope": "_23c",
+    "released_date": "2023/12/18",
+    "aa_fn": "pm25.cHOLIDAY_2023",
+    "family": "Pikachu_23c"
+  },
+  {
+    "dex": 26,
+    "isotope": "_23c",
+    "released_date": "2023/12/18",
+    "aa_fn": "pm26.cHOLIDAY_2023",
+    "family": "Pikachu_23c"
+  },
+  {
+    "dex": 25,
     "isotope": "_23d",
     "released_date": "2023/10/05",
     "aa_fn": "pm25.cPI",
