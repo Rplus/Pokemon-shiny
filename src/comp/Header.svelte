@@ -91,6 +91,7 @@
 		align-items: center;
 		margin: 0 auto;
 		gap: 2vw;
+		user-select: none;
 	}
 
 	.status-count {
