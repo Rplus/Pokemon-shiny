@@ -22,15 +22,14 @@
 		bind:checked={ panel_visibility }
 	/>
 
-  <label for="ctrl-switch"
-  	class="float-btn"
-  	class:active={ panel_visibility }
-  	style="--left: .5em;"
+	<label for="ctrl-switch"
+		class="float-btn"
+		class:active={ panel_visibility }
 	>
 		⚙️
 	</label>
 
-  <div class="ctrl-content" class:active={ panel_visibility }>
+	<div class="ctrl-content" class:active={ panel_visibility }>
 
 		<fieldset>
 			<legend>Order by</legend>
@@ -88,12 +87,12 @@
 
 		<Record />
 
-  </div>
+	</div>
 
-  <label
-  	for="ctrl-switch"
-  	class="ctrl-switch-overlay"
-  	class:active={ panel_visibility }
+	<label
+		for="ctrl-switch"
+		class="ctrl-switch-overlay"
+		class:active={ panel_visibility }
 	/>
 
 </aside>
