@@ -46,6 +46,14 @@
 			<label>
 				<input type="radio"
 					bind:group={$config.order_by}
+					value="dex"
+				/>
+				Pokedex
+			</label>
+
+			<label>
+				<input type="radio"
+					bind:group={$config.order_by}
 					value="time"
 				/>
 				Time

@@ -36,11 +36,17 @@
 		column-gap: .25em;
 		row-gap: .75em;
 
+		&[data-order-by="dex"] .item {
+			order: var(--dex-order);
+		}
+
 		&[data-order-by="time"] .item {
 			order: var(--time-order);
 		}
 
 		&[data-order-by="group"] {
+			order: var(--group-order);
+
 			& .item {
 				&.group-start { margin-inline-start: .5em; }
 				&.group-end { margin-inline-end: .5em; }

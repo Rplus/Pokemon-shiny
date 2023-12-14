@@ -23,6 +23,7 @@
 	data-status={status}
 	style="
 		--group-order: {pm.g_order};
+		--dex-order: {pm.dex};
 		--time-order: {pm.t_order};"
 >
 	<details>
