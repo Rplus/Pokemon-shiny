@@ -983,6 +983,20 @@
     "released_date": "2019/01/25"
   },
   {
+    "dex": 54,
+    "family": "Psyduck",
+    "isotope": "_23",
+    "aa_fn": "pm54.cHOLIDAY_2023",
+    "released_date": "2023/12/18"
+  },
+  {
+    "dex": 55,
+    "family": "Psyduck",
+    "isotope": "_23",
+    "aa_fn": "pm55.cHOLIDAY_2023",
+    "released_date": "2023/12/18"
+  },
+  {
     "dex": 56,
     "family": "Mankey",
     "released_date": "2019/03/05"
