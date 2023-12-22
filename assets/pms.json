@@ -6231,6 +6231,24 @@
     "family": "Zygarde"
   },
   {
+    "dex": 722,
+    "family": "Rowlet",
+    "released_date": "2024/01/06",
+    "aa_fn": "pm722"
+  },
+  {
+    "dex": 723,
+    "family": "Rowlet",
+    "released_date": "2024/01/06",
+    "aa_fn": "pm723"
+  },
+  {
+    "dex": 724,
+    "family": "Rowlet",
+    "released_date": "2024/01/06",
+    "aa_fn": "pm724"
+  },
+  {
     "dex": 734,
     "family": "Yungoos",
     "released_date": "2022/03/01",
