@@ -6299,6 +6299,13 @@
     "aa_fn": "pm745.fMIDNIGHT"
   },
   {
+    "dex": 745,
+    "family": "Rockruff",
+    "released_date": "2023/01/06",
+    "isotope": "_e",
+    "aa_fn": "pm745.fDUSK"
+  },
+  {
     "dex": 751,
     "aa_fn": "pm751",
     "released_date": "2023/08/04",
