@@ -6289,6 +6289,7 @@
     "family": "Rockruff",
     "released_date": "2022/03/01",
     "isotope": "_d",
+    "name_suffix": "🌞",
     "aa_fn": "pm745.fMIDDAY"
   },
   {
@@ -6296,6 +6297,7 @@
     "family": "Rockruff",
     "released_date": "2021/03/01",
     "isotope": "_n",
+    "name_suffix": "🌙",
     "aa_fn": "pm745.fMIDNIGHT"
   },
   {
@@ -6303,6 +6305,7 @@
     "family": "Rockruff",
     "released_date": "2023/01/06",
     "isotope": "_e",
+    "name_suffix": "🌓",
     "aa_fn": "pm745.fDUSK"
   },
   {
