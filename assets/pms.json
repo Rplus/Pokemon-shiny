@@ -4674,9 +4674,23 @@
     "family": "Dialga"
   },
   {
+    "dex": 483,
+    "released_date": "2024/02/17",
+    "isotope": "_01",
+    "aa_fn": "pm483.fORIGIN",
+    "family": "Dialga"
+  },
+  {
     "dex": 484,
     "family": "Palkia",
     "released_date": "2021/08/06"
+  },
+  {
+    "dex": 484,
+    "released_date": "2024/02/17",
+    "isotope": "_01",
+    "aa_fn": "pm484.fORIGIN",
+    "family": "Palkia"
   },
   {
     "dex": 485,
