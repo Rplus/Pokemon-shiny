@@ -848,11 +848,13 @@
   {
     "dex": 39,
     "family": "Jigglypuff",
+    "aa_fn": "pm39",
     "released_date": "2019/04/16"
   },
   {
     "dex": 39,
     "family": "Jigglypuff",
+    "isotope": "_c24",
     "aa_fn": "pm39.cJAN_2024",
     "released_date": "2024/01/01"
   },
