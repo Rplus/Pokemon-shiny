@@ -610,6 +610,13 @@
   },
   {
     "dex": 25,
+    "isotope": "_t03",
+    "released_date": "2024/03/02",
+    "aa_fn": "pm25.fTSHIRT_03",
+    "family": "Pikachu_t03"
+  },
+  {
+    "dex": 25,
     "isotope": "_f02",
     "released_date": "2022/11/24",
     "aa_fn": "pm25.fFLYING_02",
@@ -696,6 +703,13 @@
     "released_date": "2023/07/28",
     "aa_fn": "pm25.fFLYING_03",
     "family": "Pikachu_23fly"
+  },
+  {
+    "dex": 25,
+    "isotope": "_24fly",
+    "released_date": "2024/03/02",
+    "aa_fn": "pm25.fFLYING_04",
+    "family": "Pikachu_24fly"
   },
   {
     "dex": 25,
