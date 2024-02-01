@@ -645,6 +645,34 @@
   },
   {
     "dex": 25,
+    "isotope": "_g24a",
+    "released_date": "2024/02/17",
+    "aa_fn": "pm25.fGOTOUR_2024_A",
+    "family": "Pikachu_gotour_24"
+  },
+  {
+    "dex": 25,
+    "isotope": "_g24b",
+    "released_date": "2024/02/17",
+    "aa_fn": "pm25.fGOTOUR_2024_A_02",
+    "family": "Pikachu_gotour_24"
+  },
+  {
+    "dex": 25,
+    "isotope": "_g24c",
+    "released_date": "2024/02/17",
+    "aa_fn": "pm25.fGOTOUR_2024_B",
+    "family": "Pikachu_gotour_24"
+  },
+  {
+    "dex": 25,
+    "isotope": "_g24d",
+    "released_date": "2024/02/17",
+    "aa_fn": "pm25.fGOTOUR_2024_B_02",
+    "family": "Pikachu_gotour_24"
+  },
+  {
+    "dex": 25,
     "isotope": "_23s",
     "released_date": "2023/04/04",
     "aa_fn": "pm25.cSPRING_2023",
@@ -1426,9 +1454,23 @@
     "released_date": "2020/05/08"
   },
   {
+    "dex": 100,
+    "family": "Voltorb",
+    "aa_fn": "pm100.fHISUIAN",
+    "isotope": "_01",
+    "released_date": "2024/02/17"
+  },
+  {
     "dex": 101,
     "family": "Voltorb",
     "released_date": "2020/05/08"
+  },
+  {
+    "dex": 101,
+    "family": "Voltorb",
+    "aa_fn": "pm101.fHISUIAN",
+    "isotope": "_01",
+    "released_date": "2024/02/17"
   },
   {
     "dex": 102,
@@ -2639,6 +2681,13 @@
     "dex": 211,
     "shiny_released": true,
     "family": "Qwilfish"
+  },
+  {
+    "dex": 211,
+    "family": "Qwilfish",
+    "aa_fn": "pm211.fHISUIAN",
+    "isotope": "_01",
+    "released_date": "2024/02/17"
   },
   {
     "dex": 212,
@@ -4310,6 +4359,8 @@
   {
     "dex": 433,
     "family": "Chimecho",
+    "released_date": "2024/02/17",
+    "aa_fn": "pm433",
     "order": -1
   },
   {
@@ -7082,6 +7133,8 @@
   },
   {
     "dex": 904,
+    "aa_fn": "pm904",
+    "released_date": "2024/02/17"
     "family": "Qwilfish"
   },
   {
