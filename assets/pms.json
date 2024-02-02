@@ -4365,11 +4365,15 @@
   },
   {
     "dex": 434,
-    "family": "Stunky"
+    "family": "Stunky",
+    "released_date": "2024/02/24",
+    "aa_fn": "pm434"
   },
   {
     "dex": 435,
-    "family": "Stunky"
+    "family": "Stunky",
+    "released_date": "2024/02/24",
+    "aa_fn": "pm435"
   },
   {
     "dex": 436,
