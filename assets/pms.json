@@ -6396,24 +6396,28 @@
   {
     "dex": 741,
     "family": "Oricorio",
+    "isotope": "_o01",
     "released_date": "2024/02/13",
     "aa_fn": "pm741.fBAILE"
   },
   {
     "dex": 741,
     "family": "Oricorio",
+    "isotope": "_o02",
     "released_date": "2024/02/13",
     "aa_fn": "pm741.fPAU"
   },
   {
     "dex": 741,
     "family": "Oricorio",
+    "isotope": "_o03",
     "released_date": "2024/02/13",
     "aa_fn": "pm741.fPOMPOM"
   },
   {
     "dex": 741,
     "family": "Oricorio",
+    "isotope": "_o04",
     "released_date": "2024/02/13",
     "aa_fn": "pm741.fSENSU"
   },
