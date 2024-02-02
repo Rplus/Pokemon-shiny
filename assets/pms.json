@@ -4812,7 +4812,17 @@
   },
   {
     "dex": 492,
-    "family": "Shaymin"
+    "family": "Shaymin",
+    "released_date": "2024/02/24",
+    "isotope": "_s01",
+    "aa_fn": "pm492.fSKY"
+  },
+  {
+    "dex": 492,
+    "family": "Shaymin",
+    "released_date": "2024/02/24",
+    "isotope": "_s02",
+    "aa_fn": "pm492.fLAND"
   },
   {
     "dex": 493,
