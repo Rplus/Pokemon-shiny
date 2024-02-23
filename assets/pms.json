@@ -610,6 +610,13 @@
   },
   {
     "dex": 25,
+    "isotope": "_t03",
+    "released_date": "2024/03/02",
+    "aa_fn": "pm25.fTSHIRT_03",
+    "family": "Pikachu_t03"
+  },
+  {
+    "dex": 25,
     "isotope": "_f02",
     "released_date": "2022/11/24",
     "aa_fn": "pm25.fFLYING_02",
@@ -635,6 +642,34 @@
     "released_date": "2022/12/31",
     "aa_fn": "pm25.cGOTOUR_2023_BANDANA",
     "family": "Pikachu_gotour_bandana"
+  },
+  {
+    "dex": 25,
+    "isotope": "_g24a",
+    "released_date": "2024/02/17",
+    "aa_fn": "pm25.fGOTOUR_2024_A",
+    "family": "Pikachu_gotour_24"
+  },
+  {
+    "dex": 25,
+    "isotope": "_g24b",
+    "released_date": "2024/02/17",
+    "aa_fn": "pm25.fGOTOUR_2024_A_02",
+    "family": "Pikachu_gotour_24"
+  },
+  {
+    "dex": 25,
+    "isotope": "_g24c",
+    "released_date": "2024/02/17",
+    "aa_fn": "pm25.fGOTOUR_2024_B",
+    "family": "Pikachu_gotour_24"
+  },
+  {
+    "dex": 25,
+    "isotope": "_g24d",
+    "released_date": "2024/02/17",
+    "aa_fn": "pm25.fGOTOUR_2024_B_02",
+    "family": "Pikachu_gotour_24"
   },
   {
     "dex": 25,
@@ -696,6 +731,13 @@
     "released_date": "2023/07/28",
     "aa_fn": "pm25.fFLYING_03",
     "family": "Pikachu_23fly"
+  },
+  {
+    "dex": 25,
+    "isotope": "_24fly",
+    "released_date": "2024/03/02",
+    "aa_fn": "pm25.fFLYING_04",
+    "family": "Pikachu_24fly"
   },
   {
     "dex": 25,
@@ -1412,9 +1454,23 @@
     "released_date": "2020/05/08"
   },
   {
+    "dex": 100,
+    "family": "Voltorb",
+    "aa_fn": "pm100.fHISUIAN",
+    "isotope": "_01",
+    "released_date": "2024/02/17"
+  },
+  {
     "dex": 101,
     "family": "Voltorb",
     "released_date": "2020/05/08"
+  },
+  {
+    "dex": 101,
+    "family": "Voltorb",
+    "aa_fn": "pm101.fHISUIAN",
+    "isotope": "_01",
+    "released_date": "2024/02/17"
   },
   {
     "dex": 102,
@@ -2625,6 +2681,13 @@
     "dex": 211,
     "shiny_released": true,
     "family": "Qwilfish"
+  },
+  {
+    "dex": 211,
+    "family": "Qwilfish",
+    "aa_fn": "pm211.fHISUIAN",
+    "isotope": "_01",
+    "released_date": "2024/02/17"
   },
   {
     "dex": 212,
@@ -4296,15 +4359,21 @@
   {
     "dex": 433,
     "family": "Chimecho",
+    "released_date": "2024/02/17",
+    "aa_fn": "pm433",
     "order": -1
   },
   {
     "dex": 434,
-    "family": "Stunky"
+    "family": "Stunky",
+    "released_date": "2024/02/24",
+    "aa_fn": "pm434"
   },
   {
     "dex": 435,
-    "family": "Stunky"
+    "family": "Stunky",
+    "released_date": "2024/02/24",
+    "aa_fn": "pm435"
   },
   {
     "dex": 436,
@@ -4660,6 +4729,8 @@
   },
   {
     "dex": 479,
+    "aa_fn": "pm479",
+    "released_date": "2024/02/17",
     "family": "Rotom"
   },
   {
@@ -4743,7 +4814,17 @@
   },
   {
     "dex": 492,
-    "family": "Shaymin"
+    "family": "Shaymin",
+    "released_date": "2024/02/24",
+    "isotope": "_s01",
+    "aa_fn": "pm492.fSKY"
+  },
+  {
+    "dex": 492,
+    "family": "Shaymin",
+    "released_date": "2024/02/24",
+    "isotope": "_s02",
+    "aa_fn": "pm492.fLAND"
   },
   {
     "dex": 493,
@@ -6292,6 +6373,13 @@
     "aa_fn": "pm724"
   },
   {
+    "dex": 724,
+    "family": "Rowlet",
+    "isotope": "_01",
+    "released_date": "2024/02/11",
+    "aa_fn": "pm724.fHISUIAN"
+  },
+  {
     "dex": 734,
     "family": "Yungoos",
     "released_date": "2022/03/01",
@@ -6320,6 +6408,34 @@
     "family": "Grubbin",
     "released_date": "2023/09/23",
     "aa_fn": "pm738"
+  },
+  {
+    "dex": 741,
+    "family": "Oricorio",
+    "isotope": "_o01",
+    "released_date": "2024/02/13",
+    "aa_fn": "pm741.fBAILE"
+  },
+  {
+    "dex": 741,
+    "family": "Oricorio",
+    "isotope": "_o02",
+    "released_date": "2024/02/13",
+    "aa_fn": "pm741.fPAU"
+  },
+  {
+    "dex": 741,
+    "family": "Oricorio",
+    "isotope": "_o03",
+    "released_date": "2024/02/13",
+    "aa_fn": "pm741.fPOMPOM"
+  },
+  {
+    "dex": 741,
+    "family": "Oricorio",
+    "isotope": "_o04",
+    "released_date": "2024/02/13",
+    "aa_fn": "pm741.fSENSU"
   },
   {
     "dex": 742,
@@ -6502,6 +6618,8 @@
   },
   {
     "dex": 780,
+    "aa_fn": "pm780",
+    "released_date": "2023/02/05",
     "family": "drampa"
   },
   {
@@ -7066,6 +7184,8 @@
   },
   {
     "dex": 904,
+    "aa_fn": "pm904",
+    "released_date": "2024/02/17",
     "family": "Qwilfish"
   },
   {
