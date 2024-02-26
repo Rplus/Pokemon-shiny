@@ -2732,7 +2732,7 @@
   },
   {
     "dex": 215,
-    "family": "Sneasel",
+    "family": "Sneasel_Hisuian",
     "aa_fn": "pm215.fHISUIAN",
     "isotope": "_01",
     "released_date": "2023/12/05"
@@ -7180,7 +7180,7 @@
     "dex": 903,
     "released_date": "2023/12/05",
     "aa_fn": "pm903",
-    "family": "Sneasel"
+    "family": "Sneasel_Hisuian"
   },
   {
     "dex": 904,
