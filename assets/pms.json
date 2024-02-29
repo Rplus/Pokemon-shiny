@@ -1070,7 +1070,7 @@
   },
   {
     "dex": 58,
-    "family": "Growlithe",
+    "family": "Growlithe_Hisuian",
     "isotope": "_01",
     "released_date": "2023/09/27",
     "aa_fn": "pm58.fHISUIAN"
@@ -1082,7 +1082,7 @@
   },
   {
     "dex": 59,
-    "family": "Growlithe",
+    "family": "Growlithe_Hisuian",
     "isotope": "_01",
     "released_date": "2023/09/27",
     "aa_fn": "pm59.fHISUIAN"
