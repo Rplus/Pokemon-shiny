@@ -1,5 +1,5 @@
 import pm_csv_url from './assets/data/pm.csv?url';
-import name_json_url from './assets/data/name.min.json?url';
+// import name_json_url from './assets/data/name.min.json?url';
 import name_csv_url from './assets/data/name.csv?url';
 import { csv2json, trans_qs_to_status, } from './u.js';
 

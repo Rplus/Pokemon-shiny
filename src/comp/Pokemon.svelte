@@ -40,11 +40,13 @@
 	<div class="img-box"
 		on:click={update_pm_status}
 	>
+	<!--
 		<Image
 			fn={pm.fn}
 			shiny={false}
 			ext={pm.ext}
 		/>
+	-->
 	</div>
 </div>
 

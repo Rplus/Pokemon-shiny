@@ -10,9 +10,30 @@
 		.map((i, index) => i ? '' : ` hidden-status-${index}`)
 		.join('');
 
+	$: console.log(11, $pms_status);
+
+	function reset_all() {
+		console.log('reset_all');
+		pms_status.set($pms_status.map(i => {
+			i.status = 0;
+			return i;
+		}))
+	}
+	function select_all() {
+		pms_status.set($pms_status.map(i => {
+			if (!i.status) {
+				i.status = 1;
+			}
+			return i;
+		}))
+	}
+
 </script>
 
 
+
+<button on:click={select_all}>selector all</button>
+<button on:click={reset_all}>reset all</button>
 
 <div
 	class="list {hidden_status_classes}"

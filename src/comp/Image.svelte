@@ -21,6 +21,7 @@
 	loading="lazy"
 	width="128"
 	height="128"
+	decoding="async"
 	alt=""
 	{...$$restProps}
 />

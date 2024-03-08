@@ -5,6 +5,7 @@
 		default_config,
 	} from '@/stores.js';
 
+	import Lang from '@comp/Lang.svelte';
 	import Order from '@comp/Order.svelte';
 	import Record from '@comp/Record.svelte';
 	import Share from '@comp/Share.svelte';
@@ -57,14 +58,7 @@
 		<details bind:open={$config.tab.ui}>
 			<summary>🔧 {$_('UI')}</summary>
 			<div>
-				<label>
-					🌐 {$_('lang')}
-					<select bind:value={$locale}>
-						{#each $locales as lang}
-							<option value={lang} label={lang} />
-						{/each}
-					</select>
-				</label>
+				<Lang />
 
 				<hr>
 
@@ -74,6 +68,13 @@
 					<input type="color" bind:value={$config.colors[1]}>
 					<input type="reset" on:click={reset_colors}>
 				</div>
+
+				<hr>
+				<label class="flex">
+					🔎
+					<input type="checkbox" bind:checked={$config.compare}>
+					{$_('compare.image')}
+				</label>
 			</div>
 		</details>
 
@@ -98,10 +99,12 @@
 		z-index: 11;
 		min-width: 250px;
 		max-width: calc(100% - 2em);
-		padding: 1em .5em 2em;
+		padding: 1em .5em 3em;
 		background-color: #fff;
 		overflow: auto;
 		box-shadow: .1em 0 .5em #0006;
+		line-height: 1.75;
+		font-size: smaller;
 
 		&:not(.active) {
 			visibility: hidden;
@@ -133,11 +136,11 @@
 	}
 
 	details {
-		margin-bottom: 1em;
+		margin-bottom: .5em;
 		padding: .5em .5rem;
 
 		& ul {
-			padding-left: 2em;
+			padding-left: 1em;
 		}
 
 		&:not([open]) summary::after {

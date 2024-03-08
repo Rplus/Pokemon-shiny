@@ -33,6 +33,10 @@ let _words = {
 		'en': 'Record',
 		'zh': '紀錄',
 	},
+	'record.save': {
+		'en': 'Save',
+		'zh': '儲存',
+	},
 	'share': {
 		'en': 'Share',
 		'zh': '分享',
@@ -74,6 +78,10 @@ let _words = {
 	'colors': {
 		'en': 'Custom colors',
 		'zh': '自訂顏色',
+	},
+	'compare.image': {
+		'en': 'Compare image',
+		'zh': '對照圖片',
 	},
 	'lang': {
 		'en': 'Language',

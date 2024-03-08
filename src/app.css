@@ -1,5 +1,5 @@
 :root {
-	/* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 	line-height: 1.5;
 	font-weight: 400;
 
@@ -13,27 +13,45 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-text-size-adjust: 100%;
+
+	--link-color: #9c27b0;
+	--link-color-inactive: #aaa;
 }
 
 body {
 	margin: 0;
 	min-width: 320px;
 	min-height: 100vh;
-  overflow-y: scroll;
+	overflow-y: scroll;
 }
 
 body:active::-webkit-scrollbar-thumb {
-  background: #0006;
+	background: #0006;
 }
 ::-webkit-scrollbar {
-  width: 6px;
-  background: #0002;
+	width: 6px;
+	background: #0002;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #0003;
+	background: #0003;
 }
 
+
+a {
+	color: var(--link-color);
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+hr {
+	border-color: #0000;
+	border-top: 2px dashed #0001;
+	max-width: 90%;
+}
 
 /* :root {
 	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -135,10 +153,16 @@ button:focus-visible {
 	border: 0;
 }
 
+button,
+input,
+select {
+	font-family: inherit;
+}
+
 select {
 	text-transform: uppercase;
 	font-family: monospace;
-	font-size: 1.2rem;
+	font-size: 1rem;
 }
 
 label {

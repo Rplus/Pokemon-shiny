@@ -59,12 +59,12 @@
 		<ul>
 			{#each $urls as url}
 				<li class:active={url.title === $nickname}>
-					<button on:click={() => remove(url)}>❌🗑️ </button>
+					<button class="remove" on:click={() => remove(url)}>🗑️</button>
 					<a href={gen_href(url)}
 						on:click|preventDefault={() => apply(url)}
 						title={gen_title(url)}
 					>
-						👁️‍🗨️ {url.title}
+						◾️ {url.title}
 					</a>
 				</li>
 			{/each}
@@ -73,14 +73,37 @@
 
 	<div class="text-right">
 		<hr>
-		<button on:click={save}>💾 save</button>
+		<button on:click={save}>💾 {$_('record.save')}</button>
 	</div>
 
 </div>
 
 
 <style>
-	li.active {
-		background-color: #ff03;
+	li {
+		list-style: none;
+	}
+
+	li > a {
+		border-left: 2px dotted transparent;
+		padding-left: .51em;
+	}
+
+	li.active a {
+		border-left-color: currentcolor;
+	}
+
+	li.active,
+	li:hover {
+		--op: 1;
+	}
+
+	.remove {
+		padding: 0;
+		border-color: #0000;
+		background-color: unset;
+		opacity: var(--op, .5);
+		cursor: pointer;
+		transition: opacity .3s;
 	}
 </style>

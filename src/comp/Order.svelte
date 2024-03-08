@@ -58,7 +58,8 @@
 	<div style="padding-left: 1.5em">
 		<!-- TODO: -->
 		<!-- Dex Filter -->
-		↔️ {$_('order.dex.range')}
+		<code>↔️</code>
+		{$_('order.dex.range')}
 		<div class="flex">
 			<input type="range" bind:value={dex_range_1} max={MAX_DEX} min={1} step="1">
 			<input type="number" bind:value={dex_range_1} max={MAX_DEX} min={1} step="1">
@@ -70,3 +71,9 @@
 		</div>
 	</div>
 </div>
+
+<style>
+	code {
+		font-family: monospace;
+	}
+</style>
