@@ -5860,14 +5860,107 @@
   },
   {
     "dex": 669,
+    "type": "_01",
+    "aa_fn": "pm669.fWHITE",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 669,
+    "type": "_02",
+    "aa_fn": "pm669.fORANGE",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 669,
+    "type": "_03",
+    "aa_fn": "pm669.fYELLOW",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 669,
+    "type": "_04",
+    "aa_fn": "pm669.fRED",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 669,
+    "type": "_05",
+    "aa_fn": "pm669.fBLUE",
+    "released_date": "2024/03/26",
     "family": "Flabebe"
   },
   {
     "dex": 670,
+    "type": "_01",
+    "aa_fn": "pm670.fWHITE",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 670,
+    "type": "_02",
+    "aa_fn": "pm670.fORANGE",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 670,
+    "type": "_03",
+    "aa_fn": "pm670.fYELLOW",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 670,
+    "type": "_04",
+    "aa_fn": "pm670.fRED",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 670,
+    "type": "_05",
+    "aa_fn": "pm670.fBLUE",
+    "released_date": "2024/03/26",
     "family": "Flabebe"
   },
   {
     "dex": 671,
+    "type": "_01",
+    "aa_fn": "pm671.fWHITE",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 671,
+    "type": "_02",
+    "aa_fn": "pm671.fORANGE",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 671,
+    "type": "_03",
+    "aa_fn": "pm671.fYELLOW",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 671,
+    "type": "_04",
+    "aa_fn": "pm671.fRED",
+    "released_date": "2024/03/26",
+    "family": "Flabebe"
+  },
+  {
+    "dex": 671,
+    "type": "_05",
+    "aa_fn": "pm671.fBLUE",
+    "released_date": "2024/03/26",
     "family": "Flabebe"
   },
   {
