@@ -6680,10 +6680,14 @@
   },
   {
     "dex": 767,
+    "aa_fn": "pm767",
+    "released_date": "2024/04/04",
     "family": "wimpod"
   },
   {
     "dex": 768,
+    "aa_fn": "pm768",
+    "released_date": "2024/04/04",
     "family": "wimpod"
   },
   {
