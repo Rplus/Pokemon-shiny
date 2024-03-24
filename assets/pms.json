@@ -5121,6 +5121,20 @@
   {
     "dex": 547,
     "family": "Cottonee",
+    "released_date": "2024/03/21"
+  },
+  {
+    "dex": 546,
+    "family": "Cottonee_s24",
+    "isotope": "_s24",
+    "aa_fn": "pm546.cSPRING_2024",
+    "released_date": "2024/03/21"
+  },
+  {
+    "dex": 547,
+    "family": "Cottonee_s24",
+    "aa_fn": "pm547.cSPRING_2024",
+    "isotope": "_s24",
     "released_date": "2022/03/22"
   },
   {
