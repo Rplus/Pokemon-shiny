@@ -5166,14 +5166,20 @@
   },
   {
     "dex": 551,
+    "released_date": "2024/03/27",
+    "aa_fn": "pm551",
     "family": "Sandile"
   },
   {
     "dex": 552,
+    "released_date": "2024/03/27",
+    "aa_fn": "pm552",
     "family": "Sandile"
   },
   {
     "dex": 553,
+    "released_date": "2024/03/27",
+    "aa_fn": "pm553",
     "family": "Sandile"
   },
   {
@@ -6368,7 +6374,7 @@
     "isotope": "_c22xs",
     "aa_fn": "pm710.fSMALL.cFALL_2022",
     "style": "--w: 110%; --t: 15%; --l: 5%;",
-    "name_suffix": " (XS)",
+    "name_suffix": "🎩 (XS)",
     "family": "Pumpkaboo_2022"
   },
   {
@@ -6377,6 +6383,7 @@
     "isotope": "_c22",
     "aa_fn": "pm710.fAVERAGE.cFALL_2022",
     "style": "--w: 110%; --t: 15%; --l: 5%;",
+    "name_suffix": "🎩",
     "family": "Pumpkaboo_2022"
   },
   {
@@ -6385,7 +6392,7 @@
     "isotope": "_c22xl",
     "aa_fn": "pm710.fLARGE.cFALL_2022",
     "style": "--w: 110%; --t: 15%; --l: 5%;",
-    "name_suffix": " (XL)",
+    "name_suffix": "🎩 (XL)",
     "family": "Pumpkaboo_2022"
   },
   {
@@ -6394,7 +6401,7 @@
     "isotope": "_c22xxl",
     "aa_fn": "pm710.fSUPER.cFALL_2022",
     "style": "--w: 110%; --t: 15%; --l: 5%;",
-    "name_suffix": " (XXL)",
+    "name_suffix": "🎩 (XXL)",
     "family": "Pumpkaboo_2022"
   },
   {
@@ -6403,7 +6410,7 @@
     "isotope": "_c22xs",
     "aa_fn": "pm711.fSMALL.cFALL_2022",
     "style": "--w: 110%; --t: 3%; --l: 5%;",
-    "name_suffix": " (XS)",
+    "name_suffix": "🎩 (XS)",
     "family": "Pumpkaboo_2022"
   },
   {
@@ -6412,6 +6419,7 @@
     "isotope": "_c22",
     "aa_fn": "pm711.fAVERAGE.cFALL_2022",
     "style": "--w: 110%; --t: 3%; --l: 5%;",
+    "name_suffix": "🎩",
     "family": "Pumpkaboo_2022"
   },
   {
@@ -6420,7 +6428,7 @@
     "isotope": "_c22xl",
     "aa_fn": "pm711.fLARGE.cFALL_2022",
     "style": "--w: 110%; --t: 3%; --l: 5%;",
-    "name_suffix": " (XL)",
+    "name_suffix": "🎩 (XL)",
     "family": "Pumpkaboo_2022"
   },
   {
@@ -6429,7 +6437,7 @@
     "isotope": "_c22xxl",
     "aa_fn": "pm711.fSUPER.cFALL_2022",
     "style": "--w: 110%; --t: 3%; --l: 5%;",
-    "name_suffix": " (XXL)",
+    "name_suffix": "🎩 (XXL)",
     "family": "Pumpkaboo_2022"
   },
   {
