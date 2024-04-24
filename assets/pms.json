@@ -789,6 +789,20 @@
     "family": "Pikachu_fH"
   },
   {
+    "dex": 25,
+    "isotope": "_GF24M",
+    "released_date": "2024/05/30",
+    "aa_fn": "pm25.fGOFEST_2024_MTIARA",
+    "family": "Pikachu_GF24"
+  },
+  {
+    "dex": 25,
+    "isotope": "_GF24T",
+    "released_date": "2024/05/30",
+    "aa_fn": "pm25.fGOFEST_2024_STIARA",
+    "family": "Pikachu_GF24"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
@@ -1766,6 +1780,20 @@
     "family": "Eevee_23m"
   },
   {
+    "dex": 133,
+    "isotope": "_GF24M",
+    "released_date": "2024/05/30",
+    "aa_fn": "pm133.fGOFEST_2024_MTIARA",
+    "family": "Eevee_GF24"
+  },
+  {
+    "dex": 133,
+    "isotope": "_GF24T",
+    "released_date": "2024/05/30",
+    "aa_fn": "pm133.fGOFEST_2024_STIARA",
+    "family": "Eevee_GF24"
+  },
+  {
     "dex": 134,
     "family": "Eevee",
     "released_date": "2018/08/11"
@@ -2610,6 +2638,8 @@
     "dex": 201,
     "type": "_38",
     "family": "Unown",
+    "released_date": "2024/05/30",
+    "aa_fn": "pm201.fUNOWN_QUESTION_MARK"
     "name_suffix": "(?)"
   },
   {
@@ -5372,6 +5402,8 @@
   },
   {
     "dex": 587,
+    "released_date": "2024/05/30",
+    "aa_fn": "pm587",
     "family": "Emolga"
   },
   {
@@ -6852,6 +6884,8 @@
   },
   {
     "dex": 796,
+    "released_date": "2024/05/30",
+    "aa_fn": "pm796",
     "family": "xurkitree"
   },
   {
@@ -6874,6 +6908,8 @@
   },
   {
     "dex": 800,
+    "released_date": "2024/05/30",
+    "aa_fn": "pm800",
     "family": "necrozma"
   },
   {
