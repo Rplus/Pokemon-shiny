@@ -1759,12 +1759,6 @@
   },
   {
     "dex": 133,
-    "shiny_released": true,
-    "isotope": "_11",
-    "family": "Eevee_11"
-  },
-  {
-    "dex": 133,
     "released_date": "2023/04/04",
     "isotope": "_23s",
     "aa_fn": "pm133.cSPRING_2023",
@@ -4703,13 +4697,6 @@
   },
   {
     "dex": 471,
-    "isotope": "_holiday",
-    "family": "Eevee_H",
-    "aa_fn": "pm471.cHOLIDAY_2021_NOEVOLVE",
-    "released_date": "2021/12/16"
-  },
-  {
-    "dex": 471,
     "released_date": "2022/12/31",
     "isotope": "_22h",
     "aa_fn": "pm471.cHOLIDAY_2022",
@@ -6283,6 +6270,19 @@
     "isotope": "_23m",
     "aa_fn": "pm700.cMAY_2023",
     "family": "Eevee_23m"
+  },
+  {
+    "dex": 133,
+    "shiny_released": true,
+    "isotope": "_11",
+    "family": "Eevee_other"
+  },
+  {
+    "dex": 471,
+    "isotope": "_holiday",
+    "family": "Eevee_other",
+    "aa_fn": "pm471.cHOLIDAY_2021_NOEVOLVE",
+    "released_date": "2021/12/16"
   },
   {
     "dex": 701,
