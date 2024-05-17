@@ -6931,6 +6931,20 @@
     "family": "necrozma"
   },
   {
+    "dex": 800,
+    "family": "necrozma",
+    "released_date": "2024/05/30",
+    "isotope": "_DW",
+    "aa_fn": "pm800.fDAWN_WINGS"
+  },
+  {
+    "dex": 800,
+    "family": "necrozma",
+    "released_date": "2024/05/30",
+    "isotope": "_DM",
+    "aa_fn": "pm800.fDUSK_MANE"
+  },
+  {
     "dex": 801,
     "family": "magearna"
   },
