@@ -5358,10 +5358,14 @@
   },
   {
     "dex": 580,
+    "released_date": "2024/07/05",
+    "aa_fn": "pm580",
     "family": "Ducklett"
   },
   {
     "dex": 581,
+    "released_date": "2024/07/05",
+    "aa_fn": "pm581",
     "family": "Ducklett"
   },
   {
@@ -6285,6 +6289,20 @@
     "released_date": "2021/12/16"
   },
   {
+    "dex": 196,
+    "isotope": "_gofest24",
+    "family": "Eevee_other",
+    "aa_fn": "pm196.fGOFEST_2024_SSCARF",
+    "released_date": "2024/07/13"
+  },
+  {
+    "dex": 197,
+    "isotope": "_gofest24",
+    "family": "Eevee_other",
+    "aa_fn": "pm197.fGOFEST_2024_MSCARF",
+    "released_date": "2024/07/13"
+  },
+  {
     "dex": 701,
     "family": "Hawlucha"
   },
@@ -6593,6 +6611,18 @@
     "aa_fn": "pm738"
   },
   {
+    "dex": 739,
+    "family": "Crabrawler",
+    "released_date": "2024/04/14",
+    "aa_fn": "pm739"
+  },
+  {
+    "dex": 740,
+    "family": "Crabrawler",
+    "released_date": "2024/04/14",
+    "aa_fn": "pm740"
+  },
+  {
     "dex": 741,
     "family": "Oricorio",
     "isotope": "_o01",
@@ -6833,14 +6863,20 @@
   },
   {
     "dex": 782,
+    "released_date": "2024/07/13",
+    "aa_fn": "pm782",
     "family": "jangmo_o"
   },
   {
     "dex": 783,
+    "released_date": "2024/07/13",
+    "aa_fn": "pm783",
     "family": "jangmo_o"
   },
   {
     "dex": 784,
+    "released_date": "2024/07/13",
+    "aa_fn": "pm784",
     "family": "jangmo_o"
   },
   {
@@ -6894,17 +6930,21 @@
   },
   {
     "dex": 794,
-    "family": "buzzwole"
+    "family": "buzzwole",
+    "released_date": "2024/07/05",
+    "aa_fn": "pm794"
   },
   {
     "dex": 795,
-    "family": "pheromosa"
+    "family": "pheromosa",
+    "released_date": "2024/06/14",
+    "aa_fn": "pm795"
   },
   {
     "dex": 796,
+    "family": "xurkitree",
     "released_date": "2024/05/30",
-    "aa_fn": "pm796",
-    "family": "xurkitree"
+    "aa_fn": "pm796"
   },
   {
     "dex": 797,
