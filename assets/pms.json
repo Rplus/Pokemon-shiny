@@ -3261,14 +3261,32 @@
     "released_date": "2019/06/08"
   },
   {
+    "dex": 287,
+    "family": "Slakoth_v",
+    "aa_fn": "pm287.cSUMMER_2024",
+    "released_date": "2024/06/07"
+  },
+  {
     "dex": 288,
     "family": "Slakoth",
     "released_date": "2019/06/08"
   },
   {
+    "dex": 288,
+    "family": "Slakoth_v",
+    "aa_fn": "pm288.cSUMMER_2024",
+    "released_date": "2024/06/07"
+  },
+  {
     "dex": 289,
     "family": "Slakoth",
     "released_date": "2019/06/08"
+  },
+  {
+    "dex": 289,
+    "family": "Slakoth_v",
+    "aa_fn": "pm289.cSUMMER_2024",
+    "released_date": "2024/06/07"
   },
   {
     "dex": 290,
