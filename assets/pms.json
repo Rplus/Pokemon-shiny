@@ -1386,6 +1386,20 @@
     "family": "Grimer_61"
   },
   {
+    "dex": 88,
+    "released_date": "2024/06/24"
+    "isotope": "_c24",
+    "aa_fn": "pm88.cANNIVERSARY_2024",
+    "family": "Grimer_c24"
+  },
+  {
+    "dex": 89,
+    "released_date": "2024/06/24"
+    "isotope": "_c24",
+    "aa_fn": "pm89.cANNIVERSARY_2024",
+    "family": "Grimer_c24"
+  },
+  {
     "dex": 90,
     "family": "Shellder",
     "released_date": "2018/06/07"
