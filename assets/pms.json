@@ -4535,6 +4535,13 @@
     "released_date": "2020/02/06"
   },
   {
+    "dex": 448,
+    "type": "_51",
+    "aa_fn": "pm448.fMEGA",
+    "name_suffix": "(M)",
+    "released_date": "2024/07/27",
+    "family": "Riolu"
+  {
     "dex": 449,
     "shiny_released": true,
     "family": "Hippowdon"
