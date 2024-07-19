@@ -4541,6 +4541,7 @@
     "name_suffix": "(M)",
     "released_date": "2024/07/27",
     "family": "Riolu"
+  },
   {
     "dex": 449,
     "shiny_released": true,
@@ -5483,7 +5484,6 @@
     "type": "_01",
     "released_date": "2023/02/08",
     "name_suffix": "(♀️)",
-    "type": "_01",
     "family": "Frillish"
   },
   {
