@@ -1975,13 +1975,34 @@
     "family": "Articuno"
   },
   {
+    "dex": 144,
+    "isotope": "_g",
+    "released_date": "2024/10/04",
+    "aa_fn": "pm144.fGALARIAN",
+    "family": "Articuno"
+  },
+  {
     "dex": 145,
     "shiny_released": true,
     "family": "Zapdos"
   },
   {
+    "dex": 145,
+    "isotope": "_g",
+    "released_date": "2024/10/04",
+    "aa_fn": "pm145.fGALARIAN",
+    "family": "Zapdos"
+  },
+  {
     "dex": 146,
     "shiny_released": true,
+    "family": "Moltres"
+  },
+  {
+    "dex": 146,
+    "isotope": "_g",
+    "released_date": "2024/10/04",
+    "aa_fn": "pm146.fGALARIAN",
     "family": "Moltres"
   },
   {
