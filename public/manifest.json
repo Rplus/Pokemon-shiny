@@ -1,0 +1,16 @@
+{
+	"short_name": "Shiny List",
+	"name": "Pokémon GO shiny list",
+	"author": "Rplus",
+	"icons": [
+		{
+			"src": "/favicon.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#eeeeee"
+}
