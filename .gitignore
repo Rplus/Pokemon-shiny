@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 
 tasks/tmp
+public/img

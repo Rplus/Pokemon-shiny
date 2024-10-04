@@ -24,3 +24,12 @@ export function isDev() {
 export function get_time_string(time = new Date()) {
 	return time.toLocaleString('sv-SE').replace(' ', 'T');
 }
+
+export function get_pm_img_src(fn = '', shiny = true) {
+	let url = `https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/Addressable%20Assets/${fn}.${shiny ? 's.' : ''}icon.png`;
+	return `https://wsrv.nl/?&ll&output=webp&default=1&url=${url}`;
+}
+
+export function get_name(names, lang = 'en') {
+	return names?.[lang] || names?.en || '';
+}

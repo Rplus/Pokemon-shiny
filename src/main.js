@@ -1,6 +1,7 @@
 import '@master/css';
-// import './app.css';
 import '@lib/i18n.js';
+// import './app.css';
+
 import { mount } from 'svelte';
 import App from './App.svelte';
 

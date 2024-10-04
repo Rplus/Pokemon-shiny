@@ -7,9 +7,8 @@ build:
 deploy: build
 	bun run deploy;
 
-
 fetch: fetch-name fetch-pm
-	echo 'hi';
+	echo 'All fetched!';
 
 fetch-pm:
 	bun ./tasks/fetch-pm.js;

@@ -54,9 +54,9 @@ fetch('https://beta.pokeapi.co/graphql/v1beta', {
 	outputJSON(op, './tasks/tmp/name.min.json', 0);
 	outputJSON(op, './tasks/tmp/name.src.json');
 
-	let csv = Object.keys(op).map(_dex => ({
-		_dex,
-		...op[_dex],
+	let csv = Object.keys(op).map(dex => ({
+		dex,
+		...op[dex],
 	}));
 	writeFile('./src/assets/data/name.csv', json2csv(csv));
 })
