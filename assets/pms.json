@@ -3421,6 +3421,15 @@
     "family": "Mawile"
   },
   {
+    "dex": 303,
+    "type": "_51",
+    "aa_fn": "pm303.fMEGA",
+    "name_suffix": "(M)",
+    "style": "--t:-20%",
+    "released_date": "2024/10/12",
+    "family": "Mawile"
+  },
+  {
     "dex": 304,
     "family": "Aron",
     "released_date": "2018/01/23"
