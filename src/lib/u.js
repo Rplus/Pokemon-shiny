@@ -1,20 +1,17 @@
-const STORAGE_KEY = 'pm-shiny';
+const STORAGE_KEY = 'pm-shiny-5';
 
-export function saveItem(data) {
-	if (!data || !data.key) { return false;}
-	let odata = getItem() || {};
-
-	odata[data.key] = data.value;
-
-	localStorage.setItem(STORAGE_KEY, JSON.stringify(odata));
+export function set_item(key, data) {
+	if (!key) { return false; }
+	let _data = get_item();
+	_data[key] = data;
+	localStorage.setItem(STORAGE_KEY, JSON.stringify(_data));
 };
 
-export function getItem(key) {
-	let data = localStorage.getItem(STORAGE_KEY);
-	if (!data) { return null; }
-	data = JSON.parse(data);
-
-	return key ? data[key] : data;
+export function get_item(key) {
+	let _data = localStorage.getItem(STORAGE_KEY);
+	if (!_data) { return {}; }
+	_data = JSON.parse(_data);
+	return key ? _data[key] : _data;
 };
 
 export function isDev() {
@@ -32,4 +29,11 @@ export function get_pm_img_src(fn = '', shiny = true) {
 
 export function get_name(names, lang = 'en') {
 	return names?.[lang] || names?.en || '';
+}
+
+export function sort_by(prop, dir = 'asc') {
+	return (a, b) => dir === 'asc' ? a[prop] - b[prop] : b[prop] - a[prop];
+}
+export function rev_sort_by(prop) {
+	return sort_by(prop, 'desc');
 }

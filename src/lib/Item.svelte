@@ -1,7 +1,7 @@
 <script>
 	import { get_pm_img_src, get_name, } from '@lib/u.js';
 
-	let { pm, status, handle_click, } = $props();
+	let { pm, status, handle_click_pm, } = $props();
 
 	let name = get_name(pm.name, 'zh');
 	let src = `/img/${pm.pid}.s.icon.png`
@@ -9,7 +9,7 @@
 </script>
 
 <div class="pm status-{status} text-align:center position:relative width:96 height:96"
-	onclick={() => handle_click(pm.index)}
+	onclick={() => handle_click_pm(pm.index)}
 >
 	<!--
 	<img

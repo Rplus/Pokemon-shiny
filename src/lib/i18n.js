@@ -1,5 +1,5 @@
 import { locale, init, addMessages } from 'svelte-i18n';
-import { saveItem, getItem, isDev, } from '@lib/u.js';
+import { set_item, get_item, isDev, } from '@lib/u.js';
 
 let resources = {};
 let _words = {
@@ -133,11 +133,11 @@ let prefer_lang = lang_index === -1 ? 'en' : langs[lang_index];
 
 init({
 	fallbackLocale: 'en',
-	initialLocale: getItem('lang') || prefer_lang,
+	initialLocale: get_item('lang') || prefer_lang,
 });
 
 locale.subscribe(_locale => {
-	saveItem({
+	set_item({
 		key: 'lang',
 		value: _locale,
 	});
