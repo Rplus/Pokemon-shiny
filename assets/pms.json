@@ -1970,6 +1970,13 @@
     "family": "Snorlax_NC"
   },
   {
+    "dex": 143,
+    "released_date": "2024/11/16",
+    "isotope": "_24",
+    "aa_fn": "pm143.fWILDAREA",
+    "family": "Snorlax_WA"
+  },
+  {
     "dex": 144,
     "shiny_released": true,
     "family": "Articuno"
@@ -7315,8 +7322,8 @@
   {
     "dex": 849,
     "released_date": "2024/11/16",
-    "isotope": "_fLOWKEY",
-    "aa_fn": "pm849.fLOWKEY",
+    "isotope": "_fLOW_KEY",
+    "aa_fn": "pm849.fLOW_KEY",
     "family": "toxel"
   },
   {
