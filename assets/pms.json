@@ -761,6 +761,20 @@
     "family": "Pikachu_23c"
   },
   {
+    "dex": 25,
+    "isotope": "_24PS",
+    "released_date": "2024/16/11",
+    "aa_fn": "pm25.fPOP_STAR",
+    "family": "Pikachu_24PSRS"
+  },
+  {
+    "dex": 25,
+    "isotope": "_24RS",
+    "released_date": "2024/16/11",
+    "aa_fn": "pm25.fROCK_STAR",
+    "family": "Pikachu_24PSRS"
+  },
+  {
     "dex": 26,
     "isotope": "_23c",
     "released_date": "2023/12/18",
