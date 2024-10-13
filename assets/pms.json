@@ -1984,6 +1984,13 @@
     "family": "Snorlax_NC"
   },
   {
+    "dex": 143,
+    "released_date": "2024/11/16",
+    "isotope": "_24",
+    "aa_fn": "pm143.fWILDAREA",
+    "family": "Snorlax_WA"
+  },
+  {
     "dex": 144,
     "shiny_released": true,
     "family": "Articuno"
@@ -7331,18 +7338,22 @@
   },
   {
     "dex": 848,
+    "released_date": "2024/11/16",
+    "aa_fn": "pm848",
     "family": "toxel"
   },
   {
     "dex": 849,
+    "released_date": "2024/11/16",
+    "isotope": "_fLOW_KEY",
+    "aa_fn": "pm849.fLOW_KEY",
     "family": "toxel"
   },
   {
     "dex": 849,
-    "family": "toxel"
-  },
-  {
-    "dex": 849,
+    "released_date": "2024/11/16",
+    "isotope": "_fAMPED",
+    "aa_fn": "pm849.fAMPED",
     "family": "toxel"
   },
   {
@@ -7363,22 +7374,6 @@
   },
   {
     "dex": 854,
-    "family": "sinistea"
-  },
-  {
-    "dex": 854,
-    "family": "sinistea"
-  },
-  {
-    "dex": 854,
-    "family": "sinistea"
-  },
-  {
-    "dex": 855,
-    "family": "sinistea"
-  },
-  {
-    "dex": 855,
     "family": "sinistea"
   },
   {
@@ -7566,10 +7561,6 @@
   {
     "dex": 897,
     "family": "Spectrier"
-  },
-  {
-    "dex": 898,
-    "family": "Calyrex"
   },
   {
     "dex": 898,
