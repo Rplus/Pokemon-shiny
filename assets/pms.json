@@ -824,6 +824,13 @@
     "family": "Pikachu_GF24"
   },
   {
+    "dex": 25,
+    "isotope": "_FOL24",
+    "released_date": "2024/11/01",
+    "aa_fn": "pm25.fDIWALI_2024",
+    "family": "Pikachu_FOL24"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
