@@ -1852,6 +1852,7 @@
     "isotope": "_GF24M",
     "released_date": "2024/05/30",
     "aa_fn": "pm133.fGOFEST_2024_MTIARA",
+    "style": "--w: 150%; --t: -50%",
     "family": "Eevee_GF24"
   },
   {
@@ -1859,6 +1860,7 @@
     "isotope": "_GF24T",
     "released_date": "2024/05/30",
     "aa_fn": "pm133.fGOFEST_2024_STIARA",
+    "style": "--w: 150%; --t: -50%",
     "family": "Eevee_GF24"
   },
   {
@@ -2039,6 +2041,7 @@
     "isotope": "_g",
     "released_date": "2024/10/04",
     "aa_fn": "pm144.fGALARIAN",
+    "style": "--w: 120%; --t: -5%",
     "family": "Articuno"
   },
   {
@@ -2063,6 +2066,7 @@
     "isotope": "_g",
     "released_date": "2024/10/04",
     "aa_fn": "pm146.fGALARIAN",
+    "style": "--w: 120%; --t: -5%",
     "family": "Moltres"
   },
   {
@@ -2857,6 +2861,7 @@
     "type": "_51",
     "aa_fn": "pm214.fMEGA",
     "name_suffix": "(M)",
+    "style": "--w: 120%; --t: -10%",
     "released_date": "2024/04/13"
   },
   {
