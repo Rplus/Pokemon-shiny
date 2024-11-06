@@ -5999,14 +5999,35 @@
     "family": "Froakie"
   },
   {
+    "dex": 656,
+    "released_date": "2024/10/22",
+    "isotope": "_24",
+    "aa_fn": "pm656.cFALL_2024",
+    "family": "Froakie_24"
+  },
+  {
     "dex": 657,
     "released_date": "2023/08/13",
     "family": "Froakie"
   },
   {
+    "dex": 657,
+    "released_date": "2024/10/22",
+    "isotope": "_24",
+    "aa_fn": "pm657.cFALL_2024",
+    "family": "Froakie_24"
+  },
+  {
     "dex": 658,
     "released_date": "2023/08/13",
     "family": "Froakie"
+  },
+  {
+    "dex": 658,
+    "released_date": "2024/10/22",
+    "isotope": "_24",
+    "aa_fn": "pm658.cFALL_2024",
+    "family": "Froakie_24"
   },
   {
     "dex": 659,
@@ -6696,16 +6717,37 @@
     "aa_fn": "pm722"
   },
   {
+    "dex": 722,
+    "family": "Rowlet_24",
+    "isotope": "_24",
+    "released_date": "2024/10/22",
+    "aa_fn": "pm722.cFALL_2024"
+  },
+  {
     "dex": 723,
     "family": "Rowlet",
     "released_date": "2024/01/06",
     "aa_fn": "pm723"
   },
   {
+    "dex": 723,
+    "family": "Rowlet_24",
+    "isotope": "_24",
+    "released_date": "2024/10/22",
+    "aa_fn": "pm723.cFALL_2024"
+  },
+  {
     "dex": 724,
     "family": "Rowlet",
     "released_date": "2024/01/06",
     "aa_fn": "pm724"
+  },
+  {
+    "dex": 724,
+    "family": "Rowlet_24",
+    "isotope": "_24",
+    "released_date": "2024/10/22",
+    "aa_fn": "pm724.cFALL_2024"
   },
   {
     "dex": 724,
