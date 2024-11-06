@@ -41,6 +41,14 @@
     "released_date": "2018/03/25"
   },
   {
+    "dex": 3,
+    "isotope": "_G",
+    "family": "Bulbasaur",
+    "name_suffix": "(G)",
+    "aa_fn": "pm3.fGIGANTAMAX",
+    "released_date": "2024/10/26"
+  },
+  {
     "dex": 4,
     "family": "Charmander",
     "released_date": "2018/05/19"
@@ -63,13 +71,6 @@
     "isotope": "_11",
     "released_date": "2022/07/06",
     "aa_fn": "pm5.cJAN_2020_NOEVOLVE",
-    "family": "Charmander_11"
-  },
-  {
-    "dex": 6,
-    "isotope": "_11",
-    "released_date": "2022/07/06",
-    "aa_fn": "pm6.cJAN_2020_NOEVOLVE",
     "family": "Charmander_11"
   },
   {
@@ -103,6 +104,21 @@
     "released_date": "2018/05/19"
   },
   {
+    "dex": 6,
+    "isotope": "_11",
+    "released_date": "2022/07/06",
+    "aa_fn": "pm6.cJAN_2020_NOEVOLVE",
+    "family": "Charmander_11"
+  },
+  {
+    "dex": 6,
+    "isotope": "_G",
+    "family": "Charmander",
+    "name_suffix": "(G)",
+    "aa_fn": "pm6.fGIGANTAMAX",
+    "released_date": "2024/10/26"
+  },
+  {
     "dex": 7,
     "family": "Squirtle",
     "released_date": "2018/07/08"
@@ -123,6 +139,14 @@
     "name_suffix": "(M)",
     "family": "Squirtle",
     "released_date": "2018/07/08"
+  },
+  {
+    "dex": 9,
+    "isotope": "_G",
+    "family": "Squirtle",
+    "name_suffix": "(G)",
+    "aa_fn": "pm9.fGIGANTAMAX",
+    "released_date": "2024/10/26"
   },
   {
     "dex": 7,
@@ -1452,6 +1476,14 @@
     "name_suffix": "(M)",
     "family": "Gastly",
     "released_date": "2018/11/03"
+  },
+  {
+    "dex": 94,
+    "isotope": "_G",
+    "family": "Gastly",
+    "name_suffix": "(G)",
+    "aa_fn": "pm94.fGIGANTAMAX",
+    "released_date": "2024/10/31"
   },
   {
     "dex": 94,
@@ -7355,6 +7387,14 @@
     "isotope": "_fAMPED",
     "aa_fn": "pm849.fAMPED",
     "family": "toxel"
+  },
+  {
+    "dex": 849,
+    "isotope": "_G",
+    "family": "toxel",
+    "name_suffix": "(G)",
+    "aa_fn": "pm849.fGIGANTAMAX",
+    "released_date": "2024/11/16"
   },
   {
     "dex": 850,
