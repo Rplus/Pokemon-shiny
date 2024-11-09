@@ -1,4 +1,6 @@
-const STORAGE_KEY = 'pm-shiny-5';
+import * as localForage  from 'localforage';
+
+const STORAGE_KEY = 'pm-shiny-sv5';
 
 export function set_item(key, data) {
 	if (!key) { return false; }
@@ -13,6 +15,25 @@ export function get_item(key) {
 	_data = JSON.parse(_data);
 	return key ? _data[key] : _data;
 };
+
+async function set_lf_data(key, data) {
+	return await localForage.setItem(`${STORAGE_KEY}-record`, data);
+}
+async function get_lf_data(key) {
+	return await localForage.getItem(`${STORAGE_KEY}-${key}`);
+}
+// for user selected status
+export async function set_all_record(record) {
+	console.log(333, record);
+	return await set_lf_data('record', record);
+}
+export async function get_all_record() {
+	return await get_lf_data('record') || [{
+		name: '',
+		status: '',
+		time: 0,
+	}];
+}
 
 export function isDev() {
 	return location.hostname === 'localhost';
@@ -36,4 +57,18 @@ export function sort_by(prop, dir = 'asc') {
 }
 export function rev_sort_by(prop) {
 	return sort_by(prop, 'desc');
+}
+
+export function once(fn) {
+	return function (event) {
+		if (fn) fn.call(this, event);
+		fn = null;
+	};
+}
+
+export function preventDefault(fn) {
+	return function (event) {
+		event.preventDefault();
+		fn.call(this, event);
+	};
 }

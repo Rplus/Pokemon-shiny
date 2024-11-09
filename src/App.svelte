@@ -5,7 +5,8 @@
 	import Ctrl from '@lib/Ctrl.svelte';
 	import Footer from '@lib/Footer.svelte';
 	import { _, } from 'svelte-i18n';
-	import { get_item, } from '@lib/u.js';
+	import { get_all_record, } from '@lib/u.js';
+	// import { get_item, } from '@lib/u.js';
 
 	// init = location.search || storage.log[0]
 	let qs = new URL(location).searchParams;
@@ -26,14 +27,19 @@
 	if (location.search) {
 		history.pushState({}, null, './');
 	}
-</script>
 
+	let promise = $state(get_all_record());
+
+</script>
 
 <hr >
 
-<Ctrl />
-<List {init_info} />
-
+{#await promise}
+{:then ori_log}
+	<!-- <Ctrl /> -->
+	<List {init_info} {ori_log} />
+{:catch error}
+{/await}
 
 <hr>
 

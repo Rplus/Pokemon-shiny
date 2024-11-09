@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@master/css": "^1.37.8",
+    "localforage": "^1.10.0",
     "svelte-i18n": "^4.0.0"
   }
 }

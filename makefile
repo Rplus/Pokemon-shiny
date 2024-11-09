@@ -1,3 +1,6 @@
+init:
+	bun install;
+
 dev:
 	bun run dev;
 
