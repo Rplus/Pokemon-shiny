@@ -1,6 +1,6 @@
 <script>
 	import Record from '@comp/Record.svelte';
-	import Export from '@comp/Export.svelte';
+	// import Export from '@comp/Export.svelte';
 
 	import { _, locale, locales } from 'svelte-i18n';
 
@@ -18,6 +18,11 @@
 
 		<dt>share</dt>
 		<dd></dd>
+
+		<dt>export</dt>
+		<dd>
+			<!-- <Export /> -->
+		</dd>
 
 		<dt>lang</dt>
 		<dd>

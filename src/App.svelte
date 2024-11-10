@@ -1,29 +1,14 @@
-<script>
-	import pm_url from '@data/pm.csv?url';
-	// import name from '@data/name.csv';
+<script context="module">
 	import List from '@comp/List.svelte';
 	import Ctrl from '@comp/Ctrl.svelte';
 	import Footer from '@comp/Footer.svelte';
-	import { recorder, } from '@lib/recorder.svelte.js';
 
-	// import { _, } from 'svelte-i18n';
-	import { get_pms, } from '@lib/pm.js';
+	import { pm_data, } from '@lib/pm.svelte.js';
 	import { get_item, } from '@lib/u.js';
 
 	async function init() {
-		let url = get_item('custom-url') || pm_url;
-		console.log('fetch data url:', url);
-
-		console.log(32, recorder.records);
-
-		const { pms, groups, max_index, } = await get_pms(pm_url);
-		// console.log(44, { pms, groups });
-
-		return {
-			pms,
-			groups,
-			max_index,
-		};
+		// let pm_handler = await pm_data();
+		return await pm_data;
 	}
 
 	function reset_ls() {
@@ -37,13 +22,12 @@
 {#await init()}
 	Loading...
 
-{:then  { pms, groups, max_index, } }
-
+{:then}
 	<Ctrl />
-	<List {groups} {pms} maxindex={max_index} />
+	<List />
 
 {:catch error}
-	GG
+	GG!
 	<button onclick={() => reset_ls()}>try to reset localStorage</button>
 
 {/await}

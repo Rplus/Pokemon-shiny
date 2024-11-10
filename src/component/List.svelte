@@ -2,11 +2,12 @@
 	import { status, name, } from '@/stores.js';
 	import Item from '@comp/Item.svelte';
 	import { recorder, } from '@lib/recorder.svelte.js';
+	import { pm_data, } from '@lib/pm.svelte.js';
 
-	let { groups, pms, maxindex, } = $props();
+	let { groups, pms, max_index, } = pm_data;
 
 	let status_map = $state(
-		$status.padEnd(maxindex, '0').split('')
+		$status.padEnd(max_index, '0').split('')
 	);
 
 	let status_string = $derived(status_map.join(''));

@@ -40,6 +40,25 @@ export function isDev() {
 	return location.hostname === 'localhost';
 }
 
+export async function fetch_data(url, type = 'json') {
+	try	{
+		let response = await fetch(url);
+		if (!response.ok) {
+			throw new Error(response.statusText);
+		}
+
+		let body;
+		if (type === 'json') {
+			body = await response.json();
+		} else {
+			body = await response.text();
+		}
+		return body;
+	} catch (error) {
+		console.error(error);
+	}
+}
+
 export function csv2json(csv) {
 	const lines = csv.split('\n');
 	const result = [];
