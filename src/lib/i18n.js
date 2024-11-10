@@ -137,8 +137,6 @@ init({
 });
 
 locale.subscribe(_locale => {
-	set_item({
-		key: 'lang',
-		value: _locale,
-	});
+	console.log('_locale change', _locale);
+	set_item('lang', _locale);
 });

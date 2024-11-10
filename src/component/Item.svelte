@@ -23,7 +23,10 @@
 	-->
 
 	<div class="position:absolute bottom:0 left:0 right:0">
-		{status}
+		index:{pm.index}
+		<br>
+		status: {status}
+		<br>
 		{get_name(pm.name, 'zh')}
 	</div>
 </div>

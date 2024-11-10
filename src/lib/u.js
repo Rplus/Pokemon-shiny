@@ -6,6 +6,7 @@ export function set_item(key, data) {
 	if (!key) { return false; }
 	let _data = get_item();
 	_data[key] = data;
+	console.log('set_item', data);
 	localStorage.setItem(STORAGE_KEY, JSON.stringify(_data));
 };
 
@@ -17,26 +18,46 @@ export function get_item(key) {
 };
 
 async function set_lf_data(key, data) {
-	return await localForage.setItem(`${STORAGE_KEY}-record`, data);
+	return await localForage.setItem(`${STORAGE_KEY}-${key}`, data);
 }
 async function get_lf_data(key) {
 	return await localForage.getItem(`${STORAGE_KEY}-${key}`);
 }
 // for user selected status
-export async function set_all_record(record) {
-	console.log(333, record);
-	return await set_lf_data('record', record);
+export async function set_all_records(records) {
+	return await set_lf_data('records', records);
 }
-export async function get_all_record() {
-	return await get_lf_data('record') || [{
-		name: '',
-		status: '',
-		time: 0,
-	}];
+export async function get_all_records() {
+	// return await get_lf_data('records') || [{
+	// 	name: '',
+	// 	status: '',
+	// 	time: 0,
+	// }];
+	return await get_lf_data('records') || [];
 }
 
 export function isDev() {
 	return location.hostname === 'localhost';
+}
+
+export function csv2json(csv) {
+	const lines = csv.split('\n');
+	const result = [];
+	const headers = lines[0].split(',');
+
+	for (let i = 1; i < lines.length; i++) {
+		if (!lines[i]) {
+			continue;
+		}
+		const obj = {};
+		const currentline = lines[i].split(',');
+
+		for (let j = 0; j < headers.length; j++) {
+			obj[headers[j]] = currentline[j].replace(/\r$/, '');
+		}
+		result.push(obj);
+	}
+	return result;
 }
 
 export function get_time_string(time = new Date()) {
@@ -64,6 +85,22 @@ export function once(fn) {
 		if (fn) fn.call(this, event);
 		fn = null;
 	};
+}
+
+export function pick(obj = {}, props = []) {
+	let op = {};
+
+	if (!props.length) {
+		return;
+	}
+
+	props.forEach(prop => {
+		if (obj[prop]) {
+			op[prop] = obj[prop];
+		}
+	});
+
+	return op;
 }
 
 export function preventDefault(fn) {

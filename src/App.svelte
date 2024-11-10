@@ -1,46 +1,52 @@
 <script>
-	// import pm from '@data/pm.csv';
+	import pm_url from '@data/pm.csv?url';
 	// import name from '@data/name.csv';
-	import List from '@lib/List.svelte';
-	import Ctrl from '@lib/Ctrl.svelte';
-	import Footer from '@lib/Footer.svelte';
-	import { _, } from 'svelte-i18n';
-	import { get_all_record, } from '@lib/u.js';
-	// import { get_item, } from '@lib/u.js';
+	import List from '@comp/List.svelte';
+	import Ctrl from '@comp/Ctrl.svelte';
+	import Footer from '@comp/Footer.svelte';
+	import { recorder, } from '@lib/recorder.svelte.js';
 
-	// init = location.search || storage.log[0]
-	let qs = new URL(location).searchParams;
-	let init_status = qs.get('pms') || '';
-	let init_name = qs.get('name') || 'name';
+	// import { _, } from 'svelte-i18n';
+	import { get_pms, } from '@lib/pm.js';
+	import { get_item, } from '@lib/u.js';
 
-	let init_info = {
-		name: '',
-		status: '',
-	};
+	async function init() {
+		let url = get_item('custom-url') || pm_url;
+		console.log('fetch data url:', url);
 
-	if (qs.get('pms')) {
-		init_info.status = qs.get('pms') || '';
-		init_info.name = qs.get('name') || 'name';
+		console.log(32, recorder.records);
+
+		const { pms, groups, max_index, } = await get_pms(pm_url);
+		// console.log(44, { pms, groups });
+
+		return {
+			pms,
+			groups,
+			max_index,
+		};
 	}
 
-	// reset location.search to prevent confus
-	if (location.search) {
-		history.pushState({}, null, './');
+	function reset_ls() {
+		localStorage.clear();
 	}
-
-	let promise = $state(get_all_record());
 
 </script>
 
 <hr >
 
-{#await promise}
-{:then ori_log}
-	<!-- <Ctrl /> -->
-	<List {init_info} {ori_log} />
-{:catch error}
-{/await}
+{#await init()}
+	Loading...
 
+{:then  { pms, groups, max_index, } }
+
+	<Ctrl />
+	<List {groups} {pms} maxindex={max_index} />
+
+{:catch error}
+	GG
+	<button onclick={() => reset_ls()}>try to reset localStorage</button>
+
+{/await}
 <hr>
 
 <Footer />
