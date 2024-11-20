@@ -2926,6 +2926,12 @@
     "released_date": "2022/02/26"
   },
   {
+    "dex": 222,
+    "family": "Corsola_Galarian",
+    "aa_fn": "pm222.fGALARIAN",
+    "released_date": "2024/11/27"
+  },
+  {
     "dex": 223,
     "family": "Remoraid",
     "released_date": "2022/02/26"
@@ -7511,7 +7517,9 @@
   },
   {
     "dex": 864,
-    "family": "corsola"
+    "family": "Corsola_Galarian",
+    "aa_fn": "pm864",
+    "released_date": "2024/11/27"
   },
   {
     "dex": 865,
