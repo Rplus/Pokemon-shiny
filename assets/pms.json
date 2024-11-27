@@ -2928,6 +2928,7 @@
   {
     "dex": 222,
     "family": "Corsola_Galarian",
+    "type": "_31",
     "aa_fn": "pm222.fGALARIAN",
     "released_date": "2024/11/27"
   },
