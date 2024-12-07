@@ -5348,6 +5348,20 @@
     "family": "Basculin"
   },
   {
+    "dex": 550,
+    "released_date": "2024/12/03",
+    "aa_fn": "pm550.fRED_STRIPED",
+    "isotope": "_RS",
+    "family": "Basculin"
+  },
+  {
+    "dex": 550,
+    "released_date": "2024/12/03",
+    "aa_fn": "pm550.fBLUE_STRIPED",
+    "isotope": "_BS",
+    "family": "Basculin"
+  },
+  {
     "dex": 551,
     "released_date": "2024/03/27",
     "aa_fn": "pm551",
