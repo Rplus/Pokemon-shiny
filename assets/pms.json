@@ -1808,6 +1808,14 @@
     "family": "Lapras_B"
   },
   {
+    "dex": 131,
+    "isotope": "_G",
+    "family": "Lapras_G",
+    "name_suffix": "(G)",
+    "aa_fn": "pm131.fGIGANTAMAX",
+    "released_date": "2024/12/08"
+  },
+  {
     "dex": 132,
     "released_date": "2021/02/20",
     "family": "Ditto"
