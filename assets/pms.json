@@ -6589,6 +6589,14 @@
     "family": "Dedenne"
   },
   {
+    "dex": 702,
+    "released_date": "2024/12/17",
+    "isotope": "_24",
+    "aa_fn": "pm702.cWINTER_2024",
+    "style": "--w: 120%; --l: 5%; --t: -10%;",
+    "family": "Dedenne"
+  },
+  {
     "dex": 703,
     "family": "Carbink"
   },
@@ -7119,10 +7127,14 @@
   },
   {
     "dex": 769,
+    "aa_fn": "pm769",
+    "released_date": "2024/12/17",
     "family": "sandygast"
   },
   {
     "dex": 770,
+    "aa_fn": "pm770",
+    "released_date": "2024/12/17",
     "family": "sandygast"
   },
   {
