@@ -7454,6 +7454,18 @@
     "family": "wooloo"
   },
   {
+    "dex": 831,
+    "released_date": "2024/12/22",
+    "aa_fn": "pm831.cWINTER_2024",
+    "family": "wooloo_24"
+  },
+  {
+    "dex": 832,
+    "released_date": "2024/12/22",
+    "aa_fn": "pm832.cWINTER_2024",
+    "family": "wooloo_24"
+  },
+  {
     "dex": 833,
     "family": "chewtle"
   },
@@ -7831,6 +7843,18 @@
     "released_date": "2023/09/10",
     "aa_fn": "pm962",
     "family": "Bombirdier"
+  },
+  {
+    "dex": 974,
+    "released_date": "2024/12/22",
+    "aa_fn": "pm974",
+    "family": "Cetoddle"
+  },
+  {
+    "dex": 975,
+    "released_date": "2024/12/22",
+    "aa_fn": "pm975",
+    "family": "Cetoddle"
   },
   {
     "dex": 979,
