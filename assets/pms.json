@@ -5404,6 +5404,8 @@
   },
   {
     "dex": 556,
+    "released_date": "2025/02/21",
+    "aa_fn": "pm556",
     "family": "Maractus"
   },
   {
@@ -5430,6 +5432,8 @@
   },
   {
     "dex": 561,
+    "released_date": "2025/02/21",
+    "aa_fn": "pm561",
     "family": "Sigilyph"
   },
   {
@@ -5565,10 +5569,58 @@
   },
   {
     "dex": 585,
+    "released_date": "2025/02/21",
+    "isotope": "_Spring",
+    "aa_fn": "pm585.fSPRING",
+    "family": "Deerling"
+  },
+  {
+    "dex": 585,
+    "released_date": "2025/02/21",
+    "isotope": "_Summer",
+    "aa_fn": "pm585.fSUMMER",
+    "family": "Deerling"
+  },
+  {
+    "dex": 585,
+    "released_date": "2025/02/21",
+    "isotope": "_Autumn",
+    "aa_fn": "pm585.fAUTUMN",
+    "family": "Deerling"
+  },
+  {
+    "dex": 585,
+    "released_date": "2025/02/21",
+    "isotope": "_Winter",
+    "aa_fn": "pm585.fWINTER",
     "family": "Deerling"
   },
   {
     "dex": 586,
+    "released_date": "2025/02/21",
+    "isotope": "_Spring",
+    "aa_fn": "pm586.fSPRING",
+    "family": "Deerling"
+  },
+  {
+    "dex": 586,
+    "released_date": "2025/02/21",
+    "isotope": "_Summer",
+    "aa_fn": "pm586.fSUMMER",
+    "family": "Deerling"
+  },
+  {
+    "dex": 586,
+    "released_date": "2025/02/21",
+    "isotope": "_Autumn",
+    "aa_fn": "pm586.fAUTUMN",
+    "family": "Deerling"
+  },
+  {
+    "dex": 586,
+    "released_date": "2025/02/21",
+    "isotope": "_Winter",
+    "aa_fn": "pm586.fWINTER",
     "family": "Deerling"
   },
   {
@@ -5819,6 +5871,8 @@
   },
   {
     "dex": 626,
+    "released_date": "2025/02/21",
+    "aa_fn": "pm626",
     "family": "Bouffalant"
   },
   {
@@ -5958,6 +6012,13 @@
   },
   {
     "dex": 648,
+    "family": "Meloetta"
+  },
+  {
+    "dex": 648,
+    "released_date": "2025/02/21",
+    "type": "_Aria",
+    "aa_fn": "pm648.fARIA",
     "family": "Meloetta"
   },
   {
