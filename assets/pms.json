@@ -7728,6 +7728,24 @@
     "family": "Qwilfish_H"
   },
   {
+    "dex": 906,
+    "aa_fn": "pm906",
+    "released_date": "2025/01/05",
+    "family": "Sprigatito"
+  },
+  {
+    "dex": 907,
+    "aa_fn": "pm907",
+    "released_date": "2025/01/05",
+    "family": "Sprigatito"
+  },
+  {
+    "dex": 908,
+    "aa_fn": "pm908",
+    "released_date": "2025/01/05",
+    "family": "Sprigatito"
+  },
+  {
     "dex": 915,
     "family": "Lechonk",
     "released_date": "2023/09/05",
