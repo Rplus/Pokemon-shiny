@@ -4897,6 +4897,14 @@
     "released_date": "2019/08/03"
   },
   {
+    "dex": 475,
+    "type": "_51",
+    "aa_fn": "pm475.fMEGA",
+    "name_suffix": "(M)",
+    "family": "Ralts",
+    "released_date": "2025/01/11"
+  },
+  {
     "dex": 476,
     "family": "Nosepass",
     "released_date": "2021/03/09"
