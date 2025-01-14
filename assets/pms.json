@@ -5536,20 +5536,20 @@
     "released_date": "2020/02/02"
   },
   {
-    "dex": 572,
+    "dex": 573,
     "family": "Minccino",
+    "released_date": "2020/02/02"
+  },
+  {
+    "dex": 572,
+    "family": "Minccino_Costume25",
     "isotope": "_Costume25",
     "aa_fn": "pm572.cFASHION_2025",
     "released_date": "2025/01/10"
   },
   {
     "dex": 573,
-    "family": "Minccino",
-    "released_date": "2020/02/02"
-  },
-  {
-    "dex": 573,
-    "family": "Minccino",
+    "family": "Minccino_Costume25",
     "isotope": "_Costume25",
     "aa_fn": "pm573.cFASHION_2025",
     "released_date": "2025/01/10"
