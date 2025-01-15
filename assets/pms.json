@@ -6057,6 +6057,20 @@
     "released_date": "2021/12/16"
   },
   {
+    "dex": 646,
+    "family": "Kyurem",
+    "type": "_WHITE",
+    "aa_fn": "pm646.fWHITE",
+    "released_date": "2025/02/21"
+  },
+  {
+    "dex": 646,
+    "family": "Kyurem",
+    "type": "_BLACK",
+    "aa_fn": "pm646.fBLACK",
+    "released_date": "2025/02/21"
+  },
+  {
     "dex": 647,
     "family": "Keldeo"
   },
