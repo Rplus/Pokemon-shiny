@@ -1572,6 +1572,14 @@
     "released_date": "2018/10/01"
   },
   {
+    "dex": 99,
+    "isotope": "_G",
+    "family": "Krabby",
+    "name_suffix": "(G)",
+    "aa_fn": "pm99.fGIGANTAMAX",
+    "released_date": "2025/02/01"
+  },
+  {
     "dex": 100,
     "family": "Voltorb",
     "released_date": "2020/05/08"
