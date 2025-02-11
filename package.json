@@ -21,13 +21,13 @@
     "rollup-plugin-svelte": "^6.1.1",
     "rollup-plugin-terser": "^5.3.0",
     "serialize-javascript": "^6.0.2",
-    "svelte": "^3.29.4",
-    "svelte-preprocess": "^4.5.2",
+    "svelte": "^5.19.10",
+    "svelte-preprocess": "^6.0.3",
     "workbox-cli": "^6.5.2"
   },
   "dependencies": {
     "sirv-cli": "^1.0.8",
-    "svelte-i18n": "^1.1.2"
+    "svelte-i18n": "^4.0.1"
   },
   "scripts": {
     "deploy": "gh-pages -d public",
