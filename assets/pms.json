@@ -6231,14 +6231,140 @@
   },
   {
     "dex": 664,
+    "aa_fn": "pm664",
+    "released_date": "2025/02/18",
     "family": "Scatterbug"
   },
   {
     "dex": 665,
+    "aa_fn": "pm665",
+    "released_date": "2025/02/18",
     "family": "Scatterbug"
   },
   {
     "dex": 666,
+    "type": "_01",
+    "aa_fn": "pm666.fARCHIPELAGO",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_02",
+    "aa_fn": "pm666.fCONTINENTAL",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_03",
+    "aa_fn": "pm666.fELEGANT",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_04",
+    "aa_fn": "pm666.fFANCY",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_05",
+    "aa_fn": "pm666.fGARDEN",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_06",
+    "aa_fn": "pm666.fHIGH_PLAINS",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_07",
+    "aa_fn": "pm666.fJUNGLE",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_08",
+    "aa_fn": "pm666.fMARINE",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_09",
+    "aa_fn": "pm666.fMEADOW",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_10",
+    "aa_fn": "pm666.fMODERN",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_11",
+    "aa_fn": "pm666.fMONSOON",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_12",
+    "aa_fn": "pm666.fOCEAN",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_13",
+    "aa_fn": "pm666.fPOLAR",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_14",
+    "aa_fn": "pm666.fRIVER",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_15",
+    "aa_fn": "pm666.fSANDSTORM",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_16",
+    "aa_fn": "pm666.fSAVANNA",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_17",
+    "aa_fn": "pm666.fSUN",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_18",
+    "aa_fn": "pm666.fTUNDRA",
+    "released_date": "2025/02/18",
     "family": "Scatterbug"
   },
   {
