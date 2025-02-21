@@ -1572,6 +1572,14 @@
     "released_date": "2018/10/01"
   },
   {
+    "dex": 99,
+    "isotope": "_G",
+    "family": "Krabby",
+    "name_suffix": "(G)",
+    "aa_fn": "pm99.fGIGANTAMAX",
+    "released_date": "2025/02/01"
+  },
+  {
     "dex": 100,
     "family": "Voltorb",
     "released_date": "2020/05/08"
@@ -5541,6 +5549,20 @@
     "released_date": "2020/02/02"
   },
   {
+    "dex": 572,
+    "family": "Minccino_Costume25",
+    "isotope": "_Costume25",
+    "aa_fn": "pm572.cFASHION_2025",
+    "released_date": "2025/01/10"
+  },
+  {
+    "dex": 573,
+    "family": "Minccino_Costume25",
+    "isotope": "_Costume25",
+    "aa_fn": "pm573.cFASHION_2025",
+    "released_date": "2025/01/10"
+  },
+  {
     "dex": 574,
     "released_date": "2023/11/15",
     "aa_fn": "pm574",
@@ -6043,6 +6065,20 @@
     "released_date": "2021/12/16"
   },
   {
+    "dex": 646,
+    "family": "Kyurem",
+    "type": "_WHITE",
+    "aa_fn": "pm646.fWHITE",
+    "released_date": "2025/02/21"
+  },
+  {
+    "dex": 646,
+    "family": "Kyurem",
+    "type": "_BLACK",
+    "aa_fn": "pm646.fBLACK",
+    "released_date": "2025/02/21"
+  },
+  {
     "dex": 647,
     "family": "Keldeo"
   },
@@ -6195,14 +6231,140 @@
   },
   {
     "dex": 664,
+    "aa_fn": "pm664",
+    "released_date": "2025/02/18",
     "family": "Scatterbug"
   },
   {
     "dex": 665,
+    "aa_fn": "pm665",
+    "released_date": "2025/02/18",
     "family": "Scatterbug"
   },
   {
     "dex": 666,
+    "type": "_01",
+    "aa_fn": "pm666.fARCHIPELAGO",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_02",
+    "aa_fn": "pm666.fCONTINENTAL",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_03",
+    "aa_fn": "pm666.fELEGANT",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_04",
+    "aa_fn": "pm666.fFANCY",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_05",
+    "aa_fn": "pm666.fGARDEN",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_06",
+    "aa_fn": "pm666.fHIGH_PLAINS",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_07",
+    "aa_fn": "pm666.fJUNGLE",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_08",
+    "aa_fn": "pm666.fMARINE",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_09",
+    "aa_fn": "pm666.fMEADOW",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_10",
+    "aa_fn": "pm666.fMODERN",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_11",
+    "aa_fn": "pm666.fMONSOON",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_12",
+    "aa_fn": "pm666.fOCEAN",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_13",
+    "aa_fn": "pm666.fPOLAR",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_14",
+    "aa_fn": "pm666.fRIVER",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_15",
+    "aa_fn": "pm666.fSANDSTORM",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_16",
+    "aa_fn": "pm666.fSAVANNA",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_17",
+    "aa_fn": "pm666.fSUN",
+    "released_date": "2025/02/18",
+    "family": "Scatterbug"
+  },
+  {
+    "dex": 666,
+    "type": "_18",
+    "aa_fn": "pm666.fTUNDRA",
+    "released_date": "2025/02/18",
     "family": "Scatterbug"
   },
   {
@@ -7869,6 +8031,24 @@
     "family": "Sprigatito"
   },
   {
+    "dex": 909,
+    "aa_fn": "pm909",
+    "released_date": "2025/03/08",
+    "family": "Fuecoco"
+  },
+  {
+    "dex": 910,
+    "aa_fn": "pm910",
+    "released_date": "2025/03/08",
+    "family": "Fuecoco"
+  },
+  {
+    "dex": 911,
+    "aa_fn": "pm911",
+    "released_date": "2025/03/08",
+    "family": "Fuecoco"
+  },
+  {
     "dex": 915,
     "family": "Lechonk",
     "released_date": "2023/09/05",
@@ -7887,6 +8067,18 @@
     "released_date": "2023/09/05",
     "isotope": "_f",
     "aa_fn": "pm916.fFEMALE"
+  },
+  {
+    "dex": 919,
+    "family": "Nymble",
+    "released_date": "2025/02/05",
+    "aa_fn": "pm919"
+  },
+  {
+    "dex": 920,
+    "family": "Nymble",
+    "released_date": "2025/02/05",
+    "aa_fn": "pm920"
   },
   {
     "dex": 928,
