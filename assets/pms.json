@@ -883,6 +883,13 @@
     "family": "Pikachu_FOL24"
   },
   {
+    "dex": 25,
+    "isotope": "_KURTA25",
+    "released_date": "2025/03/13",
+    "aa_fn": "pm25.fKURTA",
+    "family": "Pikachu_KURTA25"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
