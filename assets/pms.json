@@ -5283,6 +5283,14 @@
     "released_date": "2021/07/17"
   },
   {
+    "dex": 531,
+    "type": "_51",
+    "aa_fn": "pm531.fMEGA",
+    "name_suffix": "(M)",
+    "family": "Audino",
+    "released_date": "2025/04/05"
+  },
+  {
     "dex": 532,
     "family": "Timburr",
     "released_date": "2020/03/13"
