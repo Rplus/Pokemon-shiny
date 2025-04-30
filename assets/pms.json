@@ -2083,6 +2083,14 @@
     "family": "Snorlax_WA"
   },
   {
+    "dex": 143,
+    "released_date": "2025/04/19"
+    "isotope": "_G",
+    "aa_fn": "pm143.fGIGANTAMAX",
+    "name_suffix": "(G)",
+    "family": "Snorlax",
+  },
+  {
     "dex": 144,
     "shiny_released": true,
     "family": "Articuno"
