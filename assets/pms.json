@@ -8066,6 +8066,12 @@
     "family": "Sprigatito"
   },
   {
+    "dex": 907,
+    "aa_fn": "pm907.cHORIZONS_2025_NOEVOLVE",
+    "released_date": "2025/04/16",
+    "family": "Sprigatito_cHORIZONS_2025"
+  },
+  {
     "dex": 908,
     "aa_fn": "pm908",
     "released_date": "2025/01/05",
