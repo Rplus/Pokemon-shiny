@@ -1248,6 +1248,14 @@
     "released_date": "2019/03/05"
   },
   {
+    "dex": 68,
+    "released_date": "2025/05/25",
+    "isotope": "_G",
+    "aa_fn": "pm68.fGIGANTAMAX",
+    "name_suffix": "(G)",
+    "family": "Machop"
+  },
+  {
     "dex": 69,
     "released_date": "2020/07/16",
     "family": "Bellsprout"
