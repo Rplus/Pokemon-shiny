@@ -927,6 +927,13 @@
     "family": "Nidoran Female"
   },
   {
+    "dex": 31,
+    "family": "Nidoqueen",
+    "aa_fn": "pm31.cROYAL_NOEVOLVE",
+    "isotope": "_01",
+    "released_date": "2025/05/10"
+  },
+  {
     "dex": 32,
     "shiny_released": true,
     "family": "Nidoran Male"
@@ -946,6 +953,13 @@
     "dex": 34,
     "shiny_released": true,
     "family": "Nidoran Male"
+  },
+  {
+    "dex": 34,
+    "family": "Nidoking ",
+    "aa_fn": "pm34.cROYAL_NOEVOLVE",
+    "isotope": "_01",
+    "released_date": "2025/05/10"
   },
   {
     "dex": 35,
@@ -6819,6 +6833,8 @@
   },
   {
     "dex": 703,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm703",
     "family": "Carbink"
   },
   {
@@ -7977,9 +7993,21 @@
     "family": "Zacian"
   },
   {
+    "dex": 888,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm888.fCROWNED_SWORD",
+    "family": "Zacian"
+  },
+  {
     "dex": 889,
     "released_date": "2024/10/04",
     "aa_fn": "pm889.fHERO",
+    "family": "Zamazenta"
+  },
+  {
+    "dex": 889,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm889.fCROWNED_SHIELD",
     "family": "Zamazenta"
   },
   {
@@ -8129,6 +8157,24 @@
     "aa_fn": "pm920"
   },
   {
+    "dex": 921,
+    "released_date": "2025/05/11",
+    "aa_fn": "pm921",
+    "family": "pawmi"
+  },
+  {
+    "dex": 922,
+    "released_date": "2025/05/11",
+    "aa_fn": "pm922",
+    "family": "pawmi"
+  },
+  {
+    "dex": 923,
+    "released_date": "2025/05/11",
+    "aa_fn": "pm923",
+    "family": "pawmi"
+  },
+  {
     "dex": 928,
     "family": "Smoliv",
     "released_date": "2024/11/07",
@@ -8194,5 +8240,29 @@
     "aa_fn": "pm980",
     "isotope": "_P",
     "family": "Wooper_P"
+  },
+  {
+    "dex": 983,
+    "released_date": "2025/05/10",
+    "aa_fn": "pm983",
+    "family": "Pawniard"
+  },
+  {
+    "dex": 996,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm996",
+    "family": "Frigibax"
+  },
+  {
+    "dex": 997,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm997",
+    "family": "Frigibax"
+  },
+  {
+    "dex": 998,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm998",
+    "family": "Frigibax"
   }
 ]
