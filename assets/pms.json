@@ -8127,6 +8127,24 @@
     "family": "Fuecoco"
   },
   {
+    "dex": 912,
+    "aa_fn": "pm912",
+    "released_date": "2025/07/20",
+    "family": "Quaxly"
+  },
+  {
+    "dex": 913,
+    "aa_fn": "pm913",
+    "released_date": "2025/07/20",
+    "family": "Quaxly"
+  },
+  {
+    "dex": 914,
+    "aa_fn": "pm914",
+    "released_date": "2025/07/20",
+    "family": "Quaxly"
+  },
+  {
     "dex": 915,
     "family": "Lechonk",
     "released_date": "2023/09/05",
