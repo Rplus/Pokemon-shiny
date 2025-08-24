@@ -226,6 +226,14 @@
     "released_date": "2021/09/21"
   },
   {
+    "dex": 12,
+    "isotope": "_G",
+    "released_date": "2025/08/03",
+    "aa_fn": "pm12.fGIGANTAMAX",
+    "family": "Butterfree",
+    "name_suffix": "(G)"
+  },
+  {
     "dex": 13,
     "family": "Weedle",
     "released_date": "2020/06/19"
@@ -927,6 +935,13 @@
     "family": "Nidoran Female"
   },
   {
+    "dex": 31,
+    "family": "Nidoqueen",
+    "aa_fn": "pm31.cROYAL_NOEVOLVE",
+    "isotope": "_01",
+    "released_date": "2025/05/10"
+  },
+  {
     "dex": 32,
     "shiny_released": true,
     "family": "Nidoran Male"
@@ -946,6 +961,13 @@
     "dex": 34,
     "shiny_released": true,
     "family": "Nidoran Male"
+  },
+  {
+    "dex": 34,
+    "family": "Nidoking ",
+    "aa_fn": "pm34.cROYAL_NOEVOLVE",
+    "isotope": "_01",
+    "released_date": "2025/05/10"
   },
   {
     "dex": 35,
@@ -6827,6 +6849,8 @@
   },
   {
     "dex": 703,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm703",
     "family": "Carbink"
   },
   {
@@ -7307,6 +7331,18 @@
     "family": "Morelull"
   },
   {
+    "dex": 757,
+    "released_date": "2025/08/11",
+    "aa_fn": "pm757",
+    "family": "Salandit"
+  },
+  {
+    "dex": 758,
+    "released_date": "2025/08/11",
+    "aa_fn": "pm758",
+    "family": "Salandit"
+  },
+  {
     "dex": 759,
     "family": "Stufful",
     "released_date": "2022/04/23",
@@ -7662,15 +7698,21 @@
   },
   {
     "dex": 821,
-    "family": "rookidee"
+    "released_date": "2025/07/22",
+    "aa_fn": "pm821",
+    "family": "Rookidee"
   },
   {
     "dex": 822,
-    "family": "rookidee"
+    "released_date": "2025/07/22",
+    "aa_fn": "pm822",
+    "family": "Rookidee"
   },
   {
     "dex": 823,
-    "family": "rookidee"
+    "released_date": "2025/07/22",
+    "aa_fn": "pm823",
+    "family": "Rookidee"
   },
   {
     "dex": 824,
@@ -7985,9 +8027,23 @@
     "family": "Zacian"
   },
   {
+    "dex": 888,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm888.fCROWNED_SWORD",
+    "isotope": "_fCS",
+    "family": "Zacian"
+  },
+  {
     "dex": 889,
     "released_date": "2024/10/04",
     "aa_fn": "pm889.fHERO",
+    "family": "Zamazenta"
+  },
+  {
+    "dex": 889,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm889.fCROWNED_SHIELD",
+    "isotope": "_fCS",
     "family": "Zamazenta"
   },
   {
@@ -8105,6 +8161,24 @@
     "family": "Fuecoco"
   },
   {
+    "dex": 912,
+    "aa_fn": "pm912",
+    "released_date": "2025/07/20",
+    "family": "Quaxly"
+  },
+  {
+    "dex": 913,
+    "aa_fn": "pm913",
+    "released_date": "2025/07/20",
+    "family": "Quaxly"
+  },
+  {
+    "dex": 914,
+    "aa_fn": "pm914",
+    "released_date": "2025/07/20",
+    "family": "Quaxly"
+  },
+  {
     "dex": 915,
     "family": "Lechonk",
     "released_date": "2023/09/05",
@@ -8135,6 +8209,42 @@
     "family": "Nymble",
     "released_date": "2025/02/05",
     "aa_fn": "pm920"
+  },
+  {
+    "dex": 921,
+    "released_date": "2025/05/11",
+    "aa_fn": "pm921",
+    "family": "pawmi"
+  },
+  {
+    "dex": 922,
+    "released_date": "2025/05/11",
+    "aa_fn": "pm922",
+    "family": "pawmi"
+  },
+  {
+    "dex": 923,
+    "released_date": "2025/05/11",
+    "aa_fn": "pm923",
+    "family": "pawmi"
+  },
+  {
+    "dex": 924,
+    "released_date": "2025/08/06",
+    "aa_fn": "pm924",
+    "family": "Tandemaus"
+  },
+  {
+    "dex": 925,
+    "released_date": "2025/08/06",
+    "aa_fn": "pm925.fFAMILY_OF_THREE",
+    "family": "Tandemaus"
+  },
+  {
+    "dex": 925,
+    "released_date": "2025/08/06",
+    "aa_fn": "pm925.fFAMILY_OF_FOUR",
+    "family": "Tandemaus"
   },
   {
     "dex": 928,
@@ -8173,6 +8283,18 @@
     "aa_fn": "pm937"
   },
   {
+    "dex": 960,
+    "released_date": "2025/07/29",
+    "aa_fn": "pm960",
+    "family": "Wiglett"
+  },
+  {
+    "dex": 961,
+    "released_date": "2025/07/29",
+    "aa_fn": "pm961",
+    "family": "Wiglett"
+  },
+  {
     "dex": 962,
     "released_date": "2023/09/10",
     "aa_fn": "pm962",
@@ -8202,5 +8324,29 @@
     "aa_fn": "pm980",
     "isotope": "_P",
     "family": "Wooper_P"
+  },
+  {
+    "dex": 983,
+    "released_date": "2025/05/10",
+    "aa_fn": "pm983",
+    "family": "Pawniard"
+  },
+  {
+    "dex": 996,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm996",
+    "family": "Frigibax"
+  },
+  {
+    "dex": 997,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm997",
+    "family": "Frigibax"
+  },
+  {
+    "dex": 998,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm998",
+    "family": "Frigibax"
   }
 ]
