@@ -898,6 +898,48 @@
     "family": "Pikachu_KURTA25"
   },
   {
+    "dex": 25,
+    "isotope": "_MONOCLE25",
+    "released_date": "2025/05/29",
+    "aa_fn": "pm25.fGOFEST_2025_MONOCLE_RED",
+    "family": "Pikachu_MONOCLE25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_MONOCLE25",
+    "released_date": "2025/05/29",
+    "aa_fn": "pm25.fGOFEST_2025_MONOCLE_YELLOW",
+    "family": "Pikachu_MONOCLE25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_MONOCLE25",
+    "released_date": "2025/05/29",
+    "aa_fn": "pm25.fGOFEST_2025_MONOCLE_BLUE",
+    "family": "Pikachu_MONOCLE25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_GOGGLES25",
+    "released_date": "2025/06/28",
+    "aa_fn": "pm25.fGOFEST_2025_GOGGLES_RED",
+    "family": "Pikachu_GOGGLES25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_GOGGLES25",
+    "released_date": "2025/06/28",
+    "aa_fn": "pm25.fGOFEST_2025_GOGGLES_YELLOW",
+    "family": "Pikachu_GOGGLES25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_GOGGLES25",
+    "released_date": "2025/06/28",
+    "aa_fn": "pm25.fGOFEST_2025_GOGGLES_BLUE",
+    "family": "Pikachu_GOGGLES25"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
@@ -1268,6 +1310,14 @@
     "dex": 68,
     "family": "Machop",
     "released_date": "2019/03/05"
+  },
+  {
+    "dex": 68,
+    "released_date": "2025/05/25",
+    "isotope": "_G",
+    "aa_fn": "pm68.fGIGANTAMAX",
+    "name_suffix": "(G)",
+    "family": "Machop"
   },
   {
     "dex": 69,
@@ -7942,6 +7992,12 @@
     "dex": 870,
     "released_date": "2024/09/08",
     "aa_fn": "pm870",
+    "family": "Falinks"
+  },
+  {
+    "dex": 870,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm870.fGOFEST_2025_TRAIN_CONDUCTOR",
     "family": "Falinks"
   },
   {
