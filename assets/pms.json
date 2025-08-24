@@ -898,6 +898,20 @@
     "family": "Pikachu_KURTA25"
   },
   {
+    "dex": 25,
+    "isotope": "_INDONESIA25",
+    "released_date": "2025/08/04",
+    "aa_fn": "pm25.cINDONESIA_2025_NOEVOLVE",
+    "family": "Pikachu_INDONESIA25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_WCS25",
+    "released_date": "2025/08/15",
+    "aa_fn": "pm25.fWCS_2025",
+    "family": "Pikachu_WCS25"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
