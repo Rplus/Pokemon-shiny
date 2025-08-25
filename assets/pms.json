@@ -18,6 +18,20 @@
     "family": "Bulbasaur_11"
   },
   {
+    "dex": 2,
+    "released_date": "2025/07/01",
+    "aa_fn": "pm2.cJAN_2020_NOEVOLVE",
+    "isotope": "_11",
+    "family": "Bulbasaur_11"
+  },
+  {
+    "dex": 3,
+    "released_date": "2025/07/01",
+    "aa_fn": "pm3.cJAN_2020_NOEVOLVE",
+    "isotope": "_11",
+    "family": "Bulbasaur_11"
+  },
+  {
     "dex": 1,
     "shiny_released": true,
     "isotope": "_14",
