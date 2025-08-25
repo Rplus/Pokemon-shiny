@@ -8230,12 +8230,14 @@
     "dex": 925,
     "released_date": "2025/08/06",
     "aa_fn": "pm925.fFAMILY_OF_THREE",
+    "isotope": "Family_of_Three",
     "family": "Tandemaus"
   },
   {
     "dex": 925,
     "released_date": "2025/08/06",
     "aa_fn": "pm925.fFAMILY_OF_FOUR",
+    "isotope": "Family_of_Four",
     "family": "Tandemaus"
   },
   {
