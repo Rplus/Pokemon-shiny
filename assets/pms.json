@@ -18,6 +18,20 @@
     "family": "Bulbasaur_11"
   },
   {
+    "dex": 2,
+    "released_date": "2025/07/01",
+    "aa_fn": "pm2.cJAN_2020_NOEVOLVE",
+    "isotope": "_11",
+    "family": "Bulbasaur_11"
+  },
+  {
+    "dex": 3,
+    "released_date": "2025/07/01",
+    "aa_fn": "pm3.cJAN_2020_NOEVOLVE",
+    "isotope": "_11",
+    "family": "Bulbasaur_11"
+  },
+  {
     "dex": 1,
     "shiny_released": true,
     "isotope": "_14",
@@ -899,6 +913,48 @@
   },
   {
     "dex": 25,
+    "isotope": "_MONOCLE25",
+    "released_date": "2025/05/29",
+    "aa_fn": "pm25.fGOFEST_2025_MONOCLE_RED",
+    "family": "Pikachu_MONOCLE25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_MONOCLE25",
+    "released_date": "2025/05/29",
+    "aa_fn": "pm25.fGOFEST_2025_MONOCLE_YELLOW",
+    "family": "Pikachu_MONOCLE25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_MONOCLE25",
+    "released_date": "2025/05/29",
+    "aa_fn": "pm25.fGOFEST_2025_MONOCLE_BLUE",
+    "family": "Pikachu_MONOCLE25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_GOGGLES25",
+    "released_date": "2025/06/28",
+    "aa_fn": "pm25.fGOFEST_2025_GOGGLES_RED",
+    "family": "Pikachu_GOGGLES25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_GOGGLES25",
+    "released_date": "2025/06/28",
+    "aa_fn": "pm25.fGOFEST_2025_GOGGLES_YELLOW",
+    "family": "Pikachu_GOGGLES25"
+  },
+  {
+    "dex": 25,
+    "isotope": "_GOGGLES25",
+    "released_date": "2025/06/28",
+    "aa_fn": "pm25.fGOFEST_2025_GOGGLES_BLUE",
+    "family": "Pikachu_GOGGLES25"
+  },
+  {
+    "dex": 25,
     "isotope": "_INDONESIA25",
     "released_date": "2025/08/04",
     "aa_fn": "pm25.cINDONESIA_2025_NOEVOLVE",
@@ -1282,6 +1338,14 @@
     "dex": 68,
     "family": "Machop",
     "released_date": "2019/03/05"
+  },
+  {
+    "dex": 68,
+    "released_date": "2025/05/25",
+    "isotope": "_G",
+    "aa_fn": "pm68.fGIGANTAMAX",
+    "name_suffix": "(G)",
+    "family": "Machop"
   },
   {
     "dex": 69,
@@ -5444,6 +5508,13 @@
     "family": "Petilil"
   },
   {
+    "dex": 549,
+    "isotope": "_01",
+    "released_date": "2025/07/12",
+    "aa_fn": "pm549.fHISUIAN",
+    "family": "Petilil",
+  },
+  {
     "dex": 550,
     "released_date": "2024/02/24",
     "aa_fn": "pm550.fWHITE_STRIPED",
@@ -7959,6 +8030,12 @@
     "family": "Falinks"
   },
   {
+    "dex": 870,
+    "released_date": "2025/05/29",
+    "aa_fn": "pm870.fGOFEST_2025_TRAIN_CONDUCTOR",
+    "family": "Falinks"
+  },
+  {
     "dex": 871,
     "family": "Pincurchin"
   },
@@ -8244,12 +8321,14 @@
     "dex": 925,
     "released_date": "2025/08/06",
     "aa_fn": "pm925.fFAMILY_OF_THREE",
+    "isotope": "_3",
     "family": "Tandemaus"
   },
   {
     "dex": 925,
     "released_date": "2025/08/06",
     "aa_fn": "pm925.fFAMILY_OF_FOUR",
+    "isotope": "_4",
     "family": "Tandemaus"
   },
   {
@@ -8354,5 +8433,12 @@
     "released_date": "2025/05/29",
     "aa_fn": "pm998",
     "family": "Frigibax"
+  },
+  {
+    "dex": 999,
+    "released_date": "2025/07/01",
+    "aa_fn": "pm999.fCOIN_A1",
+    "name_suffix": "(9)",
+    "family": "Gimmighoul",
   }
 ]
