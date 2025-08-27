@@ -18,6 +18,20 @@
     "family": "Bulbasaur_11"
   },
   {
+    "dex": 2,
+    "released_date": "2025/07/01",
+    "aa_fn": "pm2.cJAN_2020_NOEVOLVE",
+    "isotope": "_11",
+    "family": "Bulbasaur_11"
+  },
+  {
+    "dex": 3,
+    "released_date": "2025/07/01",
+    "aa_fn": "pm3.cJAN_2020_NOEVOLVE",
+    "isotope": "_11",
+    "family": "Bulbasaur_11"
+  },
+  {
     "dex": 1,
     "shiny_released": true,
     "isotope": "_14",
@@ -5480,6 +5494,13 @@
     "family": "Petilil"
   },
   {
+    "dex": 549,
+    "isotope": "_01",
+    "released_date": "2025/07/12",
+    "aa_fn": "pm549.fHISUIAN",
+    "family": "Petilil",
+  },
+  {
     "dex": 550,
     "released_date": "2024/02/24",
     "aa_fn": "pm550.fWHITE_STRIPED",
@@ -8398,5 +8419,12 @@
     "released_date": "2025/05/29",
     "aa_fn": "pm998",
     "family": "Frigibax"
+  },
+  {
+    "dex": 999,
+    "released_date": "2025/07/01",
+    "aa_fn": "pm999.fCOIN_A1",
+    "name_suffix": "(9)",
+    "family": "Gimmighoul",
   }
 ]
