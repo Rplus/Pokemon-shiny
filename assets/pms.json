@@ -8453,9 +8453,23 @@
   },
   {
     "dex": 999,
+    "aa_fn": "pm999",
+    "released_date": "2025/07/01",
+    "aa_fn": "pm999",
+    "family": "Gimmighoul"
+  },
+  {
+    "dex": 999,
+    "isotope": "_COIN",
     "released_date": "2025/07/01",
     "aa_fn": "pm999.fCOIN_A1",
     "name_suffix": "(9)",
+    "family": "Gimmighoul"
+  },
+  {
+    "dex": 1000,
+    "released_date": "2025/07/01",
+    "aa_fn": "pm1000",
     "family": "Gimmighoul"
   }
 ]
