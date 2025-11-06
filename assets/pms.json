@@ -2870,7 +2870,7 @@
   {
     "dex": 201,
     "type": "_33",
-    "released_date": "2025/11/07"
+    "released_date": "2025/11/07",
     "family": "Unown",
     "name_suffix": "(W)"
   },
@@ -8006,7 +8006,7 @@
   },
   {
     "dex": 855,
-    "family": "sinistea"
+    "family": "sinistea",
     "aa_fn": "pm855.fPHONY",
     "type": "_PHONY",
     "name_suffix": "(P)",
@@ -8024,36 +8024,36 @@
   {
     "dex": 856,
     "aa_fn": "pm856",
-    "family": "Hatenna"
+    "family": "Hatenna",
     "released_date": "2025/11/07"
   },
   {
     "dex": 857,
     "aa_fn": "pm857",
-    "family": "Hatenna"
+    "family": "Hatenna",
     "released_date": "2025/11/07"
   },
   {
     "dex": 858,
     "aa_fn": "pm858",
-    "family": "Hatenna"
+    "family": "Hatenna",
     "released_date": "2025/11/07"
   },
   {
     "dex": 859,
-    "family": "Impidimp"
+    "family": "Impidimp",
     "aa_fn": "pm859",
     "released_date": "2025/11/07"
   },
   {
     "dex": 860,
-    "family": "Impidimp"
+    "family": "Impidimp",
     "aa_fn": "pm860",
     "released_date": "2025/11/07"
   },
   {
     "dex": 861,
-    "family": "Impidimp"
+    "family": "Impidimp",
     "aa_fn": "pm861",
     "released_date": "2025/11/07"
   },
