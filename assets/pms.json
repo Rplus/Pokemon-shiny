@@ -2863,6 +2863,7 @@
   {
     "dex": 201,
     "type": "_33",
+    "released_date": "2025/11/07"
     "family": "Unown",
     "name_suffix": "(W)"
   },
@@ -7966,38 +7967,73 @@
     "family": "clobbopus"
   },
   {
+    "aa_fn": "pm854.fPHONY",
+    "type": "_PHONY",
+    "name_suffix": "(P)",
+    "family": "Sinistea",
+    "released_date": "2025/10/25"
+  },
+  {
     "dex": 854,
-    "family": "sinistea"
+    "aa_fn": "pm854.fANTIQUE",
+    "type": "_ANTIQUE",
+    "name_suffix": "(A)",
+    "family": "Sinistea",
+    "released_date": "2025/10/25"
   },
   {
     "dex": 855,
     "family": "sinistea"
+    "aa_fn": "pm855.fPHONY",
+    "type": "_PHONY",
+    "name_suffix": "(P)",
+    "family": "Sinistea",
+    "released_date": "2025/10/25"
+  },
+  {
+    "dex": 855,
+    "aa_fn": "pm855.fANTIQUE",
+    "type": "_ANTIQUE",
+    "name_suffix": "(A)",
+    "family": "Sinistea",
+    "released_date": "2025/10/25"
   },
   {
     "dex": 856,
-    "family": "hatenna"
+    "aa_fn": "pm856",
+    "family": "Hatenna"
+    "released_date": "2025/11/07"
   },
   {
     "dex": 857,
-    "family": "hatenna"
+    "aa_fn": "pm857",
+    "family": "Hatenna"
+    "released_date": "2025/11/07"
   },
   {
     "dex": 858,
-    "family": "hatenna"
+    "aa_fn": "pm858",
+    "family": "Hatenna"
+    "released_date": "2025/11/07"
   },
   {
     "dex": 859,
-    "family": "impidimp"
+    "family": "Impidimp"
+    "aa_fn": "pm859",
+    "released_date": "2025/11/07"
   },
   {
     "dex": 860,
-    "family": "impidimp"
+    "family": "Impidimp"
+    "aa_fn": "pm860",
+    "released_date": "2025/11/07"
   },
   {
     "dex": 861,
-    "family": "impidimp"
+    "family": "Impidimp"
+    "aa_fn": "pm861",
+    "released_date": "2025/11/07"
   },
-
   {
     "dex": 862,
     "type": "_31",
@@ -8106,7 +8142,9 @@
   },
   {
     "dex": 884,
-    "family": "Duraludon"
+    "aa_fn": "pm884",
+    "family": "Duraludon",
+    "released_date": "2025/09/30"
   },
   {
     "dex": 885,
