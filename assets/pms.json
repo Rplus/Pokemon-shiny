@@ -1247,6 +1247,13 @@
     "released_date": "2023/12/18"
   },
   {
+    "dex": 54,
+    "family": "Psyduck_H25",
+    "isotope": "_SWIM",
+    "aa_fn": "pm54.fSWIM_2025",
+    "released_date": "2025/09/09"
+  },
+  {
     "dex": 55,
     "family": "Psyduck_H23",
     "isotope": "_23",
@@ -4230,6 +4237,14 @@
     "released_date": "2018/10/21"
   },
   {
+    "dex": 376,
+    "aa_fn": "pm376.fMEGA",
+    "type": "_51",
+    "name_suffix": "(M)",
+    "family": "Beldum",
+    "released_date": "2025/10/04"
+  },
+  {
     "dex": 377,
     "shiny_released": true,
     "family": "Regirock"
@@ -5672,6 +5687,14 @@
     "dex": 569,
     "family": "Trubbish",
     "released_date": "2021/04/20"
+  },
+  {
+    "dex": 569,
+    "isotope": "_G",
+    "family": "Trubbish",
+    "name_suffix": "(G)",
+    "aa_fn": "pm569.fGIGANTAMAX",
+    "released_date": "2025/11/01"
   },
   {
     "dex": 570,
@@ -8110,7 +8133,19 @@
   },
   {
     "dex": 876,
-    "family": "Indeedee"
+    "family": "Indeedee",
+    "isotope": "_Male",
+    "aa_fn": "pm876.fMALE",
+    "name_suffix": "♂️",
+    "released_date": "2025/09/16"
+  },
+  {
+    "dex": 876,
+    "family": "Indeedee",
+    "isotope": "_Female",
+    "aa_fn": "pm876.fFEMALE",
+    "name_suffix": "♀️",
+    "released_date": "2025/09/16"
   },
   {
     "dex": 877,
@@ -8464,6 +8499,22 @@
     "aa_fn": "pm980",
     "isotope": "_P",
     "family": "Wooper_P"
+  },
+  {
+    "dex": 982,
+    "family": "Dunsparce",
+    "isotope": "_TWO",
+    "aa_fn": "pm982.fTWO",
+    "name_suffix": "(2)",
+    "released_date": "2025/09/23"
+  },
+  {
+    "dex": 982,
+    "family": "Dunsparce",
+    "isotope": "_THREE",
+    "aa_fn": "pm982.fTHREE",
+    "name_suffix": "(3)",
+    "released_date": "2025/09/23"
   },
   {
     "dex": 983,
