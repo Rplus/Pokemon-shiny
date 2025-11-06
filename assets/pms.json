@@ -4232,6 +4232,11 @@
   },
   {
     "dex": 376,
+    "family": "Beldum",
+    "released_date": "2018/10/21"
+  },
+  {
+    "dex": 376,
     "aa_fn": "pm376.fMEGA",
     "type": "_51",
     "name_suffix": "(M)",
