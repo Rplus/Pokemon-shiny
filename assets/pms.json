@@ -4233,8 +4233,11 @@
   },
   {
     "dex": 376,
+    "aa_fn": "pm376.fMEGA",
+    "type": "_51",
+    "name_suffix": "(M)",
     "family": "Beldum",
-    "released_date": "2018/10/21"
+    "released_date": "2025/10/04"
   },
   {
     "dex": 376,
@@ -6435,7 +6438,7 @@
   {
     "dex": 666,
     "type": "_04",
-    "aa_fn": "pm666.fFANCY",
+    "aa_fn": "pm666.fICY_SNOW",
     "released_date": "2025/02/18",
     "family": "Scatterbug"
   },
