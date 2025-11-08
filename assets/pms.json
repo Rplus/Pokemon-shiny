@@ -7990,6 +7990,7 @@
     "family": "clobbopus"
   },
   {
+    "dex": 854,
     "aa_fn": "pm854.fPHONY",
     "type": "_PHONY",
     "name_suffix": "(P)",
@@ -8001,12 +8002,11 @@
     "aa_fn": "pm854.fANTIQUE",
     "type": "_ANTIQUE",
     "name_suffix": "(A)",
-    "family": "Sinistea",
+    "family": "Sinistea_Antique",
     "released_date": "2025/10/25"
   },
   {
     "dex": 855,
-    "family": "sinistea",
     "aa_fn": "pm855.fPHONY",
     "type": "_PHONY",
     "name_suffix": "(P)",
@@ -8018,7 +8018,7 @@
     "aa_fn": "pm855.fANTIQUE",
     "type": "_ANTIQUE",
     "name_suffix": "(A)",
-    "family": "Sinistea",
+    "family": "Sinistea_Antique",
     "released_date": "2025/10/25"
   },
   {
