@@ -2713,10 +2713,6 @@
   },
   {
     "dex": 201,
-    "family": "Unown"
-  },
-  {
-    "dex": 201,
     "type": "_11",
     "shiny_released": true,
     "family": "Unown",
@@ -2789,6 +2785,7 @@
     "dex": 201,
     "type": "_21",
     "family": "Unown",
+    "released_date": "2025/11/07",
     "name_suffix": "(K)"
   },
   {
