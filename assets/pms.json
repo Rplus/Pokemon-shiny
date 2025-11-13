@@ -6248,6 +6248,16 @@
   {
     "dex": 647,
     "family": "Keldeo"
+    "type": "_ORDINARY",
+    "aa_fn": "pm647.fORDINARY",
+    "released_date": "2025/11/25"
+  },
+  {
+    "dex": 647,
+    "family": "Keldeo",
+    "type": "_RESOLUTE",
+    "aa_fn": "pm647.fRESOLUTE",
+    "released_date": "2025/11/25"
   },
   {
     "dex": 648,
