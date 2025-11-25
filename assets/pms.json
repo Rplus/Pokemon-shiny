@@ -8465,12 +8465,6 @@
     "aa_fn": "pm937"
   },
   {
-    "dex": 956,
-    "family": "Tinkatink",
-    "released_date": "2025/11/07",
-    "aa_fn": "pm956"
-  },
-  {
     "dex": 957,
     "family": "Tinkatink",
     "released_date": "2025/11/07",
@@ -8481,6 +8475,12 @@
     "family": "Tinkatink",
     "released_date": "2025/11/07",
     "aa_fn": "pm958"
+  },
+  {
+    "dex": 959,
+    "family": "Tinkatink",
+    "released_date": "2025/11/07",
+    "aa_fn": "pm959"
   },
   {
     "dex": 960,
