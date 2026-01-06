@@ -857,9 +857,16 @@
   },
   {
     "dex": 25,
+    "isotope": "_cPI",
+    "released_date": "2019/05/07",
+    "aa_fn": "pm25.cPI",
+    "family": "Pikachu_cPI"
+  },
+  {
+    "dex": 25,
     "isotope": "_23d",
     "released_date": "2023/10/05",
-    "aa_fn": "pm25.cPI",
+    "aa_fn": "pm25.cFEB_2019",
     "family": "Pikachu_23d"
   },
   {
