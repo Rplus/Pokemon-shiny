@@ -6785,14 +6785,20 @@
   },
   {
     "dex": 679,
+    "released_date": "2026/02/20",
+    "aa_fn": "pm679",
     "family": "Honedge"
   },
   {
     "dex": 680,
+    "released_date": "2026/02/20",
+    "aa_fn": "pm680",
     "family": "Honedge"
   },
   {
     "dex": 681,
+    "released_date": "2026/02/20",
+    "aa_fn": "pm681.fSHIELD",
     "family": "Honedge"
   },
   {
@@ -6962,6 +6968,8 @@
   },
   {
     "dex": 701,
+    "released_date": "2026/02/20",
+    "aa_fn": "pm701",
     "family": "Hawlucha"
   },
   {
@@ -7004,6 +7012,8 @@
   },
   {
     "dex": 707,
+    "released_date": "2026/02/20",
+    "aa_fn": "pm707",
     "family": "Klefki"
   },
   {
@@ -7204,6 +7214,20 @@
   {
     "dex": 718,
     "family": "Zygarde"
+  },
+  {
+    "dex": 719,
+    "released_date": "2026/02/20",
+    "aa_fn": "pm719",
+    "family": "Diancie"
+  },
+  {
+    "dex": 719,
+    "released_date": "2026/02/20",
+    "type": "_51",
+    "aa_fn": "pm719.fMEGA",
+    "name_suffix": "(M)",
+    "family": "Diancie"
   },
   {
     "dex": 722,
@@ -7818,14 +7842,20 @@
   },
   {
     "dex": 813,
+    "released_date": "2026/03/14",
+    "aa_fn": "pm813",
     "family": "scorbunny"
   },
   {
     "dex": 814,
+    "released_date": "2026/03/14",
+    "aa_fn": "pm814",
     "family": "scorbunny"
   },
   {
     "dex": 815,
+    "released_date": "2026/03/14",
+    "aa_fn": "pm815",
     "family": "scorbunny"
   },
   {
