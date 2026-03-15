@@ -8014,11 +8014,13 @@
   },
   {
     "dex": 850,
+    "aa_fn": "pm850",
     "released_date": "2026/03/17",
     "family": "sizzlipede"
   },
   {
     "dex": 851,
+    "aa_fn": "pm851",
     "released_date": "2026/03/17",
     "family": "sizzlipede"
   },
