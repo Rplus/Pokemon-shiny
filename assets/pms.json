@@ -3072,6 +3072,25 @@
     "released_date": "2022/11/12"
   },
   {
+    "dex": 216,
+    "family": "Teddiursa_2025",
+    "aa_fn": "pm216.cHALLOWEEN_2025",
+    "released_date": "2025/10/21"
+  },
+  {
+    "dex": 217,
+    "family": "Teddiursa_2025",
+    "aa_fn": "pm217.cHALLOWEEN_2025",
+    "released_date": "2025/10/21"
+  },
+  {
+    "dex": 901,
+    "family": "Teddiursa_2025",
+    "aa_fn": "pm901.cHALLOWEEN_2025",
+    "style": "--w: 130%; --t: -20%; --l: 0%;",
+    "released_date": "2025/10/21"
+  },
+  {
     "dex": 218,
     "family": "Slugma",
     "released_date": "2021/01/07"
@@ -7199,6 +7218,18 @@
     "dex": 715,
     "released_date": "2022/10/20",
     "family": "Noibat"
+  },
+  {
+    "dex": 714,
+    "released_date": "2025/10/21",
+    "aa_fn": "pm714.cHALLOWEEN_2025",
+    "family": "Noibat_2025"
+  },
+  {
+    "dex": 715,
+    "released_date": "2025/10/21",
+    "aa_fn": "pm715.cHALLOWEEN_2025",
+    "family": "Noibat_2025"
   },
   {
     "dex": 716,
