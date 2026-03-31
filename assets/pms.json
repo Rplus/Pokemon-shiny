@@ -351,6 +351,13 @@
   },
   {
     "dex": 25,
+    "family": "Pikachu",
+    "aa_fn": "pm25.fGIGANTAMAX",
+    "family": "Pikachu"
+    "released_date": "2026/03/28"
+  },
+  {
+    "dex": 25,
     "isotope": "_02",
     "shiny_released": true,
     "family": "Pikachu_02"
