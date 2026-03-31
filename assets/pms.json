@@ -7531,6 +7531,7 @@
     "dex": 760,
     "family": "Stufful",
     "released_date": "2025/11/07",
+    "isotope": "_G",
     "aa_fn": "pm760.fWILDAREA_2025"
   },
   {
@@ -8138,6 +8139,7 @@
   {
     "dex": 861,
     "family": "Impidimp",
+    "isotope": "_G",
     "aa_fn": "pm861.fGIGANTAMAX",
     "name_suffix": "(G)",
     "released_date": "2025/11/07"
