@@ -975,6 +975,48 @@
     "family": "Pikachu_WCS25"
   },
   {
+    "dex": 25,
+    "isotope": "_LEAFSHAT",
+    "released_date": "2026/03/10",
+    "aa_fn": "pm25.fGOTOUR_2026_A_02",
+    "family": "Pikachu_GOTOUR26"
+  },
+  {
+    "dex": 25,
+    "isotope": "_REDSHAT",
+    "released_date": "2026/03/10",
+    "aa_fn": "pm25.fGOTOUR_2026_A",
+    "family": "Pikachu_GOTOUR26"
+  },
+  {
+    "dex": 25,
+    "isotope": "_ETHANSHAT",
+    "released_date": "2026/03/10",
+    "aa_fn": "pm25.fGOTOUR_2026_B",
+    "family": "Pikachu_GOTOUR26"
+  },
+  {
+    "dex": 25,
+    "isotope": "_LYRASHAT",
+    "released_date": "2026/03/10",
+    "aa_fn": "pm25.fGOTOUR_2026_B_02",
+    "family": "Pikachu_GOTOUR26"
+  },
+  {
+    "dex": 25,
+    "isotope": "_CALEMSHAT",
+    "released_date": "2026/03/10",
+    "aa_fn": "pm25.fGOTOUR_2026_C",
+    "family": "Pikachu_GOTOUR26"
+  },
+  {
+    "dex": 25,
+    "isotope": "_SERENASHAT",
+    "released_date": "2026/03/10",
+    "aa_fn": "pm25.fGOTOUR_2026_C_02",
+    "family": "Pikachu_GOTOUR26"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
