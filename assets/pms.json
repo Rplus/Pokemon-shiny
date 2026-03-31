@@ -1214,6 +1214,13 @@
   },
   {
     "dex": 52,
+    "family": "Meowth",
+    "aa_fn": "pm52.fGIGANTAMAX",
+    "name_suffix": "(G)",
+    "released_date": "2026/02/15"
+  },
+  {
+    "dex": 52,
     "shiny_released": true,
     "type": "_61",
     "family": "Meowth_61"
