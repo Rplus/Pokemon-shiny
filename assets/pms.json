@@ -7527,8 +7527,13 @@
     "released_date": "2022/04/23",
     "aa_fn": "pm760"
   },
-
-    {
+  {
+    "dex": 760,
+    "family": "Stufful",
+    "released_date": "2025/11/07",
+    "aa_fn": "pm760.fWILDAREA_2025"
+  },
+  {
     "dex": 761,
     "family": "bounsweet",
     "released_date": "2024/05/19",
@@ -8128,6 +8133,13 @@
     "dex": 861,
     "family": "Impidimp",
     "aa_fn": "pm861",
+    "released_date": "2025/11/07"
+  },
+  {
+    "dex": 861,
+    "family": "Impidimp",
+    "aa_fn": "pm861.fGIGANTAMAX",
+    "name_suffix": "(G)",
     "released_date": "2025/11/07"
   },
   {
