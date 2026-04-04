@@ -2045,14 +2045,14 @@
   },
   {
     "dex": 132,
-    "isotope": "_costume",
+    "isotope": "_costumeA",
     "family": "Ditto_costume",
     "aa_fn": "pm132.fSPRING_2026_A",
     "released_date": "2026/03/10"
   },
   {
     "dex": 132,
-    "isotope": "_costume",
+    "isotope": "_costumeB",
     "family": "Ditto_costume",
     "aa_fn": "pm132.fSPRING_2026_B",
     "released_date": "2026/03/10"
@@ -7680,8 +7680,14 @@
     "released_date": "2022/04/23",
     "aa_fn": "pm760"
   },
-
-    {
+  {
+    "dex": 760,
+    "family": "Stufful_WC",
+    "isotope": "_WC",
+    "released_date": "2025/11/07",
+    "aa_fn": "pm760.fWILDAREA_2025"
+  },
+  {
     "dex": 761,
     "family": "bounsweet",
     "released_date": "2024/05/19",
@@ -8281,6 +8287,13 @@
     "dex": 861,
     "family": "Impidimp",
     "aa_fn": "pm861",
+    "released_date": "2025/11/07"
+  },
+  {
+    "dex": 861,
+    "family": "Impidimp",
+    "name_suffix": "(G)",
+    "aa_fn": "pm861.fGIGANTAMAX",
     "released_date": "2025/11/07"
   },
   {
