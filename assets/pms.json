@@ -1025,6 +1025,13 @@
     "family": "Pikachu_GOTOUR26"
   },
   {
+    "dex": 25,
+    "isotope": "_BB",
+    "released_date": "2026/04/03",
+    "aa_fn": "pm25.fBB_2026",
+    "family": "Pikachu_BB26"
+  },
+  {
     "dex": 27,
     "family": "Sandshrew",
     "released_date": "2018/12/06"
