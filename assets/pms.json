@@ -3221,6 +3221,13 @@
     "released_date": "2024/11/27"
   },
   {
+    "dex": 222,
+    "family": "Corsola_G_PSG",
+    "isotope": "_G_PSG26",
+    "aa_fn": "pm222.fSPRING_2026",
+    "released_date": "2024/04/14"
+  },
+  {
     "dex": 223,
     "family": "Remoraid",
     "released_date": "2022/02/26"
@@ -8723,6 +8730,18 @@
     "family": "Tadbulb",
     "released_date": "2026/01/13",
     "aa_fn": "pm939"
+  },
+  {
+    "dex": 948,
+    "family": "Toedscool",
+    "released_date": "2026/04/14",
+    "aa_fn": "pm948"
+  },
+  {
+    "dex": 949,
+    "family": "Toedscool",
+    "released_date": "2026/04/14",
+    "aa_fn": "pm949"
   },
   {
     "dex": 957,
