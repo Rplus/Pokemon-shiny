@@ -8787,6 +8787,18 @@
     "family": "Bombirdier"
   },
   {
+    "dex": 965,
+    "released_date": "2026/04/30",
+    "aa_fn": "pm965",
+    "family": "Varoom"
+  },
+  {
+    "dex": 966,
+    "released_date": "2026/04/30",
+    "aa_fn": "pm966",
+    "family": "Varoom"
+  },
+  {
     "dex": 974,
     "released_date": "2024/12/22",
     "aa_fn": "pm974",
