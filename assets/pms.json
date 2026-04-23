@@ -8800,6 +8800,12 @@
     "family": "Varoom"
   },
   {
+    "dex": 968,
+    "released_date": "2026/04/28",
+    "aa_fn": "pm968",
+    "family": "Orthworm"
+  },
+  {
     "dex": 974,
     "released_date": "2024/12/22",
     "aa_fn": "pm974",
